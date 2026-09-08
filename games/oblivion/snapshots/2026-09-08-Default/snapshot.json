@@ -1,0 +1,2464 @@
+﻿{
+    "captured_at":  "2026-09-08 16:53",
+    "captured_tz":  "Eastern Standard Time",
+    "note":  "baseline",
+    "tool_version":  1,
+    "instance_path":  "X:\\MODDING\\OBLIVION\\MO2\\Mod.Organizer-2.5.2",
+    "base_directory":  "X:\\MODDING\\OBLIVION\\OBLIVION_REMASTERED",
+    "game_name":  "Oblivion Remastered",
+    "game_path":  "c:\\program files (x86)\\steam\\steamapps\\common\\Oblivion Remastered",
+    "game_folder":  "oblivion",
+    "mo2_version":  "2.5.2",
+    "profile":  "Default",
+    "is_live_profile":  true,
+    "counts":  {
+                   "mods_installed":  110,
+                   "mods_in_list":  110,
+                   "mods_enabled":  109,
+                   "separators":  0,
+                   "plugins_listed":  55,
+                   "plugins_enabled":  0
+               },
+    "modlist_order_note":  "priority 0 is the top of the MO2 left pane and loses conflicts. The highest priority number is the bottom of the pane and wins. raw/modlist.txt is stored in the reverse of this, highest priority first.",
+    "modlist":  [
+                    {
+                        "priority":  0,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "UNBSE 0.14.5",
+                        "file_line":  110
+                    },
+                    {
+                        "priority":  1,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Smooth Beautiful Faces",
+                        "file_line":  109
+                    },
+                    {
+                        "priority":  2,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Natural Bodies",
+                        "file_line":  108
+                    },
+                    {
+                        "priority":  3,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Auto Upgrade Leveled Items",
+                        "file_line":  107
+                    },
+                    {
+                        "priority":  4,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Ebony Helm Revised",
+                        "file_line":  106
+                    },
+                    {
+                        "priority":  5,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "MagicLoader 2",
+                        "file_line":  105
+                    },
+                    {
+                        "priority":  6,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Daggerdancer - NBO",
+                        "file_line":  104
+                    },
+                    {
+                        "priority":  7,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "UE4SS TesSyncMapInjector",
+                        "file_line":  103
+                    },
+                    {
+                        "priority":  8,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "RAO (NBO Compatible) 1.0",
+                        "file_line":  102
+                    },
+                    {
+                        "priority":  9,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Demoria Armor - NBO",
+                        "file_line":  101
+                    },
+                    {
+                        "priority":  10,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Dark Holy Armor - NBO",
+                        "file_line":  100
+                    },
+                    {
+                        "priority":  11,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Sylvan Sentinel - NBO",
+                        "file_line":  99
+                    },
+                    {
+                        "priority":  12,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Protective Headgear - Glass Helmet (1.2 Updated)",
+                        "file_line":  98
+                    },
+                    {
+                        "priority":  13,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Skystrider - NBO",
+                        "file_line":  97
+                    },
+                    {
+                        "priority":  14,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Protective Headgear - Elven (1.2 Updated)",
+                        "file_line":  96
+                    },
+                    {
+                        "priority":  15,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Sensible Shields - Steel (1.2 Updated)",
+                        "file_line":  95
+                    },
+                    {
+                        "priority":  16,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Shorter skirt and Look lighter DarkSeducer armor(NBO)",
+                        "file_line":  94
+                    },
+                    {
+                        "priority":  17,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Better Iron Armor (NBBM)",
+                        "file_line":  93
+                    },
+                    {
+                        "priority":  18,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Lootable Shivering Isles (Lootable Golden Saints and Dark Seducers)",
+                        "file_line":  92
+                    },
+                    {
+                        "priority":  19,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Female Fur Armor Remake (NBO Compatible)",
+                        "file_line":  91
+                    },
+                    {
+                        "priority":  20,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Sensible Shields - Iron - Buckler Targe and Full Iron Shields (1.2 Updated)",
+                        "file_line":  90
+                    },
+                    {
+                        "priority":  21,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Dark Brotherhood Midriff and Thighs",
+                        "file_line":  89
+                    },
+                    {
+                        "priority":  22,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Wrathplate",
+                        "file_line":  88
+                    },
+                    {
+                        "priority":  23,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Arena Gladiator Raiments",
+                        "file_line":  87
+                    },
+                    {
+                        "priority":  24,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Pleasing Palettes - Simply Silver Mithril",
+                        "file_line":  86
+                    },
+                    {
+                        "priority":  25,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Bloody Leather Dark Brotherhood Armor 4k",
+                        "file_line":  85
+                    },
+                    {
+                        "priority":  26,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "BETTER LOOKING - Steel Armor",
+                        "file_line":  84
+                    },
+                    {
+                        "priority":  27,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Body Type Selector",
+                        "file_line":  83
+                    },
+                    {
+                        "priority":  28,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Universal Achievement Unblocker",
+                        "file_line":  82
+                    },
+                    {
+                        "priority":  29,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Young Textures Revamped",
+                        "file_line":  81
+                    },
+                    {
+                        "priority":  30,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "A More Complete World Map 8K - 4K",
+                        "file_line":  80
+                    },
+                    {
+                        "priority":  31,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "NL-Tag Remover",
+                        "file_line":  79
+                    },
+                    {
+                        "priority":  32,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Better HUD",
+                        "file_line":  78
+                    },
+                    {
+                        "priority":  33,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Realistic High Quality Skin",
+                        "file_line":  77
+                    },
+                    {
+                        "priority":  34,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Quest NPCs Run OBR",
+                        "file_line":  76
+                    },
+                    {
+                        "priority":  35,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Additional Map Markers",
+                        "file_line":  75
+                    },
+                    {
+                        "priority":  36,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Weightless Alchemy and Misc. Items (Carry more Arrows Potions etc.)",
+                        "file_line":  74
+                    },
+                    {
+                        "priority":  37,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Leveled Creature and Item Diversity",
+                        "file_line":  73
+                    },
+                    {
+                        "priority":  38,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Thiccer Than a Snicker - Flame Atronach",
+                        "file_line":  72
+                    },
+                    {
+                        "priority":  39,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Colovian Cuts - Hairstyles with Physics",
+                        "file_line":  71
+                    },
+                    {
+                        "priority":  40,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Xorberax\u0027s Slow Motion Shortcut Wheel",
+                        "file_line":  70
+                    },
+                    {
+                        "priority":  41,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Sigil Stone Selector",
+                        "file_line":  69
+                    },
+                    {
+                        "priority":  42,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Xorberax\u0027s Attack-Cancelling",
+                        "file_line":  68
+                    },
+                    {
+                        "priority":  43,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Spider Mommy - Bare Chested Spider Daedra",
+                        "file_line":  67
+                    },
+                    {
+                        "priority":  44,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Hooded Outlaws",
+                        "file_line":  66
+                    },
+                    {
+                        "priority":  45,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Ayleid Mana Wells",
+                        "file_line":  65
+                    },
+                    {
+                        "priority":  46,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "H.U.E - Handmade Unique Eyes",
+                        "file_line":  64
+                    },
+                    {
+                        "priority":  47,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Younger Dunmer Lady Head Mesh",
+                        "file_line":  63
+                    },
+                    {
+                        "priority":  48,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "No Starting Map Markers",
+                        "file_line":  62
+                    },
+                    {
+                        "priority":  49,
+                        "enabled":  false,
+                        "kind":  "mod",
+                        "name":  "Player Camera - Stop Looking at My Back",
+                        "file_line":  61
+                    },
+                    {
+                        "priority":  50,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Wonger\u0027s Shield on Back",
+                        "file_line":  60
+                    },
+                    {
+                        "priority":  51,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Faster Sleep and Wait - OBSE",
+                        "file_line":  59
+                    },
+                    {
+                        "priority":  52,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Adjusted Timescale",
+                        "file_line":  58
+                    },
+                    {
+                        "priority":  53,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Unread Books Glow",
+                        "file_line":  57
+                    },
+                    {
+                        "priority":  54,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Timed Block UE4SS",
+                        "file_line":  56
+                    },
+                    {
+                        "priority":  55,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "ConfigHelper UE4SS LIB",
+                        "file_line":  55
+                    },
+                    {
+                        "priority":  56,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Younger Elven Female Voice",
+                        "file_line":  54
+                    },
+                    {
+                        "priority":  57,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Realistic Arrow Speeds for Bows (Faster)",
+                        "file_line":  53
+                    },
+                    {
+                        "priority":  58,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Auto Hide Gear",
+                        "file_line":  52
+                    },
+                    {
+                        "priority":  59,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Permanent Doomstones",
+                        "file_line":  51
+                    },
+                    {
+                        "priority":  60,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Precise Soul Gem Capture OBSE - ASI",
+                        "file_line":  50
+                    },
+                    {
+                        "priority":  61,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Bow Headshot UE4SS (fix 1x sneak damage WIP)",
+                        "file_line":  49
+                    },
+                    {
+                        "priority":  62,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "TFP - True First Person Camera",
+                        "file_line":  48
+                    },
+                    {
+                        "priority":  63,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Improved Bangs - Longer Hair - Court Hairstyle",
+                        "file_line":  47
+                    },
+                    {
+                        "priority":  64,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Stronger Soul Gems",
+                        "file_line":  46
+                    },
+                    {
+                        "priority":  65,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Equipped Item Colors",
+                        "file_line":  45
+                    },
+                    {
+                        "priority":  66,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Fix Persistent Character Glow",
+                        "file_line":  44
+                    },
+                    {
+                        "priority":  67,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Glorious Holes of Oblivion (GHO)",
+                        "file_line":  43
+                    },
+                    {
+                        "priority":  68,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "More Summons",
+                        "file_line":  42
+                    },
+                    {
+                        "priority":  69,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Map Icon Completion Markers",
+                        "file_line":  41
+                    },
+                    {
+                        "priority":  70,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - Ebony (Updated to 1.2)",
+                        "file_line":  40
+                    },
+                    {
+                        "priority":  71,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "More Enemies",
+                        "file_line":  39
+                    },
+                    {
+                        "priority":  72,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Younger Female Voice - Humans",
+                        "file_line":  38
+                    },
+                    {
+                        "priority":  73,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Infinitum - Compendium",
+                        "file_line":  37
+                    },
+                    {
+                        "priority":  74,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "One Button Dodge UE4SS",
+                        "file_line":  36
+                    },
+                    {
+                        "priority":  75,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Simple Start Skip - Alternative Start",
+                        "file_line":  35
+                    },
+                    {
+                        "priority":  76,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Faster Spell Projectiles",
+                        "file_line":  34
+                    },
+                    {
+                        "priority":  77,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Crime Tweaks",
+                        "file_line":  33
+                    },
+                    {
+                        "priority":  78,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "The Asterisk of Wisdom",
+                        "file_line":  32
+                    },
+                    {
+                        "priority":  79,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "NPCs Come to Life - Naiad Edition",
+                        "file_line":  31
+                    },
+                    {
+                        "priority":  80,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Unlimited Rings Redux",
+                        "file_line":  30
+                    },
+                    {
+                        "priority":  81,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Dynamic Quiver",
+                        "file_line":  29
+                    },
+                    {
+                        "priority":  82,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - Steel (Updated to 1.2)",
+                        "file_line":  28
+                    },
+                    {
+                        "priority":  83,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Important On Top (inventory sorting)",
+                        "file_line":  27
+                    },
+                    {
+                        "priority":  84,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Rebalanced and Unleveled Quest Gold Rewards OBR",
+                        "file_line":  26
+                    },
+                    {
+                        "priority":  85,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - Iron (Updated for 1.2)",
+                        "file_line":  25
+                    },
+                    {
+                        "priority":  86,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - Silver (Updated to 1.2)",
+                        "file_line":  24
+                    },
+                    {
+                        "priority":  87,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - Daedric (Updated to 1.2)",
+                        "file_line":  23
+                    },
+                    {
+                        "priority":  88,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - Bows _ The Bow-Shaped Bows Mod",
+                        "file_line":  22
+                    },
+                    {
+                        "priority":  89,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - Dwarven (Updated to 1.2)",
+                        "file_line":  21
+                    },
+                    {
+                        "priority":  90,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - Quivers (Updated for 1.2)",
+                        "file_line":  20
+                    },
+                    {
+                        "priority":  91,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - Elven (Updated to 1.2)",
+                        "file_line":  19
+                    },
+                    {
+                        "priority":  92,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - DawnFang and Duskfang (1.2 Updated)",
+                        "file_line":  18
+                    },
+                    {
+                        "priority":  93,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - Uniques (1.2 Updated)",
+                        "file_line":  17
+                    },
+                    {
+                        "priority":  94,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - Glass (1.2 Updated)",
+                        "file_line":  16
+                    },
+                    {
+                        "priority":  95,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Protective Headgear - Dwarven (Updated to 1.2)",
+                        "file_line":  15
+                    },
+                    {
+                        "priority":  96,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Practical Arsenal - Order of Jyggalag (1.2 Updated)",
+                        "file_line":  14
+                    },
+                    {
+                        "priority":  97,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "NBO oldblivion styled Huntsman vest",
+                        "file_line":  13
+                    },
+                    {
+                        "priority":  98,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Unofficial Oblivion Remastered Patch - UORP",
+                        "file_line":  12
+                    },
+                    {
+                        "priority":  99,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Address Library for OBSE Plugins",
+                        "file_line":  11
+                    },
+                    {
+                        "priority":  100,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "UE4SS Game Settings Loader",
+                        "file_line":  10
+                    },
+                    {
+                        "priority":  101,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "TES4R Civis Deluxe Content Fix",
+                        "file_line":  9
+                    },
+                    {
+                        "priority":  102,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Oblivion Unreal Fixes",
+                        "file_line":  8
+                    },
+                    {
+                        "priority":  103,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Basin of Renewal Crash Fix",
+                        "file_line":  7
+                    },
+                    {
+                        "priority":  104,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Ultimate Engine Tweaks (Anti-Stutters - More Performance - Lower Latency - Better Clarity",
+                        "file_line":  6
+                    },
+                    {
+                        "priority":  105,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Female Locomotion Replacer v2 (Crash Fix)",
+                        "file_line":  5
+                    },
+                    {
+                        "priority":  106,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Lived In - Empire Heart",
+                        "file_line":  4
+                    },
+                    {
+                        "priority":  107,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "VN\u0027s Vampire Rebalance",
+                        "file_line":  3
+                    },
+                    {
+                        "priority":  108,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Extended Races",
+                        "file_line":  2
+                    },
+                    {
+                        "priority":  109,
+                        "enabled":  true,
+                        "kind":  "mod",
+                        "name":  "Change Appearance Anytime",
+                        "file_line":  1
+                    }
+                ],
+    "plugins":  [
+                    {
+                        "index":  0,
+                        "enabled":  false,
+                        "plugin":  "Oblivion.esm"
+                    },
+                    {
+                        "index":  1,
+                        "enabled":  false,
+                        "plugin":  "DLCBattlehornCastle.esp"
+                    },
+                    {
+                        "index":  2,
+                        "enabled":  false,
+                        "plugin":  "DLCFrostcrag.esp"
+                    },
+                    {
+                        "index":  3,
+                        "enabled":  false,
+                        "plugin":  "DLCHorseArmor.esp"
+                    },
+                    {
+                        "index":  4,
+                        "enabled":  false,
+                        "plugin":  "DLCMehrunesRazor.esp"
+                    },
+                    {
+                        "index":  5,
+                        "enabled":  false,
+                        "plugin":  "DLCOrrery.esp"
+                    },
+                    {
+                        "index":  6,
+                        "enabled":  false,
+                        "plugin":  "DLCShiveringIsles.esp"
+                    },
+                    {
+                        "index":  7,
+                        "enabled":  false,
+                        "plugin":  "DLCSpellTomes.esp"
+                    },
+                    {
+                        "index":  8,
+                        "enabled":  false,
+                        "plugin":  "DLCThievesDen.esp"
+                    },
+                    {
+                        "index":  9,
+                        "enabled":  false,
+                        "plugin":  "DLCVileLair.esp"
+                    },
+                    {
+                        "index":  10,
+                        "enabled":  false,
+                        "plugin":  "Knights.esp"
+                    },
+                    {
+                        "index":  11,
+                        "enabled":  false,
+                        "plugin":  "AltarESPMain.esp"
+                    },
+                    {
+                        "index":  12,
+                        "enabled":  false,
+                        "plugin":  "AltarDeluxe.esp"
+                    },
+                    {
+                        "index":  13,
+                        "enabled":  false,
+                        "plugin":  "Unofficial Oblivion Remastered Patch.esp"
+                    },
+                    {
+                        "index":  14,
+                        "enabled":  false,
+                        "plugin":  "Unofficial Oblivion Remastered Patch - Deluxe.esp"
+                    },
+                    {
+                        "index":  15,
+                        "enabled":  false,
+                        "plugin":  "AutoUpgradeRewards.esp"
+                    },
+                    {
+                        "index":  16,
+                        "enabled":  false,
+                        "plugin":  "Daggerdancer.esp"
+                    },
+                    {
+                        "index":  17,
+                        "enabled":  false,
+                        "plugin":  "Demoria.esp"
+                    },
+                    {
+                        "index":  18,
+                        "enabled":  false,
+                        "plugin":  "DarkHoly.esp"
+                    },
+                    {
+                        "index":  19,
+                        "enabled":  false,
+                        "plugin":  "SylvanSentinel.esp"
+                    },
+                    {
+                        "index":  20,
+                        "enabled":  false,
+                        "plugin":  "Skystrider.esp"
+                    },
+                    {
+                        "index":  21,
+                        "enabled":  false,
+                        "plugin":  "LootableSaintsAndSeducers.esp"
+                    },
+                    {
+                        "index":  22,
+                        "enabled":  false,
+                        "plugin":  "Wrathplate.esp"
+                    },
+                    {
+                        "index":  23,
+                        "enabled":  false,
+                        "plugin":  "ArenaHelmet.esp"
+                    },
+                    {
+                        "index":  24,
+                        "enabled":  false,
+                        "plugin":  "Quest NPCs Run - No Tutorial or Forlorn Watchman Running.esp"
+                    },
+                    {
+                        "index":  25,
+                        "enabled":  false,
+                        "plugin":  "InfinitumCompendium.esp"
+                    },
+                    {
+                        "index":  26,
+                        "enabled":  false,
+                        "plugin":  "NaiadComestoLife.esp"
+                    },
+                    {
+                        "index":  27,
+                        "enabled":  false,
+                        "plugin":  "LI_EmpireHeart.esp"
+                    },
+                    {
+                        "index":  28,
+                        "enabled":  false,
+                        "plugin":  "No Starting Map Markers.esp"
+                    },
+                    {
+                        "index":  29,
+                        "enabled":  false,
+                        "plugin":  "NaiadTravelers.esp"
+                    },
+                    {
+                        "index":  30,
+                        "enabled":  false,
+                        "plugin":  "AdditionalMapMarkers.esp"
+                    },
+                    {
+                        "index":  31,
+                        "enabled":  false,
+                        "plugin":  "WeightlessResources.esp"
+                    },
+                    {
+                        "index":  32,
+                        "enabled":  false,
+                        "plugin":  "Leveled Creature Diversity.esp"
+                    },
+                    {
+                        "index":  33,
+                        "enabled":  false,
+                        "plugin":  "Leveled Item Diversity.esp"
+                    },
+                    {
+                        "index":  34,
+                        "enabled":  false,
+                        "plugin":  "SigilStoneSelector.esp"
+                    },
+                    {
+                        "index":  35,
+                        "enabled":  false,
+                        "plugin":  "Hooded Outlaws.esp"
+                    },
+                    {
+                        "index":  36,
+                        "enabled":  false,
+                        "plugin":  "Ayleid Wells.esp"
+                    },
+                    {
+                        "index":  37,
+                        "enabled":  false,
+                        "plugin":  "AdjustedTimescale_12.esp"
+                    },
+                    {
+                        "index":  38,
+                        "enabled":  false,
+                        "plugin":  "Permanent Doomstones - Vanilla Version.esp"
+                    },
+                    {
+                        "index":  39,
+                        "enabled":  false,
+                        "plugin":  "StrongerSoulGems.esp"
+                    },
+                    {
+                        "index":  40,
+                        "enabled":  false,
+                        "plugin":  "More Summons.esp"
+                    },
+                    {
+                        "index":  41,
+                        "enabled":  false,
+                        "plugin":  "MoreEnemies Wilderness+Roads.esp"
+                    },
+                    {
+                        "index":  42,
+                        "enabled":  false,
+                        "plugin":  "SSS.esp"
+                    },
+                    {
+                        "index":  43,
+                        "enabled":  false,
+                        "plugin":  "CrimeTweaks.esp"
+                    },
+                    {
+                        "index":  44,
+                        "enabled":  false,
+                        "plugin":  "TheAsteriskOfWisdom.esp"
+                    },
+                    {
+                        "index":  45,
+                        "enabled":  false,
+                        "plugin":  "UnlimitedRingsRedux.esp"
+                    },
+                    {
+                        "index":  46,
+                        "enabled":  false,
+                        "plugin":  "ChangeAppearance.esp"
+                    },
+                    {
+                        "index":  47,
+                        "enabled":  false,
+                        "plugin":  "Rebalanced and Unleveled QGR.esp"
+                    },
+                    {
+                        "index":  48,
+                        "enabled":  false,
+                        "plugin":  "tes4RCivisDeluxeContentFix.esp"
+                    },
+                    {
+                        "index":  49,
+                        "enabled":  false,
+                        "plugin":  "OblivionUnrealFixes-Patch-UORP-Deluxe.esp"
+                    },
+                    {
+                        "index":  50,
+                        "enabled":  false,
+                        "plugin":  "BasinOfRenewalCrashFix.esp"
+                    },
+                    {
+                        "index":  51,
+                        "enabled":  false,
+                        "plugin":  "VNDoVampireBreathe.esp"
+                    },
+                    {
+                        "index":  52,
+                        "enabled":  false,
+                        "plugin":  "VNVampireRebalance.esp"
+                    },
+                    {
+                        "index":  53,
+                        "enabled":  false,
+                        "plugin":  "VNVampireRebalanceCustomSpells.esp"
+                    },
+                    {
+                        "index":  54,
+                        "enabled":  false,
+                        "plugin":  "ExtendedRaces.esp"
+                    }
+                ],
+    "loadorder":  [
+                      "Oblivion.esm",
+                      "DLCBattlehornCastle.esp",
+                      "DLCFrostcrag.esp",
+                      "DLCHorseArmor.esp",
+                      "DLCMehrunesRazor.esp",
+                      "DLCOrrery.esp",
+                      "DLCShiveringIsles.esp",
+                      "DLCSpellTomes.esp",
+                      "DLCThievesDen.esp",
+                      "DLCVileLair.esp",
+                      "Knights.esp",
+                      "AltarESPMain.esp",
+                      "AltarDeluxe.esp",
+                      "AltarGymNavigation.esp",
+                      "TamrielLeveledRegion.esp",
+                      "Unofficial Oblivion Remastered Patch.esp",
+                      "Unofficial Oblivion Remastered Patch - Deluxe.esp",
+                      "AutoUpgradeRewards.esp",
+                      "Daggerdancer.esp",
+                      "Demoria.esp",
+                      "DarkHoly.esp",
+                      "SylvanSentinel.esp",
+                      "Skystrider.esp",
+                      "LootableSaintsAndSeducers.esp",
+                      "Wrathplate.esp",
+                      "ArenaHelmet.esp",
+                      "Quest NPCs Run - No Tutorial or Forlorn Watchman Running.esp",
+                      "InfinitumCompendium.esp",
+                      "NaiadComestoLife.esp",
+                      "LI_EmpireHeart.esp",
+                      "No Starting Map Markers.esp",
+                      "NaiadTravelers.esp",
+                      "AdditionalMapMarkers.esp",
+                      "WeightlessResources.esp",
+                      "Leveled Creature Diversity.esp",
+                      "Leveled Item Diversity.esp",
+                      "SigilStoneSelector.esp",
+                      "Hooded Outlaws.esp",
+                      "Ayleid Wells.esp",
+                      "AdjustedTimescale_12.esp",
+                      "Permanent Doomstones - Vanilla Version.esp",
+                      "StrongerSoulGems.esp",
+                      "More Summons.esp",
+                      "MoreEnemies Wilderness+Roads.esp",
+                      "SSS.esp",
+                      "CrimeTweaks.esp",
+                      "TheAsteriskOfWisdom.esp",
+                      "UnlimitedRingsRedux.esp",
+                      "ChangeAppearance.esp",
+                      "Rebalanced and Unleveled QGR.esp",
+                      "tes4RCivisDeluxeContentFix.esp",
+                      "OblivionUnrealFixes-Patch-UORP-Deluxe.esp",
+                      "BasinOfRenewalCrashFix.esp",
+                      "VNDoVampireBreathe.esp",
+                      "VNVampireRebalance.esp",
+                      "VNVampireRebalanceCustomSpells.esp",
+                      "ExtendedRaces.esp"
+                  ],
+    "mods_installed":  [
+                           {
+                               "name":  "A More Complete World Map 8K - 4K",
+                               "nexus_mod_id":  "1464",
+                               "version":  "3.4",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "A More Complete World Map - 8K - All-in-One 3.4-1464-3-4-1753612718.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:51:12"
+                           },
+                           {
+                               "name":  "Additional Map Markers",
+                               "nexus_mod_id":  "479",
+                               "version":  "1.5",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Additional Map Markers-479-1-5-1749989168.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:15"
+                           },
+                           {
+                               "name":  "Address Library for OBSE Plugins",
+                               "nexus_mod_id":  "4475",
+                               "version":  "2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "All in one - v2 (1.512.105.0) Address Library-4475-2-1752773891.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:51:18"
+                           },
+                           {
+                               "name":  "Adjusted Timescale",
+                               "nexus_mod_id":  "258",
+                               "version":  "1.0.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Adjusted Timescale - 12-258-1-0-0-1745747075.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:35"
+                           },
+                           {
+                               "name":  "Arena Gladiator Raiments",
+                               "nexus_mod_id":  "4482",
+                               "version":  "1.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Arena Gladiator Raiments-4482-1-1-0-1749932031.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:09:49"
+                           },
+                           {
+                               "name":  "Auto Hide Gear",
+                               "nexus_mod_id":  "3098",
+                               "version":  "3.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Auto Hide Gear 3.2-3098-3-2-1747987261.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:41"
+                           },
+                           {
+                               "name":  "Auto Upgrade Leveled Items",
+                               "nexus_mod_id":  "567",
+                               "version":  "1.4.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Auto Upgrade Leveled Items-567-1-4-2-1746910338.rar",
+                               "repository":  "",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T18:10:59"
+                           },
+                           {
+                               "name":  "Ayleid Mana Wells",
+                               "nexus_mod_id":  "304",
+                               "version":  "1.0.5",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Ayleid Mana Wells-304-1-0-5-1746226131.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:27"
+                           },
+                           {
+                               "name":  "Basin of Renewal Crash Fix",
+                               "nexus_mod_id":  "3866",
+                               "version":  "1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Basin of Renewal Crash Fix-3866-1-0-1748165213.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:51:23"
+                           },
+                           {
+                               "name":  "Better HUD",
+                               "nexus_mod_id":  "13",
+                               "version":  "2.3.3",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Better HUD Slim (16x9)-13-2-3-3-1746859406.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:11"
+                           },
+                           {
+                               "name":  "Better Iron Armor (NBBM)",
+                               "nexus_mod_id":  "2583",
+                               "version":  "1.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "BetterIronArmor-2583-1-1-1746893449.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:03:17"
+                           },
+                           {
+                               "name":  "BETTER LOOKING - Steel Armor",
+                               "nexus_mod_id":  "4250",
+                               "version":  "2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "BETTER LOOKING FEMALE STEEL-4250-2-1749110127.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:09:54"
+                           },
+                           {
+                               "name":  "Bloody Leather Dark Brotherhood Armor 4k",
+                               "nexus_mod_id":  "3401",
+                               "version":  "1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Dark Leather Dark Brotherhood Armor-3401-1-1747450257.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:09:53"
+                           },
+                           {
+                               "name":  "Body Type Selector",
+                               "nexus_mod_id":  "353",
+                               "version":  "2.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Body Type Selector-353-2-0-1745931955.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:09:56"
+                           },
+                           {
+                               "name":  "Bow Headshot UE4SS (fix 1x sneak damage WIP)",
+                               "nexus_mod_id":  "2745",
+                               "version":  "2.1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "BowHeadshotDamage-2745-2-1-0-1748047387.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:16:32"
+                           },
+                           {
+                               "name":  "Change Appearance Anytime",
+                               "nexus_mod_id":  "4354",
+                               "version":  "1.0.3b",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Change Appearance Anytime-4354-1-0-3b-1749761739.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-05T18:14:09"
+                           },
+                           {
+                               "name":  "Colovian Cuts - Hairstyles with Physics",
+                               "nexus_mod_id":  "1671",
+                               "version":  "1.0.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Colovian Cuts - Straight Long-1671-1-0-1-1746244748.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:21"
+                           },
+                           {
+                               "name":  "ConfigHelper UE4SS LIB",
+                               "nexus_mod_id":  "2377",
+                               "version":  "1.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "ConfigHelper_1_1-2377-1-1-1747039728.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:38"
+                           },
+                           {
+                               "name":  "Crime Tweaks",
+                               "nexus_mod_id":  "558",
+                               "version":  "1.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "CrimeTweaks-558-1-1-1745607485.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:04"
+                           },
+                           {
+                               "name":  "Daggerdancer - NBO",
+                               "nexus_mod_id":  "2977",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Daggerdancer - NBO-2977-1-2-1747846227.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T19:58:37"
+                           },
+                           {
+                               "name":  "Dark Brotherhood Midriff and Thighs",
+                               "nexus_mod_id":  "2614",
+                               "version":  "2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Female NBO Edition-2614-2-1748452239.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:09:42"
+                           },
+                           {
+                               "name":  "Dark Holy Armor - NBO",
+                               "nexus_mod_id":  "1991",
+                               "version":  "3.6",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Dark Holy Armor - NBO-1991-3-6-1747747840.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:03:03"
+                           },
+                           {
+                               "name":  "Demoria Armor - NBO",
+                               "nexus_mod_id":  "3494",
+                               "version":  "0.7",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Demoria Armor - NBO-3494-0-7-1747747126.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:03:00"
+                           },
+                           {
+                               "name":  "Dynamic Quiver",
+                               "nexus_mod_id":  "2565",
+                               "version":  "1.1.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Hide Quiver 1.1.1-2565-1-1-1-1746912701.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:16:33"
+                           },
+                           {
+                               "name":  "Ebony Helm Revised",
+                               "nexus_mod_id":  "4794",
+                               "version":  "3.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Ebony Helmet Refit-4794-3-0-1752046756.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T19:58:34"
+                           },
+                           {
+                               "name":  "Equipped Item Colors",
+                               "nexus_mod_id":  "1064",
+                               "version":  "1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Green-1064-1-1745756570.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:49"
+                           },
+                           {
+                               "name":  "Extended Races",
+                               "nexus_mod_id":  "5618",
+                               "version":  "1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "ExtendedRaces 1.0.0 5618 1 2026-08-30T04-34Z N98X1bi2P.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T22:26:04"
+                           },
+                           {
+                               "name":  "Faster Sleep and Wait - OBSE",
+                               "nexus_mod_id":  "1659",
+                               "version":  "1.0.4",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Faster Sleep and Wait-1659-1-0-4-1750463707.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:33"
+                           },
+                           {
+                               "name":  "Faster Spell Projectiles",
+                               "nexus_mod_id":  "1198",
+                               "version":  "1.00",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Faster Spell Projectiles-1198-1-00-1745803050.rar",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:03"
+                           },
+                           {
+                               "name":  "Female Fur Armor Remake (NBO Compatible)",
+                               "nexus_mod_id":  "3563",
+                               "version":  "1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Female Fur Armor Remake NBO-3563-1-1747682648.rar",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:09:40"
+                           },
+                           {
+                               "name":  "Female Locomotion Replacer v2 (Crash Fix)",
+                               "nexus_mod_id":  "5430",
+                               "version":  "0.4",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Female Locomotion Replacer-5430-0-4-1778370459.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:51:25"
+                           },
+                           {
+                               "name":  "Fix Persistent Character Glow",
+                               "nexus_mod_id":  "3987",
+                               "version":  "1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Fix Character Glow-3987-1-0-1748366679.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:50"
+                           },
+                           {
+                               "name":  "Glorious Holes of Oblivion (GHO)",
+                               "nexus_mod_id":  "4010",
+                               "version":  "3.5",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Glorious Holes of Oblivion ver 3.4-4010-3-5-1776614498.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:53"
+                           },
+                           {
+                               "name":  "H.U.E - Handmade Unique Eyes",
+                               "nexus_mod_id":  "108",
+                               "version":  "1.0.4",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "H.U.E - Vanilla Replacer - Bright - Whiter Sclera-108-1-0-4-1748642021.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:28"
+                           },
+                           {
+                               "name":  "Hooded Outlaws",
+                               "nexus_mod_id":  "268",
+                               "version":  "1.0.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Hooded Outlaws-268-1-0-0-1745434563.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:26"
+                           },
+                           {
+                               "name":  "Important On Top (inventory sorting)",
+                               "nexus_mod_id":  "2160",
+                               "version":  "1.3",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Important On Top.7z (english locale)-2160-1-3-1746559396.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:12"
+                           },
+                           {
+                               "name":  "Improved Bangs - Longer Hair - Court Hairstyle",
+                               "nexus_mod_id":  "1405",
+                               "version":  "1.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Improved Bangs - Longer Hair - Court Hairstyle-1405-1-1-1746230403.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:47"
+                           },
+                           {
+                               "name":  "Infinitum - Compendium",
+                               "nexus_mod_id":  "3790",
+                               "version":  "3.03",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Infinitum - Compendium (3.03)-3790-3-03-1780125941.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:00"
+                           },
+                           {
+                               "name":  "Leveled Creature and Item Diversity",
+                               "nexus_mod_id":  "221",
+                               "version":  "1.0.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Leveled Item-221-1-0-0-1745421738.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:19"
+                           },
+                           {
+                               "name":  "Lived In - Empire Heart",
+                               "nexus_mod_id":  "4405",
+                               "version":  "1.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Lived In - Empire Heart-4405-1-1-1749546182.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:51:26"
+                           },
+                           {
+                               "name":  "Lootable Shivering Isles (Lootable Golden Saints and Dark Seducers)",
+                               "nexus_mod_id":  "2719",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "LootableSaintsAndSeducers-2719-1-2-1747071598.rar",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:03:18"
+                           },
+                           {
+                               "name":  "MagicLoader 2",
+                               "nexus_mod_id":  "1966",
+                               "version":  "2.9b",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "MagicLoader 2.9b-1966-2-9b-1765872491.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T19:58:35"
+                           },
+                           {
+                               "name":  "Map Icon Completion Markers",
+                               "nexus_mod_id":  "3786",
+                               "version":  "1.0.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "MapIconCompletionMarkerModPaks-3786-1-0-0-1749353966.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:56"
+                           },
+                           {
+                               "name":  "More Enemies",
+                               "nexus_mod_id":  "1365",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "More Enemies 1.2 Wilderness and Roads Only-1365-1-2-1745959042.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:58"
+                           },
+                           {
+                               "name":  "More Summons",
+                               "nexus_mod_id":  "260",
+                               "version":  "1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "More Summons-260-1-0-1745432873.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:54"
+                           },
+                           {
+                               "name":  "Natural Bodies",
+                               "nexus_mod_id":  "2877",
+                               "version":  "0.4a",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Natural Bodies - Full-2877-0-4a-1747876308.zip",
+                               "repository":  "",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T18:10:58"
+                           },
+                           {
+                               "name":  "NBO oldblivion styled Huntsman vest",
+                               "nexus_mod_id":  "5406",
+                               "version":  "1.1-b",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "NBOHuntsmanVest_Update-1.1_Bugfix 5406 1.1-b 2026-08-29T05-08Z QZOSNIkRF.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:35"
+                           },
+                           {
+                               "name":  "NL-Tag Remover",
+                               "nexus_mod_id":  "473",
+                               "version":  "1.3.3",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "NL-Tag Remover-473-1-3-3-1771956133.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:10"
+                           },
+                           {
+                               "name":  "No Starting Map Markers",
+                               "nexus_mod_id":  "259",
+                               "version":  "1.0.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "No Starting Map Markers-259-1-0-0-1745655469.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:30"
+                           },
+                           {
+                               "name":  "NPCs Come to Life - Naiad Edition",
+                               "nexus_mod_id":  "3363",
+                               "version":  "1.0.1Travelers",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "NPCs Come to Life - Naiad Edition-3363-1-0-5-1747619797.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:08"
+                           },
+                           {
+                               "name":  "Oblivion Unreal Fixes",
+                               "nexus_mod_id":  "4676",
+                               "version":  "1.5.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Oblivion Unreal Fixes-4676-1-5-0-1753451934.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:57:39"
+                           },
+                           {
+                               "name":  "One Button Dodge UE4SS",
+                               "nexus_mod_id":  "1849",
+                               "version":  "1.1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "OneButtonDodge 1.1.0-1849-1-1-0-1748289281.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:01"
+                           },
+                           {
+                               "name":  "Permanent Doomstones",
+                               "nexus_mod_id":  "226",
+                               "version":  "1.0.4",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Permanent Doomstones - Vanilla Version-226-1-0-4-1745948725.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:42"
+                           },
+                           {
+                               "name":  "Player Camera - Stop Looking at My Back",
+                               "nexus_mod_id":  "2998",
+                               "version":  "2.3",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Player Camera - Main 2.3-2998-2-3-1750700023.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:31"
+                           },
+                           {
+                               "name":  "Pleasing Palettes - Simply Silver Mithril",
+                               "nexus_mod_id":  "2654",
+                               "version":  "1.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Pleasing Palettes - Simply Silver Mithril-2654-1-1-1746758380.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:09:51"
+                           },
+                           {
+                               "name":  "Practical Arsenal - Bows _ The Bow-Shaped Bows Mod",
+                               "nexus_mod_id":  "4252",
+                               "version":  "1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Practical Arsenal - Bows-4252-1-0-1749013486.rar",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:18"
+                           },
+                           {
+                               "name":  "Practical Arsenal - Daedric (Updated to 1.2)",
+                               "nexus_mod_id":  "4395",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Practical Arsenal - Daedric 1.2-4395-1-2-1757373469.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:17"
+                           },
+                           {
+                               "name":  "Practical Arsenal - DawnFang and Duskfang (1.2 Updated)",
+                               "nexus_mod_id":  "4466",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Practical Duskfang and Dawnfang - FOMOD patch 1.2-4466-1-2-1768258754.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:51:13"
+                           },
+                           {
+                               "name":  "Practical Arsenal - Dwarven (Updated to 1.2)",
+                               "nexus_mod_id":  "4483",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Practical Arsenal - Dwarven 1.2-4483-1-2-1757373571.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:19"
+                           },
+                           {
+                               "name":  "Practical Arsenal - Ebony (Updated to 1.2)",
+                               "nexus_mod_id":  "3717",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Practical Arsenal - Ebony 1.2-3717-1-2-1757372921.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:57"
+                           },
+                           {
+                               "name":  "Practical Arsenal - Elven (Updated to 1.2)",
+                               "nexus_mod_id":  "4609",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Practical Arsenal - Elven 1.2-4609-1-2-1757373143.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:22"
+                           },
+                           {
+                               "name":  "Practical Arsenal - Glass (1.2 Updated)",
+                               "nexus_mod_id":  "4677",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Practical Arsenal - Glass 1.2-4677-1-2-1765149728.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:26"
+                           },
+                           {
+                               "name":  "Practical Arsenal - Iron (Updated for 1.2)",
+                               "nexus_mod_id":  "4191",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "1.2 Stable Version - Updated by Wikt0r1us (Fixed)-4191-1-2-1756447569.rar",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:14"
+                           },
+                           {
+                               "name":  "Practical Arsenal - Order of Jyggalag (1.2 Updated)",
+                               "nexus_mod_id":  "4575",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Practical Order of Jyggalag - FOMOD patch 1.2-4575-1-2-1768258674.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:51:15"
+                           },
+                           {
+                               "name":  "Practical Arsenal - Quivers (Updated for 1.2)",
+                               "nexus_mod_id":  "4604",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Practical Arsenal - Quivers 1.2-4604-1-2-1756949773.rar",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:21"
+                           },
+                           {
+                               "name":  "Practical Arsenal - Silver (Updated to 1.2)",
+                               "nexus_mod_id":  "3998",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Practical Arsenal - Silver 1.2-3998-1-2-1757373315.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:15"
+                           },
+                           {
+                               "name":  "Practical Arsenal - Steel (Updated to 1.2)",
+                               "nexus_mod_id":  "4058",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Practical Arsenal - Steel 1.2-4058-1-2-1760135178.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:11"
+                           },
+                           {
+                               "name":  "Practical Arsenal - Uniques (1.2 Updated)",
+                               "nexus_mod_id":  "4574",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Practical Uniques - FOMOD (patch 1.2)-4574-1-2-1768257152.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:51:14"
+                           },
+                           {
+                               "name":  "Precise Soul Gem Capture OBSE - ASI",
+                               "nexus_mod_id":  "2060",
+                               "version":  "1.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Precise Soul Capture OBSE-2060-1-1-1746326098.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:43"
+                           },
+                           {
+                               "name":  "Protective Headgear - Dwarven (Updated to 1.2)",
+                               "nexus_mod_id":  "4496",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Protective Headgear - Dwarven 1.2-4496-1-2-1760134066.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:27"
+                           },
+                           {
+                               "name":  "Protective Headgear - Elven (1.2 Updated)",
+                               "nexus_mod_id":  "3788",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Protective Headgear - Elven - Fomod patch 1.2-3788-1-2-1768259779.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:16:29"
+                           },
+                           {
+                               "name":  "Protective Headgear - Glass Helmet (1.2 Updated)",
+                               "nexus_mod_id":  "3266",
+                               "version":  "1.2.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Protective Headgear - Glass - FOMOD patch 1.2-3266-1-2-1-1768266710.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:16:28"
+                           },
+                           {
+                               "name":  "Quest NPCs Run OBR",
+                               "nexus_mod_id":  "219",
+                               "version":  "1.7.3",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Quest NPCs Run-No Tutorial or Forlorn Watchman Run-219-1-7-3-1748175559.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:14"
+                           },
+                           {
+                               "name":  "RAO (NBO Compatible) 1.0",
+                               "nexus_mod_id":  "4079",
+                               "version":  "1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "RAO 1.0-4079-1-0-1752721892.rar",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T19:58:39"
+                           },
+                           {
+                               "name":  "Realistic Arrow Speeds for Bows (Faster)",
+                               "nexus_mod_id":  "965",
+                               "version":  "2.0.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Realistic Arrow Speed - UE4SS GSL Version-965-2-0-1-1745783432.rar",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:40"
+                           },
+                           {
+                               "name":  "Realistic High Quality Skin",
+                               "nexus_mod_id":  "1284",
+                               "version":  "1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Realistic High Quality Skin-1284-1-0-1745864779.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:12"
+                           },
+                           {
+                               "name":  "Rebalanced and Unleveled Quest Gold Rewards OBR",
+                               "nexus_mod_id":  "1460",
+                               "version":  "2.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Rebalanced and Unleveled Quest Gold Rewards-1460-2-2-1746762601.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:13"
+                           },
+                           {
+                               "name":  "Sensible Shields - Iron - Buckler Targe and Full Iron Shields (1.2 Updated)",
+                               "nexus_mod_id":  "4399",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Sensible Shields - Iron- FOMOD Updated 1.2-4399-1-2-1768259258.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:51:11"
+                           },
+                           {
+                               "name":  "Sensible Shields - Steel (1.2 Updated)",
+                               "nexus_mod_id":  "4337",
+                               "version":  "1.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Sensible Shields - Steel - FOMOD Updated 1.2-4337-1-2-1768259529.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:16:30"
+                           },
+                           {
+                               "name":  "Shorter skirt and Look lighter DarkSeducer armor(NBO)",
+                               "nexus_mod_id":  "3592",
+                               "version":  "1.0.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "DarkSeducerF(NBO)underwear version-3592-1-0-1-1747791922.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:09:39"
+                           },
+                           {
+                               "name":  "Sigil Stone Selector",
+                               "nexus_mod_id":  "427",
+                               "version":  "1.4",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Sigil Stone Selector-427-1-4-1746127223.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:23"
+                           },
+                           {
+                               "name":  "Simple Start Skip - Alternative Start",
+                               "nexus_mod_id":  "762",
+                               "version":  "1.7",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Simple Start Skip-762-1-7-1746376274.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:02"
+                           },
+                           {
+                               "name":  "Skystrider - NBO",
+                               "nexus_mod_id":  "4381",
+                               "version":  "1.4",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Skystrider - NBO-4381-1-4-1749834090.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:03:12"
+                           },
+                           {
+                               "name":  "Smooth Beautiful Faces",
+                               "nexus_mod_id":  "2522",
+                               "version":  "1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Smooth Beautiful Faces-2522-1-0-1746654729.7z",
+                               "repository":  "",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T18:10:59"
+                           },
+                           {
+                               "name":  "Spider Mommy - Bare Chested Spider Daedra",
+                               "nexus_mod_id":  "538",
+                               "version":  "1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Spider Mommy-538-1-0-1745534841.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:25"
+                           },
+                           {
+                               "name":  "Stronger Soul Gems",
+                               "nexus_mod_id":  "315",
+                               "version":  "1.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Stronger Soul Gems X2-315-1-1-1745468547.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:48"
+                           },
+                           {
+                               "name":  "Sylvan Sentinel - NBO",
+                               "nexus_mod_id":  "3955",
+                               "version":  "1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Sylvan Sentinel - NBO-3955-1-0-1748283411.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:03:05"
+                           },
+                           {
+                               "name":  "TES4R Civis Deluxe Content Fix",
+                               "nexus_mod_id":  "5332",
+                               "version":  "1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "TES4R Civis Deluxe Content Fix-5332-1-0-1772384947.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:51:20"
+                           },
+                           {
+                               "name":  "TFP - True First Person Camera",
+                               "nexus_mod_id":  "3468",
+                               "version":  "v.0.9.8e",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "TFP Camera v.0.9.8e - Steam Version-3468-v-0-9-8e-1757408297.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:46"
+                           },
+                           {
+                               "name":  "The Asterisk of Wisdom",
+                               "nexus_mod_id":  "2178",
+                               "version":  "1.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "The Asterisk of Wisdom-2178-1-1-1746412417.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:06"
+                           },
+                           {
+                               "name":  "Thiccer Than a Snicker - Flame Atronach",
+                               "nexus_mod_id":  "439",
+                               "version":  "0.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Flame Atronach - Thicker than a Snicker v2-439-0-2-1745598403.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:20"
+                           },
+                           {
+                               "name":  "Timed Block UE4SS",
+                               "nexus_mod_id":  "1729",
+                               "version":  "1.4",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "TimedBlock_1_4-1729-1-4-1747780209.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:37"
+                           },
+                           {
+                               "name":  "UE4SS Game Settings Loader",
+                               "nexus_mod_id":  "833",
+                               "version":  "0.1.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "UE4SS Game Settings Loader Steam-833-0-1-1-1747920125.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:51:19"
+                           },
+                           {
+                               "name":  "UE4SS TesSyncMapInjector",
+                               "nexus_mod_id":  "1272",
+                               "version":  "0.1.8",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Steam-1272-0-1-8-1746540744.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T19:58:38"
+                           },
+                           {
+                               "name":  "Ultimate Engine Tweaks (Anti-Stutters - More Performance - Lower Latency - Better Clarity",
+                               "nexus_mod_id":  "35",
+                               "version":  "20",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Oblivion R Ultimate Unreal Engine.ini (VRR) 35 20 2026-08-24T14-50Z b4xzfcHnt.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:59:03"
+                           },
+                           {
+                               "name":  "UNBSE 0.14.5",
+                               "nexus_mod_id":  "5620",
+                               "version":  "0.14.5",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "UNBSE-0.14.5.zip",
+                               "repository":  "",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T18:10:58"
+                           },
+                           {
+                               "name":  "Universal Achievement Unblocker",
+                               "nexus_mod_id":  "125",
+                               "version":  "1.6.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "2. OBSE64 Plugin-125-1-6-2-1745960739.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:09:57"
+                           },
+                           {
+                               "name":  "Unlimited Rings Redux",
+                               "nexus_mod_id":  "2457",
+                               "version":  "1.0.4",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Unlimited Rings Redux-2457-1-0-4-1747104938.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:11:09"
+                           },
+                           {
+                               "name":  "Unofficial Oblivion Remastered Patch - UORP",
+                               "nexus_mod_id":  "477",
+                               "version":  "1.0.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Unofficial Oblivion Remastered Patch-477-1-0-9-1749674847.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T21:50:24"
+                           },
+                           {
+                               "name":  "Unread Books Glow",
+                               "nexus_mod_id":  "2980",
+                               "version":  "1.2.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Unread Books Glow-2980-1-2-0-1749794259.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:36"
+                           },
+                           {
+                               "name":  "VN\u0027s Vampire Rebalance",
+                               "nexus_mod_id":  "1446",
+                               "version":  "1.2.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "VN Vampire Rebalance Core v1.2.1-1446-1-2-1-1746881380.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T22:26:03"
+                           },
+                           {
+                               "name":  "Weightless Alchemy and Misc. Items (Carry more Arrows Potions etc.)",
+                               "nexus_mod_id":  "235",
+                               "version":  "1.0.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Weightless Resources-235-1-0-2-1745834159.rar",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:16"
+                           },
+                           {
+                               "name":  "Wonger\u0027s Shield on Back",
+                               "nexus_mod_id":  "2077",
+                               "version":  "0.5.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Wonger\u0027s Shield Mod - UE4SS-2077-0-5-1-1747346067.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:32"
+                           },
+                           {
+                               "name":  "Wrathplate",
+                               "nexus_mod_id":  "3807",
+                               "version":  "1.2a",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Wrathplate-3807-1-2a-1748283828.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:09:47"
+                           },
+                           {
+                               "name":  "Xorberax\u0027s Attack-Cancelling",
+                               "nexus_mod_id":  "1228",
+                               "version":  "0.2.1",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "AttackCancelling 0.2.1-1228-0-2-1-1746459663.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:16:32"
+                           },
+                           {
+                               "name":  "Xorberax\u0027s Slow Motion Shortcut Wheel",
+                               "nexus_mod_id":  "1201",
+                               "version":  "0.1.3",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Slow Motion Shortcut Wheel 0.1.3-1201-0-1-3-1746813791.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:16:31"
+                           },
+                           {
+                               "name":  "Young Textures Revamped",
+                               "nexus_mod_id":  "445",
+                               "version":  "1.4",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Young Textures Revamped-445-1-4-1745867158.rar",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:02"
+                           },
+                           {
+                               "name":  "Younger Dunmer Lady Head Mesh",
+                               "nexus_mod_id":  "673",
+                               "version":  "0.2",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "YoungerDunmerHead Fixed-673-0-2-1746639770.zip",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:29"
+                           },
+                           {
+                               "name":  "Younger Elven Female Voice",
+                               "nexus_mod_id":  "2557",
+                               "version":  "2.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Younger Elven Female Voice-2557-2-0-1746787996.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:39"
+                           },
+                           {
+                               "name":  "Younger Female Voice - Humans",
+                               "nexus_mod_id":  "2885",
+                               "version":  "1.0",
+                               "newest_version":  "",
+                               "category":  "0",
+                               "installation_file":  "Younger Female Voice - Humans ver 1-2885-1-0-1746914500.7z",
+                               "repository":  "Nexus",
+                               "game":  "oblivionremastered",
+                               "notes":  "",
+                               "installed_at":  "2026-09-04T20:10:59"
+                           }
+                       ],
+    "raw_files":  [
+                      "modlist.txt",
+                      "plugins.txt",
+                      "loadorder.txt",
+                      "lockedorder.txt",
+                      "archives.txt",
+                      "settings.ini",
+                      "initweaks.ini",
+                      "Oblivion.ini",
+                      "ModOrganizer.ini"
+                  ]
+}

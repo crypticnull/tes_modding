@@ -1,0 +1,495 @@
+﻿# Snapshot 2026-09-08, Default
+
+Captured 2026-09-08 16:53 local. Do not edit this folder, take a new snapshot instead.
+
+Note: baseline
+
+| field | value |
+|---|---|
+| game | Skyrim Special Edition |
+| game path | X:\MODDING\SKYRIM\STOCK GAME |
+| MO2 instance | X:\MODDING\SKYRIM\MO2\Mod.Organizer-2.5.3 |
+| MO2 version | 2.5.3 |
+| profile | Default |
+| live profile | True |
+| mods installed | 215 |
+| mods enabled | 212 |
+| separators | 0 |
+| plugins enabled | 174 of 174 |
+
+## Enabled mods, in MO2 left pane order, top first
+
+- Nordic Faces - FaceGen - Loose Files  (nexus 40658)
+- SMIM SE 2-08-659-2-08  (nexus 659)
+- DynDOLOD Resources SE 3.00  (nexus 52897)
+- HD Lods Textures SE 1K V9.3  (nexus 3333)
+- SMIM Quality Addon 1.5  (nexus 44388)
+- Ruins_Clutter_Improved SE  (nexus 5870)
+- RUSTIC ANIMATED POTIONS and POISONS 2K-1K-2276-1-1  (nexus 2276)
+- Skyland Bits and Bobs - A Clutter Overhaul  (nexus 95032)
+- 1. Majestic Mountains Main File  (nexus 11052)
+- Skyland AIO  (nexus 34179)
+- CBPC - Fomod installer - MAIN FILE  (nexus 21224)
+- Alternate Start - Live Another Life  (nexus 272)
+- Unofficial Skyrim Special Edition Patch 266 4.3.9c 2026-09-05T22-22Z lNkz9LChN  (nexus 266)
+- Address Library All in One (1.7.104.0) v13  (nexus 32444)
+- SkyUI  (nexus 12604)
+- CBBE 3BA (3BBB) - Settings Loader  (nexus 56875)
+- BodySlide and Outfit Studio - v5.8.2  (nexus 201)
+- Sacrosanct 6.0.0  (nexus 3928)
+- Immersive Weapons-16788-2  (nexus 16788)
+- Unique Uniques SE-3334-1-1  (nexus 3334)
+- Ordinator 9.35.0  (nexus 1137)
+- Apocalypse 10.3.0  (nexus 1090)
+- Odin 3.2.0  (nexus 46000)
+- Triumvirate 1.8.0  (nexus 39170)
+- Summermyst 4.2.0  (nexus 6285)
+- Growl 3.7.2  (nexus 31245)
+- Wintersun 3.2.0  (nexus 22506)
+- Modular SMP Hairstyles  (nexus 93608)
+- RaceMenu Anniversary Edition v0  (nexus 19080)
+- Caliente's Beautiful Bodies Enhancer CBBE - v2.0.3  (nexus 198)
+- CBBE 3BA (3BBB)  (nexus 30174)
+- FSMP 4.1.1  (nexus 57339)
+- Reverie  (nexus 64314)
+- Weapons Armor Clothing and Clutter Fixes  (nexus 18994)
+- KS Hairdos SMP  (nexus 31300)
+- XP32 Maximum Skeleton Special Extended  (nexus 1988)
+- JContainers SE  (nexus 16495)
+- PapyrusUtil AE SE - Scripting Utility Functions  (nexus 13048)
+- SKSE Scripts  (nexus 30379)
+- Remodeled Armor SE - CBBE 3BA  (nexus 22168)
+- Spell Perk Item Distributor  (nexus 36869)
+- Common Clothes and Armors - 2k Textures  (nexus 21305)
+- Common Clothes and Armors 3BA Bodyslide 1.0  (nexus 83980)
+- Common Clothes and Armors - SPID  (nexus 184184)
+- Better Crafted Potions - Main File  (nexus 30097)
+- SmoothCam  (nexus 41252)
+- Better Third Person Selection (AE - SE)  (nexus 64339)
+- Skyrim 3D Trees and Plants  (nexus 12371)
+- Blubbo_again_an_aspen_replacer_2023_Pink.zip  (nexus 85233)
+- Bent Pines  II  (nexus 8306)
+- Immersive Fallen Trees SSE-8767-2-0-2  (nexus 8767)
+- Alpine Forest of Whiterun Valley-18866-1-0-5  (nexus 18866)
+- Folkvangr - Grass and Landscape Overhaul  (nexus 44899)
+- Landscape Fixes For Grass Mods  (nexus 9005)
+- Cathedral - 3D Mountain Flowers  (nexus 41312)
+- Simplicity of Snow  (nexus 56235)
+- Nature of the Wild Lands  (nexus 63604)
+- DynDOLOD DLL NG and Scripts 3.00 97720 Alpha-42 2026-08-23T13-05Z uhRBKsxK8  (nexus 97720)
+- Grass Cache Helper NG  (nexus 101095)
+- Community Shaders  (nexus 86492)
+- SSE Engine Fixes  (nexus 17230)
+- Community Shaders - Upscaling  (nexus 156952)
+- SSE Display Tweaks  (nexus 34705)
+- CS - Skylighting  (nexus 139352)
+- CS - Screen Space GI  (nexus 130375)
+- CS - Wetness Effects  (nexus 112739)
+- CS - Terrain Blending  (nexus 157076)
+- CS - Terrain Variation  (nexus 148123)
+- No Grass In Objects  (nexus 42161)
+- NGIO - GrassControl Config  (nexus 42161)
+- Grass Cache  (1.0)
+- TexGen Output
+- Cleaned Masters  (1.0)
+- DynDOLOD Output
+- No Camera Collision  (nexus 19310)
+- CS - Subsurface Scattering  (nexus 114114)
+- CS - Hair Specular  (nexus 149011)
+- Serana Dialogue Add-On  (nexus 32161)
+- Bijin Warmaidens SE  (nexus 1825)
+- Bijin Wives SE  (nexus 11247)
+- Bijin NPCs SE  (nexus 11287)
+- Seranaholic  (nexus 13027)
+- SDA Patch Hub  (nexus 70782)
+- Bijin Fixes  (nexus 56047)
+- Bijin - Use CBBE Meshes and Textures  (nexus 35832)
+- Skeleton Auto Patch  (nexus 176724)
+- UIExtensions v1-2-0-17561-1-2-0  (nexus 17561)
+- ConsoleUtilSSE NG  (nexus 76649)
+- OBody NG  (nexus 77016)
+- 3BA Obody Collsion Fix  (nexus 125724)
+- TAWOBA REMASTERED 6.1 CBBE SE
+- Random Tawoba Realistic and Squeeze Bodyslides  (nexus 110039)
+- SMR Vanilla Outfits 3BA  (nexus 58913)
+- Modular Mage - CBBE 3BA  (nexus 116972)
+- Cosplay Pack - hdt SMP (CBBE 3BA)  (nexus 90892)
+- Cosplay Basics - (CBBE 3BA)  (nexus 156408)
+- Bikini Outfits Optimally Balanced - SkyPatcher  (nexus 121122)
+- SkyPatcher - AE  (nexus 106659)
+- Bikini's Bounce - KID  (1.0, nexus 185943)
+- Skimped - Vanilla  (nexus 68238)
+- Somewhere in Between - 3BA Armor ReplacerNPM  (nexus 98945)
+- BD's Armor and Clothes 3BA Standalone (Vanilla)  (nexus 156368)
+- Tera Armors Collection 3BA Realistic BodySlide  (nexus 82194)
+- Wonderland Lingerie SE  (nexus 56285)
+- Keyword Item Distributor (SE AE)  (nexus 55728)
+- T.E.W.O.B.A. - The Expanded World of Bikini Armors By PUMPKIN  (nexus 41585)
+- CBBE 3BA Vanilla Outfits Redone - Default  (nexus 109194)
+- Silver Witch 3BA SMP  (nexus 172910)
+- Stormcloaks Bikini armor 3BA HDT-SMP -Tawoba addon  (nexus 113728)
+- Imperial Bikini armor 3BA HDT-SMP - Tawoba addon  (nexus 160121)
+- TIWOBA Dawnguard bikini set  (nexus 115536)
+- Shattered Royal Armor  (nexus 183637)
+- Regalia of the Scorned 4K CBBEP  (nexus 73138)
+- Shas' Chains and Silks  (nexus 143720)
+- DX Armors and Clothing 3BA Bodyslide Emporium Modular  (nexus 33690)
+- Fashions Of The Banditry  (nexus 72350)
+- Fashions Of The Banditry CBBE 3BA bodyslides  (nexus 72350)
+- BD's Armor and clothes replacer CBBE 3BA - AIO  (nexus 32518)
+- BD's Armor and clothes replacer CBBE 3BA - V1.42 Update file  (nexus 32518)
+- The Eyes of Beauty SSE  (nexus 16185)
+- SkFO SE - Skin Feature Overlays- 2K  (nexus 20183)
+- (4) Community Overlays 1 - Main - CBBE 4K  (nexus 22487)
+- (4) Community Overlays 2 - Main - CBBE and Male  (nexus 26224)
+- Warrior's Paints - Racemenu Overlay Collection Vol. 3 ESL  (nexus 80438)
+- RX'Overlays (ESL)  (nexus 166670)
+- Overlay Distribution Framework  (nexus 155120)
+- Hvergelmir's Aesthetics - Brows 4.1  (nexus 1062)
+- Improved Eye Model - 2K  (nexus 59099)
+- Panties of Skyrim 2k Texture  (nexus 47574)
+- Towels  (nexus 145113)
+- BnP female skin 2k (CBBE Player and Replacer)  (nexus 65274)
+- BnP Freckle Strength
+- Fuz Ro D'oh  (nexus 15109)
+- MfgFix  (nexus 11669)
+- Bug Fixes SSE Anniversary (1.7.99.0 And Later)
+- Open Animation Replacer
+- Animation Motion Revolution  (nexus 50258)
+- Animation Queue Fix
+- More Informative Console 1.2.3.1
+- Better Jumping NG
+- Footprints 1.6.1  (nexus 3808)
+- Papyrus Tweaks 4.1.1  (nexus 77779)
+- CrashLogger
+- Sound Record Distributor
+- Behavior Data Injector  (nexus 78146)
+- Behavior Data Injector Universal Support
+- FormList Manipulator - FLM  (nexus 74037)
+- Container Distribution Framework  (nexus 120152)
+- Console Commands Extender
+- MCM Recorder  (nexus 61719)
+- Description Framework  (nexus 105799)
+- Dynamic Activation Key  (nexus 96273)
+- Dynamic Activation Key - MCM  (nexus 96408)
+- Dynamic Magic Modification Framework (DMMF) v1.1.0  (nexus 127918)
+- Spell Extender  (nexus 85968)
+- Perk Adjuster  (nexus 127999)
+- Face Discoloration Fix SE
+- Scrambled Bugs - Anniversary Edition (1.6.629.0 and later)  (nexus 43532)
+- Actor Limit Fix Anniversary (1.7.99.0 And Later)
+- Assorted Mesh Fixes
+- Equip Enchantment Fix for 1.6.629 and newer  (nexus 42839)
+- Loose Version  (nexus 68139)
+- Inertia - Latest Version
+- Sprint Sneak Movement Speed Fix
+- Recursion Fix  (nexus 76867)
+- OnMagicEffectApply Replacer Effective  (nexus 67968)
+- powerofthree's Tweaks
+- Papyrus Extender
+- Base Object Swapper
+- Crafting Recipe Distributor
+- Dual Casting Fix
+- AnimObject Swapper  (nexus 75167)
+- MCM Helper
+- Object Categorization Framework  (nexus 81469)
+- Unofficial Creation Club Content Patch
+- NPC AI Process Position Fix - NG
+- 1st Person Interact Animation Teleport Bug Fix  (nexus 92795)
+- Navigator - Navmesh Fixes
+- True Directional Movement
+- TrueHUD
+- Precision
+- Immersive Equipment Displays for 1.6.629 and newer  (nexus 62001)
+- Simple Dual Sheath for 1.6.629 and newer
+- Immersive Interactions - Animated Actions  (nexus 47670)
+- Immersive Interactions - Integration Patch  (nexus 76862)
+- Dirt and Blood  (nexus 38886)
+- Guard Dialogue Overhaul - ESL  (nexus 22075)
+- Relationship Dialogue Overhaul Lite
+- Bandit Lines Expansion  (nexus 63733)
+- Civil War Lines Expansion  (nexus 77566)
+- Forsworn and Thalmor Lines Expansion  (nexus 80188)
+- To Your Face AE
+- NPCs React To Necromancy  (nexus 70428)
+- NPCs React To Invisibility  (nexus 91480)
+- NPCs React To Frenzy  (nexus 107492)
+- Sleeping Expanded  (nexus 59250)
+- The Choice is Yours  (nexus 3850)
+- At Your Own Pace - College of Winterhold  (nexus 52704)
+- Timing is Everything SE  (nexus 25464)
+- Thieves Guild Requirements SE
+- Improved College Entry  (nexus 22184)
+- Trade and Barter SE  (nexus 23081)
+- Gotobed-se-lite  (nexus 4224)
+- Mundus - A Standing Stone Overhaul
+- Why I Came to Skyrim - Origin Stories  (nexus 167166)
+- AI Overhaul AE 1.9.5
+- AI Overhaul SPIDified
+- AI Overhaul SSE SkyPatcher Patch
+- Optimised Scripts for Enhanced Blood Textures - SPID version  (nexus 76767)
+- Enhanced Blood Textures SE - Settings Loader (SPID version)  (nexus 56560)
+- True Storms SE 103  (nexus 2472)
+- BodySlide Output
+
+## Disabled but installed
+
+- DLC: HearthFires
+- DLC: Dragonborn
+- DLC: Dawnguard
+- Creation Club: ccvsvsse004-beafarmer
+- Creation Club: ccvsvsse003-necroarts
+- Creation Club: ccvsvsse002-pets
+- Creation Club: ccvsvsse001-winter
+- Creation Club: cctwbsse001-puzzledungeon
+- Creation Club: ccrmssse001-necrohouse
+- Creation Club: ccqdrsse002-firewood
+- Creation Club: ccqdrsse001-survivalmode
+- Creation Club: ccpewsse002-armsofchaos
+- Creation Club: ccmtysse002-ve
+- Creation Club: ccmtysse001-knightsofthenine
+- Creation Club: cckrtsse001_altar
+- Creation Club: ccfsvsse001-backpacks
+- Creation Club: ccffbsse002-crossbowpack
+- Creation Club: ccffbsse001-imperialdragon
+- Creation Club: cceejsse005-cave
+- Creation Club: cceejsse004-hall
+- Creation Club: cceejsse003-hollow
+- Creation Club: cceejsse002-tower
+- Creation Club: cceejsse001-hstead
+- Creation Club: ccedhsse003-redguard
+- Creation Club: ccedhsse002-splkntset
+- Creation Club: ccedhsse001-norjewel
+- Creation Club: cccbhsse001-gaunt
+- Creation Club: ccbgssse069-contest
+- Creation Club: ccbgssse068-bloodfall
+- Creation Club: ccbgssse067-daedinv
+- Creation Club: ccbgssse066-staves
+- Creation Club: ccbgssse064-ba_elven
+- Creation Club: ccbgssse063-ba_ebony
+- Creation Club: ccbgssse062-ba_dwarvenmail
+- Creation Club: ccbgssse061-ba_dwarven
+- Creation Club: ccbgssse060-ba_dragonscale
+- Creation Club: ccbgssse059-ba_dragonplate
+- Creation Club: ccbgssse058-ba_steel
+- Creation Club: ccbgssse057-ba_stalhrim
+- Creation Club: ccbgssse056-ba_silver
+- Creation Club: ccbgssse055-ba_orcishscaled
+- Creation Club: ccbgssse054-ba_orcish
+- Creation Club: ccbgssse053-ba_leather
+- Creation Club: ccbgssse052-ba_iron
+- Creation Club: ccbgssse051-ba_daedricmail
+- Creation Club: ccbgssse050-ba_daedric
+- Creation Club: ccbgssse045-hasedoki
+- Creation Club: ccbgssse043-crosselv
+- Creation Club: ccbgssse041-netchleather
+- Creation Club: ccbgssse040-advobgobs
+- Creation Club: ccbgssse038-bowofshadows
+- Creation Club: ccbgssse037-curios
+- Creation Club: ccbgssse036-petbwolf
+- Creation Club: ccbgssse035-petnhound
+- Creation Club: ccbgssse034-mntuni
+- Creation Club: ccbgssse031-advcyrus
+- Creation Club: ccbgssse025-advdsgs
+- Creation Club: ccbgssse021-lordsmail
+- Creation Club: ccbgssse020-graycowl
+- Creation Club: ccbgssse019-staffofsheogorath
+- Creation Club: ccbgssse018-shadowrend
+- Creation Club: ccbgssse016-umbra
+- Creation Club: ccbgssse014-spellpack01
+- Creation Club: ccbgssse013-dawnfang
+- Creation Club: ccbgssse012-hrsarmrstl
+- Creation Club: ccbgssse011-hrsarmrelvn
+- Creation Club: ccbgssse010-petdwarvenarmoredmudcrab
+- Creation Club: ccbgssse008-wraithguard
+- Creation Club: ccbgssse007-chrysamere
+- Creation Club: ccbgssse006-stendarshammer
+- Creation Club: ccbgssse005-goldbrand
+- Creation Club: ccbgssse004-ruinsedge
+- Creation Club: ccbgssse003-zombies
+- Creation Club: ccbgssse002-exoticarrows
+- Creation Club: ccbgssse001-fish
+- Creation Club: ccasvsse001-almsivi
+- Creation Club: ccafdsse001-dwesanctuary
+- Creation Club: _ResourcePack
+- Northern Roads
+- Towels UBE
+- BnP female skin 2k (UNP Player and Replacer)
+
+## Plugin load order
+
+- [x] MajesticMountains_Landscape.esm
+- [x] MajesticMountains_Moss.esp
+- [x] SmoothCam.esl
+- [x] Alpine Forest of Whiterun Valley.esp
+- [x] Cathedral - 3D Mountain Flowers.esp
+- [x] unofficial skyrim special edition patch.esp
+- [x] AncientDraugr.esl
+- [x] Gwelda Red Riding Hood.esl
+- [x] DX Witch Hunter Armor.esl
+- [x] Black Widow Outfit.esl
+- [x] Cassandra Apocrypha UNP.esl
+- [x] Cassandra Frost Witch.esl
+- [x] Ursine Armor Pack.esl
+- [x] Celes Mercy.esl
+- [x] Celes Nightingale Armor.esl
+- [x] Celes Rogue Armor UNP.esl
+- [x] Celes Tarot Outfit Cloth UNP.esl
+- [x] Crimson Blood Armor.esl
+- [x] Daedric Reaper Armor.esl
+- [x] Demon Armor.esl
+- [x] DX Christmas Bunny Outfit.esl
+- [x] DX Dark Knight Armor.esl
+- [x] DX Daughter of the Sea.esl
+- [x] DX Druid Armor.esl
+- [x] DX Morenn Outfit.esl
+- [x] DX Necromancer Robes.esl
+- [x] DX Succubus Armor.esl
+- [x] DX Witcher Armor.esl
+- [x] Emfy Cleric Robes.esl
+- [x] Gwelda Dawnguard Armor.esl
+- [x] Gwelda Vampire.esl
+- [x] Gwelda Witch.esl
+- [x] Merta Assassin Armor.esl
+- [x] Merta Black Rose Armor.esl
+- [x] Sotteta Huntress Armor.esl
+- [x] Sotteta Necromancer Outfit.esl
+- [x] Spartan Bard Outfit.esl
+- [x] Stella Mithril Armor.esl
+- [x] Tembtra Thief Armor.esl
+- [x] WildHuntress.esl
+- [x] DynDOLOD.esm
+- [x] Wintersun - Faiths of Skyrim.esp
+- [x] Odin - Skyrim Magic Overhaul.esp
+- [x] Triumvirate - Mage Archetypes.esp
+- [x] Summermyst - Enchantments of Skyrim.esp
+- [x] RaceMenuMorphsCBBE.esp
+- [x] Serana.esp
+- [x] Unique Uniques.esp
+- [x] SkyUI_SE.esp
+- [x] Ordinator - Perks of Skyrim.esp
+- [x] Immersive Weapons.esp
+- [x] Sacrosanct - Vampires of Skyrim.esp
+- [x] evgmodularSMPhair.esp
+- [x] Growl - Werebeasts of Skyrim.esp
+- [x] RaceMenu.esp
+- [x] KSHairdosSMP.esp
+- [x] KSWigsSMP.esp
+- [x] weapons armor clothing & clutter fixes.esp
+- [x] WACCF_BashedPatchLvlListFix.esp
+- [x] FSMPM - The FSMP MCM.esp
+- [x] Remodeled Armor - Vanilla Replacer AE.esp
+- [x] Remodeled Armor - Underwear.esp
+- [x] Remodeled Armor - Vanilla Replacer.esp
+- [x] Common Clothes and Armors.esp
+- [x] NitesCommonClothesandArmors.esp
+- [x] MajesticMountains.esp
+- [x] Lit Road Signs.esp
+- [x] 3BBB.esp
+- [x] Remodeled Armor - WACCF.esp
+- [x] RaceMenuPlugin.esp
+- [x] XPMSE.esp
+- [x] Apocalypse - Magic of Skyrim.esp
+- [x] Bijin NPCs.esp
+- [x] Bijin Wives.esp
+- [x] CBBE.esp
+- [x] Bijin Warmaidens.esp
+- [x] alternate start - live another life.esp
+- [x] Skyland Watercolor - Slow Green-Vanilla.esp
+- [x] SunDaytimeNorth_MM_default.esp
+- [x] BetterCraftedPotions.esp
+- [x] BetterThirdPersonSelection.esp
+- [x] HD Lods SSE.esp
+- [x] S3DTrees NextGenerationForests.esp
+- [x] Blubbo_again_an_aspen_replacer_2023.esp
+- [x] BentPines.esp
+- [x] fallentreebridgesSSE.esp
+- [x] Folkvangr - Grass and Landscape Overhaul.esp
+- [x] Landscape Fixes For Grass Mods.esp
+- [x] Nature of the Wild Lands.esp
+- [x] Simplicity of Snow.esp
+- [x] SMIM-SE-Merged-All.esp
+- [x] DynDOLOD.esp
+- [x] Occlusion.esp
+- [x] SeranaDialogAddon.esp
+- [x] Bijin - UCMT.esp
+- [x] SDA CC Umbra Patch.esp
+- [x] SDA Wintersun Patch.esp
+- [x] SDA_SpellToggleExtendedV2.esp
+- [x] noCamColl_2_SE.esp
+- [x] UIExtensions.esp
+- [x] OBody.esp
+- [x] The Amazing World of Bikini Armors REMASTERED.esp
+- [x] TAWOBA Remastered Leveled List.esp
+- [x] [Imp] Modular Mage.esp
+- [x] [Caenarvon] Cosplay Pack.esp
+- [x] [Caenarvon] Cosplay Basics.esp
+- [x] Skimped - Royal Vampire.esp
+- [x] DH SIB.esp
+- [x] BD Standalone.esp
+- [x] Fashions of the Banditry.esp
+- [x] [Myst]WonderlandLingerie.esp
+- [x] (Pumpkin)-TEWOBA-TheExpandedWorldofBikiniArmor.esp
+- [x] CBBE 3BA CC Beasts.esp
+- [x] CBBE 3BA Creation Club.esp
+- [x] CBBE 3BA Vanilla Beasts.esp
+- [x] CBBE 3BA Vanilla Outfits.esp
+- [x] [qdaro] Silver Witch.esp
+- [x] TAWOBA_guards_addon.esp
+- [x] TAWOBA_impe.esp
+- [x] TAWOBA_dawn.esp
+- [x] TAWOBA_Dawn_Heavy.esp
+- [x] ShatteredRoyalArmor.esp
+- [x] RegaliaOfTheScorned.esp
+- [x] pantiesofskyrim.esp
+- [x] Shas' Chains and Silks.esp
+- [x] BD Armor and clothes replacer.esp
+- [x] TheEyesOfBeauty.esp
+- [x] SFO_SkinFeatureOverlays.esp
+- [x] CommunityOverlays1_0T30.esp
+- [x] CommunityOverlays2_31T50.esp
+- [x] Warrior_Paints3.esp
+- [x] RXOverlays.esp
+- [x] OverlayDistributionFramework.esp
+- [x] Brows.esp
+- [x] PraedysEyes.esp
+- [x] Towels.esp
+- [x] BnP - Skinfix.esp
+- [x] Footprints.esp
+- [x] McmRecorder.esp
+- [x] Dynamic Activation Key.esp
+- [x] Dynamic Activation Key - MCM.esp
+- [x] DynamicMagicModificationFramework.esp
+- [x] MCMHelper.esp
+- [x] OCF.esp
+- [x] unofficial skyrim creation club content patch.esl
+- [x] Navigator-NavFixes.esp
+- [x] TrueDirectionalMovement.esp
+- [x] TrueHUD.esl
+- [x] Precision.esp
+- [x] ImmersiveInteractions.esp
+- [x] Dirt and Blood - Dynamic Visuals.esp
+- [x] Guard Dialogue Overhaul.esp
+- [x] Relationship Dialogue Overhaul.esp
+- [x] Bandit Lines Expansion.esp
+- [x] Civil War Lines Expansion.esp
+- [x] Forsworn and Thalmor Lines Expansion.esp
+- [x] NPCs React To Necromancy.esp
+- [x] NPCs React To Invisibility.esp
+- [x] NPCsReactToFrenzy.esp
+- [x] Sleeping Expanded.esp
+- [x] TheChoiceIsYours.esp
+- [x] At Your Own Pace - College of Winterhold.esp
+- [x] TimingIsEverything.esp
+- [x] thieves guild requirements.esp
+- [x] CollegeEntry.esp
+- [x] trade & barter.esp
+- [x] Mundus.esp
+- [x] MundusUSSEP.esp
+- [x] The Book of Origins - Alternate Start.esp
+- [x] The Book of Origins.esp
+- [x] AI Overhaul - Fishing Addon.esp
+- [x] AI Overhaul - USSEP Patch.esp
+- [x] AI Overhaul.esp
+- [x] TrueStormsSE.esp
+

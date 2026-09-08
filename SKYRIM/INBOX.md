@@ -119,3 +119,30 @@ STATE:  262 plugins, check_masters clean. 214 mods enabled, 6 disabled.
         launch_check.ps1: 0 dialogs, reached the game window, no
         AddressLibrary error. Section 3 (AI Overhaul vs Bijin) still WRONG and
         is being worked next.
+## 2026-09-08 18:05 ET  CODE (local, Windows)
+DID:    NEXT.md section 3 CLOSED, and the cloud session's finding was right:
+        AI Overhaul.esp was at 251 of 262, AFTER all four Bijin plugins.
+        Moved the AI Overhaul block to 156-158, ahead of Bijin at
+        159/160/162/181, in both loadorder.txt and plugins.txt. Book of
+        Origins was already correct. check_masters clean, 262 plugins.
+        Made it DURABLE instead of hand-sorted: lockedorder.txt was empty, so
+        nothing was pinned and the next LOOT sort would have reverted it,
+        which is almost certainly how it got wrong in the first place.
+        New: tools\loot-userlist.yaml (the rule, tracked in the archive),
+        tools\deploy_loot_rules.ps1 (installs it to LOOT's data dir, applied
+        and read-back verified), tools\check_order.ps1 (asserts section 3's
+        constraints, exit 1 on violation - run it after ANY sort).
+NEEDS:  ONE Sort in MO2 to prove the rule survives a sort, then
+        tools\check_order.ps1. Not done here because it cannot be driven
+        headlessly: MO2 sorts with its bundled loot\lootcli.exe inside the
+        usvfs, and that is the only way anything sees mods\ as a populated
+        Data folder. Do NOT sort with standalone LOOT.exe to test this -
+        LOOTDebugLog.txt shows it builds its game handle against
+        C:\Program Files (x86)\Steam\..., which is off limits per CLAUDE.md
+        section 2 and is not this build anyway.
+STATE:  262 plugins, check_masters clean, check_order 0 violations.
+        214 mods enabled, 6 disabled. runtime_check 0 wrong-runtime.
+        LOOT userlist.yaml deployed to
+        %LOCALAPPDATA%\LOOT\games\Skyrim Special Edition\userlist.yaml.
+        NEXT.md sections 1 and 3 struck. Section 6 decisions untouched -
+        those are Matt's.

@@ -16,7 +16,15 @@ changes the load order.
 
 ---
 
-## 1. BLOCKING BUG - wrong-runtime SKSE plugins
+## 1. ~~BLOCKING BUG - wrong-runtime SKSE plugins~~ DONE 2026-09-08 17:44 CODE
+
+**Closed.** Bug Fixes SSE reinstalled as file 368384, Actor Limit Fix as file
+368385, both the "(1.6.629.0 and later)" build. Both 1.7.99 folders disabled.
+runtime_check.ps1 now reports 0 wrong-runtime, check_masters clean at 262
+plugins, and SKSE boots to the game window with no AddressLibrary popup.
+The sweep also turned up To Your Face AE (24720), which fails SKSE's own
+version gate and has no 1170-compatible build - disabled, see INBOX.
+Verified unattended with the new tools\launch_check.ps1. Original text below.
 
 `ActorLimitFix.dll - AddressLibrary.cpp(102,34): Identifier not found, 523948`
 pops on every SKSE launch. Actor Limit Fix (32349) and Bug Fixes SSE (33261)
@@ -135,7 +143,24 @@ Loader must load AFTER the optimised scripts or it loses the file conflict.
 
 ---
 
-## 3. VERIFY THE LOAD ORDER, ONCE
+## 3. ~~VERIFY THE LOAD ORDER, ONCE~~ DONE 2026-09-08 18:05 CODE
+
+**It was wrong, and "once" was the bug.** AI Overhaul.esp was at 251 of 262,
+AFTER all four Bijin plugins - the reverse of what this section requires. Fixed
+in loadorder.txt and plugins.txt: AI Overhaul is now 156, Bijin 159/160/162/181.
+Book of Origins was already correct.
+
+Made durable rather than hand-sorted. lockedorder.txt was empty, so nothing was
+pinned and the next LOOT sort would simply have undone it - which is almost
+certainly what happened the first time. tools\loot-userlist.yaml declares the
+constraint to LOOT ("Bijin X after AI Overhaul.esp"; LOOT has no "before" key),
+and tools\deploy_loot_rules.ps1 installs it to LOOT's data directory.
+Re-check after ANY sort with tools\check_order.ps1, which exits 1 on violation.
+
+Do NOT verify by running standalone LOOT.exe. LOOTDebugLog.txt shows it builds
+its game handle against the Steam install, which CLAUDE.md section 2 puts off
+limits and which is not this build. Sort from inside MO2, which runs the
+bundled lootcli.exe under the VFS. Original text below.
 
 Sort with LOOT in MO2, then confirm by eye in the plugin list:
 

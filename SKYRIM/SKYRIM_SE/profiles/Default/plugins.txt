@@ -74,6 +74,9 @@
 *RaceMenuPlugin.esp
 *XPMSE.esp
 *Apocalypse - Magic of Skyrim.esp
+*AI Overhaul.esp
+*AI Overhaul - USSEP Patch.esp
+*AI Overhaul - Fishing Addon.esp
 *Bijin NPCs.esp
 *Bijin Wives.esp
 *CBBE.esp
@@ -169,9 +172,6 @@
 *MundusUSSEP.esp
 *The Book of Origins.esp
 *The Book of Origins - Alternate Start.esp
-*AI Overhaul.esp
-*AI Overhaul - USSEP Patch.esp
-*AI Overhaul - Fishing Addon.esp
 *TrueStormsSE.esp
 *dD - Enhanced Blood Main.esp
 *Audio Overhaul Skyrim.esp

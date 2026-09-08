@@ -1,0 +1,41 @@
+# LOOT user rules for this build.
+#
+# DEPLOY TO:
+#   C:\Users\mr\AppData\Local\LOOT\games\Skyrim Special Edition\userlist.yaml
+#
+# That path is outside X:\MODDING, so it is not covered by the archive. This
+# file is the tracked master copy; tools\deploy_loot_rules.ps1 copies it into
+# place and diffs the two.
+#
+# WHY THIS EXISTS
+# NEXT.md section 3 requires AI Overhaul.esp to load BEFORE every Bijin plugin,
+# because Bijin must win the NPC appearance records. Nothing pinned that.
+# lockedorder.txt was empty and LOOT had sorted AI Overhaul to 251 of 262, at
+# the very bottom, after all four Bijin plugins - the exact reverse. A manual
+# drag would have been undone by the next sort, so the constraint is declared
+# here where LOOT itself will honour it.
+#
+# LOOT has no "before" key. "A after B" is how you say "B loads before A", so
+# the rule goes on each Bijin plugin, not on AI Overhaul.
+#
+# The two AI Overhaul patches need no rule: AI Overhaul.esp is a MASTER of both
+# AI Overhaul - USSEP Patch.esp and AI Overhaul - Fishing Addon.esp, and LOOT
+# always orders a plugin after its masters. Same reason The Book of Origins -
+# Alternate Start.esp needs none.
+
+plugins:
+  - name: 'Bijin NPCs.esp'
+    after:
+      - 'AI Overhaul.esp'
+
+  - name: 'Bijin Wives.esp'
+    after:
+      - 'AI Overhaul.esp'
+
+  - name: 'Bijin Warmaidens.esp'
+    after:
+      - 'AI Overhaul.esp'
+
+  - name: 'Bijin - UCMT.esp'
+    after:
+      - 'AI Overhaul.esp'

@@ -1,0 +1,450 @@
+﻿=== SkyHUD ===
+
+=== install mod (APPLY) ===
+
+
+=== SkyHUD  (mod 463, skyrimspecialedition) ===
+    by Fhaarkas   version 0.90.1B
+
+--- SkyHUD v090B v4 ---
+    file id  61422   category MAIN   version 0.90B
+    SkyHUD v090B v4-463-0-90B.zip   (3.8 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\SkyHUD v090B v4-463-0-90B.zip
+
+
+--- SkyHUD v090B v4-463-0-90B.zip ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: What's New  [SelectAll]
+         - Proceed
+      group: Please select installation type  [SelectExactlyOne]
+         - ESP Package
+         - Loose Files
+      group: Choose a preset  [SelectExactlyOne]
+         - None
+         - Vanilla Default
+         - Vanilla Small
+         - SkyHUD Default
+         - SkyHUD Oblivion
+      group: Optional  [SelectAny]
+         - Install iHUD compatibility patch
+         - Extra presets
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped SkyHUD
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== SkyHUD - Patch 0901B ===
+
+=== install mod (APPLY) ===
+
+
+=== SkyHUD  (mod 463, skyrimspecialedition) ===
+    by Fhaarkas   version 0.90.1B
+
+--- Patch - SkyHUD v090B ---
+    file id  65410   category UPDATE   version 0.90.1B
+    Patch - SkyHUD v090B-463-0-90-1.zip   (0.4 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Patch - SkyHUD v090B-463-0-90-1.zip
+
+
+--- Patch - SkyHUD v090B-463-0-90-1.zip ---
+  name      SkyHUD - Patch 0901B
+  data root <archive root>
+  1 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             SkyHUD - Patch 0901B
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Widescreen Scale Removed ===
+
+=== install mod (APPLY) ===
+
+
+=== Widescreen Scale Removed for 1-6-1130 and higher  (mod 136793, skyrimspecialedition) ===
+    by SkyHorizon3   version 1.1.0
+
+--- Widescreen Scale Removed ---
+    file id  798072   category MAIN   version 1.1.0
+    Widescreen Scale Removed 136793 1.1.0 2026-08-31T11-14Z VMSnJrAvo.7z   (3.7 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Widescreen Scale Removed 136793 1.1.0 2026-08-31T11-14Z VMSnJrAvo.7z
+
+
+--- Widescreen Scale Removed 136793 1.1.0 2026-08-31T11-14Z VMSnJrAvo.7z ---
+  name      Widescreen Scale Removed
+  data root <archive root>
+  3 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Widescreen Scale Removed
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Oathvein UI ===
+
+=== install mod (APPLY) ===
+
+
+=== Oathvein UI  (mod 160916, skyrimspecialedition) ===
+    by nithog   version 1.2.3
+
+--- Oathvein UI ---
+    file id  764827   category MAIN   version 1.2.3
+    Oathvein UI 160916 1.2.3 2026-06-17T15-28Z Ks18n0caJ.7z   (46.5 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Oathvein UI 160916 1.2.3 2026-06-17T15-28Z Ks18n0caJ.7z
+
+
+--- Oathvein UI 160916 1.2.3 2026-06-17T15-28Z Ks18n0caJ.7z ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Oathvein UI Install  [SelectAny]
+         - Proceed 💬
+      group: Resolutions  [SelectExactlyOne]
+         - 1. 16:9
+         - 2. 21:9
+      group: Base Files  [SelectAll]
+         - Main bulk 💬 Read Me 💬 
+      group: Start Menu  [SelectExactlyOne]
+         - 1. Default - Skip
+         - 2. Simple
+         - 3. Full
+         - 4. Start Menu Settings
+         - 5. Start Menu Settings Logo
+      group: Inventory Style  [SelectExactlyOne]
+         - 1. Skip - Defauilt (Horizontal)
+         - 2. Horizontal tabs - Vertical itemcard  
+         - 3. Vertical Tabs
+         - 4. Slimventory
+      group: Truehud Style  [SelectExactlyOne]
+         - 1. Standard - Skip
+         - 2. Standard with numbers
+         - 3. Alternative
+         - 4. Alternative with numbers
+      group: Major Patches  [SelectAny]
+         - 1. Alt Cursor
+         - 2. CoMAP Map Markers
+         - 3. Dragonborn Voice Over
+         - 4. Oblivion Interaction Icons
+         - 5. STB Widgets Shout Alt
+         - 6. Scribes of Skyrim
+      group: Select placement  [SelectExactlyOne]
+         - 1. Default Top - Skip
+         - 2. Default Bottom
+         - 3. 3THANY Preset Top
+      group: Base Files  [SelectAll]
+         - Main bulk 💬 Read Me 💬 
+      group: Start Menu  [SelectExactlyOne]
+         - 1. Default - Skip
+         - 2. Simple
+         - 3. Full
+         - 4. Start Menu Settings
+         - 5. Start Menu Settings Logo
+      group: Inventory Style  [SelectExactlyOne]
+         - 1. Skip - Default (Horizontal)
+         - 2. Horizontal tabs - Vertical itemcard  
+         - 3. Vertical Tabs
+         - 4. Slimventory
+      group: Truehud Style  [SelectExactlyOne]
+         - 1. Standard - Skip
+         - 2. Standard with numbers
+         - 3. Alternative
+         - 4. Alternative with numbers
+      group: Major Patches  [SelectAny]
+         - 1. Alt Cursor
+         - 2. CoMAP Map Markers
+         - 3. Dragonborn Voice Over
+         - 4. Oblivion Interaction Icons
+         - 5. STB Widgets Shout Alt
+         - 6. Scribes of Skyrim
+      group: Select placement  [SelectExactlyOne]
+         - 1. Default Top - Skip
+         - 2. Default Bottom
+         - 3. 3THANY Preset Top
+      group: Select Your Sorting mod  [SelectExactlyOne]
+         - 1. Skip
+         - 2. AIT
+         - 3A. KIT
+         - 3B. KIT EQ on top
+      group: 3D Item  [SelectExactlyOne]
+         - 1. Oathvein's Default - Skip
+         - 2. SkyUI's Default
+      group: Inventory Bars  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Inventory bars
+         - 2. Inventory bars ALT
+      group: Choose Your Style  [SelectExactlyOne]
+         - 1. Vanilla
+         - 2. Vanilla Custom Skills
+         - 3. Vanilla V2
+         - 4. Vanilla V2 Custom Skills
+         - 5. Tween Menu Overhaul Classic V1
+         - 6. Tween Menu Overhaul Classic v1 Centered
+         - 7. Tween Menu Overhaul Classic V2
+         - 8. Tween Menu Overhaul Alternative
+      group: Select Your patches  [SelectAny]
+         - 1. Achievements
+         - 2. Dialogue History
+         - 3. Photo Mode
+         - 4. Swiftly Order Squad
+      group: Altenate Perspective  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Dragonborn Bestiary  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Standard
+         - 3. Know Your Emeny 2 LITE
+      group: Favorite Menu  [SelectExactlyOne]
+         - 1. Vanilla - Skip
+         - 2. Extended Favorites
+         - 3. Favorites Menu Effects Descriptions
+         - 4. Favorites Menu Effects Descriptions Extended
+         - 5. Archmagus Favorites
+      group: Minimap  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Dragons Eye Minimap
+         - 3. Minimap Menu
+      group: Static Skill Leveling Rewritten  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes - Basic
+         - 3. Yes - Constellations
+         - 4. Yes - Firmament
+      group: Quest Journal Overhaul  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Character Menu SE  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Character Menu SE
+         - 3. Character Menu SE Hand to Hand
+      group: Altenate Perspective  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Dragonborn Bestiary  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Standard
+         - 3. Know Your Enemy 2 LITE
+      group: Favorites Menu  [SelectExactlyOne]
+         - 1. Vanilla - Skip
+         - 2. Extended Favorites
+         - 3. Favorite Menu Effect Descriptions
+         - 4. Favorite Menu Effect Descriptions Extended
+         - 2. Archmagus Favorites
+      group: Minimap  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Dragons Eye Minimap
+         - 3. Minimap Menu
+      group: Static Skill Leveling Rewritten  [SelectExactlyOne]
+         - 1. Vanilla - Skip
+         - 2. Yes - Basic
+         - 3. Yes - Constellations
+         - 4. Yes - Firmament
+      group: Quest Journal Overhaul  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Character Menu SE  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Character Menu SE
+         - 3. Character Menu SE Hand to Hand
+      group: A matter of Time  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Achievement Injector  [SelectExactlyOne]
+         - 1. Skip
+         - 2. 16x9 Res
+         - 3. 21x9 Res
+      group: Bathing in Skyrim  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Biggie Traits and Sky Sign  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Casting Bar  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Character Suggestor  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Compare Equipment NG  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Cycle Movesets Framework - CMF  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Unsearched Corpses Indicator  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Quest Givers Have Icons Framework  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Complete Detection Indicator  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Witness Indicator  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Quest Item Icon  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Detection Meter  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Dialogue History  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Extended UI  [SelectExactlyOne]
+         - 1. Skip
+         - 2. 16x9 Res ❗
+         - 3. 21x9 Res ❗
+      group: Faction Ranks  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Fancy Fishing  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Follower Stats  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Frostfall and Last Seed bars  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Frostfall Widgets  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: FTweaks  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes - ❗ Requires Requiem ❗
+      group: Lock Bash Threshold Meter  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes - ❗ Requires Requiem ❗
+      group: Hotkey Reminder  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: My Precious...es - Multiple Rings SKSE  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Ineed Widgets  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: ImGUI Icons  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Legendary Map  [SelectExactlyOne]
+         - 1. Skip
+         - 2a. Yes 16x9 Res
+         - 2b. Yes 16x9 Res (CoMap Support)
+         - 3a. Yes 21x9 Res
+         - 3b. Yes 21x9 Res (CoMap Support)
+      group: Lore Box  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Loading Menu Overhaul  [SelectExactlyOne]
+         - 1. Skip
+         - 2. 16x9 Res
+         - 3. 21x9 Res
+      group: Local Map Upgrade  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Modern Wait Menu  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Oxygen Meter 2  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Why I Came To Skyrim  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: RoleRim Series  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Photo Mode  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Quick Item Transfer  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: QuickLoot IE  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Style v1
+         - 3. Style v2
+      group: Spell Hotbar  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Version 1 (Nexus)
+         - 3. Version 2 (Github)
+      group: Staff Enchanthing Plus  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Regular inventory
+         - 3. Regular inventory Vertical itemcard
+         - 4. Slimventory 16x9
+         - 5. Slimventory 21x9
+      group: Skyblivon Lockpick Menu  [SelectExactlyOne]
+         - 1. Skip
+         - 2. 16x9 Res
+         - 3. 21x9 Res
+      group: Skyrim Character Sheet  [SelectExactlyOne]
+         - 1. Skip
+         - 2. 16x9 Res
+         - 3. 21x9 Res
+      group: Skyrim NPC Stat Card  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: SkyUILib  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: SkyParkour v3  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Sunhelm  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Swiftly Order Squad  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: UiExtensions  [SelectExactlyOne]
+         - 1. Skip
+         - 2. UIExtensions
+         - 2. UIExtensions Smaller/Widescreen
+      group: Werewolf Transformation Timer  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Wheeler  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Wheeler AIO
+         - 3. Wheeler Background
+         - 4. Wheeler Icons
+      group: Skyhud  [SelectAny]
+         - Undestanding Skyhud
+      group: Desktop Splash Screen  [SelectAny]
+         - Yea
+      group: Sunhelm with Bathing in Skyrim Preset  [SelectExactlyOne]
+         - 1. Skip
+         - 2. Yes
+      group: Thanks for downloading Oathvein UI  [SelectAll]
+         - Finished
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Oathvein UI
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+

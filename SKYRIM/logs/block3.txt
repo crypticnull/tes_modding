@@ -1,0 +1,588 @@
+﻿=== moreHUD SE (12688) ===
+
+=== install mod (APPLY) ===
+
+
+=== moreHUD SE  (mod 12688, skyrimspecialedition) ===
+    by ahzaab   version 5.4.4.0
+
+--- moreHUD for SE and AE ---
+    file id  800455   category MAIN   version 5.4.4.0
+    moreHUD for SE and AE 12688 5.4.4.0 2026-09-05T02-14Z pQ0AZ3wKt.7z   (6.1 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\moreHUD for SE and AE 12688 5.4.4.0 2026-09-05T02-14Z pQ0AZ3wKt.7z
+
+
+--- moreHUD for SE and AE 12688 5.4.4.0 2026-09-05T02-14Z pQ0AZ3wKt.7z ---
+  name      moreHUD SE
+  data root Data
+  4 file(s), 1 plugin(s)
+      AHZmoreHUD.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             moreHUD SE
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Inventory Interface Information Injector (85702) ===
+
+=== install mod (APPLY) ===
+
+
+=== Inventory Interface Information Injector  (mod 85702, skyrimspecialedition) ===
+    by Parapets   version 1.1.1
+
+--- Inventory Interface Information Injector (SE) ---
+    file id  796498   category MAIN   version 1.1.1
+    Inventory Interface Information Injector (SE) 85702 1.1.1 2026-08-28T16-24Z JrECN23ds.7z   (3.5 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Inventory Interface Information Injector (SE) 85702 1.1.1 
+2026-08-28T16-24Z JrECN23ds.7z
+
+
+--- Inventory Interface Information Injector (SE) 85702 1.1.1 2026-08-28T16-24Z JrECN23ds.7z ---
+  name      Inventory Interface Information Injector
+  data root <archive root>
+  18 file(s), 1 plugin(s)
+      I4IconAddon.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Inventory Interface Information Injector
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Skyrim Souls RE (27859) ===
+
+=== install mod (APPLY) ===
+
+
+=== Skyrim Souls RE - Unpaused Menus  (mod 27859, skyrimspecialedition) ===
+    by Vermunds   version 3.1.2
+
+--- Skyrim Souls RE - Unpaused Menus ---
+    file id  754726   category MAIN   version 3.1.2
+    Skyrim Souls RE - Unpaused Menus-27859-3-1-2-1779355258.zip   (5.9 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Skyrim Souls RE - Unpaused Menus-27859-3-1-2-1779355258.zip
+
+
+--- Skyrim Souls RE - Unpaused Menus-27859-3-1-2-1779355258.zip ---
+  name      Skyrim Souls RE
+  data root <archive root>
+  18 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Skyrim Souls RE
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== ConsolePlusPlus (79975) ===
+
+=== install mod (APPLY) ===
+
+
+=== ConsolePlusPlus  (mod 79975, skyrimspecialedition) ===
+    by powerofthree   version 1.5.1
+
+--- ConsolePlusPlus ---
+    file id  795539   category MAIN   version 1.5.1
+    ConsolePlusPlus 79975 1.5.1 2026-08-26T18-40Z 2Bej58oaD.7z   (6.7 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\ConsolePlusPlus 79975 1.5.1 2026-08-26T18-40Z 2Bej58oaD.7z
+
+
+--- ConsolePlusPlus 79975 1.5.1 2026-08-26T18-40Z 2Bej58oaD.7z ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: DLL  [SelectExactlyOne]
+         - SSE/AE v1.7.99+ ("Anniversary/Special Edition")
+         - SSE/AE v1.6.1170 ("Anniversary/Special Edition")
+         - SSE v1.5.97 ("Special Edition")
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped ConsolePlusPlus
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Payload Interpreter (65089) ===
+
+=== install mod (APPLY) ===
+
+
+=== Payload Interpreter  (mod 65089, skyrimspecialedition) ===
+    by dTry   version 1.0.1
+
+--- Payload Interpreter ---
+    file id  394150   category MAIN   version 1.1.0
+    Payload Interpreter-65089-1-1-0-1685672813.zip   (0.2 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Payload Interpreter-65089-1-1-0-1685672813.zip
+
+
+--- Payload Interpreter-65089-1-1-0-1685672813.zip ---
+  name      Payload Interpreter
+  data root Payload Interpretor
+  37 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Payload Interpreter
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== EVG Conditional Idles (34006) ===
+
+=== install mod (APPLY) ===
+
+
+=== EVG Conditional Idles  (mod 34006, skyrimspecialedition) ===
+    by Everglaid   version 1.51
+
+--- EVG Conditional Idles ---
+    file id  506946   category MAIN   version 1.51
+    EVG Conditional Idles-34006-1-51-1717175145.zip   (6.1 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\EVG Conditional Idles-34006-1-51-1717175145.zip
+
+
+--- EVG Conditional Idles-34006-1-51-1717175145.zip ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Required  [SelectAtLeastOne]
+         - Core Modules
+      group: Thank you  [SelectAtLeastOne]
+         - Thank you
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped EVG Conditional Idles
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== EVG Animated Traversal (63232) ===
+
+=== install mod (APPLY) ===
+
+
+=== EVG Animated Traversal  (mod 63232, skyrimspecialedition) ===
+    by Everglaid   version 2.1
+
+--- EVG Animated Traversal - Framework 2.1 ---
+    file id  506136   category MAIN   version 2.1
+    EVG Animated Traversal - Framework 2.1-63232-2-1-1716950619.7z   (5.2 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\EVG Animated Traversal - Framework 2.1-63232-2-1-1716950619.7z
+
+
+--- EVG Animated Traversal - Framework 2.1-63232-2-1-1716950619.7z ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Options  [SelectExactlyOne]
+         - Subtle Marker (Recommended)
+         - More Marker Options
+         - No Basic Marker
+      group: Marker Options  [SelectExactlyOne]
+         - Bright White
+         - Bright Red
+         - Bright Blue
+         - Bright Purple
+         - Bright Yellow
+         - Extra Bright White
+      group: Thank you  [SelectAtLeastOne]
+         - please make sure you have the right requirements!
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped EVG Animated Traversal
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Jump Behavior Overhaul (36889) ===
+
+=== install mod (APPLY) ===
+
+
+=== Jump Behavior Overhaul  (mod 36889, skyrimspecialedition) ===
+    by iRetrospect   version 1.5
+
+--- Jump Behavior Overhaul SE ---
+    file id  318907   category MAIN   version 1.5
+    Jump Behavior Overhaul SE-36889-1-5-1664007826.7z   (1.8 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Jump Behavior Overhaul SE-36889-1-5-1664007826.7z
+
+
+--- Jump Behavior Overhaul SE-36889-1-5-1664007826.7z ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Main Installation  [SelectExactlyOne]
+         - Behavior Module
+         - Animations Only
+      group: Jump Animations  [SelectExactlyOne]
+         - Realistic Jump (Recommended)
+         - None
+      group: Directional Jump Option  [SelectExactlyOne]
+         - Short Jump
+         - Long Jump
+      group: Patch Options  [SelectExactlyOne]
+         - Weighted Jump (Nemesis)
+         - Weighted Jump (FNIS)
+      group: Patch Options  [SelectAny]
+         - Combat Gameplay Overhaul Patch
+         - Weighted Jump Add-on Patch
+      group: Patch Options  [SelectAny]
+         - 360 Movement Behavior Patch
+         - Combat Gameplay Overhaul Patch
+         - Weighted Jump Add-on Patch
+      group: Patch Options  [SelectAny]
+         - 360 Movement Behavior Patch
+         - Combat Gameplay Overhaul Patch
+         - Weighted Jump Add-on Patch
+      group: Jump Fall Speed  [SelectAll]
+         - Read Description
+      group: Reminder  [SelectAll]
+         - Check
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Jump Behavior Overhaul
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Comprehensive First Person Animation Overhaul (87169) ===
+
+=== install mod (APPLY) ===
+
+
+=== Comprehensive First Person Animation Overhaul - CFPAO  (mod 87169, skyrimspecialedition) ===
+    by PolarRobotFrog   version 1.5.1
+
+--- Comprehensive First Person Animation Overhaul ---
+    file id  584071   category MAIN   version 1.5.1
+    Comprehensive First Person Animation Overhaul-87169-1-5-1-1737042350.zip   (6.6 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Comprehensive First Person Animation Overhaul-87169-1-5-1-1737042350.zip
+
+
+--- Comprehensive First Person Animation Overhaul-87169-1-5-1-1737042350.zip ---
+  name      Comprehensive First Person Animation Overhaul
+  data root CFPAO 1.5.1
+  1752 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Comprehensive First Person Animation Overhaul
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Paired Animation Improvements (99621) ===
+
+=== install mod (APPLY) ===
+
+
+=== Paired Animation Improvements  (mod 99621, skyrimspecialedition) ===
+    by Ershin   version 1.0.3
+
+--- Paired Animation Improvements ---
+    file id  798216   category MAIN   version 1.0.3
+    Paired Animation Improvements 99621 1.0.3 2026-08-31T16-20Z FpnkHZY0N.7z   (3.5 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Paired Animation Improvements 99621 1.0.3 2026-08-31T16-20Z FpnkHZY0N.7z
+
+
+--- Paired Animation Improvements 99621 1.0.3 2026-08-31T16-20Z FpnkHZY0N.7z ---
+  name      Paired Animation Improvements
+  data root <archive root>
+  2 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Paired Animation Improvements
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Expressive Facial Animation Female (19181) ===
+
+=== install mod (APPLY) ===
+
+
+=== Expressive Facial Animation -Female Edition-  (mod 19181, skyrimspecialedition) ===
+    by Niroku   version 1.7
+
+--- Expressive Facial Animation - Female Edition ---
+    file id  115524   category MAIN   version 1.7
+    Expressive Facial Animation - Female Edition-19181-1-7-1575746557.7z   (0.1 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Expressive Facial Animation - Female Edition-19181-1-7-1575746557.7z
+
+
+--- Expressive Facial Animation - Female Edition-19181-1-7-1575746557.7z ---
+  name      Expressive Facial Animation Female
+  data root <archive root>
+  9 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Expressive Facial Animation Female
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Expressive Facial Animation Male (19532) ===
+
+=== install mod (APPLY) ===
+
+
+=== Expressive Facial Animation -Male Edition-  (mod 19532, skyrimspecialedition) ===
+    by Niroku   version 1.21
+
+--- Expressive Facial Animation - Male Edition ---
+    file id  115593   category MAIN   version 1.21
+    Expressive Facial Animation - Male Edition-19532-1-21-1575813430.7z   (0.7 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Expressive Facial Animation - Male Edition-19532-1-21-1575813430.7z
+
+
+--- Expressive Facial Animation - Male Edition-19532-1-21-1575813430.7z ---
+  name      Expressive Facial Animation Male
+  data root <archive root>
+  77 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Expressive Facial Animation Male
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Goetia Animations (70204) ===
+
+=== install mod (APPLY) ===
+
+
+=== Goetia Animations - Magic Spell Casting  (mod 70204, skyrimspecialedition) ===
+    by Verolevi   version 1.5b
+
+--- Goetia Animations - Magic Spell Casting ---
+    file id  798351   category MAIN   version 1.5b
+    Goetia Animations - Magic Spell Casting 70204 1.5b 2026-08-31T21-58Z aChSzY0Fa.7z   (0.5 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Goetia Animations - Magic Spell Casting 70204 1.5b 2026-08-31T21-58Z 
+aChSzY0Fa.7z
+
+
+--- Goetia Animations - Magic Spell Casting 70204 1.5b 2026-08-31T21-58Z aChSzY0Fa.7z ---
+  name      Goetia Animations
+  data root Goetia Animations - Magic Spell Casting
+  159 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Goetia Animations
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Inigo (1461) ===
+
+=== install mod (APPLY) ===
+
+
+=== INIGO  (mod 1461, skyrimspecialedition) ===
+    by Smartbluecat   version 2.4C
+
+--- INIGO_V2.4C SE ---
+    file id  10496   category MAIN   version 2.4C
+    INIGO_V2.4C SE-1461-2-4C.7z   (270.8 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\INIGO_V2.4C SE-1461-2-4C.7z
+
+
+--- INIGO_V2.4C SE-1461-2-4C.7z ---
+  name      Inigo
+  data root INIGO\Data
+  3 file(s), 1 plugin(s)
+      Inigo.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Inigo
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Lucien (20035) ===
+
+=== install mod (APPLY) ===
+
+
+=== Lucien - Immersive Fully Voiced Male Follower  (mod 20035, skyrimspecialedition) ===
+    by JosephRussell   version 1.7.2
+
+--- Lucien ---
+    file id  770173   category MAIN   version 1.7.2
+    Lucien 20035 1.7.2 2026-06-30T22-11Z uhRBKsylB.zip   (210.5 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Lucien 20035 1.7.2 2026-06-30T22-11Z uhRBKsylB.zip
+
+
+--- Lucien 20035 1.7.2 2026-06-30T22-11Z uhRBKsylB.zip ---
+  name      Lucien
+  data root <archive root>
+  2 file(s), 1 plugin(s)
+      Lucien.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Lucien
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Song of the Green - Auri (11278) ===
+
+=== install mod (APPLY) ===
+
+
+=== Song of the Green (Auri Follower)  (mod 11278, skyrimspecialedition) ===
+    by Waribiki   version 2.2
+
+--- Song Of The Green (Auri Follower) 2.2 ---
+    file id  616495   category MAIN   version 2.2
+    Song Of The Green (Auri Follower) 2.2-11278-2-2-1744488935.7z   (197.5 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Song Of The Green (Auri Follower) 2.2-11278-2-2-1744488935.7z
+
+
+--- Song Of The Green (Auri Follower) 2.2-11278-2-2-1744488935.7z ---
+  name      Song of the Green - Auri
+  data root <archive root>
+  1665 file(s), 1 plugin(s)
+      018Auri.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Song of the Green - Auri
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Remiel (51874) ===
+
+=== install mod (APPLY) ===
+
+
+=== Remiel-Custom Voiced Dwemer Specialist and Companion  (mod 51874, skyrimspecialedition) ===
+    by Maplespice   version 1.7.6
+
+--- Remiel - Dwemer Specialist ---
+    file id  748194   category MAIN   version 1.7.6
+    Remiel - Dwemer Specialist-51874-1-7-6-1777790683.7z   (498.9 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Remiel - Dwemer Specialist-51874-1-7-6-1777790683.7z
+
+
+--- Remiel - Dwemer Specialist-51874-1-7-6-1777790683.7z ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Main File  [SelectExactlyOne]
+         - Custom Voiced
+      group: Thogra  [SelectAtMostOne]
+         - ESPFE
+      group: Legacy of the Dragonborn  [SelectAtMostOne]
+         - ESPFE
+      group: Beyond Reach  [SelectAtMostOne]
+         - ESPFE
+      group: The Timelost Dwemer  [SelectAtMostOne]
+         - ESPFE
+      group: Lost Races of Nirn  [SelectAtMostOne]
+         - ESPFE
+      group: Aethernautics  [SelectAtMostOne]
+         - ESPFE
+      group: Misc. Patches  [SelectAny]
+         - Vanilla Assets
+         - Dwemer Automatons Glowmapped
+         - Relax Anywhere
+         - Happy Birthday, Remi!
+         - Dwemer Spectres
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Remiel
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== BATCH COMPLETE ===

@@ -262,3 +262,14 @@ WACCF_BashedPatchLvlListFix.esp
 DynDOLOD.esp
 Occlusion.esp
 FNIS.esp
+AHZmoreHUD.esp
+I4IconAddon.esp
+Inigo.esp
+Lucien.esp
+018Auri.esp
+EVGConditionalIdles.esp
+EVGAnimatedTraversal.esl
+SkyHUD.esp
+UntarnishedUI_Subtitle.esp
+HLIORemi.esp
+SofiaFollower.esp

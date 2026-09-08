@@ -1,0 +1,158 @@
+﻿=== SkyHUD ===
+
+=== install mod (APPLY) ===
+
+
+=== SkyHUD  (mod 463, skyrimspecialedition) ===
+    by Fhaarkas   version 0.90.1B
+
+--- SkyHUD v090B v4 ---
+    file id  61422   category MAIN   version 0.90B
+    SkyHUD v090B v4-463-0-90B.zip   (3.8 MB)
+
+    already downloaded and the right size - skipping (use -Force to refetch)
+
+
+  2 archives in downloads carry mod id 463:
+      Patch - SkyHUD v090B-463-0-90-1.zip
+      SkyHUD v090B v4-463-0-90B.zip
+  FAILED: ambiguous - pass -Archive with the exact path of the one you want.
+=== ConsolePlusPlus ===
+
+=== install mod (APPLY) ===
+
+
+=== ConsolePlusPlus  (mod 79975, skyrimspecialedition) ===
+    by powerofthree   version 1.5.1
+
+--- ConsolePlusPlus ---
+    file id  795539   category MAIN   version 1.5.1
+    ConsolePlusPlus 79975 1.5.1 2026-08-26T18-40Z 2Bej58oaD.7z   (6.7 MB)
+
+    already downloaded and the right size - skipping (use -Force to refetch)
+
+
+--- ConsolePlusPlus 79975 1.5.1 2026-08-26T18-40Z 2Bej58oaD.7z ---
+  FOMOD installer - applying the choices given.
+  fomod: 1 option(s) selected, 2 file entr(ies)
+      DLL                                        -> SSE/AE v1.6.1170 ("Anniversary/Special Edition")
+  name      ConsolePlusPlus
+  data root <fomod build>
+  3 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             ConsolePlusPlus
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== EVG Conditional Idles ===
+
+=== install mod (APPLY) ===
+
+
+=== EVG Conditional Idles  (mod 34006, skyrimspecialedition) ===
+    by Everglaid   version 1.51
+
+--- EVG Conditional Idles ---
+    file id  506946   category MAIN   version 1.51
+    EVG Conditional Idles-34006-1-51-1717175145.zip   (6.1 MB)
+
+    already downloaded and the right size - skipping (use -Force to refetch)
+
+
+--- EVG Conditional Idles-34006-1-51-1717175145.zip ---
+  FOMOD installer - applying the choices given.
+  fomod: 2 option(s) selected, 7 file entr(ies)
+      Required                                   -> Core Modules
+      Thank you                                  -> Thank you
+  name      EVG Conditional Idles
+  data root <fomod build>
+  383 file(s), 1 plugin(s)
+      EVGConditionalIdles.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             EVG Conditional Idles
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== EVG Animated Traversal ===
+
+=== install mod (APPLY) ===
+
+
+=== EVG Animated Traversal  (mod 63232, skyrimspecialedition) ===
+    by Everglaid   version 2.1
+
+--- EVG Animated Traversal - Framework 2.1 ---
+    file id  506136   category MAIN   version 2.1
+    EVG Animated Traversal - Framework 2.1-63232-2-1-1716950619.7z   (5.2 MB)
+
+    already downloaded and the right size - skipping (use -Force to refetch)
+
+
+--- EVG Animated Traversal - Framework 2.1-63232-2-1-1716950619.7z ---
+  FOMOD installer - applying the choices given.
+      -Fomod named a group that does not exist: 'Marker Options'
+  fomod: 2 option(s) selected, 7 file entr(ies)
+      Options                                    -> Subtle Marker (Recommended)
+      Thank you                                  -> please make sure you have the right requirements!
+  name      EVG Animated Traversal
+  data root <fomod build>
+  122 file(s), 1 plugin(s)
+      EVGAnimatedTraversal.esl
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             EVG Animated Traversal
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+
+=== install mod (APPLY) ===
+
+
+=== Oathvein UI  (mod 160916, skyrimspecialedition) ===
+    by nithog   version 1.2.3
+
+--- Oathvein UI ---
+    file id  764827   category MAIN   version 1.2.3
+    Oathvein UI 160916 1.2.3 2026-06-17T15-28Z Ks18n0caJ.7z   (46.5 MB)
+
+    already downloaded and the right size - skipping (use -Force to refetch)
+
+
+--- Oathvein UI 160916 1.2.3 2026-06-17T15-28Z Ks18n0caJ.7z ---
+  FOMOD installer - applying the choices given.
+  fomod: 0 option(s) selected, 0 file entr(ies)
+  name      Oathvein UI
+  data root <fomod build>
+  0 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Oathvein UI
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+

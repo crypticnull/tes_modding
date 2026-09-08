@@ -290,8 +290,11 @@ foreach ($instDir in $instances) {
             raw_files       = $copied
         }
 
+        # PowerShell 5.1's Set-Content -Encoding UTF8 writes a BOM, which broke
+        # every JSON parser that read the first snapshot. Write UTF-8 no BOM.
+        $utf8NoBom = New-Object System.Text.UTF8Encoding $false
         $jsonPath = Join-Path $outDir 'snapshot.json'
-        ($snapshot | ConvertTo-Json -Depth 6) | Set-Content -LiteralPath $jsonPath -Encoding UTF8
+        [System.IO.File]::WriteAllText($jsonPath, ($snapshot | ConvertTo-Json -Depth 6), $utf8NoBom)
 
         # ---- human readable summary
         $sb = New-Object System.Text.StringBuilder
@@ -344,7 +347,7 @@ foreach ($instDir in $instances) {
             [void]$sb.AppendLine("- [$mark] $($p.plugin)")
         }
 
-        $sb.ToString() | Set-Content -LiteralPath (Join-Path $outDir 'SUMMARY.md') -Encoding UTF8
+        [System.IO.File]::WriteAllText((Join-Path $outDir 'SUMMARY.md'), $sb.ToString(), $utf8NoBom)
 
         Write-Host ("  wrote   : {0}" -f $outDir)
         $written += $outDir

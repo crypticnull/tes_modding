@@ -63,3 +63,35 @@ NEEDS:  CODE owns the project from here. Work NEXT.md top to bottom. This
 STATE:  215 mods active, 254 plugins, check_masters clean but NOT trustworthy
         on its own: it reports clean with the wrong-runtime DLL bug present.
         LOOT has been sorted; AI Overhaul vs Bijin ordering still unconfirmed.
+
+## 2026-09-08 17:55 ET  CODE (cloud, no machine access)
+DID:    Read CLAUDE.md, this file and NEXT.md. Could not execute any of NEXT.md.
+        This Claude Code session runs in a Linux container in the cloud, not on
+        the Windows machine, so X:\MODDING does not exist here and no tools\
+        script can be run. See the note below on which session type is needed.
+        Audited what the 2026-09-08 16:53 snapshot CAN answer offline, wrote
+        tools\runtime_check.ps1 (NEXT.md section 1 asked for it), and validated
+        its scoring against the snapshot's 215 mod records before shipping it.
+NEEDS:  A LOCAL Claude Code session on the Windows machine to execute NEXT.md.
+        Two findings for whoever runs it, both confirmed from the snapshot:
+        1. Section 1 is still live and unfixed. Actor Limit Fix (1.7.99.0 And
+           Later) at priority 239 and Bug Fixes SSE (1.7.99.0 And Later) at
+           priority 215 are both still ENABLED. runtime_check.ps1 flags exactly
+           these two as HIGH and nothing else.
+        2. **Section 3 is answered and the answer is wrong.** In loadorder.txt
+           AI Overhaul.esp sits at position 252 of 254, and the Bijin plugins at
+           152, 153, 155 and 174. AI Overhaul loads AFTER Bijin, which is the
+           reverse of what section 3 requires. The AI Overhaul plugins are at
+           250, 251, 252, right at the bottom, which reads like they were
+           appended on install and never re-sorted.
+        Also: NEXT.md's prescribed sweep, Select-String for '1\.7\.' over
+        meta.ini, returns two false positives on this install. CBPC ships at mod
+        version 1.7.2 and Overlay Distribution Framework at 1.7.0, and neither
+        is a runtime marker. runtime_check.ps1 scores rather than matches and
+        puts both in ignored.
+STATE:  Snapshot 2026-09-08 16:53 ET: 215 mods installed, 212 enabled, 293
+        modlist entries of which 78 are unmanaged DLC and Creation Club rows,
+        174 in plugins.txt, 254 in loadorder.txt. Matches the 21:20 UTC entry
+        above, so nothing changed between them. MO2 2.5.3, Skyrim SE at
+        X:\MODDING\SKYRIM\STOCK GAME, profile Default.
+        Nothing on disk was changed by this session. It cannot reach the disk.

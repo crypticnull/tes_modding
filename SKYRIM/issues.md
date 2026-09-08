@@ -10,15 +10,63 @@ there is a log or a repro.
 
 ---
 
-## No issues recorded
-
-Nothing yet.
-
 ## clean_masters.ps1 can leave the Steam install modified, and never puts it back
 
-Status: OPEN, hard-constraint risk, not yet triggered as far as anyone knows
+Status: **FIXED 2026-09-08 19:20 by the local session.** But see the correction
+below, because it had ALREADY TRIGGERED before the fix landed.
 Found: 2026-09-08 by the cloud session, from reading the script
 Gates: DynDOLOD, so this lands in Part Two
+
+### CORRECTION 2026-09-08 19:20 - it already fired, on 09-06
+
+The entry below says "It has probably not fired yet." That was wrong, and the
+reasoning was sound but the evidence was never checked. `$results` showing
+`Where=Steam` would only have been noticed if someone was reading the summary
+table at the time, and nothing persisted it, because this script writes no log.
+
+What the disk says:
+
+- `mods\Cleaned Masters` exists, created 2026-09-06 19:30, and holds
+  `Update.esm`, `Dawnguard.esm`, `HearthFires.esm` and one CC esl.
+- In the Steam Data folder those same three masters carry write times of
+  2026-09-06 19:20 to 19:24, while `Skyrim.esm` and `Dragonborn.esm` still sit
+  at their original 2026-08-28 05:01 stamps.
+- SHA256 of all three is identical across the Steam copy, the `STOCK GAME`
+  copy and the `Cleaned Masters` copy.
+
+So xEdit cleaned three DLC masters in place inside the Steam install, this
+script copied them out, and nothing put them back. No backup was taken, so the
+pristine originals do not exist anywhere on this machine.
+
+Impact is narrow. A cleaned master is the desired state for modding, the game
+runs the same, and `check_masters` is clean at 262 plugins. Nothing is broken.
+The install is simply no longer pristine, which is what the constraint existed
+to prevent. Restoring would mean Steam's "verify integrity of game files", and
+CLAUDE.md section 2 lists "verify" among the things that are off limits, so
+that is Matt's call and nobody else's. Decision as of 19:20: leave it.
+
+### The fix as applied
+
+Follows the proposal below, with hashes rather than sizes for the verify, and
+per plugin rather than batched at the end so a crash mid-loop cannot leave the
+Steam install dirty:
+
+1. Before xEdit runs, the Steam copy is copied to
+   `backups\steam-guard\<timestamp>\` and hashed.
+2. If the Steam copy is the one that changed, the cleaned file is collected
+   into `mods\Cleaned Masters` FIRST, since that is the only place the cleaned
+   bytes exist.
+3. The Steam file is then restored from the guard copy and re-hashed. On a
+   mismatch the script THROWS and stops, naming the backup path.
+4. A `Steam` column in the summary reports `untouched`, `restored` or
+   `NO BACKUP` per plugin.
+
+Verified before shipping, by backing up a file, modifying it, restoring it and
+confirming the hash matched, plus a negative case confirming a bad restore is
+actually detected. The first attempt at that test was itself broken, since
+`[byte[]](1..2000)` overflows at 256 so no file was created and the comparisons
+were `$null -eq $null` reporting True. Worth recording, because it is the same
+false-positive shape as the rest of today.
 
 CLAUDE.md section 2 says the Steam copy at
 `C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition` is not to
@@ -67,8 +115,17 @@ plugin in the Steam install is a bigger mess than a cleaned one.
 
 ## clean_masters.ps1 writes meta.ini with a BOM
 
-Status: open, minor, one line
+Status: **FIXED 2026-09-08 19:20.** The script now uses `WriteAllLines` with a
+no-BOM encoder, and the already-written `meta.ini` on disk was repaired.
 Found: 2026-09-08, same read
+
+### CORRECTION 2026-09-08 19:20 - this had already landed too
+
+Not hypothetical. `mods\Cleaned Masters\meta.ini` on disk began
+`EF BB BF 5B 47 65`, so a real BOM sat ahead of `[General]`, and the mod is
+ENABLED in modlist.txt. MO2 has been reading it as having no metadata since
+2026-09-06. Rewritten in place without the BOM, content preserved exactly, old
+copy kept as a `.bak-` file. First bytes now read `5B 47 65 6E 65 72`.
 
 Line 143 writes the `Cleaned Masters` meta.ini with
 `Set-Content -Encoding UTF8`, which on PowerShell 5.1 emits a BOM. Every other

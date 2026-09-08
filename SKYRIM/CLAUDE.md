@@ -73,8 +73,10 @@ Two live tripwires on this constraint, both found on 09-08:
 - **Do not run standalone `LOOT.exe`.** `LOOTDebugLog.txt` shows it builds its
   game handle against the Steam path, not `STOCK GAME`. Sort from inside MO2,
   which runs its own bundled `loot\lootcli.exe` under the usvfs. See section 6.
-- **`clean_masters.ps1` can leave the Steam install modified.** Open bug, see
-  section 10. It is needed before DynDOLOD, so it has to be fixed first.
+- **`clean_masters.ps1` already modified the Steam install once, on 09-06.**
+  Fixed 09-08, it now backs up and restores the Steam copy with a hash check.
+  Three DLC masters remain cleaned rather than pristine. Nothing is broken by
+  that and the decision was to leave it. See section 10 A and `issues.md`.
 
 **Off-Nexus downloads require an active, reputable source.** A host outside
 Nexus is used only when the link comes from a page you can see right now, such
@@ -184,7 +186,7 @@ documents its own traps.
 | `claim_overwrite.ps1` | move Overwrite contents into the owning mod |
 | `collection_diff.ps1` | diff a Nexus collection against this install, v2 GraphQL |
 | `fix_modids.ps1` | repair wrong or missing `modid=` in meta.ini. `-Restore` reverts |
-| `clean_masters.ps1` | **HAS AN OPEN BUG, see section 10 before running** |
+| `clean_masters.ps1` | xEdit QuickAutoClean over plugins. Backs up and restores the Steam copy if xEdit writes there, see section 2 |
 | `ips_get.ps1` | cookie-authenticated downloader for LoversLab and IPS sites. `-Enumerate` lists a forum's file pages |
 | `racemenu_overlays.ps1` | edits the winning `skee64.ini` overlay slot counts |
 | `freckle_strength.ps1` | `-Level 0\|25\|50\|100` on the BnP complexion detail map |
@@ -485,21 +487,26 @@ while `ModOrganizer.exe` is running, which is correct, not a bug.
   and 1.0v is already the newest AE build, so there is nothing to swap to.
   Same category as Simply Knock. DLL-only, so no master impact.
 
-### A. Fix `clean_masters.ps1` before anything else
+### A. ~~Fix `clean_masters.ps1`~~ DONE 2026-09-08 19:20
 
-It is needed before DynDOLOD and it currently risks the one hard constraint.
+Both defects fixed and both had **already fired on 09-06**, which the original
+write-up assumed they had not. Full evidence in `SKYRIM/issues.md`.
 
-1. **It can leave the Steam install modified.** Its own header notes xEdit has
-   been observed cleaning the Steam copy even when pointed elsewhere, and the
-   script detects that by hashing both copies. But when Steam is the one that
-   changed, it only copies the cleaned file OUT into `mods\Cleaned Masters`.
-   Nothing restores the Steam copy and no backup is taken first. Probably has
-   not fired yet, since `Where=Steam` in the summary table would have been
-   noticed. Fix proposal is in `SKYRIM/issues.md`.
-2. **Line 143 writes `meta.ini` with `Set-Content -Encoding UTF8`**, so a BOM
-   lands ahead of `[General]` and MO2 reads the mod as having no metadata. One
-   line, and it is the last straggler. Every other script already uses
-   `WriteAllLines` with a no-BOM encoder.
+- **It left the Steam install modified.** xEdit cleaned `Update.esm`,
+  `Dawnguard.esm` and `HearthFires.esm` in place inside the Steam folder on
+  09-06, the script copied them out, and nothing put them back. No backup was
+  taken so the pristine originals are gone. **Nothing is broken by this.** A
+  cleaned master is the desired state for modding and `check_masters` is clean.
+  The install is just no longer pristine. Restoring means Steam's "verify
+  integrity of game files", which section 2 puts off limits, so it is Matt's
+  call. Decision as of 09-08: leave it.
+  The script now guards per plugin, backing the Steam copy up to
+  `backups\steam-guard\<stamp>\` before xEdit runs, collecting the cleaned file
+  into `mods\Cleaned Masters` first, then restoring Steam and re-hashing to
+  prove it matches. It THROWS on a mismatch rather than continuing.
+- **The `meta.ini` BOM had landed too.** `mods\Cleaned Masters\meta.ini` really
+  did start `EF BB BF`, and that mod is enabled, so MO2 had been reading it as
+  having no metadata since 09-06. Script fixed and the file repaired in place.
 
 ### B. Finish the pending install block
 

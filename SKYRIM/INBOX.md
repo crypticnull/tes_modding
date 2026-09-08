@@ -146,3 +146,40 @@ STATE:  262 plugins, check_masters clean, check_order 0 violations.
         %LOCALAPPDATA%\LOOT\games\Skyrim Special Edition\userlist.yaml.
         NEXT.md sections 1 and 3 struck. Section 6 decisions untouched -
         those are Matt's.
+## 2026-09-08 18:30 ET  CODE (cloud, no machine access)
+DID:    Tried to work NEXT.md section 4, the seasons patches for the six flora
+        mods. Cannot. nexusmods.com is blocked by this container's network
+        egress proxy, the site and api.nexusmods.com both, so there is no way to
+        read a mod page from here. CLAUDE.md section 2 says never from a search
+        result and never from recall, and search snippets alone are not enough
+        to price a decision that costs five terrain generations. Handing it back
+        rather than guessing.
+        Audited the 40 scripts in tools\ instead, against the traps CLAUDE.md
+        section 6 already documents. Two findings, both written up in
+        SKYRIM/issues.md with a proposed fix.
+NEEDS:  1. **clean_masters.ps1 can leave the Steam install modified.** Its own
+           header says xEdit has been observed cleaning the Steam copy even when
+           pointed elsewhere, and the script correctly detects that by hashing
+           both copies. But when Steam is the one that changed it only copies the
+           cleaned file OUT into mods\Cleaned Masters. Nothing restores the Steam
+           copy, and no backup is taken first. That is CLAUDE.md section 2. It
+           has probably not fired yet, since Where=Steam in the summary table
+           would have been noticed, but this script is needed before DynDOLOD.
+           Fix proposal is in issues.md. Not patched from here on purpose, a
+           script that writes to that directory should be fixed by a session that
+           can run it and read the result.
+        2. clean_masters.ps1 line 143 writes meta.ini with Set-Content -Encoding
+           UTF8, so a BOM lands ahead of [General] and MO2 can read the mod as
+           having no metadata. One line. Every other script already uses
+           WriteAllLines with $Utf8NoBom, this is the only straggler.
+        Seasons research needs to happen on the machine or with Matt, since both
+        can reach Nexus. Six mods, ids confirmed from the snapshot: Skyrim 3D
+        Trees and Plants 12371, Nature of the Wild Lands 63604, Blubbo aspen
+        replacer 85233, Folkvangr 44899, Alpine Forest of Whiterun Valley 18866,
+        Bent Pines II 8306. Immersive Fallen Trees 8767 is installed too and is
+        in the same boat, NEXT.md does not list it.
+STATE:  No disk change, no load order change. Repo only.
+        Cleared while reading: every script that writes modlist.txt, plugins.txt
+        or loadorder.txt already uses WriteAllLines with $Utf8NoBom. And
+        deploy_dlss5.ps1 only READS the Steam Oblivion binaries, copying ReShade
+        and the Streamline runtime out into STOCK GAME. That one is fine.

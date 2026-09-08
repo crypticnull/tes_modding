@@ -261,3 +261,4 @@ alternate start - live another life.esp
 WACCF_BashedPatchLvlListFix.esp
 DynDOLOD.esp
 Occlusion.esp
+FNIS.esp

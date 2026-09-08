@@ -68,15 +68,35 @@ not write to the registry. Reading a directory listing for information is
 fine. Anything else is not. The build runs against `STOCK GAME\`, which is a
 separate copy and IS yours to change.
 
-Two live tripwires on this constraint, both found on 09-08:
+### EVERY EXTERNAL TOOL FINDS THE STEAM COPY BY ITSELF
 
-- **Do not run standalone `LOOT.exe`.** `LOOTDebugLog.txt` shows it builds its
-  game handle against the Steam path, not `STOCK GAME`. Sort from inside MO2,
-  which runs its own bundled `loot\lootcli.exe` under the usvfs. See section 6.
-- **`clean_masters.ps1` already modified the Steam install once, on 09-06.**
-  Fixed 09-08, it now backs up and restores the Steam copy with a hash check.
-  Three DLC masters remain cleaned rather than pristine. Nothing is broken by
-  that and the decision was to leave it. See section 10 A and `issues.md`.
+This is the single most reliable way to break the constraint, and it happened
+three separate times on 09-08 alone. These tools carry their own Steam
+detection, they ignore where MO2 or a `-D:` argument points them, and none of
+them announce it.
+
+**So: before the FIRST run of any new tool, read the paths it decided on.**
+Most write a config on first launch, so opening the tool once and reading that
+file is free. Do it before clicking anything that generates or writes.
+
+The three found so far:
+
+- **xEdit, via `clean_masters.ps1`.** Not hypothetical, it fired on 09-06 and
+  cleaned `Update.esm`, `Dawnguard.esm` and `HearthFires.esm` in place inside
+  the Steam folder. Nothing restored them and no backup existed. Fixed 09-08:
+  the script now guards, restores and hash-verifies. Those three masters stay
+  cleaned rather than pristine, nothing is broken by that, and the decision was
+  to leave it. See section 10 A and `issues.md`.
+- **Standalone `LOOT.exe`.** `LOOTDebugLog.txt` shows it builds its game handle
+  against the Steam path. Never sort with it. Sort from inside MO2, which runs
+  its own bundled `loot\lootcli.exe` under the usvfs. See section 6.
+- **Pandora Behaviour Engine.** On first launch it wrote
+  `overwrite\Settings.json` with BOTH `gameDataPath` and `outputPath` set to
+  the Steam Data folder. Clicking Launch would have written every generated
+  behaviour file into the Steam install, and the output would not have been in
+  the modlist either, so Precision still would not have worked. Caught before
+  the first run. Correct values are `X:\MODDING\SKYRIM\STOCK GAME\Data` for the
+  game and `X:\MODDING\SKYRIM\SKYRIM_SE\mods\Pandora Output` for the output.
 
 **Off-Nexus downloads require an active, reputable source.** A host outside
 Nexus is used only when the link comes from a page you can see right now, such

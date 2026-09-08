@@ -1,0 +1,18 @@
+# never let install artefacts into the archive
+*.7z
+*.zip
+*.rar
+*.bsa
+*.ba2
+*.esp
+*.esm
+*.esl
+*.nif
+*.dds
+*.bik
+*.exe
+*.dll
+
+# local scratch
+/scratch/
+*.tmp

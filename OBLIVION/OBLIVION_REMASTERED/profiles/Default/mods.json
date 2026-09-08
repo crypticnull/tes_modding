@@ -1,0 +1,78 @@
+[
+    {
+        "mod_name": "BPML_GenericFunctions",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "BPModLoaderMod",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "UNBSE",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "UNBSEOBSE64Interop",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "AttackCancelling",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "SlowMotionShortcutWheel",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "TesSyncMapInjector",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "TimedBlock",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "BowHeadshotDamage",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "HideQuiver",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "OneButtonDodge",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "TFPCamera",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "GameSettingsLoader",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "FemaleLocomotion",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "OBRDremoraHorns",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "OBRFirstPersonSkin",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "ChangeAppearance",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "NaturalBodyMorph",
+        "mod_enabled": true
+    },
+    {
+        "mod_name": "OBRPlayableRaces",
+        "mod_enabled": true
+    }
+]

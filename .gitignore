@@ -44,6 +44,7 @@ OBLIVION/data/
 # ".bak-<timestamp>", NOT ".bak" - a bare *.bak matches none of them.
 *.bak
 *.bak-*
+*.bisect-*
 
 # --- install artefacts: never let these into the archive -------------
 *.7z

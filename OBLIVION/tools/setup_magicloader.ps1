@@ -1,0 +1,185 @@
+#Requires -Version 5.1
+<#
+  setup_magicloader.ps1 - register MagicLoader as an MO2 executable, correctly.
+
+    X:\MODDING\OBLIVION\tools\setup_magicloader.ps1            report only
+    X:\MODDING\OBLIVION\tools\setup_magicloader.ps1 -Apply     write it
+
+  MagicLoader is a build step, not a mod. It reads every Data\MagicLoader\*.json
+  the load order provides and cooks them into .pak/.ucas/.utoc. It has to run
+  THROUGH MO2, because only inside the virtual filesystem does it see all the
+  JSON files at once - run standalone it sees an empty game folder and cooks
+  nothing. That is the "MagicLoader requires mods to be in the actual Oblivion
+  directory" limitation people hit with MO2 and Vortex; the VFS answers it.
+
+  Two things this sets up:
+
+  1. run_magicloader.cmd, a shim in tools\. MO2 stores executable arguments in
+     ModOrganizer.ini through Qt's escaping, which mangles the two paths we need
+     to pass (both contain spaces, one contains parentheses). The shim holds
+     them instead, so the ini only ever sees a space-free path and there is
+     nothing to escape.
+
+  2. a "MagicLoader" entry in ModOrganizer.ini's customExecutables.
+
+  Flags used, from the author's CLI reference:
+     -c  cook only, do not launch the game afterwards
+     -k  stay open until a key is pressed, so the output is readable
+     -f  force a re-cook rather than trusting the change detection
+     -g  the real game directory (mlcli assumes its own parent otherwise, which
+         here would be the mod folder)
+     -u  where to put cache, temp files and logs - kept out of the mod folder
+         so the mod stays byte-identical to what nexus2 installed
+
+  Cooked output lands in the game's Paks\~mods, which under the VFS means MO2's
+  overwrite folder. That is correct: overwrite outranks every mod, and the cook
+  is the merged result of all of them, so it should.
+#>
+
+[CmdletBinding()]
+param(
+    [string]$MO2      = 'X:\MODDING\OBLIVION\MO2\Mod.Organizer-2.5.3',
+    [string]$Instance = 'X:\MODDING\OBLIVION\OBLIVION_REMASTERED',
+    [string]$GamePath = 'C:\Program Files (x86)\Steam\steamapps\common\Oblivion Remastered',
+    [string]$Tools    = 'X:\MODDING\OBLIVION\tools',
+    [switch]$Apply
+)
+
+$ErrorActionPreference = 'Stop'
+$Stamp = Get-Date -Format 'yyyyMMdd-HHmmss'
+$Title = 'MagicLoader'
+$mode  = if ($Apply) { 'APPLY' } else { 'DRY RUN - pass -Apply to write' }
+
+Write-Host "=== MagicLoader setup ($mode) ==="
+Write-Host ""
+
+if (Get-Process -Name 'ModOrganizer' -ErrorAction SilentlyContinue) {
+    throw "Mod Organizer is running. It rewrites ModOrganizer.ini on exit and would undo this. Close it and re-run."
+}
+
+# NOT the copy in the mod folder. MagicLoader finds the game by looking at its
+# own parent directory and ignores -g doing it, so from inside the mod it dies
+# with "Game not found" before parsing an argument or writing a log. It must sit
+# beside OblivionRemastered.exe. deploy_external.ps1 -Apply puts it there.
+$Mlcli   = Join-Path $GamePath 'MagicLoader\mlcli.exe'
+$UserDir = 'X:\MODDING\OBLIVION\logs\magicloader'
+$Shim    = Join-Path $Tools 'run_magicloader.cmd'
+$Ini     = Join-Path $MO2 'ModOrganizer.ini'
+
+if (-not (Test-Path -LiteralPath $Ini)) { throw "not found: $Ini" }
+if (-not (Test-Path -LiteralPath $Mlcli)) {
+    throw "not found: $Mlcli`n`nMagicLoader has not been deployed to the game folder yet. Run:`n  X:\MODDING\OBLIVION\tools\deploy_external.ps1 -Apply"
+}
+# The shim path goes into the ini verbatim, so it must not need escaping.
+if ($Shim -match '[\s"]') { throw "shim path must contain no spaces or quotes: $Shim" }
+
+Write-Host ("  mlcli    {0}" -f $Mlcli)
+Write-Host ("  game     {0}" -f $GamePath)
+Write-Host ("  logs     {0}" -f $UserDir)
+Write-Host ("  shim     {0}" -f $Shim)
+Write-Host ""
+
+# ---- how many JSONs will it actually find? --------------------------------
+# Worth knowing before and after: if this is zero, the cook is pointless and
+# something is wrong with the load order rather than with MagicLoader.
+$mlPath = Join-Path $Instance 'profiles\Default\modlist.txt'
+$enabled = @()
+foreach ($l in (Get-Content -LiteralPath $mlPath)) { if ($l -match '^\+(.+)$') { $enabled += $Matches[1].TrimEnd() } }
+$providers = @()
+foreach ($m in $enabled) {
+    $jd = Join-Path (Join-Path $Instance "mods\$m") 'Data\MagicLoader'
+    if (-not (Test-Path -LiteralPath $jd)) { continue }
+    $n = @(Get-ChildItem -LiteralPath $jd -Recurse -File -Filter '*.json' -ErrorAction SilentlyContinue).Count
+    if ($n) { $providers += ("{0}  ({1} json)" -f $m, $n) }
+}
+Write-Host ("--- {0} enabled mod(s) ship MagicLoader JSON ---" -f $providers.Count)
+foreach ($p in $providers) { Write-Host ("  {0}" -f $p) }
+if (-not $providers.Count) { Write-Host "  none - nothing to cook, so check the load order before running this" }
+Write-Host ""
+
+# ---- 1. the shim ----------------------------------------------------------
+$cmd = @(
+    '@echo off',
+    'rem Generated by setup_magicloader.ps1 - launch this THROUGH MO2, never directly.',
+    'rem Run standalone it sees the bare game folder and cooks nothing.',
+    'setlocal',
+    ('set "ML=' + $Mlcli + '"'),
+    ('set "USERDIR=' + $UserDir + '"'),
+    'if not exist "%USERDIR%" mkdir "%USERDIR%"',
+    'rem No -g: v2.9 ignores it and derives the game from this exe location,',
+    'rem which is why the exe lives in the game folder rather than the mod.',
+    '"%ML%" -c -k -f -u "%USERDIR%"',
+    'exit /b %ERRORLEVEL%'
+)
+Write-Host "--- 1. shim ---"
+Write-Host ("  {0} lines -> {1}" -f $cmd.Count, (Split-Path $Shim -Leaf))
+if ($Apply) {
+    New-Item -ItemType Directory -Force -Path $UserDir | Out-Null
+    [IO.File]::WriteAllLines($Shim, $cmd, (New-Object Text.ASCIIEncoding))
+}
+Write-Host ""
+
+# ---- 2. the ini entry -----------------------------------------------------
+Write-Host "--- 2. ModOrganizer.ini customExecutables ---"
+$lines = @(Get-Content -LiteralPath $Ini)
+
+# locate the section and its declared size
+$secStart = -1; $secEnd = $lines.Count
+for ($i = 0; $i -lt $lines.Count; $i++) {
+    if ($lines[$i] -match '(?i)^\s*\[customExecutables\]\s*$') { $secStart = $i; continue }
+    if ($secStart -ge 0 -and $lines[$i] -match '^\s*\[') { $secEnd = $i; break }
+}
+if ($secStart -lt 0) { throw "no [customExecutables] section in $Ini" }
+
+$size = 0; $sizeLine = -1
+$slotOfTitle = $null
+for ($i = $secStart + 1; $i -lt $secEnd; $i++) {
+    if ($lines[$i] -match '^\s*size\s*=\s*(\d+)') { $size = [int]$Matches[1]; $sizeLine = $i }
+    if ($lines[$i] -match '^\s*(\d+)\\title\s*=\s*(.+?)\s*$') {
+        if ($Matches[2] -eq $Title) { $slotOfTitle = [int]$Matches[1] }
+    }
+}
+if ($sizeLine -lt 0) { throw "no size= in [customExecutables]" }
+Write-Host ("  section holds {0} executable(s)" -f $size)
+
+$slot = if ($null -ne $slotOfTitle) { $slotOfTitle } else { $size + 1 }
+$verb = if ($null -ne $slotOfTitle) { "updating existing slot $slot" } else { "adding as slot $slot" }
+Write-Host ("  '{0}' -> {1}" -f $Title, $verb)
+
+$entry = @(
+    "$slot\arguments=",
+    "$slot\binary=$($Shim -replace '\\','/')",
+    "$slot\hide=false",
+    "$slot\ownicon=false",
+    "$slot\steamAppID=",
+    "$slot\title=$Title",
+    "$slot\toolbar=false",
+    "$slot\workingDirectory=$($Tools -replace '\\','/')"
+)
+foreach ($e in $entry) { Write-Host ("    {0}" -f $e) }
+
+if ($Apply) {
+    Copy-Item -LiteralPath $Ini -Destination "$Ini.bak-$Stamp" -Force
+    $out = New-Object System.Collections.Generic.List[string]
+    for ($i = 0; $i -lt $lines.Count; $i++) {
+        # insert at the section boundary, before whatever section comes next
+        if ($i -eq $secEnd) { foreach ($e in $entry) { $out.Add($e) } }
+        # drop any existing lines for this slot; they are re-emitted above
+        if ($i -gt $secStart -and $i -lt $secEnd -and $lines[$i] -match "^\s*$slot\\") { continue }
+        if ($i -eq $sizeLine) { $out.Add("size=" + [Math]::Max($size, $slot)); continue }
+        $out.Add($lines[$i])
+    }
+    # the section ran to the end of the file, so the boundary never came up
+    if ($secEnd -ge $lines.Count) { foreach ($e in $entry) { $out.Add($e) } }
+    [IO.File]::WriteAllLines($Ini, $out, (New-Object Text.UTF8Encoding $false))
+    Write-Host ("  written (backup: {0})" -f (Split-Path "$Ini.bak-$Stamp" -Leaf))
+}
+Write-Host ""
+
+if (-not $Apply) { Write-Host "Nothing changed. Re-run with -Apply." }
+else {
+    Write-Host "Done. In MO2, pick 'MagicLoader' from the executable dropdown and Run."
+    Write-Host "Watch for a non-zero count of cooked files, then press a key to close it."
+    Write-Host "Anything it produces lands in the overwrite folder - move it into its own"
+    Write-Host "mod afterwards so it is versioned like everything else."
+}

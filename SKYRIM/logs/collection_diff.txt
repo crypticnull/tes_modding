@@ -1,0 +1,1586 @@
+Collection diff - Gate To Sovngarde (revision 117)
+2026-09-08 01:01
+https://www.nexusmods.com/games/skyrimspecialedition/collections/qdurkx
+
+categories: gameplay, immersion, quests, npc, audio, user interface, miscellaneous
+collection 1553 unique mods, 521 in scope
+installed here: 4 of those; MISSING: 517
+WARNING: API returned 1965 of 1966 - this diff may be incomplete.
+
+NOT INSTALLED, by category, most endorsed first
+  * = optional in the collection   [A] = adult-flagged
+
+
+--- Audio ---
+   43506  12466   Audio Overhaul for Skyrim SE
+                  by David Jegutidse
+          https://www.nexusmods.com/skyrimspecialedition/mods/12466
+   25175  77815   Sound Record Distributor
+                  by doodlum
+          https://www.nexusmods.com/skyrimspecialedition/mods/77815
+   14168  47202   BA Bard Songs
+                  by Shiiholude
+          https://www.nexusmods.com/skyrimspecialedition/mods/47202
+   10017  78992   Acoustic Space Improvement Fixes (Corrected Reverb - Ambience - Interiors - SkyPatcher)
+                  by Dylan James
+          https://www.nexusmods.com/skyrimspecialedition/mods/78992
+    8630  77947   Reverb Interior Sounds Expansion (SRD - Rain Thunder Ambience - Fixes)
+                  by Dylan James
+          https://www.nexusmods.com/skyrimspecialedition/mods/77947
+    7443  37792   Chapter II - Jeremy Soule Inspired Music
+                  by Dreyma
+          https://www.nexusmods.com/skyrimspecialedition/mods/37792
+    5222  154663  DAc0da - ElevenLabs Voiced
+                  by me
+          https://www.nexusmods.com/skyrimspecialedition/mods/154663
+    4038  161442  VIGILANT(missing lines) - ElevenLabs Voiced
+                  by me
+          https://www.nexusmods.com/skyrimspecialedition/mods/161442
+    2954  50706   Arachnid -Spiders Sounds Rework SFX-
+                  by Satafinix
+          https://www.nexusmods.com/skyrimspecialedition/mods/50706
+    2876  72336   Conditional Dog Barking (OAR)
+                  by CHIMgarden
+          https://www.nexusmods.com/skyrimspecialedition/mods/72336
+    1940  123877  Potema Revoiced
+                  by LeoMaximus
+          https://www.nexusmods.com/skyrimspecialedition/mods/123877
+    1428  114625  Falmer 'Dialogue' Overhaul - Echolocation
+                  by xPanchy
+          https://www.nexusmods.com/skyrimspecialedition/mods/114625
+    1292  44124   Male Argonian Shouts - Revoiced
+                  by JakeTheSilent
+          https://www.nexusmods.com/skyrimspecialedition/mods/44124
+    1243  145795  Arch-Curate Vyrthur Revoiced
+                  by LeoMaximus
+          https://www.nexusmods.com/skyrimspecialedition/mods/145795
+     920  23026   Nirnroot A Sound to live by
+                  by Badkrma
+          https://www.nexusmods.com/skyrimspecialedition/mods/23026
+     772  157081  Mephala Revoiced
+                  by LeoMaximus
+          https://www.nexusmods.com/skyrimspecialedition/mods/157081
+     161  162227  Immersive Dialogue Edit - Companions
+                  by cavy8
+          https://www.nexusmods.com/skyrimspecialedition/mods/162227
+     141  154587  Dac0da English AI Voiced (Individual Voice Packs) - DELETED
+                  by kamithemoon
+          https://www.nexusmods.com/skyrimspecialedition/mods/154587
+
+--- Gameplay ---
+   62534  51614   True Directional Movement - Modernized Third Person Gameplay
+                  by Ersh
+          https://www.nexusmods.com/skyrimspecialedition/mods/51614
+   38831  72347   Precision - Accurate Melee Collisions
+                  by Ersh
+          https://www.nexusmods.com/skyrimspecialedition/mods/72347
+   22329  14098   Simply Knock SE
+                  by Chesko
+          https://www.nexusmods.com/skyrimspecialedition/mods/14098
+   18890  38886   Dirt and Blood - Dynamic Visual Effects
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/38886
+   17754  23081   Trade and Barter
+                  by kryptopyr
+          https://www.nexusmods.com/skyrimspecialedition/mods/23081
+   17685  25464   Timing is Everything SE
+                  by kryptopyr
+          https://www.nexusmods.com/skyrimspecialedition/mods/25464
+   17416  51847   Headhunter - Bounties Redone
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/51847
+   15595  59250   Sleeping Expanded - Animations and NPC reactions
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/59250
+   13759  3484    Civil War Aftermath SE
+                  by Korodic
+          https://www.nexusmods.com/skyrimspecialedition/mods/3484
+   13367  19608   Encounter Zones Unlocked SE
+                  by underthesky and z65536
+          https://www.nexusmods.com/skyrimspecialedition/mods/19608
+   12564  132292  SkyParkour v3 - Procedural Parkour and Climbing Framework (SPPF)
+                  by Tsptds - JellyfishInLoop
+          https://www.nexusmods.com/skyrimspecialedition/mods/132292
+   11937  50357   Skyrim's Got Talent - Improve As a Bard
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/50357
+   11650  61015   Honed Metal -NPC Crafting and Enchanting Services-
+                  by SkylineR390
+          https://www.nexusmods.com/skyrimspecialedition/mods/61015
+   11255  78244   Survival Mode Improved - SKSE
+                  by colinswrath
+          https://www.nexusmods.com/skyrimspecialedition/mods/78244
+   10699  50307   Alternate Perspective - Alternate Start
+                  by KrisV777
+          https://www.nexusmods.com/skyrimspecialedition/mods/50307
+   10281  76783   Dynamic Collision Adjustment
+                  by Ersh
+          https://www.nexusmods.com/skyrimspecialedition/mods/76783
+    8608  43500   Enhanced Reanimation
+                  by powerofthree
+          https://www.nexusmods.com/skyrimspecialedition/mods/43500
+    8434  51439   C.O.I.N. - Coins of Interesting Nature
+                  by Tate Taylor and VictorF
+          https://www.nexusmods.com/skyrimspecialedition/mods/51439
+    7520  100515  No Furniture Camera
+                  by Ersh
+          https://www.nexusmods.com/skyrimspecialedition/mods/100515
+    7164  66125   NPCs Wear Amulets of Mara PLUS
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/66125
+    6971  54099   Pilgrim - A Religion Overhaul
+                  by Simon Magus and Tate Taylor
+          https://www.nexusmods.com/skyrimspecialedition/mods/54099
+    6650  66908   Take a Peek - New Stealth Mechanic
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/66908
+    6504  59790   Hand to Hand - An Adamant Addon
+                  by Simon Magus Colinswraths and Jelidity
+          https://www.nexusmods.com/skyrimspecialedition/mods/59790
+    5970  80975   Skyrim on Skooma
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/80975
+    5712  88080   Lawless - A Bandit Overhaul
+                  by Oreo
+          https://www.nexusmods.com/skyrimspecialedition/mods/88080
+    5600  95943   Simple Hunting Overhaul
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/95943
+    5245  72023   Taunt Your Enemies - Taunting Matters
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/72023
+    4557  47277   Sun Affects NPC Vampires
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/47277
+    4444  95269   Switch Camera During Dialogue
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/95269
+    4336  92220   Journeyman - A Fast Travel Overhaul
+                  by Simon Magus and Colinswrath
+          https://www.nexusmods.com/skyrimspecialedition/mods/92220
+    4094  85212   Locational Encounter Zones
+                  by doodlum
+          https://www.nexusmods.com/skyrimspecialedition/mods/85212
+    4005  89676   Remote Interactions
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/89676
+    3906  96817   DVA - Dynamic Vampire Appearance
+                  by Aipex8 -TaikoDragon
+          https://www.nexusmods.com/skyrimspecialedition/mods/96817
+    3850  97490   JaySerpa's Small Mods and Resources (Mostly for GTS)
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/97490
+    3785  46023   Vampire Lords Can Fly (With Collision)
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/46023
+    3689  1668    Tavern Games - Mini Games in Skyrim
+                  by Sagittarius22
+          https://www.nexusmods.com/skyrimspecialedition/mods/1668
+    3609  116522  Stress and Fear - A Dynamic Sanity System
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/116522
+    3600  45514   Immersive Spell Learning - DESTified
+                  by Hackfield
+          https://www.nexusmods.com/skyrimspecialedition/mods/45514
+    3578  47225   Vampire Feeding Tweaks
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/47225
+    3238  56144   YASTM - Yet Another Soul Trap Manager
+                  by Seally25
+          https://www.nexusmods.com/skyrimspecialedition/mods/56144
+    3148  169335  HorsePower - Modernized Horse Riding (Total Riding Overhaul)
+                  by Tsptds - Mxnedula - Sphyx
+          https://www.nexusmods.com/skyrimspecialedition/mods/169335
+    2679  93682   Sure of Stealing
+                  by ThirdEyeSqueegee
+          https://www.nexusmods.com/skyrimspecialedition/mods/93682
+    2597  37607   Enchantments and Potions Work for NPCs - EPW4NPCs (SKSE64) (SPID Plugin ini)
+                  by KaptainCnucklz
+          https://www.nexusmods.com/skyrimspecialedition/mods/37607
+    2530  45326   Werewolf Transformation Timer - SkyUI Addon
+                  by weds4
+          https://www.nexusmods.com/skyrimspecialedition/mods/45326
+    2413  59951   Weapon Armor Attribute Tweaks
+                  by deletepch
+          https://www.nexusmods.com/skyrimspecialedition/mods/59951
+    2239  98579   Madmen - A Forsworn Overhaul
+                  by Oreo
+          https://www.nexusmods.com/skyrimspecialedition/mods/98579
+    2149  1666    Useful Dogs
+                  by Sagittarius22
+          https://www.nexusmods.com/skyrimspecialedition/mods/1666
+    2050  5710    Ash Pile Expiration - Special Edition
+                  by Christopher Grabowski aka SamuraiWindu updated by Old Nick
+          https://www.nexusmods.com/skyrimspecialedition/mods/5710
+    1867  25457   Crime Bounty Decay SE
+                  by CyberSpyder
+          https://www.nexusmods.com/skyrimspecialedition/mods/25457
+    1856  52397   Canis Hysteria - The Werewolf Disease
+                  by Tate Taylor and VictorF
+          https://www.nexusmods.com/skyrimspecialedition/mods/52397
+    1787  29869   Non-Exploitable Crossbow Reloading SE
+                  by aitch-zed
+          https://www.nexusmods.com/skyrimspecialedition/mods/29869
+    1653  80683   Streamlined Fishing
+                  by Parapets
+          https://www.nexusmods.com/skyrimspecialedition/mods/80683
+    1622  136384  Biggie Traits
+                  by dabiggieboss - shazdeh2
+          https://www.nexusmods.com/skyrimspecialedition/mods/136384
+    1622  154534  Simple Diving System (SDS) - Dive Into Water Animations and Modder Resource
+                  by tsptds
+          https://www.nexusmods.com/skyrimspecialedition/mods/154534
+    1593  50371   Stay In Shape - A Pumping Iron Addon
+                  by Tsaxaman - JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/50371
+    1472  36057   You Can Sleep SKSE Remake
+                  by Dropkicker
+          https://www.nexusmods.com/skyrimspecialedition/mods/36057
+    1446  53143   Prelude to Purgatory - A Lich Custom Skill Tree
+                  by SeaSparrow
+          https://www.nexusmods.com/skyrimspecialedition/mods/53143
+    1377  89352   Fancy Fishing - Minigame and Tweaks
+                  by LeucisticDinosaur
+          https://www.nexusmods.com/skyrimspecialedition/mods/89352
+    1337  109363  Andrealletius' Jobs Overhaul (AJO)
+                  by AndrealletiusVIII
+          https://www.nexusmods.com/skyrimspecialedition/mods/109363
+    1291  116941  Brawling - No Hitting Bystanders
+                  by Missile
+          https://www.nexusmods.com/skyrimspecialedition/mods/116941
+    1212  74287   Wait I know You - Forcegreet Tweak
+                  by AndrealletiusVIII
+          https://www.nexusmods.com/skyrimspecialedition/mods/74287
+    1193  109899  Equipment Durability System NG
+                  by Sandman53
+          https://www.nexusmods.com/skyrimspecialedition/mods/109899
+    1164  175689  StepUpOnto SKSE
+                  by TheShinyHaxorus
+          https://www.nexusmods.com/skyrimspecialedition/mods/175689
+    1159  59370   Creation Club - Adjustments Rebalancing and Variants *
+                  by Ooreeoo
+          https://www.nexusmods.com/skyrimspecialedition/mods/59370
+     993  177313  Precision - Attack Collision Fixes
+                  by AugustGal
+          https://www.nexusmods.com/skyrimspecialedition/mods/177313
+     979  131682  C.O.I.N. - Treasury Exchange
+                  by colinswrath TateTaylor VictorF
+          https://www.nexusmods.com/skyrimspecialedition/mods/131682
+     920  91305   Lawless Bruma - A Bandit Overhaul for Beyond Skyrim Bruma
+                  by Oreo
+          https://www.nexusmods.com/skyrimspecialedition/mods/91305
+     744  81541   Serious Civil War Fort Commanders
+                  by Enodoc
+          https://www.nexusmods.com/skyrimspecialedition/mods/81541
+     719  57888   Campfire - Pilgrim Patch
+                  by T K
+          https://www.nexusmods.com/skyrimspecialedition/mods/57888
+     690  128597  Sanctified Stolen Goods
+                  by shazdeh2
+          https://www.nexusmods.com/skyrimspecialedition/mods/128597
+     677  28209   Werewolf Hunger
+                  by Nyphani
+          https://www.nexusmods.com/skyrimspecialedition/mods/28209
+     651  13826   Container Weight Restrictions
+                  by AndrealletiusVIII Plaguehush
+          https://www.nexusmods.com/skyrimspecialedition/mods/13826
+     606  101206  Skyrim's Got Talent - Adamant Synergy
+                  by Missile
+          https://www.nexusmods.com/skyrimspecialedition/mods/101206
+     599  66826   Lore friendly - Follower Stats in a nutshell
+                  by kvd
+          https://www.nexusmods.com/skyrimspecialedition/mods/66826
+     594  115830  Burning Bodies Always Trigger Oil Traps
+                  by Excinerus
+          https://www.nexusmods.com/skyrimspecialedition/mods/115830
+     580  57855   NPC Loots in Combat
+                  by suisuisuiso
+          https://www.nexusmods.com/skyrimspecialedition/mods/57855
+     541  89808   Hammer and Whetstone - Portable Tempering
+                  by Edryu
+          https://www.nexusmods.com/skyrimspecialedition/mods/89808
+     442  145694  Solstheim without Miraak - Dragonborn DLC for Non-Dragonborn
+                  by Enodoc
+          https://www.nexusmods.com/skyrimspecialedition/mods/145694
+     434  101113  Campfire - Use Straw for Tinder
+                  by tcbflash
+          https://www.nexusmods.com/skyrimspecialedition/mods/101113
+     416  76435   Elemental Weathers LITE
+                  by dann1c
+          https://www.nexusmods.com/skyrimspecialedition/mods/76435
+     409  10490   SimplyVampireToAshpile
+                  by hirupipimaru
+          https://www.nexusmods.com/skyrimspecialedition/mods/10490
+     379  120964  Poisonous Bear Traps
+                  by shazdeh2
+          https://www.nexusmods.com/skyrimspecialedition/mods/120964
+     370  114546  Animunculi Override - Dwemer Automaton Hacking Minigame
+                  by Shazdeh2
+          https://www.nexusmods.com/skyrimspecialedition/mods/114546
+     368  129588  A Steward for Dawnstar
+                  by Enodoc
+          https://www.nexusmods.com/skyrimspecialedition/mods/129588
+     355  145593  Varona Nelas Lives Longer - Reluctant Steward Delayed
+                  by Enodoc
+          https://www.nexusmods.com/skyrimspecialedition/mods/145593
+     332  178940  M.I.N.T. - Mint-Issued National Tenders
+                  by Tate Taylor
+          https://www.nexusmods.com/skyrimspecialedition/mods/178940
+     315  119736  Get Lost - A Player Map Marker Hider
+                  by golovatris
+          https://www.nexusmods.com/skyrimspecialedition/mods/119736
+     295  145512  Inconsequential Incantations - Minor Immersive Spells
+                  by SylvanVolhv aka MrBread
+          https://www.nexusmods.com/skyrimspecialedition/mods/145512
+     286  145689  Black Book Quest Tweaks
+                  by Enodoc
+          https://www.nexusmods.com/skyrimspecialedition/mods/145689
+     238  164328  Word Walls without Winterhold - Saarthal and Labyrinthian for Non-Mages
+                  by Enodoc
+          https://www.nexusmods.com/skyrimspecialedition/mods/164328
+     189  152152  Fishing Extension for Beyond Skyrim - Bruma
+                  by Jelidity
+          https://www.nexusmods.com/skyrimspecialedition/mods/152152
+     186  140466  Common Injuries of the Everyday Adventurer - A Simple Wounds Addon
+                  by CinamonPizza
+          https://www.nexusmods.com/skyrimspecialedition/mods/140466
+     160  146361  Ingredients Restore Hunger
+                  by shazdeh2
+          https://www.nexusmods.com/skyrimspecialedition/mods/146361
+     128  171040  Survival Skills - Custom Skills Framework for Campfire and Add-ons
+                  by TheScytale
+          https://www.nexusmods.com/skyrimspecialedition/mods/171040
+
+--- Immersion ---
+   35206  50049   Simple Dual Sheath
+                  by SlavicPotato
+          https://www.nexusmods.com/skyrimspecialedition/mods/50049
+   30367  47670   Immersive Interactions - Animated Actions
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/47670
+   28856  62001   Immersive Equipment Displays
+                  by SlavicPotato
+          https://www.nexusmods.com/skyrimspecialedition/mods/62001
+   27348  22075   Guard Dialogue Overhaul SE
+                  by Eckss
+          https://www.nexusmods.com/skyrimspecialedition/mods/22075
+   27028  4224    Go to bed
+                  by Andrelo
+          https://www.nexusmods.com/skyrimspecialedition/mods/4224
+   25695  63733   Bandit Lines Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/63733
+   24803  21220   Alternate Conversation Camera
+                  by NasiGorengCumi
+          https://www.nexusmods.com/skyrimspecialedition/mods/21220
+   18993  62781   Security Overhaul SKSE - Regional Locks
+                  by powerofthree - Kreiste - wSkeever
+          https://www.nexusmods.com/skyrimspecialedition/mods/62781
+   17657  1533    Holidays
+                  by isoku-Step Modifications
+          https://www.nexusmods.com/skyrimspecialedition/mods/1533
+   15881  22374   Skyrim Reputation
+                  by dcyren
+          https://www.nexusmods.com/skyrimspecialedition/mods/22374
+   15488  24720   To Your Face SE - AE - VR
+                  by underthesky and xILARTH
+          https://www.nexusmods.com/skyrimspecialedition/mods/24720
+   14899  20668   After the Civil War - Siege Damage Repairs
+                  by tarlazo
+          https://www.nexusmods.com/skyrimspecialedition/mods/20668
+   14684  77566   Civil War Lines Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/77566
+   12842  44810   Extended Encounters
+                  by Jonx0r
+          https://www.nexusmods.com/skyrimspecialedition/mods/44810
+   12219  80188   Forsworn and Thalmor Lines Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/80188
+   11983  83484   Vampire Lines Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/83484
+   11933  75481   Use Those Blankets
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/75481
+   10721  42854   Loki's Wade In Water
+                  by 0x4Ch0x4Fh0x4Bh0x49h
+          https://www.nexusmods.com/skyrimspecialedition/mods/42854
+   10463  22622   More to Say
+                  by abramcf
+          https://www.nexusmods.com/skyrimspecialedition/mods/22622
+    9996  62861   Seasons of Skyrim SKSE
+                  by powerofthree
+          https://www.nexusmods.com/skyrimspecialedition/mods/62861
+    9454  68025   Soaking Wet - Character Wetness Effect
+                  by SlavicPotato
+          https://www.nexusmods.com/skyrimspecialedition/mods/68025
+    9078  2011    Immersive Laundry
+                  by Nerd of Prey
+          https://www.nexusmods.com/skyrimspecialedition/mods/2011
+    8825  60741   Dynamic Things Alternative - Base Object Swapper
+                  by wankingSkeever
+          https://www.nexusmods.com/skyrimspecialedition/mods/60741
+    8440  49270   Flying Crows SSE
+                  by Mod created on LE by Kongemeir and Ghiles7
+          https://www.nexusmods.com/skyrimspecialedition/mods/49270
+    7676  71418   Wade In Water Redone
+                  by doodlum
+          https://www.nexusmods.com/skyrimspecialedition/mods/71418
+    7672  4126    Immersive Dawnguard Dayspring Pass SE (IDDP)
+                  by Ahzaab
+          https://www.nexusmods.com/skyrimspecialedition/mods/4126
+    7178  55450   Sensible Bribes - Based on Speechcraft Not Level
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/55450
+    7070  13434   Pumping Iron - Dynamic Muscle Growth
+                  by Gopher
+          https://www.nexusmods.com/skyrimspecialedition/mods/13434
+    7057  8766    Farmhouse Chimneys SE
+                  by Scarla
+          https://www.nexusmods.com/skyrimspecialedition/mods/8766
+    6969  21296   Immersive Speechcraft SE
+                  by SirSalami -  XONextGenXO
+          https://www.nexusmods.com/skyrimspecialedition/mods/21296
+    6884  97048   Immersive Death Cycle
+                  by Naxmaardur - JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/97048
+    6856  28904   Misc Dialogue Edits
+                  by GOsteW and lilebonymace
+          https://www.nexusmods.com/skyrimspecialedition/mods/28904
+    6755  83044   Wait Carriage in Inns - Fast Travel Improvement
+                  by Sluia
+          https://www.nexusmods.com/skyrimspecialedition/mods/83044
+    6729  28905   More Dialogue Options
+                  by GOsteW and lilebonymace
+          https://www.nexusmods.com/skyrimspecialedition/mods/28905
+    6728  81665   CC Bittercup - Tweaks and Enhancements (BitTE) *
+                  by AndrealletiusVIII
+          https://www.nexusmods.com/skyrimspecialedition/mods/81665
+    5329  100562  Dremora Lines Expansion
+                  by JaySerpa and Friends
+          https://www.nexusmods.com/skyrimspecialedition/mods/100562
+    5324  107492  NPCs React To Frenzy
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/107492
+    5234  168432  Immersive Dialogue Expansion - Thalmor
+                  by Anbeegod
+          https://www.nexusmods.com/skyrimspecialedition/mods/168432
+    4984  49058   Immersive Khajiit Caravan Mules
+                  by bientje
+          https://www.nexusmods.com/skyrimspecialedition/mods/49058
+    4952  120995  Falmer Servant Lines Expansion
+                  by TheOscar0 - JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/120995
+    4727  75237   Sharpen Other Swords II - AnimObject Swapper
+                  by wankingSkeever
+          https://www.nexusmods.com/skyrimspecialedition/mods/75237
+    4699  37693   Skills of the Wild - New Campfire Survival Skill Trees *
+                  by jayserpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/37693
+    4678  106523  Extended Guard Dialogue
+                  by Jonx0r
+          https://www.nexusmods.com/skyrimspecialedition/mods/106523
+    4611  74785   Ryn's Saarthal
+                  by Ryn
+          https://www.nexusmods.com/skyrimspecialedition/mods/74785
+    4597  74565   Locked Chests Have Keys
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/74565
+    4588  62358   Wash That Blood Off 2
+                  by powerofthree
+          https://www.nexusmods.com/skyrimspecialedition/mods/62358
+    4088  133266  Chatty NPCs and Followers
+                  by JobiWanUK
+          https://www.nexusmods.com/skyrimspecialedition/mods/133266
+    4036  70984   Ryn's Bleak Falls Barrow
+                  by Ryn
+          https://www.nexusmods.com/skyrimspecialedition/mods/70984
+    3987  42928   Courier Delivers to NPCs
+                  by Pickysaurus
+          https://www.nexusmods.com/skyrimspecialedition/mods/42928
+    3970  77059   Ryn's Karthspire
+                  by Ryn
+          https://www.nexusmods.com/skyrimspecialedition/mods/77059
+    3948  60915   Fish Anywhere With Water
+                  by wankingSkeever
+          https://www.nexusmods.com/skyrimspecialedition/mods/60915
+    3851  101823  Press E to Heal Followers
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/101823
+    3824  85141   Environs - The Shrines of Talos
+                  by Siberpunk
+          https://www.nexusmods.com/skyrimspecialedition/mods/85141
+    3559  17591   Dragon Wall Wisdom - Readable Dragon Walls
+                  by Morogoth35
+          https://www.nexusmods.com/skyrimspecialedition/mods/17591
+    3464  67770   Missile's IED Preset - Immersive Equipment Displays
+                  by Missile
+          https://www.nexusmods.com/skyrimspecialedition/mods/67770
+    3398  113255  Take a Nap - Sleep on Chairs
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/113255
+    3386  100617  Helmet Toggle 2
+                  by GiraPomba
+          https://www.nexusmods.com/skyrimspecialedition/mods/100617
+    3344  62628   Carry Your Carcasses
+                  by Swashbuckler24
+          https://www.nexusmods.com/skyrimspecialedition/mods/62628
+    3286  113168  Extended Bandit Dialogue
+                  by Jonx0r
+          https://www.nexusmods.com/skyrimspecialedition/mods/113168
+    3251  56196   Store Entrance Doorbells
+                  by jple
+          https://www.nexusmods.com/skyrimspecialedition/mods/56196
+    3044  69029   CC Farming - Tweaks Enhancements and Quest Expansion *
+                  by AndrealletiusVIII
+          https://www.nexusmods.com/skyrimspecialedition/mods/69029
+    3019  17581   Wounds
+                  by IronDusk33
+          https://www.nexusmods.com/skyrimspecialedition/mods/17581
+    2988  79034   Ships On The Horizon
+                  by GeraldMods
+          https://www.nexusmods.com/skyrimspecialedition/mods/79034
+    2829  132325  Collision Dialogue Overhaul
+                  by JobiWanUK
+          https://www.nexusmods.com/skyrimspecialedition/mods/132325
+    2767  108900  EVGAT - Dynamic Climb-able Ladder Doors
+                  by SeaSparrow
+          https://www.nexusmods.com/skyrimspecialedition/mods/108900
+    2638  136846  Naked Comments Overhaul
+                  by JobiWanUK and Henryetha
+          https://www.nexusmods.com/skyrimspecialedition/mods/136846
+    2601  88503   Esbern Voice Consistency Fix
+                  by wankingSkeever
+          https://www.nexusmods.com/skyrimspecialedition/mods/88503
+    2500  119348  Hunters Loot - and skin animals
+                  by GiraPomba
+          https://www.nexusmods.com/skyrimspecialedition/mods/119348
+    2410  39426   Time Flies SE
+                  by dfxyz1 Akezhar Wolfpack49
+          https://www.nexusmods.com/skyrimspecialedition/mods/39426
+    2369  3489    Animated Dwemer Lift Doors by DOUBLEBREWSKI
+                  by DOUBLEBREWSKI
+          https://www.nexusmods.com/skyrimspecialedition/mods/3489
+    2315  112415  Dialogue Expansion - Windhelm
+                  by AdamDunmer
+          https://www.nexusmods.com/skyrimspecialedition/mods/112415
+    2300  92244   Immersive Equipment Displays - Extra Skeleton Nodes
+                  by GiraPomba
+          https://www.nexusmods.com/skyrimspecialedition/mods/92244
+    2269  63700   Seasonal Wildlife Distribution
+                  by Monops
+          https://www.nexusmods.com/skyrimspecialedition/mods/63700
+    2256  69048   Married NPCs Wear Wedding Bands (SPID - Left Hand Rings)
+                  by Dylan James
+          https://www.nexusmods.com/skyrimspecialedition/mods/69048
+    2172  25730   The Forgotten City Entrance
+                  by Nesbit098
+          https://www.nexusmods.com/skyrimspecialedition/mods/25730
+    2124  139025  Shouts of Stallholders
+                  by JobiWanUK
+          https://www.nexusmods.com/skyrimspecialedition/mods/139025
+    2076  147742  The Gildergreen Grows
+                  by Missile
+          https://www.nexusmods.com/skyrimspecialedition/mods/147742
+    2002  76862   Immersive Interactions - Integration Patch
+                  by GiraPomba
+          https://www.nexusmods.com/skyrimspecialedition/mods/76862
+    1988  52390   Weapon Animation (Miraak's Sword)
+                  by saltmaxwellpshk
+          https://www.nexusmods.com/skyrimspecialedition/mods/52390
+    1939  115249  Immersive Fishing
+                  by GiraPomba
+          https://www.nexusmods.com/skyrimspecialedition/mods/115249
+    1849  124401  Campfire - Dynamic Activation Key
+                  by GiraPomba
+          https://www.nexusmods.com/skyrimspecialedition/mods/124401
+    1848  128579  JS Badges of Office SE
+                  by johnskyrim
+          https://www.nexusmods.com/skyrimspecialedition/mods/128579
+    1821  63631   Riverwood Trader Is A Mess
+                  by AndrealletiusVIII
+          https://www.nexusmods.com/skyrimspecialedition/mods/63631
+    1761  112455  Cheeky Kids
+                  by JobiWanUK
+          https://www.nexusmods.com/skyrimspecialedition/mods/112455
+    1743  48146   Hidden DB Sanctuary Entrances
+                  by LordKhaox123
+          https://www.nexusmods.com/skyrimspecialedition/mods/48146
+    1739  89917   More Hircinic Aspects of Hircine- Mihail's Shards of Immersion (SE-AE version)
+                  by Mihail
+          https://www.nexusmods.com/skyrimspecialedition/mods/89917
+    1673  30185   Respect for the Legate
+                  by tarlazo
+          https://www.nexusmods.com/skyrimspecialedition/mods/30185
+    1652  113208  Dialogue Expansion - Imperial Soldiers
+                  by AdamDunmer
+          https://www.nexusmods.com/skyrimspecialedition/mods/113208
+    1590  120727  Vanilla Eating Animation Fixes
+                  by Flip777
+          https://www.nexusmods.com/skyrimspecialedition/mods/120727
+    1553  51046   Paulicus Poison Block (PPB) Updated
+                  by Zira1251
+          https://www.nexusmods.com/skyrimspecialedition/mods/51046
+    1550  81618   NPCs Ain't Hachikos
+                  by lilebonymace
+          https://www.nexusmods.com/skyrimspecialedition/mods/81618
+    1547  140915  Usable Campfires
+                  by GiraPomba
+          https://www.nexusmods.com/skyrimspecialedition/mods/140915
+    1512  84539   Edmond's SkyTEST - Realistic Animals and Predators - Lite
+                  by Edmond Noir
+          https://www.nexusmods.com/skyrimspecialedition/mods/84539
+    1512  33965   Denizens of Morthal - Dialogue and Character Expander (TAGS - Benor Erandur Valdimar Eisa Blackthorn Conversations) (SE-AE Port)
+                  by Lollialuna
+          https://www.nexusmods.com/skyrimspecialedition/mods/33965
+    1491  34903   Contraband Confiscation
+                  by Epic Crab
+          https://www.nexusmods.com/skyrimspecialedition/mods/34903
+    1429  84348   The Clever Prisoner
+                  by tarlazo
+          https://www.nexusmods.com/skyrimspecialedition/mods/84348
+    1427  60384   The Dragonborn Dreams
+                  by kaxalie
+          https://www.nexusmods.com/skyrimspecialedition/mods/60384
+    1420  17736   Creature Size Variants SE
+                  by dylbill
+          https://www.nexusmods.com/skyrimspecialedition/mods/17736
+    1409  64680   Sensible Sleepwalking - Wake up at nearest All-Maker Stone
+                  by Parapets
+          https://www.nexusmods.com/skyrimspecialedition/mods/64680
+    1392  21956   Simple Campfire Additions
+                  by lonewolfsniper676
+          https://www.nexusmods.com/skyrimspecialedition/mods/21956
+    1391  112212  City Bag Checks
+                  by Jonx0r
+          https://www.nexusmods.com/skyrimspecialedition/mods/112212
+    1351  69861   Harvest Your Blood for Septimus
+                  by Tate Taylor
+          https://www.nexusmods.com/skyrimspecialedition/mods/69861
+    1350  56366   Fare Thee Well - Spouses and Children Give Blessings (TAGS - Family)
+                  by Lollialuna
+          https://www.nexusmods.com/skyrimspecialedition/mods/56366
+    1340  14233   More Racism in Windhelm SSE
+                  by LoneWolfEburg mnikjom
+          https://www.nexusmods.com/skyrimspecialedition/mods/14233
+    1251  79631   Skyrim Reputation Patches for Vanilla Quest Expansions
+                  by DK
+          https://www.nexusmods.com/skyrimspecialedition/mods/79631
+    1216  133173  Heart-To-Heart - Conversations Among Family
+                  by Lollialuna
+          https://www.nexusmods.com/skyrimspecialedition/mods/133173
+    1211  100385  Autographs (Of Skyrim)
+                  by Oldkottor
+          https://www.nexusmods.com/skyrimspecialedition/mods/100385
+    1206  76753   Sleeping Expanded for Interesting NPCs (3DNPC)
+                  by TheCyclist
+          https://www.nexusmods.com/skyrimspecialedition/mods/76753
+    1180  39201   End Times
+                  by grasscid
+          https://www.nexusmods.com/skyrimspecialedition/mods/39201
+    1177  92814   Immersive Laundry - Animated
+                  by ToosTruus and StoneSpiralGaming
+          https://www.nexusmods.com/skyrimspecialedition/mods/92814
+    1166  110882  Boats - Operational Animated Travel
+                  by Enneal
+          https://www.nexusmods.com/skyrimspecialedition/mods/110882
+    1152  121654  Apocryphal Library
+                  by Jenasto
+          https://www.nexusmods.com/skyrimspecialedition/mods/121654
+    1144  63271   Use Those Horses
+                  by Swashbuckler24
+          https://www.nexusmods.com/skyrimspecialedition/mods/63271
+    1111  76472   Werewolf Revert Effect And Animation SE (DAR)
+                  by deleted74737258
+          https://www.nexusmods.com/skyrimspecialedition/mods/76472
+    1109  35801   Notes with something to read SE by Xtudo
+                  by Xtudo
+          https://www.nexusmods.com/skyrimspecialedition/mods/35801
+    1104  66831   Fortified Imperial Fort Battlements (ESL)
+                  by skyfall515
+          https://www.nexusmods.com/skyrimspecialedition/mods/66831
+    1078  85575   Lights On - Wearable Lanterns for Immersive Equipment Displays
+                  by GiraPomba
+          https://www.nexusmods.com/skyrimspecialedition/mods/85575
+    1050  35190   Fjori and Holgeir in Sovngarde
+                  by dkdoubledub
+          https://www.nexusmods.com/skyrimspecialedition/mods/35190
+    1031  126561  Edmond's Assassin of Old - Immersive Vanilla Bug Fix
+                  by Edmond Noir
+          https://www.nexusmods.com/skyrimspecialedition/mods/126561
+     975  96804   Shame of Skyrim
+                  by Frib
+          https://www.nexusmods.com/skyrimspecialedition/mods/96804
+     959  76804   Akaviri History - Lore-Friendly Additions and Tweaks
+                  by pleonasmo3ponto  BURBURINHO
+          https://www.nexusmods.com/skyrimspecialedition/mods/76804
+     874  95114   Snores of Skyrim Lite
+                  by JobiWanUK
+          https://www.nexusmods.com/skyrimspecialedition/mods/95114
+     872  63934   Detailed NPCs - Fishing Gear for NPCs (SPID)
+                  by BecomingNplus1
+          https://www.nexusmods.com/skyrimspecialedition/mods/63934
+     869  144420  Skyforge Immersion Addon
+                  by MadAborModding
+          https://www.nexusmods.com/skyrimspecialedition/mods/144420
+     867  92844   Sink of Scrubbing - Interactive Wash Basins
+                  by Jake Query
+          https://www.nexusmods.com/skyrimspecialedition/mods/92844
+     841  104494  GuardsTalk
+                  by ceejbot
+          https://www.nexusmods.com/skyrimspecialedition/mods/104494
+     831  88254   Fixed Script for Holidays
+                  by Borgut1337
+          https://www.nexusmods.com/skyrimspecialedition/mods/88254
+     828  152547  Immersive Dying Nurelion - The White Phial Quest
+                  by wankingSkeever
+          https://www.nexusmods.com/skyrimspecialedition/mods/152547
+     818  116028  Missives - Notes and Announcements
+                  by Enneal
+          https://www.nexusmods.com/skyrimspecialedition/mods/116028
+     814  80807   Torch Bash Ignites Traps
+                  by Awyl
+          https://www.nexusmods.com/skyrimspecialedition/mods/80807
+     801  72194   Nature's Bounty - An Immersive Lore-Friendly Resource Gathering Integration Overhaul Redux for Good Guys Mod
+                  by Jelidity
+          https://www.nexusmods.com/skyrimspecialedition/mods/72194
+     786  75879   Immersive Rejections for Interesting NPCs (3DNPC)
+                  by TheCyclist
+          https://www.nexusmods.com/skyrimspecialedition/mods/75879
+     783  157750  Followers React to Crafting
+                  by JobiWanUK
+          https://www.nexusmods.com/skyrimspecialedition/mods/157750
+     773  158966  Voiced Narrative - Farming (Creation Club) *
+                  by GTheGenerous
+          https://www.nexusmods.com/skyrimspecialedition/mods/158966
+     760  146571  - Wargod - An Ebony Warrior Boss overhaul
+                  by ENR
+          https://www.nexusmods.com/skyrimspecialedition/mods/146571
+     718  63951   Detailed NPCs - Blanket Scarves for NPCs (SPID)
+                  by BecomingNplus1
+          https://www.nexusmods.com/skyrimspecialedition/mods/63951
+     709  90800   Edmond's Cursed - An Alternate Death Werewolf and Vampire Mod
+                  by Edmond Noir
+          https://www.nexusmods.com/skyrimspecialedition/mods/90800
+     689  46659   Improved Innkeepers
+                  by Valdaraak
+          https://www.nexusmods.com/skyrimspecialedition/mods/46659
+     682  161062  Dynamic NPC Hairstyles
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/161062
+     679  66864   Catir Club - Immersive Creation Club Integration *
+                  by Catir
+          https://www.nexusmods.com/skyrimspecialedition/mods/66864
+     674  118899  Grab and Eat - Eat directly from harvestable flora
+                  by GiraPomba
+          https://www.nexusmods.com/skyrimspecialedition/mods/118899
+     659  137106  Serious Civil War Fort Personnel
+                  by Enodoc
+          https://www.nexusmods.com/skyrimspecialedition/mods/137106
+     647  101027  Essentials Knockdown
+                  by Edryu
+          https://www.nexusmods.com/skyrimspecialedition/mods/101027
+     629  159070  Voiced Narrative - Pets of Skyrim (Creation Club) *
+                  by GTheGenerous
+          https://www.nexusmods.com/skyrimspecialedition/mods/159070
+     607  56892   burn Burn BURN
+                  by tarlazo
+          https://www.nexusmods.com/skyrimspecialedition/mods/56892
+     589  92593   Immersive Interactions - Pilgrim FLM
+                  by monkeyangie
+          https://www.nexusmods.com/skyrimspecialedition/mods/92593
+     553  171733  Press E to Heal Followers SKSE
+                  by Ivy - JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/171733
+     524  94605   U Can't Touch Fish
+                  by lilmetal
+          https://www.nexusmods.com/skyrimspecialedition/mods/94605
+     514  82691   Skyrim Reputation - Manbeast - A Werewolf Overhaul patch
+                  by urbon
+          https://www.nexusmods.com/skyrimspecialedition/mods/82691
+     484  62994   Detailed NPCs - Skull Masks for NPCs (SPID)
+                  by BecomingNplus1
+          https://www.nexusmods.com/skyrimspecialedition/mods/62994
+     462  102772  Interesting NPCs Honed Metal Patch for Isobel
+                  by Quietlychamil
+          https://www.nexusmods.com/skyrimspecialedition/mods/102772
+     455  27869   Underwater Vision
+                  by Spongeman131
+          https://www.nexusmods.com/skyrimspecialedition/mods/27869
+     432  135278  Little Library - New Books in Skyrim
+                  by Lummox JR
+          https://www.nexusmods.com/skyrimspecialedition/mods/135278
+     414  128168  Apocryphal Library and Undeath Remastered Integration
+                  by Jenasto
+          https://www.nexusmods.com/skyrimspecialedition/mods/128168
+     396  182707  FYX - Riften - Window Consistency
+                  by Yuril
+          https://www.nexusmods.com/skyrimspecialedition/mods/182707
+     388  122411  Very Important Cannibal Bug Fix
+                  by SeaSparrow
+          https://www.nexusmods.com/skyrimspecialedition/mods/122411
+     387  71482   Fleeting Torches SE
+                  by Mallakite
+          https://www.nexusmods.com/skyrimspecialedition/mods/71482
+     351  123365  Valtheim EVGAT Leaps of Faith
+                  by megnoeu
+          https://www.nexusmods.com/skyrimspecialedition/mods/123365
+     332  178781  Angi Uses Unique Practice Arrows
+                  by wSkeever
+          https://www.nexusmods.com/skyrimspecialedition/mods/178781
+     326  166738  Followers Sit on Carriages
+                  by tarlazo
+          https://www.nexusmods.com/skyrimspecialedition/mods/166738
+     309  112722  Simple Bosmer Harvesting
+                  by Warden Dargo and Jayserpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/112722
+     298  147698  DAc0da - CoMAP Addon
+                  by Giuug and Sputnik
+          https://www.nexusmods.com/skyrimspecialedition/mods/147698
+     259  174712  VIGILANT - CoMAP Addon
+                  by Giuug and Sputnik
+          https://www.nexusmods.com/skyrimspecialedition/mods/174712
+     222  163647  Windows for Capital Windhelm Expansion
+                  by Mharlek1
+          https://www.nexusmods.com/skyrimspecialedition/mods/163647
+      93  182240  Missing Food Restoration
+                  by TheShiningAbsol
+          https://www.nexusmods.com/skyrimspecialedition/mods/182240
+
+--- Magic - Gameplay ---
+    8788  70428   NPCs React To Necromancy (And More)
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/70428
+    7693  91480   NPCs React To Invisibility *
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/91480
+    6243  40802   Undeath - Classical Lichdom *
+                  by ConnerRia
+          https://www.nexusmods.com/skyrimspecialedition/mods/40802
+    4128  59350   Use Telekinesis on Traps
+                  by wankingSkeever
+          https://www.nexusmods.com/skyrimspecialedition/mods/59350
+    3808  95196   Sorcerer - A Staff and Scroll Overhaul
+                  by Simon Magus DeltaRider and ElectricSparx
+          https://www.nexusmods.com/skyrimspecialedition/mods/95196
+     683  95716   CC Arcane Archer - Tweaks and Enhancements *
+                  by AndrealletiusVIII
+          https://www.nexusmods.com/skyrimspecialedition/mods/95716
+       0  95212   Sorcerer Patch Page
+                  by Simon Magus Janquel and Kundrun
+          https://www.nexusmods.com/skyrimspecialedition/mods/95212
+
+--- Miscellaneous ---
+   93828  15109   Fuz Ro D-oh - Silent Voice
+                  by shadeMe
+          https://www.nexusmods.com/skyrimspecialedition/mods/15109
+   69901  18967   Better Jumping SE
+                  by meh321 and z65536
+          https://www.nexusmods.com/skyrimspecialedition/mods/18967
+   30337  59818   Crash Logger SSE AE VR - PDB support
+                  by alandtse
+          https://www.nexusmods.com/skyrimspecialedition/mods/59818
+   14799  54309   Auto Input Switch
+                  by Parapets
+          https://www.nexusmods.com/skyrimspecialedition/mods/54309
+    9507  52641   Navigator - Navmesh Fixes
+                  by tarlazo
+          https://www.nexusmods.com/skyrimspecialedition/mods/52641
+    9281  31519   Beyond Skyrim - Wares of Tamriel SE
+                  by Beyond Skyrim
+          https://www.nexusmods.com/skyrimspecialedition/mods/31519
+    7474  41198   Thrones of Skyrim
+                  by Kelretu
+          https://www.nexusmods.com/skyrimspecialedition/mods/41198
+    7273  146873  Core Impact Framework (CIF)
+                  by Seb263
+          https://www.nexusmods.com/skyrimspecialedition/mods/146873
+    5993  100975  Disk Cache Enabler
+                  by Archost
+          https://www.nexusmods.com/skyrimspecialedition/mods/100975
+    5509  22653   Misc. College of Winterhold Tweaks
+                  by SomethingObscure
+          https://www.nexusmods.com/skyrimspecialedition/mods/22653
+    4968  91160   Environs - Master Plugin
+                  by Siberpunk
+          https://www.nexusmods.com/skyrimspecialedition/mods/91160
+    1795  106048  Creation Club Item Descriptions
+                  by Decaroidea
+          https://www.nexusmods.com/skyrimspecialedition/mods/106048
+    1434  100902  House Cats - My version SE by Xtudo
+                  by Xtudo
+          https://www.nexusmods.com/skyrimspecialedition/mods/100902
+    1248  102544  VIGILANT - Tweaks
+                  by Decaroidea
+          https://www.nexusmods.com/skyrimspecialedition/mods/102544
+     787  57412   CC Gray Cowl Returns - Thief Delay *
+                  by Missile
+          https://www.nexusmods.com/skyrimspecialedition/mods/57412
+     722  80969   Project AHO - Tweaks
+                  by Decaroidea
+          https://www.nexusmods.com/skyrimspecialedition/mods/80969
+     717  104653  Meridia's Order - Vigilant Synergy Patch
+                  by Decaroidea
+          https://www.nexusmods.com/skyrimspecialedition/mods/104653
+     476  124767  Turn in Contraband
+                  by Maleficus
+          https://www.nexusmods.com/skyrimspecialedition/mods/124767
+     355  96135   Rent a room for 12 hours
+                  by AndrealletiusVIII
+          https://www.nexusmods.com/skyrimspecialedition/mods/96135
+     218  145145  Forgemaster's Fingers Quest for Orcs and Blood-Kin
+                  by Susoheit
+          https://www.nexusmods.com/skyrimspecialedition/mods/145145
+
+--- NPC ---
+   86791  2650    RS Children Overhaul
+                  by isophe
+          https://www.nexusmods.com/skyrimspecialedition/mods/2650
+   78320  667     Campfire - Complete Camping System (Supports Skyrim VR)
+                  by Chesko
+          https://www.nexusmods.com/skyrimspecialedition/mods/667
+   44275  29194   Interesting NPCs SE (3DNPC)
+                  by Kris Takahashi
+          https://www.nexusmods.com/skyrimspecialedition/mods/29194
+   17800  16222   Serana Dialogue Edit - Skyrim Special Edition
+                  by ThatGuyYeah
+          https://www.nexusmods.com/skyrimspecialedition/mods/16222
+    6825  22146   VIGILANT - NPC Overhaul
+                  by nerjaveika
+          https://www.nexusmods.com/skyrimspecialedition/mods/22146
+    5993  97946   Additional Dremora Faces
+                  by AndrealletiusVIII
+          https://www.nexusmods.com/skyrimspecialedition/mods/97946
+    5623  8649    Khajiit Child Maisha SE
+                  by tktk
+          https://www.nexusmods.com/skyrimspecialedition/mods/8649
+    4637  64057   Dapper Deliveries - A Courier Overhaul
+                  by Tragedian
+          https://www.nexusmods.com/skyrimspecialedition/mods/64057
+    3098  40231   Realistic Elven Children (Aymar and friends reimagined)
+                  by Muffloid - mdfeelgood
+          https://www.nexusmods.com/skyrimspecialedition/mods/40231
+    2712  45500   Horses for Followers
+                  by Jorne - Umgak
+          https://www.nexusmods.com/skyrimspecialedition/mods/45500
+    2416  73153   Tamrielic Names
+                  by sasnikol
+          https://www.nexusmods.com/skyrimspecialedition/mods/73153
+    1840  87737   Elven Ears for Breton NPCs
+                  by Horn
+          https://www.nexusmods.com/skyrimspecialedition/mods/87737
+    1775  73312   Reachmen Tribes Names
+                  by sasnikol
+          https://www.nexusmods.com/skyrimspecialedition/mods/73312
+    1737  74053   Dovah Names
+                  by sasnikol
+          https://www.nexusmods.com/skyrimspecialedition/mods/74053
+    1696  73315   Ashlander Nomads Names
+                  by sasnikol
+          https://www.nexusmods.com/skyrimspecialedition/mods/73315
+    1567  74055   Daedric Names
+                  by sasnikol
+          https://www.nexusmods.com/skyrimspecialedition/mods/74055
+    1552  69900   Resplendent Royals - Jarl's Court NPC Overhaul
+                  by Tragedian
+          https://www.nexusmods.com/skyrimspecialedition/mods/69900
+    1367  36950   Bards College Excavation
+                  by dkdoubledub
+          https://www.nexusmods.com/skyrimspecialedition/mods/36950
+    1325  38260   Kyne's Temple Consequences
+                  by dkdoubledub
+          https://www.nexusmods.com/skyrimspecialedition/mods/38260
+    1240  115974  Miraakle - A Miraak and Miraak Follower NPC Replacer
+                  by AnnAccident
+          https://www.nexusmods.com/skyrimspecialedition/mods/115974
+    1180  88230   Sinding's Werewolf Voice Overhaul- Mihail NPCs and Followers (SE-AE version)
+                  by Mihail
+          https://www.nexusmods.com/skyrimspecialedition/mods/88230
+    1176  38405   Housecarl Companions Refine (Unique Follower Perks - NPC Appearance Overhaul - Lydia)
+                  by Dylan James
+          https://www.nexusmods.com/skyrimspecialedition/mods/38405
+    1127  112513  Seranade - A(nother) Serana NPC Replacer
+                  by AnnAccident
+          https://www.nexusmods.com/skyrimspecialedition/mods/112513
+     975  35031   New Embershard Miners
+                  by dkdoubledub
+          https://www.nexusmods.com/skyrimspecialedition/mods/35031
+     955  60399   Sexier Vanilla - Guards (Plus Sexier Requiem - Guards)
+                  by StinkyAegis - Some meshes by QwibQwibMods
+          https://www.nexusmods.com/skyrimspecialedition/mods/60399
+     946  77166   Unique Greybeard Beards
+                  by Catir and Mharlek1
+          https://www.nexusmods.com/skyrimspecialedition/mods/77166
+     614  91087   Dialogue Tweak - Eorlund Gray-Mane and Civil War Quartermasters
+                  by AndrealletiusVIII
+          https://www.nexusmods.com/skyrimspecialedition/mods/91087
+     452  51174   Filling In The Blanks - Unique Faces For Bandits and Guards
+                  by MiTelefonoBroken7
+          https://www.nexusmods.com/skyrimspecialedition/mods/51174
+     320  77637   Cat's Nessa Replacers (and a preset)
+                  by CatOfEvilGenius
+          https://www.nexusmods.com/skyrimspecialedition/mods/77637
+     295  179341  Extended NPC Dialogue Hub
+                  by JobiWanUK
+          https://www.nexusmods.com/skyrimspecialedition/mods/179341
+     221  66863   A decent man - High Poly Sinding Replacer SE
+                  by deleted74737258
+          https://www.nexusmods.com/skyrimspecialedition/mods/66863
+       3  28633   My Little Hatchling SSE- Ram-Ku The Adoptable Argonian Boy
+                  by hl84
+          https://www.nexusmods.com/skyrimspecialedition/mods/28633
+
+--- Quests and Adventures ---
+   47435  1179    The Forgotten City
+                  by Nick Pearce
+          https://www.nexusmods.com/skyrimspecialedition/mods/1179
+   39150  18330   Immersive World Encounters. FINAL SE
+                  by Sette
+          https://www.nexusmods.com/skyrimspecialedition/mods/18330
+   35084  11849   VIGILANT SE
+                  by Vicn
+          https://www.nexusmods.com/skyrimspecialedition/mods/11849
+   29997  17576   Missives
+                  by IronDusk33
+          https://www.nexusmods.com/skyrimspecialedition/mods/17576
+   27713  3850    The Choice is Yours
+                  by kryptopyr
+          https://www.nexusmods.com/skyrimspecialedition/mods/3850
+   20771  11894   VIGILANT - English Translation (Plus Voiced Addon)
+                  by Aelarr and The Skyrim Voice Alliance
+          https://www.nexusmods.com/skyrimspecialedition/mods/11894
+   20730  15996   Project AHO
+                  by Haem Projects
+          https://www.nexusmods.com/skyrimspecialedition/mods/15996
+   20196  51711   Paarthurnax - Quest Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/51711
+   19685  6180    Undeath Remastered
+                  by Antioch08
+          https://www.nexusmods.com/skyrimspecialedition/mods/6180
+   15510  66666   College of Winterhold - Quest Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/66666
+   15092  72772   Skyrim Extended Cut - Saints and Seducers
+                  by Team EC
+          https://www.nexusmods.com/skyrimspecialedition/mods/72772
+   12945  57285   House of Horrors - Quest Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/57285
+   11438  22206   Konahrik's Accoutrements
+                  by Edhelsereg
+          https://www.nexusmods.com/skyrimspecialedition/mods/22206
+   10663  65708   Caught Red Handed - Quest Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/65708
+    9969  52704   At Your Own Pace
+                  by Gothos25
+          https://www.nexusmods.com/skyrimspecialedition/mods/52704
+    9571  57683   The Only Cure - Quest Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/57683
+    9230  76606   The Whispering Door - Quest Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/76606
+    9198  80974   Innocence Lost - Quest Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/80974
+    8638  53792   Nilheim - Misc Quest Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/53792
+    8620  24351   Carved Brink
+                  by Haem Projects
+          https://www.nexusmods.com/skyrimspecialedition/mods/24351
+    8068  18416   Quests Are In Skyrim
+                  by SarthesArai
+          https://www.nexusmods.com/skyrimspecialedition/mods/18416
+    7975  94863   The Heart of Dibella - Quest Expansion
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/94863
+    7296  70917   SIRENROOT - Deluge of Deceit
+                  by Everglaid
+          https://www.nexusmods.com/skyrimspecialedition/mods/70917
+    6253  53074   Leaps of Faith - A Misc Quest
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/53074
+    6073  34681   Save the Icerunner - Lights Out Alternate Routes
+                  by Parapets
+          https://www.nexusmods.com/skyrimspecialedition/mods/34681
+    5758  135682  DAC0DA - English Translation
+                  by Aelarr
+          https://www.nexusmods.com/skyrimspecialedition/mods/135682
+    5554  114054  Infiltration - Quest Expansion
+                  by TheOscar0 - JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/114054
+    5349  67930   Immersive Rejections
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/67930
+    5299  136031  DAC0DA - Delayed Start
+                  by Aelarr
+          https://www.nexusmods.com/skyrimspecialedition/mods/136031
+    5049  118229  Destroy The Dark Brotherhood - Quest Expansion
+                  by TheOscar0 - JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/118229
+    4656  110116  Face Sculptor Expanded
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/110116
+    4377  19550   Finding Derkeethus
+                  by SomethingObscure
+          https://www.nexusmods.com/skyrimspecialedition/mods/19550
+    4033  41751   Unofficial Project AHO - Bugfix and Improvement Patch
+                  by Strange1884
+          https://www.nexusmods.com/skyrimspecialedition/mods/41751
+    3846  34028   Thugs Not Assassins
+                  by Parapets
+          https://www.nexusmods.com/skyrimspecialedition/mods/34028
+    3828  96865   Alternate Perspective - Voiced Addon
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/96865
+    3774  28973   Finding Helgi... and Laelette - A Laid to Rest Overhaul
+                  by SomethingObscure
+          https://www.nexusmods.com/skyrimspecialedition/mods/28973
+    3698  21916   A Lovely Letter Alternate Routes
+                  by Parapets
+          https://www.nexusmods.com/skyrimspecialedition/mods/21916
+    3523  167166  Why I Came to Skyrim - Origin Stories
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/167166
+    3261  37906   CIVIL WAR OVERHAUL - Redux
+                  by Apollodown
+          https://www.nexusmods.com/skyrimspecialedition/mods/37906
+    3199  86625   Defeat the Dragon Cult
+                  by Gothos25
+          https://www.nexusmods.com/skyrimspecialedition/mods/86625
+    3085  36707   The Tale of Tsatampra Xiros
+                  by SlimeSire
+          https://www.nexusmods.com/skyrimspecialedition/mods/36707
+    2858  120802  Ascend - Hidden Peaks of Skyrim
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/120802
+    2855  76494   Heart of the Reach - New Quest -  Dungeon - Weapons - 3 Creature Variants - Ring - Spell
+                  by TheLootist
+          https://www.nexusmods.com/skyrimspecialedition/mods/76494
+    2642  102584  Meridia's Order
+                  by TheOscar0
+          https://www.nexusmods.com/skyrimspecialedition/mods/102584
+    2619  134405  DAc0da
+                  by Vicn
+          https://www.nexusmods.com/skyrimspecialedition/mods/134405
+    2582  123173  The Taste of Death - Quest Addon
+                  by MadAborModding
+          https://www.nexusmods.com/skyrimspecialedition/mods/123173
+    2553  57961   VIGILANT - Delayed Start
+                  by Aelarr
+          https://www.nexusmods.com/skyrimspecialedition/mods/57961
+    2300  62466   Vittorias Alternate Wedding
+                  by AndrealletiusVIII
+          https://www.nexusmods.com/skyrimspecialedition/mods/62466
+    2202  67374   Voiced Narrative - Ghosts of the Tribunal (Creation Club) *
+                  by G The Generous
+          https://www.nexusmods.com/skyrimspecialedition/mods/67374
+    2199  105697  The Gift of Saturalia - A Quest for the Holidays
+                  by JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/105697
+    2133  121499  Boethiah's Calling - Alternate Questline
+                  by MadAborModding
+          https://www.nexusmods.com/skyrimspecialedition/mods/121499
+    2079  166094  Missives - Voice and Quest Expansion
+                  by JaySerpa and GiraPomba
+          https://www.nexusmods.com/skyrimspecialedition/mods/166094
+    2046  57818   New Beginnings - Alternate Perspective Extension
+                  by KrisV777
+          https://www.nexusmods.com/skyrimspecialedition/mods/57818
+    2036  41132   Jarl Balgruuf Dilemma SSE
+                  by simtam
+          https://www.nexusmods.com/skyrimspecialedition/mods/41132
+    1949  45869   Knight of the North - Divine Crusader Reworked *
+                  by Tate Taylor
+          https://www.nexusmods.com/skyrimspecialedition/mods/45869
+    1926  109265  Unmasking Sybille
+                  by TheOscar0
+          https://www.nexusmods.com/skyrimspecialedition/mods/109265
+    1900  10238   A Serious Wedding - Teldryn Sero Marriage Mod SSE
+                  by Undriel
+          https://www.nexusmods.com/skyrimspecialedition/mods/10238
+    1835  57677   Savos Aren's Regrets Restored - Cut Content Restoration
+                  by vagonumero12
+          https://www.nexusmods.com/skyrimspecialedition/mods/57677
+    1833  67532   Voiced Narrative - Redguard Elite Armaments (Creation Club) *
+                  by G The Generous
+          https://www.nexusmods.com/skyrimspecialedition/mods/67532
+    1827  67439   Voiced Narrative - The Gray Cowl Returns (Creation Club) *
+                  by G The Generous
+          https://www.nexusmods.com/skyrimspecialedition/mods/67439
+    1742  141047  Sleepwalking Into A Nightmare - New Daedric Prince Quest
+                  by TheLootist
+          https://www.nexusmods.com/skyrimspecialedition/mods/141047
+    1660  159911  The Frozen Heart - Quest Mod
+                  by wSkeever and Kreiste
+          https://www.nexusmods.com/skyrimspecialedition/mods/159911
+    1645  102594  Better Skyrim Parties - Weddings - Funerals - Crowd Events Overhaul
+                  by Mharlek1
+          https://www.nexusmods.com/skyrimspecialedition/mods/102594
+    1619  115647  Andrealletius' Scene Tweaks
+                  by AndrealletiusVIII
+          https://www.nexusmods.com/skyrimspecialedition/mods/115647
+    1534  73835   Fists of Fury - Skyrim *
+                  by Missile
+          https://www.nexusmods.com/skyrimspecialedition/mods/73835
+    1513  120935  Revealing Rune
+                  by TheOscar0
+          https://www.nexusmods.com/skyrimspecialedition/mods/120935
+    1474  44914   Angi's Camp Tweaks
+                  by Parapets
+          https://www.nexusmods.com/skyrimspecialedition/mods/44914
+    1400  107987  Voiced Narrative - Bloodchill Manor (Creation Club) *
+                  by GTheGenerous
+          https://www.nexusmods.com/skyrimspecialedition/mods/107987
+    1283  103559  Tales of Skyrim - Berserkyr
+                  by JPsteel2
+          https://www.nexusmods.com/skyrimspecialedition/mods/103559
+    1265  145599  Adventurer's Start - An Alternate Perspective Addon
+                  by Missile
+          https://www.nexusmods.com/skyrimspecialedition/mods/145599
+    1247  108242  Return Aegisbane
+                  by TheOscar0
+          https://www.nexusmods.com/skyrimspecialedition/mods/108242
+    1238  22755   Fortune's Tradehouse
+                  by Doubtsuspended
+          https://www.nexusmods.com/skyrimspecialedition/mods/22755
+    1224  120650  Mephala's Curse - Whispering Door Quest Addon [A]
+                  by MadAborModding
+          https://www.nexusmods.com/skyrimspecialedition/mods/120650
+    1210  114863  Mysteries of the Dwemer - Quest Mod
+                  by nimwraith
+          https://www.nexusmods.com/skyrimspecialedition/mods/114863
+    1208  119502  Mehrunes Dagon's Shrine Unlocked - Pieces of the Past Alternate Ending
+                  by MadAborModding
+          https://www.nexusmods.com/skyrimspecialedition/mods/119502
+    1188  136788  Redeeming Fultheim - A Blades Quest Addon
+                  by MadAborModding
+          https://www.nexusmods.com/skyrimspecialedition/mods/136788
+    1098  129582  Gravewind
+                  by rune sentinel
+          https://www.nexusmods.com/skyrimspecialedition/mods/129582
+    1097  81554   Serious Civil War Consequences for Jarl Balgruuf
+                  by Enodoc
+          https://www.nexusmods.com/skyrimspecialedition/mods/81554
+    1083  115962  More to do in the Soul Cairn
+                  by Betalille
+          https://www.nexusmods.com/skyrimspecialedition/mods/115962
+    1010  127087  Whispers of the Depths - Quest Mod
+                  by nimwraith
+          https://www.nexusmods.com/skyrimspecialedition/mods/127087
+     911  89554   Old Blood - DELETED
+                  by deleted39079115
+          https://www.nexusmods.com/skyrimspecialedition/mods/89554
+     869  149879  Miasma
+                  by Renacles
+          https://www.nexusmods.com/skyrimspecialedition/mods/149879
+     861  149820  Once We Were Here - Quest Mod
+                  by nimwraith
+          https://www.nexusmods.com/skyrimspecialedition/mods/149820
+     856  141216  The Breathing Abyss - Lovecraft Inspired Mod
+                  by nimwraith and EXIT
+          https://www.nexusmods.com/skyrimspecialedition/mods/141216
+     844  135087  Bark and Bite - Witcher Inspired Quest
+                  by nimwraith
+          https://www.nexusmods.com/skyrimspecialedition/mods/135087
+     801  123559  Dungeon Quests are not Miscellaneous
+                  by Enodoc
+          https://www.nexusmods.com/skyrimspecialedition/mods/123559
+     776  142238  Before the End - Quest Mod
+                  by nimwraith
+          https://www.nexusmods.com/skyrimspecialedition/mods/142238
+     756  4929    The DoubtSuspended Quest Pack
+                  by DoubtSuspended
+          https://www.nexusmods.com/skyrimspecialedition/mods/4929
+     692  77965   The Forgotten City - Good Ending Tweaks
+                  by asdasfa
+          https://www.nexusmods.com/skyrimspecialedition/mods/77965
+     600  121610  Miscellaneous Quests are Favors
+                  by Enodoc
+          https://www.nexusmods.com/skyrimspecialedition/mods/121610
+     589  159925  Voiced Narrative - Bittercup (Creation Club) *
+                  by GTheGenerous
+          https://www.nexusmods.com/skyrimspecialedition/mods/159925
+     569  97984   Soldier of Stendarr
+                  by Garaleos
+          https://www.nexusmods.com/skyrimspecialedition/mods/97984
+     561  145580  Destroy the Acolyte Priests
+                  by Enodoc
+          https://www.nexusmods.com/skyrimspecialedition/mods/145580
+     554  124169  Ascend - Hidden Peaks of Wyrmstooth
+                  by Rotol
+          https://www.nexusmods.com/skyrimspecialedition/mods/124169
+     541  100522  Start in Bruma (an addon for Alternate Perspective)
+                  by Oldkottor
+          https://www.nexusmods.com/skyrimspecialedition/mods/100522
+     541  143950  Respectful Ravyn
+                  by TheOscar0
+          https://www.nexusmods.com/skyrimspecialedition/mods/143950
+     459  98194   Aran di Kono
+                  by Syliore
+          https://www.nexusmods.com/skyrimspecialedition/mods/98194
+     458  77967   Project AHO - Saving The Oryses Tweaks
+                  by asdasfa
+          https://www.nexusmods.com/skyrimspecialedition/mods/77967
+     447  124862  Missing In Action - Tweaks
+                  by bientje
+          https://www.nexusmods.com/skyrimspecialedition/mods/124862
+     419  138804  Camilla Gets Married
+                  by murrayj
+          https://www.nexusmods.com/skyrimspecialedition/mods/138804
+     412  157902  Proper journal entries for 3dnpcs
+                  by Jason
+          https://www.nexusmods.com/skyrimspecialedition/mods/157902
+     410  173764  Scriptures of the Dragon Cult
+                  by henryetha
+          https://www.nexusmods.com/skyrimspecialedition/mods/173764
+     301  148427  A new Debt Alternate Routes
+                  by Jason
+          https://www.nexusmods.com/skyrimspecialedition/mods/148427
+     296  99612   Interesting NPCs - Melea Entius Tweaks
+                  by nimwraith
+          https://www.nexusmods.com/skyrimspecialedition/mods/99612
+     296  64856   Main Quest Delay Reminder
+                  by WarbirdShaman
+          https://www.nexusmods.com/skyrimspecialedition/mods/64856
+     287  181606  Capital Whiterun Expansion - Quest and Dialogue Addon
+                  by Mendorina
+          https://www.nexusmods.com/skyrimspecialedition/mods/181606
+     158  165341  Alternate Perspective - Project AHO Start
+                  by Hexanode
+          https://www.nexusmods.com/skyrimspecialedition/mods/165341
+     155  182427  Path of the Telvanni
+                  by Tirol21
+          https://www.nexusmods.com/skyrimspecialedition/mods/182427
+
+--- User Interface ---
+   61323  62775   TrueHUD - HUD Additions
+                  by Ersh
+          https://www.nexusmods.com/skyrimspecialedition/mods/62775
+   48157  12688   moreHUD SE
+                  by Ahzaab
+          https://www.nexusmods.com/skyrimspecialedition/mods/12688
+   42356  19250   More Informative Console
+                  by Linthar
+          https://www.nexusmods.com/skyrimspecialedition/mods/19250
+   23097  85702   Inventory Interface Information Injector
+                  by Parapets and Jelidity
+          https://www.nexusmods.com/skyrimspecialedition/mods/85702
+   16845  81409   Constructible Object Custom Keyword System
+                  by Parapets
+          https://www.nexusmods.com/skyrimspecialedition/mods/81409
+   14794  89241   B.O.O.B.I.E.S  (aka Immersive Icons)
+                  by WhereDeadAngelsLie and Discrepancy
+          https://www.nexusmods.com/skyrimspecialedition/mods/89241
+   12008  27859   Skyrim Souls RE - Unpaused Menus
+                  by Vermunds and Fudgyduff
+          https://www.nexusmods.com/skyrimspecialedition/mods/27859
+   11513  56123   CoMAP - Common Marker Addon Project
+                  by Jelidity and Parapets
+          https://www.nexusmods.com/skyrimspecialedition/mods/56123
+   10972  123521  The Dragonborn's Bestiary
+                  by JPSteel2
+          https://www.nexusmods.com/skyrimspecialedition/mods/123521
+   10628  64532   Oxygen Meter 2
+                  by Po3 and OsmosisWrench
+          https://www.nexusmods.com/skyrimspecialedition/mods/64532
+   10379  79975   ConsolePlusPlus
+                  by powerofthree
+          https://www.nexusmods.com/skyrimspecialedition/mods/79975
+   10312  89823   Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.)
+                  by GroundAura
+          https://www.nexusmods.com/skyrimspecialedition/mods/89823
+   10106  42750   Favorite Misc Items
+                  by powerofthree
+          https://www.nexusmods.com/skyrimspecialedition/mods/42750
+    9843  29932   Flat World Map Framework (FWMF)
+                  by Caites and shad0wshayd3
+          https://www.nexusmods.com/skyrimspecialedition/mods/29932
+    9838  90526   Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.)
+                  by GroundAura
+          https://www.nexusmods.com/skyrimspecialedition/mods/90526
+    9084  114790  ImGui Icons
+                  by powerofthree
+          https://www.nexusmods.com/skyrimspecialedition/mods/114790
+    8693  91701   Photo Mode
+                  by powerofthree
+          https://www.nexusmods.com/skyrimspecialedition/mods/91701
+    7490  105799  Description Framework
+                  by Nightfallstorm and JaySerpa
+          https://www.nexusmods.com/skyrimspecialedition/mods/105799
+    6319  138248  The Dragonborn's Bestiary - Quest and Boss mod Patch Compendium AIO (FOMOD)
+                  by Patman023
+          https://www.nexusmods.com/skyrimspecialedition/mods/138248
+    6134  134739  The Dragonborn's Fishiary - Bestiary Addon
+                  by Missile
+          https://www.nexusmods.com/skyrimspecialedition/mods/134739
+    5723  113214  Subtitles
+                  by kpvw aka Water Face
+          https://www.nexusmods.com/skyrimspecialedition/mods/113214
+    5087  43708   Dialogue Movement Enabler
+                  by Vermunds
+          https://www.nexusmods.com/skyrimspecialedition/mods/43708
+    4639  50202   Convenient Reading UI - SE
+                  by uranreactor
+          https://www.nexusmods.com/skyrimspecialedition/mods/50202
+    3990  66339   Informed Mail Delivery
+                  by Glanzer
+          https://www.nexusmods.com/skyrimspecialedition/mods/66339
+    3971  96408   Dynamic Activation Key - MCM
+                  by MaskedRPGFan
+          https://www.nexusmods.com/skyrimspecialedition/mods/96408
+    3838  55387   Soul Cairn Paper Map for FWMF
+                  by Caites
+          https://www.nexusmods.com/skyrimspecialedition/mods/55387
+    3516  54628   Forgotten Vale Paper Map for FWMF
+                  by Caites
+          https://www.nexusmods.com/skyrimspecialedition/mods/54628
+    3493  53878   Blackreach Paper Map for FWMF
+                  by Caites
+          https://www.nexusmods.com/skyrimspecialedition/mods/53878
+    3256  105970  Vanilla Item Descriptions
+                  by Catir
+          https://www.nexusmods.com/skyrimspecialedition/mods/105970
+    3255  99878   Show Follower Carry Weight
+                  by wankingSkeever
+          https://www.nexusmods.com/skyrimspecialedition/mods/99878
+    3185  94076   Diseases - I4 icon
+                  by IAmNotSimon
+          https://www.nexusmods.com/skyrimspecialedition/mods/94076
+    2973  54255   Sovngarde Paper Map for FWMF
+                  by Caites
+          https://www.nexusmods.com/skyrimspecialedition/mods/54255
+    2660  61917   Dayspring Canyon Paper Map for FWMF
+                  by Caites
+          https://www.nexusmods.com/skyrimspecialedition/mods/61917
+    2641  106229  Descriptions for Various Mods
+                  by SauteedPanda
+          https://www.nexusmods.com/skyrimspecialedition/mods/106229
+    2518  55025   Duncan's Paper Maps for FWMF
+                  by Caites
+          https://www.nexusmods.com/skyrimspecialedition/mods/55025
+    2219  128235  Knotwork
+                  by Jelidity and SeaSparrow
+          https://www.nexusmods.com/skyrimspecialedition/mods/128235
+    2142  123389  The Dragonborn's Bestiary - Addons
+                  by monkeyangie
+          https://www.nexusmods.com/skyrimspecialedition/mods/123389
+    2105  92780   Standing Stones - I4 icon
+                  by IAmNotSimon
+          https://www.nexusmods.com/skyrimspecialedition/mods/92780
+    2030  180186  MCM Unlocked
+                  by Seb263
+          https://www.nexusmods.com/skyrimspecialedition/mods/180186
+    2014  173074  Character Menu SE
+                  by JPSteel2
+          https://www.nexusmods.com/skyrimspecialedition/mods/173074
+    1966  93219   Racial Abilities - I4 icons
+                  by IAmNotSimon
+          https://www.nexusmods.com/skyrimspecialedition/mods/93219
+    1731  143311  SkyInteract
+                  by shazdeh2
+          https://www.nexusmods.com/skyrimspecialedition/mods/143311
+    1683  157397  Legendary Map
+                  by shazdeh2
+          https://www.nexusmods.com/skyrimspecialedition/mods/157397
+    1490  115853  Hotkey Reminder
+                  by Shazdeh2
+          https://www.nexusmods.com/skyrimspecialedition/mods/115853
+    1409  113657  Rotols More Icons
+                  by rotol
+          https://www.nexusmods.com/skyrimspecialedition/mods/113657
+    1302  78971   Which Key NG
+                  by kpvw
+          https://www.nexusmods.com/skyrimspecialedition/mods/78971
+    1299  67925   Notification Filter - Remove unwanted notifications
+                  by miere
+          https://www.nexusmods.com/skyrimspecialedition/mods/67925
+    1162  88709   Extended Cut - Saints and Seducers Paper Map for FWMF
+                  by Caites
+          https://www.nexusmods.com/skyrimspecialedition/mods/88709
+    1117  141883  Inventory Interface Information Injector - Alchemy Fix
+                  by Parapets
+          https://www.nexusmods.com/skyrimspecialedition/mods/141883
+     940  166799  ImmersiveHUD SKSE
+                  by Fuzzles
+          https://www.nexusmods.com/skyrimspecialedition/mods/166799
+     937  124456  Encounter Zone Informer
+                  by ThirdEyeSqueegee
+          https://www.nexusmods.com/skyrimspecialedition/mods/124456
+     854  125166  The Dragonborn's Bestiary - Dragon Priests
+                  by DanielChicken
+          https://www.nexusmods.com/skyrimspecialedition/mods/125166
+     747  119235  Player Name Randomizer - Show in UI
+                  by shazdeh2
+          https://www.nexusmods.com/skyrimspecialedition/mods/119235
+     728  123407  Vigilant Paper Map for FWMF by Limon
+                  by Caites
+          https://www.nexusmods.com/skyrimspecialedition/mods/123407
+     696  119090  NPCs Names Distributor - Patches for Various Mods
+                  by Preyka
+          https://www.nexusmods.com/skyrimspecialedition/mods/119090
+     639  124686  Wyrmstooth Paper Map for FWMF by Limon
+                  by Caites
+          https://www.nexusmods.com/skyrimspecialedition/mods/124686
+     599  123456  Hold on a sec - Pause Dialogue Menus
+                  by Wuerfelhusten
+          https://www.nexusmods.com/skyrimspecialedition/mods/123456
+     559  119974  Siege at Icemoth Paper Map for FWMF
+                  by Caites
+          https://www.nexusmods.com/skyrimspecialedition/mods/119974
+     477  109041  Vanilla Style UI for Fancy Fishing
+                  by Jelidity
+          https://www.nexusmods.com/skyrimspecialedition/mods/109041
+     459  82215   Simple Interface Tweaks
+                  by The Community - TheBone98
+          https://www.nexusmods.com/skyrimspecialedition/mods/82215
+     454  92614   Wounds - I4 and Wheeler patch
+                  by IAmNotSimon
+          https://www.nexusmods.com/skyrimspecialedition/mods/92614
+     443  130691  Skull of Corruption Dream Counter
+                  by shazdeh2
+          https://www.nexusmods.com/skyrimspecialedition/mods/130691
+     349  143113  The Nightmare Paper Map for FWMF by Limon
+                  by Caites
+          https://www.nexusmods.com/skyrimspecialedition/mods/143113
+     341  120505  Patreons Menu
+                  by shazdeh2
+          https://www.nexusmods.com/skyrimspecialedition/mods/120505
+     333  146754  DAc0da Paper Map for FWMF by Limon
+                  by Caites
+          https://www.nexusmods.com/skyrimspecialedition/mods/146754
+     311  161050  The Dragonborn's Bestiary - Show In UI
+                  by shazdeh2
+          https://www.nexusmods.com/skyrimspecialedition/mods/161050
+     256  160334  The Dragonborn's Bestiary - Small Creature Addon
+                  by ajsks
+          https://www.nexusmods.com/skyrimspecialedition/mods/160334
+     189  140207  Reachman Loading Screens
+                  by manlethamlet
+          https://www.nexusmods.com/skyrimspecialedition/mods/140207
+     143  127137  Better Third Person Selection - Clearly Activation Button Replacer - DELETED
+                  by Roxy
+          https://www.nexusmods.com/skyrimspecialedition/mods/127137
+      86  181264  Item Preview Customizer
+                  by GabonZ
+          https://www.nexusmods.com/skyrimspecialedition/mods/181264
+      76  185528  Biggie Traits - Show in UI for the Character Menu
+                  by lecdabster
+          https://www.nexusmods.com/skyrimspecialedition/mods/185528
+      42  185819  Stress and Fear - Show in UI for the Character Menu
+                  by lecdabster
+          https://www.nexusmods.com/skyrimspecialedition/mods/185819
+      40  185811  Character Menu - Custom Stats Framework
+                  by lecdabster
+          https://www.nexusmods.com/skyrimspecialedition/mods/185811
+
+ALREADY INSTALLED - overlap with this collection
+
+  64339   Gameplay               Better Third Person Selection - BTPS
+  19080   User Interface         RaceMenu
+  12604   User Interface         SkyUI
+  17561   User Interface         UIExtensions

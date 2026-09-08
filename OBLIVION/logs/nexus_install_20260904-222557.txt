@@ -1,0 +1,488 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260904222557
+Username: DARKSTAR\mr
+RunAs User: DARKSTAR\mr
+Configuration Name: 
+Machine: DARKSTAR (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 34448
+PSVersion: 5.1.26100.9168
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9168
+BuildVersion: 10.0.26100.9168
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+=== install ===
+free space on X: 1270.5 GB
+
+profile backed up -> X:\MODDING\backups\profile-20260904-222557
+
+--- 4794  Ebony Helm Revised ---
+    up to date (files 19019)
+
+--- 1966  MagicLoader 2 ---
+    up to date (files 20962)
+
+--- 2977  Daggerdancer - NBO ---
+    up to date (files 13112)
+
+--- 1272  UE4SS TesSyncMapInjector ---
+    up to date (files 7338)
+
+--- 4079  RAO (NBO Compatible) 1.0 ---
+    up to date (files 19256)
+
+--- 3494  Demoria Armor - NBO ---
+    up to date (files 12806)
+
+--- 1991  Dark Holy Armor - NBO ---
+    up to date (files 12811)
+
+--- 3955  Sylvan Sentinel - NBO ---
+    up to date (files 14336)
+
+--- 3266  Protective Headgear - Glass Helmet (1.2 Updated) ---
+    up to date (files 21236)
+
+--- 4381  Skystrider - NBO ---
+    up to date (files 17368)
+
+--- 3788  Protective Headgear - Elven (1.2 Updated) ---
+    up to date (files 21234)
+
+--- 4337  Sensible Shields - Steel (1.2 Updated) ---
+    up to date (files 21233)
+
+--- 3592  Shorter skirt and Look lighter DarkSeducer armor(NBO) ---
+    up to date (files 12953)
+
+--- 2583  Better Iron Armor (NBBM) ---
+    up to date (files 9332)
+
+--- 2719  Lootable Shivering Isles (Lootable Golden Saints and Dark Seducers) ---
+    up to date (files 10228)
+
+--- 3563  Female Fur Armor Remake (NBO Compatible) ---
+    up to date (files 12604)
+
+--- 4399  Sensible Shields - Iron - Buckler Targe and Full Iron Shields (1.2 Updated) ---
+    up to date (files 21232)
+
+--- 2614  Dark Brotherhood Midriff and Thighs ---
+    up to date (files 14778)
+
+--- 3807  Wrathplate ---
+    up to date (files 14339)
+
+--- 4482  Arena Gladiator Raiments ---
+    up to date (files 17504)
+
+--- 2654  Pleasing Palettes - Simply Silver Mithril ---
+    up to date (files 8645)
+
+--- 3401  Bloody Leather Dark Brotherhood Armor 4k ---
+    up to date (files 11749)
+
+--- 4250  BETTER LOOKING - Steel Armor ---
+    up to date (files 16165)
+
+--- 353  Body Type Selector ---
+    up to date (files 3650)
+
+--- 125  Universal Achievement Unblocker ---
+    up to date (files 3880)
+
+--- 445  Young Textures Revamped ---
+    up to date (files 3230)
+
+--- 1464  A More Complete World Map 8K - 4K ---
+    up to date (files 19539)
+
+--- 473  NL-Tag Remover ---
+    up to date (files 21603)
+
+--- 13  Better HUD ---
+    up to date (files 9171)
+
+--- 1284  Realistic High Quality Skin ---
+    up to date (files 3199)
+
+--- 2088  Female Locomotion Replacer - Unique Walk and Run ---
+    skipped
+
+--- 219  Quest NPCs Run OBR ---
+    up to date (files 14048)
+
+--- 479  Additional Map Markers ---
+    up to date (files 17611)
+
+--- 235  Weightless Alchemy and Misc. Items (Carry more Arrows Potions etc.) ---
+    up to date (files 3035)
+
+--- 221  Leveled Creature and Item Diversity ---
+    merging 2 files: picks 1, 2
+    up to date (files 323+321)
+
+--- 439  Thiccer Than a Snicker - Flame Atronach ---
+    up to date (files 1323)
+
+--- 1671  Colovian Cuts - Hairstyles with Physics ---
+    up to date (files 5594)
+
+--- 1201  Xorberax's Slow Motion Shortcut Wheel ---
+    up to date (files 8923)
+
+--- 427  Sigil Stone Selector ---
+    up to date (files 4913)
+
+--- 1228  Xorberax's Attack-Cancelling ---
+    up to date (files 6858)
+
+--- 538  Spider Mommy - Bare Chested Spider Daedra ---
+    up to date (files 953)
+
+--- 268  Hooded Outlaws ---
+    up to date (files 417)
+
+--- 304  Ayleid Mana Wells ---
+    up to date (files 5490)
+
+--- 108  H.U.E - Handmade Unique Eyes ---
+    up to date (files 15265)
+
+--- 673  Younger Dunmer Lady Head Mesh ---
+    up to date (files 7855)
+
+--- 259  No Starting Map Markers ---
+    up to date (files 1686)
+
+--- 2998  Player Camera - Stop Looking at My Back ---
+    up to date (files 18229)
+
+--- 2077  Wonger's Shield on Back ---
+    up to date (files 11309)
+
+--- 1659  Faster Sleep and Wait - OBSE ---
+    up to date (files 18045)
+
+--- 258  Adjusted Timescale ---
+    up to date (files 2445)
+
+--- 2980  Unread Books Glow ---
+    up to date (files 17325)
+
+--- 1729  Timed Block UE4SS ---
+    up to date (files 12923)
+
+--- 2377  ConfigHelper UE4SS LIB ---
+    up to date (files 10119)
+
+--- 2557  Younger Elven Female Voice ---
+    up to date (files 8809)
+
+--- 965  Realistic Arrow Speeds for Bows (Faster) ---
+    up to date (files 2698)
+
+--- 3098  Auto Hide Gear ---
+    up to date (files 13531)
+
+--- 226  Permanent Doomstones ---
+    up to date (files 3772)
+
+--- 2060  Precise Soul Gem Capture OBSE - ASI ---
+    up to date (files 6092)
+
+--- 2745  Bow Headshot UE4SS (fix 1x sneak damage WIP) ---
+    up to date (files 13720)
+
+--- 3468  TFP - True First Person Camera ---
+    up to date (files 20192)
+
+--- 1405  Improved Bangs - Longer Hair - Court Hairstyle ---
+    up to date (files 5522)
+
+--- 315  Stronger Soul Gems ---
+    up to date (files 565)
+
+--- 1064  Equipped Item Colors ---
+    up to date (files 2520)
+
+--- 3987  Fix Persistent Character Glow ---
+    up to date (files 14535)
+
+--- 4010  Glorious Holes of Oblivion (GHO) ---
+    up to date (files 22220)
+
+--- 260  More Summons ---
+    up to date (files 401)
+
+--- 3786  Map Icon Completion Markers ---
+    up to date (files 16609)
+
+--- 3717  Practical Arsenal - Ebony (Updated to 1.2) ---
+    up to date (files 20183)
+
+--- 1365  More Enemies ---
+    up to date (files 3869)
+
+--- 2885  Younger Female Voice - Humans ---
+    up to date (files 9513)
+
+--- 3790  Infinitum - Compendium ---
+    up to date (files 22649)
+
+--- 1849  One Button Dodge UE4SS ---
+    up to date (files 14354)
+
+--- 762  Simple Start Skip - Alternative Start ---
+    up to date (files 6367)
+
+--- 1198  Faster Spell Projectiles ---
+    up to date (files 2858)
+
+--- 558  Crime Tweaks ---
+    up to date (files 1396)
+
+--- 2178  The Asterisk of Wisdom ---
+    up to date (files 6629)
+
+--- 3363  NPCs Come to Life - Naiad Edition ---
+    merging 2 files: picks 2, 1
+    up to date (files 12383+12899)
+
+--- 2457  Unlimited Rings Redux ---
+    up to date (files 10397)
+
+--- 2565  Dynamic Quiver ---
+    up to date (files 9500)
+
+--- 4058  Practical Arsenal - Steel (Updated to 1.2) ---
+    up to date (files 20442)
+
+--- 2160  Important On Top (inventory sorting) ---
+    up to date (files 7451)
+
+--- 1460  Rebalanced and Unleveled Quest Gold Rewards OBR ---
+    up to date (files 8670)
+
+--- 4191  Practical Arsenal - Iron (Updated for 1.2) ---
+    up to date (files 20084)
+
+--- 3998  Practical Arsenal - Silver (Updated to 1.2) ---
+    up to date (files 20185)
+
+--- 4395  Practical Arsenal - Daedric (Updated to 1.2) ---
+    up to date (files 20186)
+
+--- 4252  Practical Arsenal - Bows _ The Bow-Shaped Bows Mod ---
+    up to date (files 15949)
+
+--- 4483  Practical Arsenal - Dwarven (Updated to 1.2) ---
+    up to date (files 20187)
+
+--- 4604  Practical Arsenal - Quivers (Updated for 1.2) ---
+    up to date (files 20148)
+
+--- 4609  Practical Arsenal - Elven (Updated to 1.2) ---
+    up to date (files 20184)
+
+--- 4466  Practical Arsenal - DawnFang and Duskfang (1.2 Updated) ---
+    up to date (files 21231)
+
+--- 4574  Practical Arsenal - Uniques (1.2 Updated) ---
+    up to date (files 21225)
+
+--- 4677  Practical Arsenal - Glass (1.2 Updated) ---
+    up to date (files 20898)
+
+--- 4496  Protective Headgear - Dwarven (Updated to 1.2) ---
+    up to date (files 20438)
+
+--- 4575  Practical Arsenal - Order of Jyggalag (1.2 Updated) ---
+    up to date (files 21230)
+
+--- 1283  Lilia 1.2 Update - ice Assassin - Female Breton character preset - Alternative Starts ---
+    have    Lilia 1.2 Update - Sliders and sewer save-1283-1-2-1746566729.zip
+    unwrapped: Lilia 1.2
+    nothing installable - 40 file(s) were docs/saves/GamePass only
+
+--- 5406  NBO oldblivion styled Huntsman vest ---
+    up to date (files 23629)
+
+--- 477  Unofficial Oblivion Remastered Patch - UORP ---
+    pick edited since resolve: 1 -> 1,2
+    merging 2 files: picks 1, 2
+    up to date (files 17138+14232)
+
+--- 4475  Address Library for OBSE Plugins ---
+    up to date (files 19280)
+
+--- 833  UE4SS Game Settings Loader ---
+    up to date (files 13339)
+
+--- 5332  TES4R Civis Deluxe Content Fix ---
+    up to date (files 21650)
+
+--- 4676  Oblivion Unreal Fixes ---
+    up to date (files 19485)
+
+--- 3866  Basin of Renewal Crash Fix ---
+    up to date (files 14033)
+
+--- 35  Ultimate Engine Tweaks (Anti-Stutters - More Performance - Lower Latency - Better Clarity ---
+    pick edited since resolve: 1 -> 2
+    up to date (files 23530)
+
+--- 5430  Female Locomotion Replacer v2 (Crash Fix) ---
+    up to date (files 22404)
+
+--- 4405  Lived In - Empire Heart ---
+    up to date (files 16967)
+
+--- 1446  VN's Vampire Rebalance ---
+    pick edited since resolve: 1 -> 1,2,3
+    merging 3 files: picks 1, 2, 3
+    getting VN Vampire Rebalance Core v1.2.1-1446-1-2-1-1746881380.zip  (0 MB)
+    getting VN Vampire Water Breathing v1.2.1-1446-1-2-1-1746881595.zip  (0 MB)
+    getting VN Custom Spells v1.2.1-1446-1-2-1-1746881476.zip  (0 MB)
+    placed 3, dropped 0
+      Data           3
+
+--- 5618  Extended Races ---
+    getting ExtendedRaces 1.0.0 5618 1 2026-08-30T04-34Z N98X1bi2P.zip  (15.5 MB)
+    placed 10, dropped 0
+      Data           1
+      Paks           3
+      UE4SS          6
+
+=== conflicts (report only - nothing is disabled) ===
+  none
+
+modlist.txt: +2 new at top, 107 existing lines preserved verbatim
+
+=== summary ===
+
+Mod                                                                                       Status              Files Unm
+                                                                                                                    app
+                                                                                                                     ed
+---                                                                                       ------              ----- ---
+Ebony Helm Revised                                                                        up to date              0   0
+MagicLoader 2                                                                             up to date              0   0
+Daggerdancer - NBO                                                                        up to date              0   0
+UE4SS TesSyncMapInjector                                                                  up to date              0   0
+RAO (NBO Compatible) 1.0                                                                  up to date              0   0
+Demoria Armor - NBO                                                                       up to date              0   0
+Dark Holy Armor - NBO                                                                     up to date              0   0
+Sylvan Sentinel - NBO                                                                     up to date              0   0
+Protective Headgear - Glass Helmet (1.2 Updated)                                          up to date              0   0
+Skystrider - NBO                                                                          up to date              0   0
+Protective Headgear - Elven (1.2 Updated)                                                 up to date              0   0
+Sensible Shields - Steel (1.2 Updated)                                                    up to date              0   0
+Shorter skirt and Look lighter DarkSeducer armor(NBO)                                     up to date              0   0
+Better Iron Armor (NBBM)                                                                  up to date              0   0
+Lootable Shivering Isles (Lootable Golden Saints and Dark Seducers)                       up to date              0   0
+Female Fur Armor Remake (NBO Compatible)                                                  up to date              0   0
+Sensible Shields - Iron - Buckler Targe and Full Iron Shields (1.2 Updated)               up to date              0   0
+Dark Brotherhood Midriff and Thighs                                                       up to date              0   0
+Wrathplate                                                                                up to date              0   0
+Arena Gladiator Raiments                                                                  up to date              0   0
+Pleasing Palettes - Simply Silver Mithril                                                 up to date              0   0
+Bloody Leather Dark Brotherhood Armor 4k                                                  up to date              0   0
+BETTER LOOKING - Steel Armor                                                              up to date              0   0
+Body Type Selector                                                                        up to date              0   0
+Universal Achievement Unblocker                                                           up to date              0   0
+Young Textures Revamped                                                                   up to date              0   0
+A More Complete World Map 8K - 4K                                                         up to date              0   0
+NL-Tag Remover                                                                            up to date              0   0
+Better HUD                                                                                up to date              0   0
+Realistic High Quality Skin                                                               up to date              0   0
+Female Locomotion Replacer - Unique Walk and Run                                          skipped                 0   0
+Quest NPCs Run OBR                                                                        up to date              0   0
+Additional Map Markers                                                                    up to date              0   0
+Weightless Alchemy and Misc. Items (Carry more Arrows Potions etc.)                       up to date              0   0
+Leveled Creature and Item Diversity                                                       up to date              0   0
+Thiccer Than a Snicker - Flame Atronach                                                   up to date              0   0
+Colovian Cuts - Hairstyles with Physics                                                   up to date              0   0
+Xorberax's Slow Motion Shortcut Wheel                                                     up to date              0   0
+Sigil Stone Selector                                                                      up to date              0   0
+Xorberax's Attack-Cancelling                                                              up to date              0   0
+Spider Mommy - Bare Chested Spider Daedra                                                 up to date              0   0
+Hooded Outlaws                                                                            up to date              0   0
+Ayleid Mana Wells                                                                         up to date              0   0
+H.U.E - Handmade Unique Eyes                                                              up to date              0   0
+Younger Dunmer Lady Head Mesh                                                             up to date              0   0
+No Starting Map Markers                                                                   up to date              0   0
+Player Camera - Stop Looking at My Back                                                   up to date              0   0
+Wonger's Shield on Back                                                                   up to date              0   0
+Faster Sleep and Wait - OBSE                                                              up to date              0   0
+Adjusted Timescale                                                                        up to date              0   0
+Unread Books Glow                                                                         up to date              0   0
+Timed Block UE4SS                                                                         up to date              0   0
+ConfigHelper UE4SS LIB                                                                    up to date              0   0
+Younger Elven Female Voice                                                                up to date              0   0
+Realistic Arrow Speeds for Bows (Faster)                                                  up to date              0   0
+Auto Hide Gear                                                                            up to date              0   0
+Permanent Doomstones                                                                      up to date              0   0
+Precise Soul Gem Capture OBSE - ASI                                                       up to date              0   0
+Bow Headshot UE4SS (fix 1x sneak damage WIP)                                              up to date              0   0
+TFP - True First Person Camera                                                            up to date              0   0
+Improved Bangs - Longer Hair - Court Hairstyle                                            up to date              0   0
+Stronger Soul Gems                                                                        up to date              0   0
+Equipped Item Colors                                                                      up to date              0   0
+Fix Persistent Character Glow                                                             up to date              0   0
+Glorious Holes of Oblivion (GHO)                                                          up to date              0   0
+More Summons                                                                              up to date              0   0
+Map Icon Completion Markers                                                               up to date              0   0
+Practical Arsenal - Ebony (Updated to 1.2)                                                up to date              0   0
+More Enemies                                                                              up to date              0   0
+Younger Female Voice - Humans                                                             up to date              0   0
+Infinitum - Compendium                                                                    up to date              0   0
+One Button Dodge UE4SS                                                                    up to date              0   0
+Simple Start Skip - Alternative Start                                                     up to date              0   0
+Faster Spell Projectiles                                                                  up to date              0   0
+Crime Tweaks                                                                              up to date              0   0
+The Asterisk of Wisdom                                                                    up to date              0   0
+NPCs Come to Life - Naiad Edition                                                         up to date              0   0
+Unlimited Rings Redux                                                                     up to date              0   0
+Dynamic Quiver                                                                            up to date              0   0
+Practical Arsenal - Steel (Updated to 1.2)                                                up to date              0   0
+Important On Top (inventory sorting)                                                      up to date              0   0
+Rebalanced and Unleveled Quest Gold Rewards OBR                                           up to date              0   0
+Practical Arsenal - Iron (Updated for 1.2)                                                up to date              0   0
+Practical Arsenal - Silver (Updated to 1.2)                                               up to date              0   0
+Practical Arsenal - Daedric (Updated to 1.2)                                              up to date              0   0
+Practical Arsenal - Bows _ The Bow-Shaped Bows Mod                                        up to date              0   0
+Practical Arsenal - Dwarven (Updated to 1.2)                                              up to date              0   0
+Practical Arsenal - Quivers (Updated for 1.2)                                             up to date              0   0
+Practical Arsenal - Elven (Updated to 1.2)                                                up to date              0   0
+Practical Arsenal - DawnFang and Duskfang (1.2 Updated)                                   up to date              0   0
+Practical Arsenal - Uniques (1.2 Updated)                                                 up to date              0   0
+Practical Arsenal - Glass (1.2 Updated)                                                   up to date              0   0
+Protective Headgear - Dwarven (Updated to 1.2)                                            up to date              0   0
+Practical Arsenal - Order of Jyggalag (1.2 Updated)                                       up to date              0   0
+Lilia 1.2 Update - ice Assassin - Female Breton character preset - Alternative Starts     nothing installable     0   0
+NBO oldblivion styled Huntsman vest                                                       up to date              0   0
+Unofficial Oblivion Remastered Patch - UORP                                               up to date              0   0
+Address Library for OBSE Plugins                                                          up to date              0   0
+UE4SS Game Settings Loader                                                                up to date              0   0
+TES4R Civis Deluxe Content Fix                                                            up to date              0   0
+Oblivion Unreal Fixes                                                                     up to date              0   0
+Basin of Renewal Crash Fix                                                                up to date              0   0
+Ultimate Engine Tweaks (Anti-Stutters - More Performance - Lower Latency - Better Clarity up to date              0   0
+Female Locomotion Replacer v2 (Crash Fix)                                                 up to date              0   0
+Lived In - Empire Heart                                                                   up to date              0   0
+VN's Vampire Rebalance                                                                    installed               3   0
+Extended Races                                                                            installed              10   0
+41 plugin file(s) on disk. This script does NOT write plugins.txt -
+enable them in MO2's right pane, then sort with LOOT.
+
+Next:  X:\MODDING\tools\nexus2.ps1 -Mode verify
+Log: X:\MODDING\logs\nexus_install_20260904-222557.txt
+**********************
+Windows PowerShell transcript end
+End time: 20260904222605
+**********************

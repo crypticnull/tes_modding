@@ -1,0 +1,97 @@
+MO2 file conflicts for 'Nordic Faces - FaceGen - Loose Files'
+2026-09-07 22:34
+priority 131 of 132; 6237 file(s) in scope
+
+OVERWRITTEN
+  meshes\actors\Character\FaceGenData\FaceGeom\Dawnguard.esm\00002B6C.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Dawnguard.esm\0001541B.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Dawnguard.esm\0001541C.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Dragonborn.esm\00017934.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Dragonborn.esm\00018FA9.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\HearthFires.esm\00005215.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00013297.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000132A1.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000132AB.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00013364.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001336A.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001336B.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000133B7.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00013478.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001347B.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001347C.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000135EC.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00013666.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000136C5.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00013B99.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00013BA3.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00013BAB.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00013BB8.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00013BB9.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001406B.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001411D.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001990F.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00019959.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00019E1A.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001A696.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001A6D7.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001A6D9.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001B07F.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001C196.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\0001CD90.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00028AD0.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\00048C2F.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000658D2.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000918E2.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000A2C8E.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000A2C8F.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000A2C91.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000B8827.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000B9982.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000C19A3.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  meshes\actors\Character\FaceGenData\FaceGeom\Skyrim.esm\000C3A3F.NIF   <-  Bijin - Use CBBE Meshes and Textures
+  textures\actors\Character\FaceGenData\FaceTint\Dawnguard.esm\00002B6C.dds   <-  Seranaholic
+  textures\actors\Character\FaceGenData\FaceTint\Dawnguard.esm\0001541B.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Dawnguard.esm\0001541C.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Dragonborn.esm\00017934.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Dragonborn.esm\00018FA9.dds   <-  Bijin Wives SE
+  textures\actors\Character\FaceGenData\FaceTint\HearthFires.esm\00005215.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00013297.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000132A1.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000132AB.dds   <-  Bijin Wives SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00013364.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001336A.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001336B.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000133B7.dds   <-  Bijin Wives SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00013478.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001347B.dds   <-  Bijin Wives SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001347C.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000135EC.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00013666.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000136C5.dds   <-  Bijin Wives SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00013B99.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00013BA3.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00013BAB.dds   <-  Bijin Wives SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00013BB8.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00013BB9.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001406B.dds   <-  Bijin Wives SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001411D.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001990F.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00019959.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00019E1A.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001A696.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001A6D7.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001A6D9.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001B07F.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001C196.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\0001CD90.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00028AD0.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\00048C2F.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000658D2.dds   <-  Bijin Wives SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000918E2.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000A2C8E.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000A2C8F.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000A2C91.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000B8827.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000B9982.dds   <-  Bijin Warmaidens SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000C19A3.dds   <-  Bijin NPCs SE
+  textures\actors\Character\FaceGenData\FaceTint\Skyrim.esm\000C3A3F.dds   <-  Bijin Wives SE

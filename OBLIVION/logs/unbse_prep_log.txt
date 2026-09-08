@@ -1,0 +1,50 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260904175723
+Username: DARKSTAR\mr
+RunAs User: DARKSTAR\mr
+Configuration Name: 
+Machine: DARKSTAR (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File X:\MODDING\prep_for_unbse.ps1
+Process ID: 38436
+PSVersion: 5.1.26100.9168
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9168
+BuildVersion: 10.0.26100.9168
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+=== UNBSE preparation ===
+
+--- 1. game executable version ---
+  FileVersion    : ''
+  ProductVersion : ''
+  FileVersionRaw : 5.3.2.0
+  ProductVersionRaw: 5.3.2.0
+  size           : 160654648 bytes
+  CHECK no field reads exactly 1.512.105.0 - send this log to Claude
+
+--- 2. stale ue4ss folder in game directory ---
+  found, containing 15 file(s)
+  [ok] moved to X:\MODDING\_DELETE_ME\game-ue4ss-stale
+
+--- 3. legacy loader and proxy check ---
+  PASS  no legacy OBSE64 loader or UE4SS proxy present
+  note: OBSE\Plugins does not exist yet (fine)
+
+--- 4. graphics stack (must survive) ---
+  ok      dxgi.dll
+  ok      nvngx_dlss.dll
+  ok      nvngx_dlssg.dll
+  ok      nvngx_dlssnr.dll
+  ok      sl.interposer.dll
+  ok      renodx-dlss5.addon64
+  ok      renodx-oblivionremastered.addon64
+
+Done. Log written to X:\MODDING\unbse_prep_log.txt
+**********************
+Windows PowerShell transcript end
+End time: 20260904175723
+**********************

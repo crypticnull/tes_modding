@@ -1,0 +1,625 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260904200935
+Username: DARKSTAR\mr
+RunAs User: DARKSTAR\mr
+Configuration Name: 
+Machine: DARKSTAR (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 7784
+PSVersion: 5.1.26100.9168
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9168
+BuildVersion: 10.0.26100.9168
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+=== install ===
+free space on X: 1273.6 GB
+
+profile backed up -> X:\MODDING\_backups\profile-20260904-200935
+
+--- 4794  Ebony Helm Revised ---
+    up to date (files 19019)
+
+--- 1966  MagicLoader 2 ---
+    up to date (files 20962)
+
+--- 2977  Daggerdancer - NBO ---
+    up to date (files 13112)
+
+--- 1272  UE4SS TesSyncMapInjector ---
+    up to date (files 7338)
+
+--- 4079  RAO (NBO Compatible) 1.0 ---
+    up to date (files 19256)
+
+--- 3494  Demoria Armor - NBO ---
+    up to date (files 12806)
+
+--- 1991  Dark Holy Armor - NBO ---
+    up to date (files 12811)
+
+--- 3955  Sylvan Sentinel - NBO ---
+    up to date (files 14336)
+
+--- 3266  Protective Headgear - Glass Helmet (1.2 Updated) ---
+    have    Protective Headgear - Glass - FOMOD patch 1.2-3266-1-2-1-1768266710.7z
+    FOMOD: 2 option(s) - choice needed
+
+--- 4381  Skystrider - NBO ---
+    up to date (files 17368)
+
+--- 3788  Protective Headgear - Elven (1.2 Updated) ---
+    have    Protective Headgear - Elven - Fomod patch 1.2-3788-1-2-1768259779.7z
+    FOMOD: 4 option(s) - choice needed
+
+--- 4337  Sensible Shields - Steel (1.2 Updated) ---
+    have    Sensible Shields - Steel - FOMOD Updated 1.2-4337-1-2-1768259529.7z
+    FOMOD: 4 option(s) - choice needed
+
+--- 3592  Shorter skirt and Look lighter DarkSeducer armor(NBO) ---
+    getting DarkSeducerF(NBO)underwear version-3592-1-0-1-1747791922.zip  (1 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 2583  Better Iron Armor (NBBM) ---
+    up to date (files 9332)
+
+--- 2719  Lootable Shivering Isles (Lootable Golden Saints and Dark Seducers) ---
+    up to date (files 10228)
+
+--- 3563  Female Fur Armor Remake (NBO Compatible) ---
+    getting Female Fur Armor Remake NBO-3563-1-1747682648.rar  (1.5 MB)
+    placed 6, dropped 0
+      Paks           6
+
+--- 4399  Sensible Shields - Iron - Buckler Targe and Full Iron Shields (1.2 Updated) ---
+    getting Sensible Shields - Iron- FOMOD Updated 1.2-4399-1-2-1768259258.7z  (7.1 MB)
+    FOMOD: 3 option(s) - choice needed
+
+--- 2614  Dark Brotherhood Midriff and Thighs ---
+    getting Female NBO Edition-2614-2-1748452239.zip  (0.5 MB)
+    placed 6, dropped 0
+      Paks           6
+
+--- 3807  Wrathplate ---
+    getting Wrathplate-3807-1-2a-1748283828.zip  (119.6 MB)
+    placed 11, dropped 0
+      Data           2
+      Paks           9
+
+--- 4482  Arena Gladiator Raiments ---
+    getting Arena Gladiator Raiments-4482-1-1-0-1749932031.zip  (70.6 MB)
+    placed 8, dropped 0
+      Data           2
+      Paks           6
+
+--- 2654  Pleasing Palettes - Simply Silver Mithril ---
+    getting Pleasing Palettes - Simply Silver Mithril-2654-1-1-1746758380.zip  (8.2 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 3401  Bloody Leather Dark Brotherhood Armor 4k ---
+    getting Dark Leather Dark Brotherhood Armor-3401-1-1747450257.zip  (61.8 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 4250  BETTER LOOKING - Steel Armor ---
+    getting BETTER LOOKING FEMALE STEEL-4250-2-1749110127.7z  (0.9 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 353  Body Type Selector ---
+    getting Body Type Selector-353-2-0-1745931955.zip  (27.2 MB)
+    placed 1, dropped 0
+      Paks           1
+
+--- 125  Universal Achievement Unblocker ---
+    getting 2. OBSE64 Plugin-125-1-6-2-1745960739.zip  (0.2 MB)
+    placed 1, dropped 0
+      OBSE           1
+
+--- 445  Young Textures Revamped ---
+    getting Young Textures Revamped-445-1-4-1745867158.rar  (34.1 MB)
+    unwrapped: YoungVersionsRetex
+    placed 3, dropped 0
+      Paks           3
+
+--- 1464  A More Complete World Map 8K - 4K ---
+    getting A More Complete World Map - 8K - All-in-One 3.4-1464-3-4-1753612718.zip  (348.4 MB)
+    FAIL FOMOD unsupported: has 7 option groups; only one choice can be expressed here - install by hand in MO2
+
+--- 473  NL-Tag Remover ---
+    getting NL-Tag Remover-473-1-3-3-1771956133.zip  (4.1 MB)
+    placed 2, dropped 0
+      OBSE           2
+    UNMAPPED 2:
+      OblivionRemastered\Binaries\WinGDK\NLTagRemover.asi
+      OblivionRemastered\Binaries\WinGDK\NLTagRemover.pdb
+
+--- 13  Better HUD ---
+    getting Better HUD Slim (16x9)-13-2-3-3-1746859406.zip  (0.1 MB)
+    unwrapped: Better HUD 169 Slim upd12
+    placed 6, dropped 0
+      Paks           6
+
+--- 1284  Realistic High Quality Skin ---
+    getting Realistic High Quality Skin-1284-1-0-1745864779.7z  (2.1 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 2088  Female Locomotion Replacer - Unique Walk and Run ---
+    getting Female Locomotion Replacer-2088-0-3-1747138712.zip  (1.7 MB)
+    placed 6, dropped 1
+      Paks           4
+      UE4SS          2
+
+--- 219  Quest NPCs Run OBR ---
+    getting Quest NPCs Run-No Tutorial or Forlorn Watchman Run-219-1-7-3-1748175559.7z  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 479  Additional Map Markers ---
+    getting Additional Map Markers-479-1-5-1749989168.7z  (0 MB)
+    placed 2, dropped 0
+      Data           2
+
+--- 235  Weightless Alchemy and Misc. Items (Carry more Arrows Potions etc.) ---
+    getting Weightless Resources-235-1-0-2-1745834159.rar  (0.1 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 221  Leveled Creature and Item Diversity ---
+    merging 2 files: picks 1, 2
+    getting Leveled Item-221-1-0-0-1745421738.7z  (0 MB)
+    getting Leveled Creature Diversity-221-1-0-0-1745421529.7z  (0 MB)
+    placed 2, dropped 0
+      Data           2
+
+--- 439  Thiccer Than a Snicker - Flame Atronach ---
+    getting Flame Atronach - Thicker than a Snicker v2-439-0-2-1745598403.7z  (1.3 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 1671  Colovian Cuts - Hairstyles with Physics ---
+    getting Colovian Cuts - Straight Long-1671-1-0-1-1746244748.zip  (14 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 1201  Xorberax's Slow Motion Shortcut Wheel ---
+    getting Slow Motion Shortcut Wheel 0.1.3-1201-0-1-3-1746813791.zip  (0 MB)
+    unwrapped: SlowMotionShortcutWheel
+    FAIL nothing mapped (1 unmapped) - existing folder left untouched
+      Scripts\main.lua
+
+--- 427  Sigil Stone Selector ---
+    getting Sigil Stone Selector-427-1-4-1746127223.zip  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 1228  Xorberax's Attack-Cancelling ---
+    getting AttackCancelling 0.2.1-1228-0-2-1-1746459663.zip  (0 MB)
+    unwrapped: AttackCancelling
+    FAIL nothing mapped (1 unmapped) - existing folder left untouched
+      Scripts\main.lua
+
+--- 538  Spider Mommy - Bare Chested Spider Daedra ---
+    getting Spider Mommy-538-1-0-1745534841.zip  (6.8 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 268  Hooded Outlaws ---
+    getting Hooded Outlaws-268-1-0-0-1745434563.7z  (0.2 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 304  Ayleid Mana Wells ---
+    getting Ayleid Mana Wells-304-1-0-5-1746226131.zip  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 108  H.U.E - Handmade Unique Eyes ---
+    getting H.U.E - Vanilla Replacer - Bright - Whiter Sclera-108-1-0-4-1748642021.zip  (2.5 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 673  Younger Dunmer Lady Head Mesh ---
+    getting YoungerDunmerHead Fixed-673-0-2-1746639770.zip  (6.7 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 259  No Starting Map Markers ---
+    getting No Starting Map Markers-259-1-0-0-1745655469.7z  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 2998  Player Camera - Stop Looking at My Back ---
+    getting Player Camera - Main 2.3-2998-2-3-1750700023.zip  (0 MB)
+    placed 2, dropped 0
+      UE4SS          2
+
+--- 2077  Wonger's Shield on Back ---
+    getting Wonger's Shield Mod - UE4SS-2077-0-5-1-1747346067.zip  (0 MB)
+    placed 3, dropped 1
+      Paks           3
+
+--- 1659  Faster Sleep and Wait - OBSE ---
+    getting Faster Sleep and Wait-1659-1-0-4-1750463707.7z  (0.7 MB)
+    placed 3, dropped 0
+      OBSE           3
+
+--- 258  Adjusted Timescale ---
+    getting Adjusted Timescale - 12-258-1-0-0-1745747075.zip  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 2980  Unread Books Glow ---
+    getting Unread Books Glow-2980-1-2-0-1749794259.7z  (3 MB)
+    placed 3, dropped 0
+      OBSE           3
+
+--- 1729  Timed Block UE4SS ---
+    getting TimedBlock_1_4-1729-1-4-1747780209.zip  (0 MB)
+    placed 3, dropped 0
+      UE4SS          3
+
+--- 2377  ConfigHelper UE4SS LIB ---
+    getting ConfigHelper_1_1-2377-1-1-1747039728.zip  (0 MB)
+    placed 1, dropped 0
+      UE4SS          1
+
+--- 2557  Younger Elven Female Voice ---
+    getting Younger Elven Female Voice-2557-2-0-1746787996.7z  (0.9 MB)
+    placed 1, dropped 0
+      Paks           1
+
+--- 965  Realistic Arrow Speeds for Bows (Faster) ---
+    getting Realistic Arrow Speed - UE4SS GSL Version-965-2-0-1-1745783432.rar  (0 MB)
+    placed 2, dropped 0
+      GameSettings   1
+      OBSE           1
+
+--- 3098  Auto Hide Gear ---
+    getting Auto Hide Gear 3.2-3098-3-2-1747987261.zip  (0 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 226  Permanent Doomstones ---
+    getting Permanent Doomstones - Vanilla Version-226-1-0-4-1745948725.zip  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 2060  Precise Soul Gem Capture OBSE - ASI ---
+    getting Precise Soul Capture OBSE-2060-1-1-1746326098.zip  (0 MB)
+    placed 1, dropped 0
+      OBSE           1
+
+--- 2745  Bow Headshot UE4SS (fix 1x sneak damage WIP) ---
+    getting BowHeadshotDamage-2745-2-1-0-1748047387.zip  (0 MB)
+    FAIL nothing mapped (1 unmapped) - existing folder left untouched
+      Mods\BowHeadshotDamage\Scripts\main.lua
+
+--- 3468  TFP - True First Person Camera ---
+    getting TFP Camera v.0.9.8e - Steam Version-3468-v-0-9-8e-1757408297.zip  (9 MB)
+    placed 10, dropped 0
+      Paks           6
+      UE4SS          4
+
+--- 1405  Improved Bangs - Longer Hair - Court Hairstyle ---
+    getting Improved Bangs - Longer Hair - Court Hairstyle-1405-1-1-1746230403.zip  (1.9 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 315  Stronger Soul Gems ---
+    getting Stronger Soul Gems X2-315-1-1-1745468547.7z  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 1064  Equipped Item Colors ---
+    getting Green-1064-1-1745756570.zip  (0 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 3987  Fix Persistent Character Glow ---
+    getting Fix Character Glow-3987-1-0-1748366679.zip  (0 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 4010  Glorious Holes of Oblivion (GHO) ---
+    getting Glorious Holes of Oblivion ver 3.4-4010-3-5-1776614498.7z  (176.3 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 260  More Summons ---
+    getting More Summons-260-1-0-1745432873.zip  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 3786  Map Icon Completion Markers ---
+    getting MapIconCompletionMarkerModPaks-3786-1-0-0-1749353966.zip  (0.2 MB)
+    unwrapped: MapIconCompletionMarkerModPak
+    placed 3, dropped 0
+      Paks           3
+
+--- 3717  Practical Arsenal - Ebony (Updated to 1.2) ---
+    getting Practical Arsenal - Ebony 1.2-3717-1-2-1757372921.zip  (2.5 MB)
+    unwrapped: Practical Arsenal - Ebony
+    placed 24, dropped 0
+      Paks           24
+
+--- 1365  More Enemies ---
+    getting More Enemies 1.2 Wilderness and Roads Only-1365-1-2-1745959042.zip  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 2885  Younger Female Voice - Humans ---
+    getting Younger Female Voice - Humans ver 1-2885-1-0-1746914500.7z  (1.4 MB)
+    placed 1, dropped 0
+      Paks           1
+
+--- 3790  Infinitum - Compendium ---
+    getting Infinitum - Compendium (3.03)-3790-3-03-1780125941.zip  (0.2 MB)
+    placed 3, dropped 0
+      Data           3
+
+--- 1849  One Button Dodge UE4SS ---
+    getting OneButtonDodge 1.1.0-1849-1-1-0-1748289281.zip  (0 MB)
+    placed 3, dropped 0
+      UE4SS          3
+
+--- 762  Simple Start Skip - Alternative Start ---
+    getting Simple Start Skip-762-1-7-1746376274.zip  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 1198  Faster Spell Projectiles ---
+    getting Faster Spell Projectiles-1198-1-00-1745803050.rar  (0 MB)
+    placed 2, dropped 0
+      GameSettings   1
+      OBSE           1
+
+--- 558  Crime Tweaks ---
+    getting CrimeTweaks-558-1-1-1745607485.zip  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 2178  The Asterisk of Wisdom ---
+    getting The Asterisk of Wisdom-2178-1-1-1746412417.zip  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 3363  NPCs Come to Life - Naiad Edition ---
+    merging 2 files: picks 2, 1
+    getting NPCs Come to Life - Naiad Edition-3363-1-0-5-1747619797.zip  (0.3 MB)
+    getting Naiad Travelers and Mail Service-3363-1-0-1Travelers-1747775524.zip  (0.1 MB)
+    placed 2, dropped 0
+      Data           2
+    UNMAPPED 1:
+      SyncMap\NaiadTravelers.ini
+
+--- 2457  Unlimited Rings Redux ---
+    getting Unlimited Rings Redux-2457-1-0-4-1747104938.zip  (0 MB)
+    unwrapped: Unlimited Rings Redux
+    placed 1, dropped 1
+      Data           1
+
+--- 2565  Dynamic Quiver ---
+    getting Hide Quiver 1.1.1-2565-1-1-1-1746912701.zip  (0 MB)
+    unwrapped: HideQuiver
+    FAIL nothing mapped (2 unmapped) - existing folder left untouched
+      Scripts\HideQuiverConfig.lua
+      Scripts\main.lua
+
+--- 4058  Practical Arsenal - Steel (Updated to 1.2) ---
+    getting Practical Arsenal - Steel 1.2-4058-1-2-1760135178.zip  (3 MB)
+    unwrapped: Practical Arsenal - Steel
+    placed 24, dropped 0
+      Paks           24
+
+--- 2160  Important On Top (inventory sorting) ---
+    getting Important On Top.7z (english locale)-2160-1-3-1746559396.7z  (3 MB)
+    placed 1, dropped 0
+      Paks           1
+
+--- 1460  Rebalanced and Unleveled Quest Gold Rewards OBR ---
+    getting Rebalanced and Unleveled Quest Gold Rewards-1460-2-2-1746762601.7z  (0 MB)
+    placed 1, dropped 0
+      Data           1
+
+--- 4191  Practical Arsenal - Iron (Updated for 1.2) ---
+    getting 1.2 Stable Version - Updated by Wikt0r1us (Fixed)-4191-1-2-1756447569.rar  (12.9 MB)
+    unwrapped: Practical Arsenal - Iron
+    placed 24, dropped 0
+      Paks           24
+
+--- 3998  Practical Arsenal - Silver (Updated to 1.2) ---
+    getting Practical Arsenal - Silver 1.2-3998-1-2-1757373315.zip  (5.2 MB)
+    unwrapped: Practical Arsenal - Silver
+    placed 24, dropped 0
+      Paks           24
+
+--- 4395  Practical Arsenal - Daedric (Updated to 1.2) ---
+    getting Practical Arsenal - Daedric 1.2-4395-1-2-1757373469.zip  (21 MB)
+    unwrapped: Practical Arsenal - Daedric
+    placed 24, dropped 0
+      Paks           24
+
+--- 4252  Practical Arsenal - Bows _ The Bow-Shaped Bows Mod ---
+    getting Practical Arsenal - Bows-4252-1-0-1749013486.rar  (3.8 MB)
+    unwrapped: Practical Arsenal - Bows
+    placed 36, dropped 0
+      Paks           36
+
+--- 4483  Practical Arsenal - Dwarven (Updated to 1.2) ---
+    getting Practical Arsenal - Dwarven 1.2-4483-1-2-1757373571.zip  (17 MB)
+    unwrapped: Practical Arsenal - Dwarven
+    placed 24, dropped 0
+      Paks           24
+
+--- 4604  Practical Arsenal - Quivers (Updated for 1.2) ---
+    getting Practical Arsenal - Quivers 1.2-4604-1-2-1756949773.rar  (24.9 MB)
+    unwrapped: Practical Arsenal - Quivers
+    placed 39, dropped 0
+      Paks           39
+
+--- 4609  Practical Arsenal - Elven (Updated to 1.2) ---
+    getting Practical Arsenal - Elven 1.2-4609-1-2-1757373143.zip  (23.5 MB)
+    unwrapped: Practical Arsenal - Elven
+    placed 24, dropped 0
+      Paks           24
+
+--- 4466  Practical Arsenal - DawnFang and Duskfang (1.2 Updated) ---
+    getting Practical Duskfang and Dawnfang - FOMOD patch 1.2-4466-1-2-1768258754.7z  (10.1 MB)
+    FOMOD: 2 option(s) - choice needed
+
+--- 4574  Practical Arsenal - Uniques (1.2 Updated) ---
+    getting Practical Uniques - FOMOD (patch 1.2)-4574-1-2-1768257152.7z  (39.6 MB)
+    FAIL FOMOD unsupported: has 2 option groups; only one choice can be expressed here - install by hand in MO2
+
+--- 4677  Practical Arsenal - Glass (1.2 Updated) ---
+    getting Practical Arsenal - Glass 1.2-4677-1-2-1765149728.7z  (6.8 MB)
+    unwrapped: Practical Arsenal - Glass
+    placed 24, dropped 0
+      Paks           24
+
+--- 4496  Protective Headgear - Dwarven (Updated to 1.2) ---
+    getting Protective Headgear - Dwarven 1.2-4496-1-2-1760134066.7z  (1 MB)
+    placed 3, dropped 0
+      Paks           3
+
+--- 4575  Practical Arsenal - Order of Jyggalag (1.2 Updated) ---
+    getting Practical Order of Jyggalag - FOMOD patch 1.2-4575-1-2-1768258674.7z  (3.5 MB)
+    FOMOD: 2 option(s) - choice needed
+
+--- 1283  Lilia 1.2 Update - ice Assassin - Female Breton character preset - Alternative Starts ---
+    getting Lilia 1.2 Update - Sliders and sewer save-1283-1-2-1746566729.zip  (81 MB)
+    unwrapped: Lilia 1.2
+    FAIL nothing mapped (2 unmapped) - existing folder left untouched
+      Lilia 1.2 - No ice version sewer save\Save 8, Playing Time 01.45.08 - Lilia - LOC_FN_ImperialSewers03, Level 1.sav
+      Lilia 1.2 - Sewer Save\Save 9, Playing Time 01.30.27 - Lilia - LOC_FN_ImperialSewers03, Level 1.sav
+
+--- 5406  NBO oldblivion styled Huntsman vest ---
+    getting NBOHuntsmanVest_Update-1.1_Bugfix 5406 1.1-b 2026-08-29T05-08Z QZOSNIkRF.7z  (3.1 MB)
+    placed 3, dropped 0
+      Paks           3
+
+6 FOMOD choice(s) pending - see X:\MODDING\nexus_picks.txt
+
+=== conflicts (report only - nothing is disabled) ===
+  none
+
+modlist.txt: +78 new at top, 9 existing lines preserved verbatim
+
+=== summary ===
+
+Mod                                                                                   Status                Files Unmap
+                                                                                                                    ped
+---                                                                                   ------                ----- -----
+Ebony Helm Revised                                                                    up to date                0     0
+MagicLoader 2                                                                         up to date                0     0
+Daggerdancer - NBO                                                                    up to date                0     0
+UE4SS TesSyncMapInjector                                                              up to date                0     0
+RAO (NBO Compatible) 1.0                                                              up to date                0     0
+Demoria Armor - NBO                                                                   up to date                0     0
+Dark Holy Armor - NBO                                                                 up to date                0     0
+Sylvan Sentinel - NBO                                                                 up to date                0     0
+Protective Headgear - Glass Helmet (1.2 Updated)                                      awaiting FOMOD choice     0     0
+Skystrider - NBO                                                                      up to date                0     0
+Protective Headgear - Elven (1.2 Updated)                                             awaiting FOMOD choice     0     0
+Sensible Shields - Steel (1.2 Updated)                                                awaiting FOMOD choice     0     0
+Shorter skirt and Look lighter DarkSeducer armor(NBO)                                 installed                 3     0
+Better Iron Armor (NBBM)                                                              up to date                0     0
+Lootable Shivering Isles (Lootable Golden Saints and Dark Seducers)                   up to date                0     0
+Female Fur Armor Remake (NBO Compatible)                                              installed                 6     0
+Sensible Shields - Iron - Buckler Targe and Full Iron Shields (1.2 Updated)           awaiting FOMOD choice     0     0
+Dark Brotherhood Midriff and Thighs                                                   installed                 6     0
+Wrathplate                                                                            installed                11     0
+Arena Gladiator Raiments                                                              installed                 8     0
+Pleasing Palettes - Simply Silver Mithril                                             installed                 3     0
+Bloody Leather Dark Brotherhood Armor 4k                                              installed                 3     0
+BETTER LOOKING - Steel Armor                                                          installed                 3     0
+Body Type Selector                                                                    installed                 1     0
+Universal Achievement Unblocker                                                       installed                 1     0
+Young Textures Revamped                                                               installed                 3     0
+A More Complete World Map 8K - 4K                                                     error                     0     0
+NL-Tag Remover                                                                        installed                 2     2
+Better HUD                                                                            installed                 6     0
+Realistic High Quality Skin                                                           installed                 3     0
+Female Locomotion Replacer - Unique Walk and Run                                      installed                 6     0
+Quest NPCs Run OBR                                                                    installed                 1     0
+Additional Map Markers                                                                installed                 2     0
+Weightless Alchemy and Misc. Items (Carry more Arrows Potions etc.)                   installed                 1     0
+Leveled Creature and Item Diversity                                                   installed                 2     0
+Thiccer Than a Snicker - Flame Atronach                                               installed                 3     0
+Colovian Cuts - Hairstyles with Physics                                               installed                 3     0
+Xorberax's Slow Motion Shortcut Wheel                                                 no files mapped           0     1
+Sigil Stone Selector                                                                  installed                 1     0
+Xorberax's Attack-Cancelling                                                          no files mapped           0     1
+Spider Mommy - Bare Chested Spider Daedra                                             installed                 3     0
+Hooded Outlaws                                                                        installed                 1     0
+Ayleid Mana Wells                                                                     installed                 1     0
+H.U.E - Handmade Unique Eyes                                                          installed                 3     0
+Younger Dunmer Lady Head Mesh                                                         installed                 3     0
+No Starting Map Markers                                                               installed                 1     0
+Player Camera - Stop Looking at My Back                                               installed                 2     0
+Wonger's Shield on Back                                                               installed                 3     0
+Faster Sleep and Wait - OBSE                                                          installed                 3     0
+Adjusted Timescale                                                                    installed                 1     0
+Unread Books Glow                                                                     installed                 3     0
+Timed Block UE4SS                                                                     installed                 3     0
+ConfigHelper UE4SS LIB                                                                installed                 1     0
+Younger Elven Female Voice                                                            installed                 1     0
+Realistic Arrow Speeds for Bows (Faster)                                              installed                 2     0
+Auto Hide Gear                                                                        installed                 3     0
+Permanent Doomstones                                                                  installed                 1     0
+Precise Soul Gem Capture OBSE - ASI                                                   installed                 1     0
+Bow Headshot UE4SS (fix 1x sneak damage WIP)                                          no files mapped           0     1
+TFP - True First Person Camera                                                        installed                10     0
+Improved Bangs - Longer Hair - Court Hairstyle                                        installed                 3     0
+Stronger Soul Gems                                                                    installed                 1     0
+Equipped Item Colors                                                                  installed                 3     0
+Fix Persistent Character Glow                                                         installed                 3     0
+Glorious Holes of Oblivion (GHO)                                                      installed                 3     0
+More Summons                                                                          installed                 1     0
+Map Icon Completion Markers                                                           installed                 3     0
+Practical Arsenal - Ebony (Updated to 1.2)                                            installed                24     0
+More Enemies                                                                          installed                 1     0
+Younger Female Voice - Humans                                                         installed                 1     0
+Infinitum - Compendium                                                                installed                 3     0
+One Button Dodge UE4SS                                                                installed                 3     0
+Simple Start Skip - Alternative Start                                                 installed                 1     0
+Faster Spell Projectiles                                                              installed                 2     0
+Crime Tweaks                                                                          installed                 1     0
+The Asterisk of Wisdom                                                                installed                 1     0
+NPCs Come to Life - Naiad Edition                                                     installed                 2     1
+Unlimited Rings Redux                                                                 installed                 1     0
+Dynamic Quiver                                                                        no files mapped           0     2
+Practical Arsenal - Steel (Updated to 1.2)                                            installed                24     0
+Important On Top (inventory sorting)                                                  installed                 1     0
+Rebalanced and Unleveled Quest Gold Rewards OBR                                       installed                 1     0
+Practical Arsenal - Iron (Updated for 1.2)                                            installed                24     0
+Practical Arsenal - Silver (Updated to 1.2)                                           installed                24     0
+Practical Arsenal - Daedric (Updated to 1.2)                                          installed                24     0
+Practical Arsenal - Bows _ The Bow-Shaped Bows Mod                                    installed                36     0
+Practical Arsenal - Dwarven (Updated to 1.2)                                          installed                24     0
+Practical Arsenal - Quivers (Updated for 1.2)                                         installed                39     0
+Practical Arsenal - Elven (Updated to 1.2)                                            installed                24     0
+Practical Arsenal - DawnFang and Duskfang (1.2 Updated)                               awaiting FOMOD choice     0     0
+Practical Arsenal - Uniques (1.2 Updated)                                             error                     0     0
+Practical Arsenal - Glass (1.2 Updated)                                               installed                24     0
+Protective Headgear - Dwarven (Updated to 1.2)                                        installed                 3     0
+Practical Arsenal - Order of Jyggalag (1.2 Updated)                                   awaiting FOMOD choice     0     0
+Lilia 1.2 Update - ice Assassin - Female Breton character preset - Alternative Starts no files mapped           0     2
+NBO oldblivion styled Huntsman vest                                                   installed                 3     0
+31 plugin file(s) on disk. This script does NOT write plugins.txt -
+enable them in MO2's right pane, then sort with LOOT.
+
+Next:  .\nexus2.ps1 -Mode verify
+Log: X:\MODDING\logs\nexus_install_20260904-200935.txt
+**********************
+Windows PowerShell transcript end
+End time: 20260904201135
+**********************

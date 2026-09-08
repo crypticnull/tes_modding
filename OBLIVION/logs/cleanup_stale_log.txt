@@ -1,0 +1,57 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260904180017
+Username: DARKSTAR\mr
+RunAs User: DARKSTAR\mr
+Configuration Name: 
+Machine: DARKSTAR (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File X:\MODDING\cleanup_stale.ps1
+Process ID: 49632
+PSVersion: 5.1.26100.9168
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9168
+BuildVersion: 10.0.26100.9168
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+=== stale file cleanup ===
+
+--- game-data-loadorder ---
+    Vortex-era load order (has phantom AutoUpgradeRewards.esp). MO2 now maps its own from the profile.
+    moved   plugins.txt
+    moved   loadorder.txt
+
+--- superseded-archives ---
+    UNBSE replaces the OBSE64 loader and bundles its own pinned UE4SS host.
+    moved   OBSE-282-0-2-2-1752690481.7z
+    moved   UE4SS-32-3-0-1-a-1748177853.zip
+
+--- mo2-plugins-buildfiles ---
+    Build scaffolding, never read at runtime.
+    moved   CMakeLists.txt
+    moved   CMakePresets.json
+    moved   vcpkg.json
+
+[ok] 7 moved, 0 already gone
+
+=== verification ===
+  gone           game Data\loadorder.txt
+  gone           game Data\plugins.txt
+  ok             AltarDeluxe.esp
+  ok             AltarESPMain.esp
+  ok             DLCList.txt
+  ok             Oblivion.esm
+
+=== downloads folder now ===
+  Auto Upgrade Leveled Items-567-1-4-2-1746910338.rar         0.0 MB
+  Natural Bodies - Full-2877-0-4a-1747876308.zip            181.4 MB
+  RAO 1.0-4079-1-0-1752721892.rar                            18.5 MB
+  Smooth Beautiful Faces-2522-1-0-1746654729.7z              29.3 MB
+
+Done. Log written to X:\MODDING\cleanup_stale_log.txt
+**********************
+Windows PowerShell transcript end
+End time: 20260904180018
+**********************

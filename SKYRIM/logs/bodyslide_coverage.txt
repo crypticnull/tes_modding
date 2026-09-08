@@ -1,0 +1,29 @@
+BodySlide coverage - outfits that will not follow an OBody preset
+2026-09-07 21:04
+scope: meshes under \armor\ or \clothes\ only
+
+3643 slider set outputs claimed across 121 enabled mods
+
+MOD                                                           MESHES  NO SET  HAS TRI  STATIC
+TAWOBA REMASTERED 6.1 CBBE SE                                   1319      59        0     755
+BD's Armor and Clothes 3BA Standalone (Vanilla)                  255      41        0     214
+BD's Armor and clothes replacer CBBE 3BA - AIO                   539      39        0      79
+Fashions Of The Banditry                                         113      26        0      62
+SMIM SE 2-08-659-2-08                                             20       2        0      18
+KS Hairdos SMP                                                   237       0        0     233
+Remodeled Armor SE - CBBE 3BA                                    475       0        0      47
+Modular Mage - CBBE 3BA                                          187       0        0     187
+Immersive Weapons-16788-2                                          4       0        0       4
+BodySlide Output                                                1608       0        0       2
+Unique Uniques SE-3334-1-1                                         1       0        0       1
+CBBE 3BA (3BBB)                                                    5       0        0       0
+Caliente's Beautiful Bodies Enhancer CBBE - v2.0.3               418       0        0       1
+Shattered Royal Armor                                             21       0        0      21
+TIWOBA Dawnguard bikini set                                      182       0        0     182
+Panties of Skyrim 2k Texture                                      26       0        0      26
+Regalia of the Scorned 4K CBBEP                                   29       0        0      15
+Imperial Bikini armor 3BA HDT-SMP - Tawoba addon                 130       0        0     130
+Wonderland Lingerie SE                                             4       0        0       4
+Somewhere in Between - 3BA Armor ReplacerNPM                      78       0        0      18
+Stormcloaks Bikini armor 3BA HDT-SMP -Tawoba addon                70       0        0      70
+T.E.W.O.B.A. - The Expanded World of Bikini Armors By PUMPKIN     129       0        0     129

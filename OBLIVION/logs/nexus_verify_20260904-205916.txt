@@ -1,0 +1,40 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260904205916
+Username: DARKSTAR\mr
+RunAs User: DARKSTAR\mr
+Configuration Name: 
+Machine: DARKSTAR (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 37644
+PSVersion: 5.1.26100.9168
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9168
+BuildVersion: 10.0.26100.9168
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+=== verify ===
+--- Important On Top (inventory sorting)
+    pak name starts with 'z' but earliest-alphabetical wins in this game, so it LOSES conflicts: z_Important_On_Top_P.pak
+--- Oblivion Unreal Fixes
+    pak name starts with 'z' but earliest-alphabetical wins in this game, so it LOSES conflicts: zzzz_OblivionUnrealFixes_Primary_P.pak
+    pak name starts with 'z' but earliest-alphabetical wins in this game, so it LOSES conflicts: zzzz_OblivionUnrealFixes_Secondary_P.pak
+
+plugins: 36 esp/esm installed, 48 listed in plugins.txt
+  1 NOT enabled (enable in MO2's right pane):
+    AutoUpgradeRewards.esp
+
+--- duplicate mods ---
+  none
+
+--- duplicate pak files ---
+  none
+
+=== 3 issue(s) ===
+**********************
+Windows PowerShell transcript end
+End time: 20260904205916
+**********************

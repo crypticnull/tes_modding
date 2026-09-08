@@ -1,0 +1,216 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : September 5, 2026 9:41:09 PM
+   Source : C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\
+     Dest : X:\SKYRIM\STOCK GAME\
+
+    Files : *.*
+	    
+  Options : *.* /TEE /S /E /DCOPY:DA /COPY:DAT /J /NP /MT:8 /R:2 /W:2 
+
+------------------------------------------------------------------------------
+
+	    New File  		  391360	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\bink2w64.dll
+	    New File  		      22	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Debug.log
+	    New File  		     906	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\High.ini
+	    New File  		     673	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\installscript.vdf
+	    New File  		     898	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Low.ini
+	    New File  		     898	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Medium.ini
+	    New File  		    2035	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Skyrim.ccc
+	    New File  		  36.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\SkyrimSE.exe
+	    New File  		   4.5 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\SkyrimSELauncher.exe
+	    New File  		    1859	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Skyrim_Default.ini
+	    New File  		  298384	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\steam_api64.dll
+	    New File  		     911	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Ultra.ini
+	    New File  		   4.5 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccafdsse001-dwesanctuary.bsa
+	    New File  		  523532	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccafdsse001-dwesanctuary.esm
+	    New File  		 499.7 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccasvsse001-almsivi.bsa
+	    New File  		  649485	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccasvsse001-almsivi.esm
+	    New File  		 360.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse001-fish.bsa
+	    New File  		   1.3 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse001-fish.esm
+	    New File  		  66.5 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse002-exoticarrows.bsa
+	    New File  		  182186	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse002-exoticarrows.esl
+	    New File  		 107.2 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse003-zombies.bsa
+	    New File  		  180899	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse003-zombies.esl
+	    New File  		  38.2 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse004-ruinsedge.bsa
+	    New File  		    7913	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse004-ruinsedge.esl
+	    New File  		  10.7 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse005-goldbrand.bsa
+	    New File  		  213662	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse005-goldbrand.esl
+	    New File  		  32.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse006-stendarshammer.bsa
+	    New File  		    4539	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse006-stendarshammer.esl
+	    New File  		   4.6 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse007-chrysamere.bsa
+	    New File  		   54185	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse007-chrysamere.esl
+	    New File  		  36.0 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse008-wraithguard.bsa
+	    New File  		  240474	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse008-wraithguard.esl
+	    New File  		  43.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse010-petdwarvenarmoredmudcrab.bsa
+	    New File  		   10489	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse010-petdwarvenarmoredmudcrab.esl
+	    New File  		  15.2 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse011-hrsarmrelvn.bsa
+	    New File  		     896	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse011-hrsarmrelvn.esl
+	    New File  		  12.0 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse012-hrsarmrstl.bsa
+	    New File  		     910	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse012-hrsarmrstl.esl
+	    New File  		  27.2 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse013-dawnfang.bsa
+	    New File  		  244256	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse013-dawnfang.esl
+	    New File  		  21.2 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse014-spellpack01.bsa
+	    New File  		   45414	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse014-spellpack01.esl
+	    New File  		   9.8 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse016-umbra.bsa
+	    New File  		  471115	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse016-umbra.esm
+	    New File  		  69.9 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse018-shadowrend.bsa
+	    New File  		  299516	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse018-shadowrend.esl
+	    New File  		  11.3 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse019-staffofsheogorath.bsa
+	    New File  		  172972	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse019-staffofsheogorath.esl
+	    New File  		  14.3 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse020-graycowl.bsa
+	    New File  		   70659	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse020-graycowl.esl
+	    New File  		  43.7 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse021-lordsmail.bsa
+	    New File  		  113076	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse021-lordsmail.esl
+	    New File  		   1.0 g	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse025-advdsgs.bsa
+	    New File  		  812873	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse025-advdsgs.esm
+	    New File  		 138.7 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse031-advcyrus.bsa
+	    New File  		  855131	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse031-advcyrus.esm
+	    New File  		  73.0 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse034-mntuni.bsa
+	    New File  		  146017	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse034-mntuni.esl
+	    New File  		  39.7 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse035-petnhound.bsa
+	    New File  		  201862	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse035-petnhound.esl
+	    New File  		  17.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse036-petbwolf.bsa
+	    New File  		  135121	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse036-petbwolf.esl
+	    New File  		 106.5 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse037-curios.bsa
+	    New File  		   37476	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse037-curios.esl
+	    New File  		   6.7 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse038-bowofshadows.bsa
+	    New File  		  114743	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse038-bowofshadows.esl
+	    New File  		  73.8 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse040-advobgobs.bsa
+	    New File  		  316111	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse040-advobgobs.esl
+	    New File  		 116.4 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse041-netchleather.bsa
+	    New File  		  263377	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse041-netchleather.esl
+	    New File  		  32.4 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse043-crosselv.bsa
+	    New File  		  143881	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse043-crosselv.esl
+	    New File  		   6.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse045-hasedoki.bsa
+	    New File  		  117019	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse045-hasedoki.esl
+	    New File  		  25.2 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse050-ba_daedric.bsa
+	    New File  		  118387	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse050-ba_daedric.esl
+	    New File  		  45.4 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse051-ba_daedricmail.bsa
+	    New File  		  121476	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse051-ba_daedricmail.esl
+	    New File  		  39.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse052-ba_iron.bsa
+	    New File  		  114892	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse052-ba_iron.esl
+	    New File  		  34.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse053-ba_leather.bsa
+	    New File  		  115734	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse053-ba_leather.esl
+	    New File  		  41.4 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse054-ba_orcish.bsa
+	    New File  		   25666	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse054-ba_orcish.esl
+	    New File  		  41.7 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse055-ba_orcishscaled.bsa
+	    New File  		   29220	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse055-ba_orcishscaled.esl
+	    New File  		  45.9 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse056-ba_silver.bsa
+	    New File  		  114511	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse056-ba_silver.esl
+	    New File  		  27.9 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse057-ba_stalhrim.bsa
+	    New File  		  176136	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse057-ba_stalhrim.esl
+	    New File  		  48.4 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse058-ba_steel.bsa
+	    New File  		  120621	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse058-ba_steel.esl
+	    New File  		  52.8 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse059-ba_dragonplate.bsa
+	    New File  		  131189	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse059-ba_dragonplate.esl
+	    New File  		  38.5 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse060-ba_dragonscale.bsa
+	    New File  		  116459	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse060-ba_dragonscale.esl
+	    New File  		  37.5 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse061-ba_dwarven.bsa
+	    New File  		  111160	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse061-ba_dwarven.esl
+	    New File  		  31.4 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse062-ba_dwarvenmail.bsa
+	    New File  		  114053	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse062-ba_dwarvenmail.esl
+	    New File  		  45.5 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse063-ba_ebony.bsa
+	    New File  		  134877	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse063-ba_ebony.esl
+	    New File  		  43.7 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse064-ba_elven.bsa
+	    New File  		  111662	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse064-ba_elven.esl
+	    New File  		  44.9 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse066-staves.bsa
+	    New File  		  272311	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse066-staves.esl
+	    New File  		 368.7 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse067-daedinv.bsa
+	    New File  		   1.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse067-daedinv.esm
+	    New File  		  11.0 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse068-bloodfall.bsa
+	    New File  		   12087	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse068-bloodfall.esl
+	    New File  		  40.8 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse069-contest.bsa
+	    New File  		   17984	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccbgssse069-contest.esl
+	    New File  		  65.0 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cccbhsse001-gaunt.bsa
+	    New File  		   28801	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cccbhsse001-gaunt.esl
+	    New File  		   9.2 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccedhsse001-norjewel.bsa
+	    New File  		  196569	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccedhsse001-norjewel.esl
+	    New File  		  84.9 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccedhsse002-splkntset.bsa
+	    New File  		  160351	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccedhsse002-splkntset.esl
+	    New File  		  82.2 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccedhsse003-redguard.bsa
+	    New File  		  151347	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccedhsse003-redguard.esl
+	    New File  		  27.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cceejsse001-hstead.bsa
+	    New File  		  354470	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cceejsse001-hstead.esm
+	    New File  		  63.0 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cceejsse002-tower.bsa
+	    New File  		  399976	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cceejsse002-tower.esl
+	    New File  		  27.2 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cceejsse003-hollow.bsa
+	    New File  		  309934	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cceejsse003-hollow.esl
+	    New File  		  56.8 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cceejsse004-hall.bsa
+	    New File  		  382824	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cceejsse004-hall.esl
+	    New File  		  28.3 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cceejsse005-cave.bsa
+	    New File  		  422743	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cceejsse005-cave.esm
+	    New File  		 169.6 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccffbsse001-imperialdragon.bsa
+	    New File  		  207143	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccffbsse001-imperialdragon.esl
+	    New File  		  87.5 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccffbsse002-crossbowpack.bsa
+	    New File  		   22307	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccffbsse002-crossbowpack.esl
+	    New File  		    3498	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Skyrim\SkyrimPrefs.ini
+	    New File  		  54.5 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccfsvsse001-backpacks.bsa
+	    New File  		   18898	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccfsvsse001-backpacks.esl
+	    New File  		 126.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cckrtsse001_altar.bsa
+	    New File  		  499020	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cckrtsse001_altar.esl
+	    New File  		  76.9 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccmtysse001-knightsofthenine.bsa
+	    New File  		   87925	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccmtysse001-knightsofthenine.esl
+	    New File  		 112.5 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccmtysse002-ve.bsa
+	    New File  		  259928	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccmtysse002-ve.esl
+	    New File  		  29.6 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccpewsse002-armsofchaos.bsa
+	    New File  		  141394	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccpewsse002-armsofchaos.esl
+	    New File  		  12.2 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccqdrsse001-survivalmode.bsa
+	    New File  		  240724	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccqdrsse001-survivalmode.esl
+	    New File  		  443268	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccqdrsse002-firewood.bsa
+	    New File  		  264689	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccqdrsse002-firewood.esl
+	    New File  		  48.8 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccrmssse001-necrohouse.bsa
+	    New File  		  393319	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccrmssse001-necrohouse.esl
+	    New File  		 345.4 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cctwbsse001-puzzledungeon.bsa
+	    New File  		   1.3 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\cctwbsse001-puzzledungeon.esm
+	    New File  		  40.5 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccvsvsse001-winter.bsa
+	    New File  		  115940	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccvsvsse001-winter.esl
+	    New File  		  97.9 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccvsvsse002-pets.bsa
+	    New File  		  186345	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccvsvsse002-pets.esl
+	    New File  		 161.9 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccvsvsse003-necroarts.bsa
+	    New File  		  224611	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccvsvsse003-necroarts.esl
+	    New File  		  17.4 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccvsvsse004-beafarmer.bsa
+	    New File  		  485046	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\ccvsvsse004-beafarmer.esl
+	    New File  		  24.6 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Dawnguard.esm
+	    New File  		  61.6 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Dragonborn.esm
+	    New File  		   3.7 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\HearthFires.esm
+	    New File  		   3.0 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\MarketplaceTextures.bsa
+	    New File  		  62.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Animations.bsa
+	    New File  		 101.9 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Interface.bsa
+	    New File  		   1.0 g	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Meshes0.bsa
+	    New File  		 361.2 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Meshes1.bsa
+	    New File  		  16.8 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Misc.bsa
+	    New File  		  64.6 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Shaders.bsa
+	    New File  		   1.4 g	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Sounds.bsa
+	    New File  		 628.8 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Textures0.bsa
+	    New File  		   1.4 g	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Textures1.bsa
+	    New File  		   1.2 g	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Textures2.bsa
+	    New File  		   1.3 g	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Textures3.bsa
+	    New File  		   1.1 g	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Textures4.bsa
+	    New File  		 772.9 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Textures5.bsa
+	    New File  		 102.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Textures6.bsa
+	    New File  		 668.4 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Textures7.bsa
+	    New File  		 204.5 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Textures8.bsa
+	    New File  		   1.6 g	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim - Voices_en0.bsa
+	    New File  		 238.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Skyrim.esm
+	    New File  		  18.2 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Update.esm
+	    New File  		 874.0 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\_ResourcePack.bsa
+	    New File  		   78483	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\_ResourcePack.esl
+	    New File  		  13.1 m	C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\Video\BGS_Logo.bik
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         7         7         1         0         0         0
+   Files :       187       187         0         0         0         0
+   Bytes :  19.348 g  19.348 g         0         0         0         0
+   Times :   0:00:14   0:00:01                       0:00:00   0:00:00
+
+
+   Speed :           13,082,769,711 Bytes/sec.
+   Speed :              748,602.063 MegaBytes/min.
+   Ended : September 5, 2026 9:41:10 PM
+

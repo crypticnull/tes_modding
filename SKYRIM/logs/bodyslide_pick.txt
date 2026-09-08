@@ -1,0 +1,19 @@
+BodySlide pick - which slider set wins each output
+2026-09-07 22:42
+mode: APPLY
+
+0 removed by mod priority, 3 by variant preference, 3 total
+0 group(s) still ambiguous
+
+STILL AMBIGUOUS - add a rule for these, or answer them in the dialog
+
+REMOVED
+  meshes\clothes\towels\towelbody
+      drop [Towels]  Towel Body BHUNP
+      beaten by (variant)  Towel Body CBBE 3BA
+  meshes\clothes\towels\towelshoulder
+      drop [Towels]  Towel Shoulder BHUNP
+      beaten by (variant)  Towel Shoulder CBBE 3BA
+  meshes\clothes\towels\towelwaist
+      drop [Towels]  Towel Waist BHUNP
+      beaten by (variant)  Towel Waist CBBE 3BA

@@ -1,0 +1,59 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260904204231
+Username: DARKSTAR\mr
+RunAs User: DARKSTAR\mr
+Configuration Name: 
+Machine: DARKSTAR (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 45692
+PSVersion: 5.1.26100.9168
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9168
+BuildVersion: 10.0.26100.9168
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+  duplicate skipped: 3563
+=== resolve: 105 unique mod(s) ===
+account trainwrecker88  premium=True
+
+list file is the load order - renumbering from 1
+
+--- 4794 (pos 1) ---
+    Ebony Helm Revised   v3.0  adult=False
+--- 1966 (pos 2) ---
+    MagicLoader 2   v2.9b  adult=False
+--- 2977 (pos 3) ---
+    Daggerdancer - NBO   v1.2  adult=False
+--- 1272 (pos 4) ---
+    UE4SS TesSyncMapInjector   v0.1.8  adult=False
+--- 4079 (pos 5) ---
+    RAO (NBO Compatible) 1.0   v1.0  adult=False
+--- 3494 (pos 6) ---
+    Demoria Armor - NBO   v0.7  adult=True
+--- 1991 (pos 7) ---
+    Dark Holy Armor - NBO   v3.6  adult=False
+--- 3955 (pos 8) ---
+    Sylvan Sentinel - NBO   v1.0  adult=True
+--- 3266 (pos 9) ---
+    Protective Headgear - Glass Helmet (1.2 Updated)   v1.2.1  adult=False
+--- 4381 (pos 10) ---
+    Skystrider - NBO   v1.4  adult=True
+--- 3788 (pos 11) ---
+    Protective Headgear - Elven (1.2 Updated)   v1.2  adult=False
+--- 4337 (pos 12) ---
+    Sensible Shields - Steel (1.2 Updated)   v1.2  adult=False
+--- 3592 (pos 13) ---
+    Shorter skirt and Look lighter DarkSeducer armor(NBO)   v1.0.0  adult=True
+--- 2583 (pos 14) ---
+    Better Iron Armor (NBBM)   v1.1  adult=False
+--- 2719 (pos 15) ---
+    Lootable Shivering Isles (Lootable Golden Saints and Dark Seducers)   v1.2  adult=False
+--- 3563 (pos 16) ---
+    Female Fur Armor Remake (NBO Compatible)   v1  adult=True
+--- 4399 (pos 17) ---
+    Sensible Shields - Iron - Buckler Targe and Full Iron Shields (1.2 Updated)   v1.2  adult=False
+--- 2614 (pos 18) ---

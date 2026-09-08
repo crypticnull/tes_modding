@@ -1,0 +1,42 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : September 5, 2026 9:41:11 PM
+   Source : X:\MODDING\MO2\Mod.Organizer-2.5.3\
+     Dest : X:\SKYRIM\MO2\Mod.Organizer-2.5.3\
+
+    Files : *.*
+	    
+Exc Files : ModOrganizer.ini
+	    ModOrganizer.log
+	    nxmhandler.ini
+	    usvfs*.log
+	    
+ Exc Dirs : logs
+	    webcache
+	    crashDumps
+	    overwrite
+	    mods
+	    downloads
+	    profiles
+	    
+  Options : *.* /NDL /NFL /S /E /DCOPY:DA /COPY:DAT /NP /R:2 /W:2 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       216       213         3         0         0         0
+   Files :      2053      2051         2         0         0         0
+   Bytes :  451.24 m  451.23 m    10.5 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           570,069,889 Bytes/sec.
+   Speed :            32,619.660 MegaBytes/min.
+   Ended : September 5, 2026 9:41:12 PM
+

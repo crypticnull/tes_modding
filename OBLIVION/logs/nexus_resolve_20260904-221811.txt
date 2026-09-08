@@ -1,0 +1,240 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260904221811
+Username: DARKSTAR\mr
+RunAs User: DARKSTAR\mr
+Configuration Name: 
+Machine: DARKSTAR (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 27592
+PSVersion: 5.1.26100.9168
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9168
+BuildVersion: 10.0.26100.9168
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+  duplicate skipped: 3563
+=== resolve: 105 unique mod(s) ===
+account trainwrecker88  premium=True
+
+list file is the load order - renumbering from 1
+
+--- 4794 (pos 1) ---
+    Ebony Helm Revised   v3.0  adult=False
+--- 1966 (pos 2) ---
+    MagicLoader 2   v2.9b  adult=False
+--- 2977 (pos 3) ---
+    Daggerdancer - NBO   v1.2  adult=False
+--- 1272 (pos 4) ---
+    UE4SS TesSyncMapInjector   v0.1.8  adult=False
+--- 4079 (pos 5) ---
+    RAO (NBO Compatible) 1.0   v1.0  adult=False
+--- 3494 (pos 6) ---
+    Demoria Armor - NBO   v0.7  adult=True
+--- 1991 (pos 7) ---
+    Dark Holy Armor - NBO   v3.6  adult=False
+--- 3955 (pos 8) ---
+    Sylvan Sentinel - NBO   v1.0  adult=True
+--- 3266 (pos 9) ---
+    Protective Headgear - Glass Helmet (1.2 Updated)   v1.2.1  adult=False
+--- 4381 (pos 10) ---
+    Skystrider - NBO   v1.4  adult=True
+--- 3788 (pos 11) ---
+    Protective Headgear - Elven (1.2 Updated)   v1.2  adult=False
+--- 4337 (pos 12) ---
+    Sensible Shields - Steel (1.2 Updated)   v1.2  adult=False
+--- 3592 (pos 13) ---
+    Shorter skirt and Look lighter DarkSeducer armor(NBO)   v1.0.0  adult=True
+--- 2583 (pos 14) ---
+    Better Iron Armor (NBBM)   v1.1  adult=False
+--- 2719 (pos 15) ---
+    Lootable Shivering Isles (Lootable Golden Saints and Dark Seducers)   v1.2  adult=False
+--- 3563 (pos 16) ---
+    Female Fur Armor Remake (NBO Compatible)   v1  adult=True
+--- 4399 (pos 17) ---
+    Sensible Shields - Iron - Buckler Targe and Full Iron Shields (1.2 Updated)   v1.2  adult=False
+--- 2614 (pos 18) ---
+    Dark Brotherhood Midriff and Thighs   v1  adult=False
+--- 3807 (pos 19) ---
+    Wrathplate   v1.2a  adult=False
+--- 4482 (pos 20) ---
+    Arena Gladiator Raiments   v1.1  adult=False
+--- 2654 (pos 21) ---
+    Pleasing Palettes - Simply Silver Mithril   v1  adult=False
+--- 3401 (pos 22) ---
+    Bloody Leather Dark Brotherhood Armor 4k   v1  adult=False
+--- 4250 (pos 23) ---
+    BETTER LOOKING - Steel Armor   v1  adult=False
+--- 353 (pos 24) ---
+    Body Type Selector   v2.0  adult=False
+--- 125 (pos 25) ---
+    Universal Achievement Unblocker   v1.6.2  adult=False
+--- 445 (pos 26) ---
+    Young Textures Revamped   v1.4  adult=False
+--- 1464 (pos 27) ---
+    A More Complete World Map 8K - 4K   v3.3  adult=False
+--- 473 (pos 28) ---
+    NL-Tag Remover   v1.3.3  adult=False
+--- 13 (pos 29) ---
+    Better HUD   v2.3.2  adult=False
+--- 1284 (pos 30) ---
+    Realistic High Quality Skin   v1.0  adult=False
+--- 2088 (pos 31) ---
+    Female Locomotion Replacer - Unique Walk and Run   v0.1  adult=False
+--- 219 (pos 32) ---
+    Quest NPCs Run OBR   v1.7.3  adult=False
+--- 479 (pos 33) ---
+    Additional Map Markers   v1.5  adult=False
+--- 235 (pos 34) ---
+    Weightless Alchemy and Misc. Items (Carry more Arrows Potions etc.)   v1.0.2  adult=False
+--- 221 (pos 35) ---
+    Leveled Creature and Item Diversity   v1.0.0  adult=False
+--- 439 (pos 36) ---
+    Thiccer Than a Snicker - Flame Atronach   v0.2  adult=True
+--- 1671 (pos 37) ---
+    Colovian Cuts - Hairstyles with Physics   v1.0  adult=False
+--- 1201 (pos 38) ---
+    Xorberax's Slow Motion Shortcut Wheel   v0.1.3  adult=False
+--- 427 (pos 39) ---
+    Sigil Stone Selector   v1.4  adult=False
+--- 1228 (pos 40) ---
+    Xorberax's Attack-Cancelling   v0.2.1  adult=False
+--- 538 (pos 41) ---
+    Spider Mommy - Bare Chested Spider Daedra   v1.0  adult=True
+--- 268 (pos 42) ---
+    Hooded Outlaws   v1.0.0  adult=False
+--- 304 (pos 43) ---
+    Ayleid Mana Wells   v1.0  adult=False
+--- 108 (pos 44) ---
+    H.U.E - Handmade Unique Eyes   v1.0.3  adult=False
+--- 673 (pos 45) ---
+    Younger Dunmer Lady Head Mesh   v0.2  adult=False
+--- 259 (pos 46) ---
+    No Starting Map Markers   v1.0.1  adult=False
+--- 2998 (pos 47) ---
+    Player Camera - Stop Looking at My Back   v2.3  adult=False
+--- 2077 (pos 48) ---
+    Wonger's Shield on Back   v0.5.1  adult=False
+--- 1659 (pos 49) ---
+    Faster Sleep and Wait - OBSE   v1.0.4  adult=False
+--- 258 (pos 50) ---
+    Adjusted Timescale   v1.0.0  adult=False
+--- 2980 (pos 51) ---
+    Unread Books Glow   v1.2.0  adult=False
+--- 1729 (pos 52) ---
+    Timed Block UE4SS   v1.4  adult=False
+--- 2377 (pos 53) ---
+    ConfigHelper UE4SS LIB   v1.1  adult=False
+--- 2557 (pos 54) ---
+    Younger Elven Female Voice   v1.0  adult=False
+--- 965 (pos 55) ---
+    Realistic Arrow Speeds for Bows (Faster)   v2.0  adult=False
+--- 3098 (pos 56) ---
+    Auto Hide Gear   v3.2  adult=False
+--- 226 (pos 57) ---
+    Permanent Doomstones   v1.0  adult=False
+--- 2060 (pos 58) ---
+    Precise Soul Gem Capture OBSE - ASI   v1.1  adult=False
+--- 2745 (pos 59) ---
+    Bow Headshot UE4SS (fix 1x sneak damage WIP)   v1.2.0  adult=False
+--- 3468 (pos 60) ---
+    TFP - True First Person Camera   vv.0.9.8e  adult=False
+--- 1405 (pos 61) ---
+    Improved Bangs - Longer Hair - Court Hairstyle   v1.1  adult=False
+--- 315 (pos 62) ---
+    Stronger Soul Gems   v1.2  adult=False
+--- 1064 (pos 63) ---
+    Equipped Item Colors   v1  adult=False
+--- 3987 (pos 64) ---
+    Fix Persistent Character Glow   v1.0  adult=False
+--- 4010 (pos 65) ---
+    Glorious Holes of Oblivion (GHO)   v3.5  adult=False
+--- 260 (pos 66) ---
+    More Summons   v1.0  adult=False
+--- 3786 (pos 67) ---
+    Map Icon Completion Markers   v1.0.7  adult=False
+--- 3717 (pos 68) ---
+    Practical Arsenal - Ebony (Updated to 1.2)   v1.2  adult=False
+--- 1365 (pos 69) ---
+    More Enemies   v1.3  adult=False
+--- 2885 (pos 70) ---
+    Younger Female Voice - Humans   v1.0  adult=False
+--- 3790 (pos 71) ---
+    Infinitum - Compendium   v3.03  adult=False
+--- 1849 (pos 72) ---
+    One Button Dodge UE4SS   v1.1.0  adult=False
+--- 762 (pos 73) ---
+    Simple Start Skip - Alternative Start   v1.7  adult=False
+--- 1198 (pos 74) ---
+    Faster Spell Projectiles   v1.00  adult=False
+--- 558 (pos 75) ---
+    Crime Tweaks   v1.1  adult=False
+--- 2178 (pos 76) ---
+    The Asterisk of Wisdom   v1.1  adult=False
+--- 3363 (pos 77) ---
+    NPCs Come to Life - Naiad Edition   v1.0.5  adult=False
+--- 2457 (pos 78) ---
+    Unlimited Rings Redux   v1.0.4  adult=False
+--- 2565 (pos 79) ---
+    Dynamic Quiver   v1.1.1  adult=False
+--- 4058 (pos 80) ---
+    Practical Arsenal - Steel (Updated to 1.2)   v1.0  adult=False
+--- 2160 (pos 81) ---
+    Important On Top (inventory sorting)   v1.3  adult=False
+--- 1460 (pos 82) ---
+    Rebalanced and Unleveled Quest Gold Rewards OBR   v2.2  adult=False
+--- 4191 (pos 83) ---
+    Practical Arsenal - Iron (Updated for 1.2)   v1.0  adult=False
+--- 3998 (pos 84) ---
+    Practical Arsenal - Silver (Updated to 1.2)   v1.2  adult=False
+--- 4395 (pos 85) ---
+    Practical Arsenal - Daedric (Updated to 1.2)   v1.0  adult=False
+--- 4252 (pos 86) ---
+    Practical Arsenal - Bows _ The Bow-Shaped Bows Mod   v1.0  adult=False
+--- 4483 (pos 87) ---
+    Practical Arsenal - Dwarven (Updated to 1.2)   v1.0  adult=False
+--- 4604 (pos 88) ---
+    Practical Arsenal - Quivers (Updated for 1.2)   v1.0  adult=False
+--- 4609 (pos 89) ---
+    Practical Arsenal - Elven (Updated to 1.2)   v1.0  adult=False
+--- 4466 (pos 90) ---
+    Practical Arsenal - DawnFang and Duskfang (1.2 Updated)   v1.2  adult=False
+--- 4574 (pos 91) ---
+    Practical Arsenal - Uniques (1.2 Updated)   v1.2  adult=False
+--- 4677 (pos 92) ---
+    Practical Arsenal - Glass (1.2 Updated)   v1.0  adult=False
+--- 4496 (pos 93) ---
+    Protective Headgear - Dwarven (Updated to 1.2)   v1.0  adult=False
+--- 4575 (pos 94) ---
+    Practical Arsenal - Order of Jyggalag (1.2 Updated)   v1.2  adult=False
+--- 1283 (pos 95) ---
+    Lilia 1.2 Update - ice Assassin - Female Breton character preset - Alternative Starts   v1.2  adult=False
+--- 5406 (pos 96) ---
+    NBO oldblivion styled Huntsman vest   v1.1-Test  adult=True
+--- 477 (pos 97) ---
+    Unofficial Oblivion Remastered Patch - UORP   v1.0.9  adult=False
+--- 4475 (pos 98) ---
+    Address Library for OBSE Plugins   v1  adult=False
+--- 833 (pos 99) ---
+    UE4SS Game Settings Loader   v0.1.1  adult=False
+--- 5332 (pos 100) ---
+    TES4R Civis Deluxe Content Fix   v1.0  adult=False
+--- 4676 (pos 101) ---
+    Oblivion Unreal Fixes   v1.5.0  adult=False
+--- 3866 (pos 102) ---
+    Basin of Renewal Crash Fix   v1.0  adult=False
+--- 35 (pos 103) ---
+    Ultimate Engine Tweaks (Anti-Stutters - More Performance - Lower Latency - Better Clarity   v20  adult=False
+--- 5430 (pos 104) ---
+    Female Locomotion Replacer v2 (Crash Fix)   v0.4  adult=False
+--- 4405 (pos 105) ---
+    Lived In - Empire Heart   v1.1  adult=False
+
+picks -> X:\MODDING\data\nexus_picks.txt
+**********************
+Windows PowerShell transcript end
+End time: 20260904221949
+**********************

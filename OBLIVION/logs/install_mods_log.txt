@@ -1,0 +1,74 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260904181058
+Username: DARKSTAR\mr
+RunAs User: DARKSTAR\mr
+Configuration Name: 
+Machine: DARKSTAR (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File X:\MODDING\install_mods.ps1
+Process ID: 50760
+PSVersion: 5.1.26100.9168
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9168
+BuildVersion: 10.0.26100.9168
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+=== Oblivion Remastered mod installer ===
+
+7-Zip: C:\Program Files\7-Zip\7z.exe
+
+--- UNBSE 0.14.5 ---
+    detected script-extender payload -> Root tree
+    existing folder moved to X:\MODDING\_DELETE_ME\replaced-mods\UNBSE 0.14.5-181058
+    placed 23 file(s), dropped 0 doc file(s)
+      Root           23 file(s)
+
+--- Natural Bodies ---
+    existing folder moved to X:\MODDING\_DELETE_ME\replaced-mods\Natural Bodies-181058
+    placed 38 file(s), dropped 1 doc file(s)
+      Paks           12 file(s)
+      UE4SS          26 file(s)
+
+--- Smooth Beautiful Faces ---
+    placed 3 file(s), dropped 0 doc file(s)
+      Paks           3 file(s)
+
+--- RAO 1.0 ---
+    unwrapped: ROA.1.0B
+    placed 6 file(s), dropped 0 doc file(s)
+      Paks           6 file(s)
+
+--- Auto Upgrade Leveled Items ---
+    unwrapped: AutoUpgradeLeveledItems
+    placed 1 file(s), dropped 0 doc file(s)
+      Data           1 file(s)
+
+--- writing modlist.txt ---
+  +Auto Upgrade Leveled Items
+  +RAO 1.0
+  +Smooth Beautiful Faces
+  +Natural Bodies
+  +UNBSE 0.14.5
+
+=== summary ===
+
+Mod                        Status    Files Unmapped
+---                        ------    ----- --------
+UNBSE 0.14.5               installed    23        0
+Natural Bodies             installed    38        0
+Smooth Beautiful Faces     installed     3        0
+RAO 1.0                    installed     6        0
+Auto Upgrade Leveled Items installed     1        0
+Next:
+  1. Start MO2. All mods should appear enabled with no warning icons.
+  2. Add executable: X:\MODDING\OBLIVION_REMASTERED\mods\UNBSE 0.14.5\Root\OblivionRemastered\Binaries\Win64\UNBSELoader.exe
+  3. Run it once with --validate-only before launching the game.
+
+Log written to X:\MODDING\install_mods_log.txt
+**********************
+Windows PowerShell transcript end
+End time: 20260904181059
+**********************

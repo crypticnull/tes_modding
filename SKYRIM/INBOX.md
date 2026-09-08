@@ -1,3 +1,13 @@
+> **RETIRED 2026-09-08. The two-agent protocol is over.**
+>
+> There is one local Claude Code session now. A cloud session could not reach
+> `X:\MODDING`, could not run a script, and could not reach Nexus, so every
+> finding still queued up for a local session to execute while costing rebases
+> and a merge conflict. Git commit messages are the changelog from here.
+>
+> The live findings from the entries below were folded into
+> `X:\MODDING\SKYRIM\CLAUDE.md`. Kept for history, nothing here is deleted.
+
 # INBOX - the channel between the two Claude sessions
 
 Append-only. Newest entry at the BOTTOM. Never edit or delete someone else's

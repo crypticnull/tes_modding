@@ -1,3 +1,13 @@
+> **RETIRED 2026-09-08. Superseded by `X:\MODDING\SKYRIM\CLAUDE.md`.**
+>
+> The work queue moved into section 10 of that file, which is now the single
+> handoff document. Sections 1 and 3 of this file were completed on 09-08 and
+> are struck below. Everything else was carried across, plus three items this
+> file never had: the `clean_masters.ps1` Steam-install bug, the BOM at its
+> line 143, and Immersive Fallen Trees 8767 in the seasons list.
+>
+> Kept for history. Do not work from it.
+
 # NEXT.md - the work queue, in order
 
 Handed over from the Cowork session on 2026-09-08. This is what that session

@@ -1,4 +1,51 @@
-# never let install artefacts into the archive
+# =====================================================================
+# X:\MODDING is the working tree. Everything below is bulk game data,
+# a third-party tool install, a secret, or a generated backup.
+# Rule of thumb: if a script can regenerate it or Nexus can re-serve it,
+# it does not belong here.
+# =====================================================================
+
+# --- MO2 instance bulk data: mods, archives, VFS overflow, cache -----
+SKYRIM/SKYRIM_SE/mods/
+SKYRIM/SKYRIM_SE/downloads/
+SKYRIM/SKYRIM_SE/overwrite/
+SKYRIM/SKYRIM_SE/webcache/
+OBLIVION/OBLIVION_REMASTERED/mods/
+OBLIVION/OBLIVION_REMASTERED/downloads/
+OBLIVION/OBLIVION_REMASTERED/overwrite/
+OBLIVION/OBLIVION_REMASTERED/webcache/
+
+# --- the game itself, and Mod Organizer itself -----------------------
+SKYRIM/STOCK GAME/
+SKYRIM/MO2/
+OBLIVION/MO2/
+
+# --- third-party tool installs that live inside tools\ ---------------
+# tools\ is tracked for its SCRIPTS. These two are vendor payloads:
+# DynDOLOD is 2.5G / 1313 files, xEdit 128M / 253 files.
+SKYRIM/tools/DynDOLOD/
+SKYRIM/tools/xEdit/
+
+# --- staging, retired, backups ---------------------------------------
+SKYRIM/_incoming/
+SKYRIM/_retired/
+SKYRIM/backups/
+OBLIVION/_incoming/
+OBLIVION/backups/
+OBLIVION/archive/
+OBLIVION/choices/
+
+# --- script state. Holds .nexus_api_key. Never track. ----------------
+SKYRIM/data/
+OBLIVION/data/
+
+# --- timestamped backups written by the scripts ----------------------
+# 446 of these in profiles\Default alone. Note the pattern is
+# ".bak-<timestamp>", NOT ".bak" - a bare *.bak matches none of them.
+*.bak
+*.bak-*
+
+# --- install artefacts: never let these into the archive -------------
 *.7z
 *.zip
 *.rar
@@ -13,6 +60,6 @@
 *.exe
 *.dll
 
-# local scratch
+# --- local scratch ---------------------------------------------------
 /scratch/
 *.tmp

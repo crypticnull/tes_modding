@@ -183,3 +183,28 @@ STATE:  No disk change, no load order change. Repo only.
         or loadorder.txt already uses WriteAllLines with $Utf8NoBom. And
         deploy_dlss5.ps1 only READS the Steam Oblivion binaries, copying ReShade
         and the Streamline runtime out into STOCK GAME. That one is fine.
+
+## 2026-09-08 18:54 ET  CODE (local, Windows)
+DID:    PROVED the section 3 fix is durable, by perturbation rather than by
+        assertion. Moved AI Overhaul.esp back to the bottom (260 of 262,
+        reproducing the exact broken state), confirmed check_order.ps1 caught
+        it with 4 violations and exit 1, then sorted in MO2. LOOT pulled AI
+        Overhaul back to 136, above all four Bijin plugins, on its own. The
+        userlist.yaml rule is live and working. check_masters clean at 262,
+        runtime_check 0 wrong-runtime. Test backups removed.
+        Order after LOOT's own sort: AI Overhaul 136, Bijin - UCMT 159,
+        Bijin Warmaidens 160, Bijin NPCs 176, Bijin Wives 177, AI Overhaul -
+        USSEP Patch 183, AI Overhaul - Fishing Addon 254. This is LOOT's
+        order, not a hand-sort, so it is what a future sort reproduces.
+NEEDS:  Nothing. Two notes for whoever is next.
+        1. A sort produces NO entry in MO2's mo_interface.log at the default
+           verbosity. Do not use that log to decide whether a sort ran - it
+           gives a false negative. Use the mtime on profiles\Default\
+           loadorder.txt plus whether the order actually moved.
+        2. MO2's "Refresh" is not "Sort". Refresh only rescans mod folders.
+           Sort is the LOOT-icon button at the bottom of the right-hand
+           Plugins pane.
+STATE:  262 plugins, check_masters clean, check_order 0 violations AFTER a
+        real LOOT sort. 214 mods enabled, 6 disabled. runtime_check 0 wrong
+        runtime, 2 wrong-but-disabled, 7 covered ok. NEXT.md sections 1 and 3
+        closed and struck. Section 6 decisions still untouched - Matt's call.

@@ -210,16 +210,24 @@ foreach ($instDir in $instances) {
             $priority++
         }
 
-        # ---- plugins.txt, an asterisk prefix means enabled
+        # ---- plugins.txt has two formats and they mean opposite things.
+        # Skyrim SE writes every plugin with '*' marking the enabled ones.
+        # The older Oblivion format lists ONLY the enabled plugins, unprefixed.
+        # Reading the old format with the SE rule reports every plugin disabled,
+        # which is how the first Oblivion snapshot came out 0 of 55.
         $plugins = @()
         $pluginsPath = Join-Path $prof.FullName 'plugins.txt'
+        $pluginFormat = 'none'
         if (Test-Path $pluginsPath) {
+            $pluginLines = @([System.IO.File]::ReadAllLines($pluginsPath) |
+                ForEach-Object { $_.Trim() } |
+                Where-Object { $_ -ne '' -and -not $_.StartsWith('#') })
+            $starred = @($pluginLines | Where-Object { $_.StartsWith('*') }).Count
+            $pluginFormat = if ($starred -gt 0) { 'asterisk' } else { 'listed-only' }
             $idx = 0
-            foreach ($line in [System.IO.File]::ReadAllLines($pluginsPath)) {
-                $t = $line.Trim()
-                if ($t -eq '' -or $t.StartsWith('#')) { continue }
-                $on = $t.StartsWith('*')
-                if ($on) { $t = $t.Substring(1) }
+            foreach ($t in $pluginLines) {
+                $on = if ($pluginFormat -eq 'asterisk') { $t.StartsWith('*') } else { $true }
+                if ($t.StartsWith('*')) { $t = $t.Substring(1) }
                 $plugins += [pscustomobject]@{ index = $idx; enabled = $on; plugin = $t }
                 $idx++
             }
@@ -282,6 +290,7 @@ foreach ($instDir in $instances) {
                 plugins_listed  = $plugins.Count
                 plugins_enabled = $enabledPlugins.Count
             }
+            plugins_format  = $pluginFormat
             modlist_order_note = 'priority 0 is the top of the MO2 left pane and loses conflicts. The highest priority number is the bottom of the pane and wins. raw/modlist.txt is stored in the reverse of this, highest priority first.'
             modlist         = $entries
             plugins         = $plugins

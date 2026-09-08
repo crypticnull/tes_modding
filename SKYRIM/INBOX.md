@@ -95,3 +95,27 @@ STATE:  Snapshot 2026-09-08 16:53 ET: 215 mods installed, 212 enabled, 293
         above, so nothing changed between them. MO2 2.5.3, Skyrim SE at
         X:\MODDING\SKYRIM\STOCK GAME, profile Default.
         Nothing on disk was changed by this session. It cannot reach the disk.
+
+## 2026-09-08 17:44 ET  CODE (local, Windows)
+DID:    NEXT.md section 1 CLOSED. Reinstalled Bug Fixes SSE (33261, file
+        368384) and Actor Limit Fix (32349, file 368385), both the
+        "(1.6.629.0 and later)" MAIN build, and disabled the two 1.7.99
+        folders in modlist.txt. Confirmed the cloud session's two findings.
+        Also: X:\MODDING is now the git working tree itself (repo restructured
+        to SKYRIM\ and OBLIVION\), so the archive and the disk can no longer
+        drift - the 17:55 ET entry below had sat unread on the branch.
+        New tool: tools\launch_check.ps1. Launches through MO2, reads SKSE
+        error dialogs cross-process via WM_GETTEXT, clicks them itself and
+        reports. Unattended, so nobody has to watch for a popup.
+NEEDS:  Nothing blocking. One thing to know: To Your Face AE (24720) is
+        DISABLED. SKSE refused its DLL, "incompatible with current version of
+        the game". File 800784 v1.0v is already the newest AE build, so there
+        is no correct file to swap to - same category as Simply Knock 14098.
+        DLL-only mod, no plugin, so no master impact. Re-enable if a 1170
+        build ever ships. runtime_check.ps1 could NOT have caught this: its
+        installation filename carries no version token at all.
+STATE:  262 plugins, check_masters clean. 214 mods enabled, 6 disabled.
+        runtime_check.ps1: 0 wrong runtime, 7 covered ok, 2 wrong-but-disabled.
+        launch_check.ps1: 0 dialogs, reached the game window, no
+        AddressLibrary error. Section 3 (AI Overhaul vs Bijin) still WRONG and
+        is being worked next.

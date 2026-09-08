@@ -1,0 +1,60 @@
+﻿
+=== install mod (APPLY) ===
+
+
+=== Bug Fixes SSE  (mod 33261, skyrimspecialedition) ===
+    by meh321   version 10
+
+--- Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later) ---
+    file id  368384   category MAIN   version 10
+    Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)-33261-10-1678780224.7z   (1.8 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)-33261-10-1678780224.7z
+
+
+--- Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)-33261-10-1678780224.7z ---
+  name      Bug Fixes SSE
+  data root <archive root>
+  4 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Bug Fixes SSE
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+
+=== install mod (APPLY) ===
+
+
+=== Actor Limit Fix  (mod 32349, skyrimspecialedition) ===
+    by meh321   version 9
+
+--- Actor Limit Fix - Anniversary Edition (1.6.629.0 and later) ---
+    file id  368385   category MAIN   version 9
+    Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z   (1.8 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z
+
+
+--- Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z ---
+  name      Actor Limit Fix
+  data root <archive root>
+  4 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Actor Limit Fix
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+

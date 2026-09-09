@@ -1230,6 +1230,18 @@ alongside Ordinator - the two schools the current stack does not cover.
   Alternate Conversation Camera - 21220    24803  NOTE: the IMPROVED version
     (68210) is permanently retired for crashing. This is the original.
 
+    CORRECTION 2026-09-08: do not install 21220 without checking SmoothCam
+    first. SmoothCam already ships a full dialogue camera and ours was simply
+    switched off, dialogueMode was 0 in overwrite\SKSE\Plugins\SmoothCam.json.
+    It has two modes, Oblivion which narrows FOV by 30 for a tight portrait
+    shot, and Face To Face which is an over the shoulder two shot with a 30
+    unit side offset and an optional force to thirdperson. It also ships
+    SmoothCam_FocusBones_Default.txt targeting NPC Head and NPCEyeBone, so the
+    framing is built for faces. All of it is live in the MCM under SmoothCam,
+    Dialogue, Dialogue Mode, so it costs nothing to try. Only install 21220 if
+    that is not enough, and set dialogueMode back to 0 first so two mods are
+    not both hooking the dialogue camera.
+
 ## PHASE - adult content   (A, 2026-09-08)   PILLAR 3
 
 **A-0  THE FINDING: the two major frameworks are on NEXUS, not LoversLab.**
@@ -1436,3 +1448,49 @@ served a ClickFix fake-CAPTCHA malware page.
   LOD by matching form ids; change the load order and billboards strand in
   loaded cells. Batch plugin changes, then regenerate once - never regenerate
   in the middle of an install run.
+
+## FINDING - stale DynDOLOD is carrying a ghost mod   (2026-09-08)
+
+  Reported in game as a bridge near Honningbrew Meadery that shows as a big
+  wooden structure and then reverts to the vanilla stone bridge on a return
+  visit. It is not two mods fighting, it is one mod that is half present.
+
+  DynDOLOD.esp holds 45 REFR records in the Tamriel worldspace with editor ids
+  shaped like northernroadsesp&03D4E7_Tamriel_DynDOLOD_REFERENCE. Those are LOD
+  stand ins DynDOLOD generated from Northern Roads. But Northern Roads is
+  DISABLED, line 247 of modlist.txt reads -Northern Roads, and Northern
+  Roads.esp appears in neither plugins.txt nor loadorder.txt. So the LOD draws
+  the wooden bridge at distance and the full model up close is vanilla stone.
+  Northern Roads.esp is not even a master of DynDOLOD.esp, the references are
+  orphaned outright.
+
+  Why it was disabled is not recoverable. git log -S'Northern Roads' on
+  modlist.txt returns only a9b49a0, the first commit, so it was already off
+  before the repo existed.
+
+  Same root cause as the floating trees and the LOD tree standing in the
+  Riverwood to Whiterun road. DynDOLOD Output is dated 2026-09-06 20:02 and
+  five world mods landed after it, Alpine Forest of Whiterun Valley and
+  Immersive Fallen Trees on 09-08 00:59, then Seasons of Skyrim SKSE and Turn
+  of the Seasons on 09-08 20:57, then Terrain Helper at 21:07. Seasons in
+  particular has a hard requirement on a DynDOLOD run made with seasons on,
+  and ours predates it by two days.
+
+  Matt wants the wooden bridges, so the exit is to re-enable Northern Roads
+  rather than to regenerate it away. Order matters and the chain is long:
+  Northern Roads 77530 v1.3.1 is already on disk at 593.8 MB, but ZERO of its
+  patches are installed. Pull the one fits all Grass Patch from Miscellaneous
+  on its file page first, because Folkvangr plus Grass Cache plus No Grass In
+  Objects is exactly the setup that grows grass through roads. Then the Patch
+  Collection and the Patches Compendium, checked against Alpine Forest of
+  Whiterun Valley which edits the same valley. Then regenerate the grass cache,
+  because the current cache was built without Northern Roads. Only then TexGen,
+  DynDOLOD with seasons, and Occlusion.
+
+  Bonus, and it lands on the Terrain Helper gap. Northern Roads v1.3 dropped
+  road meshes entirely and paints every road as texture, which its author
+  states is compatible with terrain parallax. It also declares itself
+  compatible with Seasons of Skyrim. So it feeds the exact hole found the same
+  night, Terrain Helper is installed but NOTHING declares TerrainHelper.esp as
+  a master, so the terrain shader has no height data to read and the ground
+  renders flat.

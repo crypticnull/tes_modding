@@ -252,6 +252,20 @@ function Invoke-Fomod {
 
     Add-FomodFiles $mc.SelectSingleNode('/config/requiredInstallFiles') $ArcRoot $files
 
+    # Some FOMODs reuse a group name across many steps with DIFFERENT options -
+    # JK's Interiors Patch Collection has ten groups called "Miscellaneous
+    # Patches", and More to Say has two called "Available Modules". A -Fomod key
+    # addresses them all at once, so an option valid in one is missing from
+    # another. Throwing there is wrong: it is not a typo, it is a name clash.
+    # So collect the duplicated names first, and downgrade the throw for those.
+    $dupGroupNames = New-Object System.Collections.Generic.HashSet[string]
+    $seenGroupName = New-Object System.Collections.Generic.HashSet[string]
+    foreach ($gg in @($mc.SelectNodes('/config/installSteps/installStep/optionalFileGroups/group'))) {
+        $gn = $gg.GetAttribute('name')
+        if (-not $gn) { continue }
+        if (-not $seenGroupName.Add($gn.ToLower())) { [void]$dupGroupNames.Add($gn.ToLower()) }
+    }
+
     foreach ($step in @($mc.SelectNodes('/config/installSteps/installStep'))) {
         $vis = $step.SelectSingleNode('visible/dependencies')
         if (-not $vis) { $vis = $step.SelectSingleNode('visible') }
@@ -294,6 +308,11 @@ function Invoke-Fomod {
                         $hit = @($plugins | Where-Object { $_.GetAttribute('name').ToLower().Contains($opt.ToLower()) })
                     }
                     if (-not $hit.Count) {
+                        if ($gname -and $dupGroupNames.Contains($gname.ToLower())) {
+                            # this option belongs to a different group of the same
+                            # name. Skip it here; it gets selected where it exists.
+                            continue
+                        }
                         throw ("group '{0}': no option matches '{1}'. Options are: {2}" -f `
                                $gname, $opt, (($plugins | ForEach-Object { $_.GetAttribute('name') }) -join ' / '))
                     }

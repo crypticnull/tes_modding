@@ -215,3 +215,35 @@ folders, Immersive Interactions 7, Sleeping Expanded 5, all valid.
 Fix if it ever matters: rename the two folders to unused numbers. Not done
 because the two skipped files have not been identified as doing anything, and
 renaming inside a mod folder is the kind of change that gets lost on reinstall.
+## Devious Devices: does it hard-require SexLab? UNANSWERED
+
+Status: open, NOT blocking anything installed
+Found: 2026-09-08
+
+Only matters if and when Devious Devices actually gets installed. Nothing in the
+current 284-mod build depends on it. Do not treat this as a gate.
+
+What is already established, so this does not get re-researched from scratch:
+
+- The DD core repos on GitHub - DeviousDevices/DDa, DDi, DDx - list their
+  requirements as RaceMenu or NetImmerse Override plus each other, and do NOT
+  list SexLab. Suggestive but NOT conclusive: those READMEs are Oldrim-era, they
+  link nexusmods.com/skyrim and reference CBBE v3.2.3 and UNP v1.2, so they
+  cannot speak for the SE 5.2 build.
+- Unforgiving Devices, a DD extension, requires SexLab AND OSL Aroused AND
+  Devious Devices 5.2 AND Devious Devices NG. So at least some DD-adjacent mods
+  do pull SexLab in.
+- OSL Aroused is framework-AGNOSTIC. It appears alongside SexLab in Unforgiving
+  Devices' requirements, so a mod accepting OSL Aroused proves nothing about
+  OStim compatibility. An earlier note here claimed otherwise and was wrong.
+
+Why it is not simply looked up: loverslab.com is behind a Cloudflare managed
+challenge, see ips_get.ps1's header. The Schaken-Mods RSS mirror 403s as well,
+and web search does not return loverslab.com results at all. It needs a human
+signed in on the page, reading the Requirements section.
+
+DO NOT keep asking Matt to go find it. He tried, the site search did not help,
+and it is not worth his time for something that blocks nothing. Raise it once,
+when DD is actually about to be installed, and offer to work around it instead:
+install DD, run check_masters, and let the missing masters name the real
+dependencies. That answers the question empirically without reading any page.

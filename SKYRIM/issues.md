@@ -145,3 +145,56 @@ landed everywhere it mattered. This is the one straggler.
 Also checked and cleared: `deploy_dlss5.ps1` references the Steam Oblivion
 Remastered binaries, but only reads from them, copying ReShade and the
 Streamline runtime out into `STOCK GAME`. That is a read and it is fine.
+
+## Jump Behavior Overhaul 36889 crashes this build at startup
+
+Status: DROPPED 2026-09-08. Disabled, not uninstalled.
+Found: 2026-09-08 by bisect, after it crashed every launch
+
+Symptom: black screen for 7 to 9 seconds, then straight to desktop. No Crash
+Logger dump, because it is exception 0xc0000409 in ucrtbase.dll, a fastfail
+abort rather than an exception Crash Logger hooks. CrashLogger.log contains only
+its own init lines, which reads exactly like a clean run. The ONLY record is the
+Windows Application log, Event ID 1000.
+
+Bisected in five launches, each with tonight's 26 mods as the search space:
+
+  all 26 off                              survives
+  behaviour + animation group of 12       crash
+  Pandora half of 5                       crash
+  Pandora Output off, 4 left              crash
+  JBO + Payload Interpreter               crash
+  Payload Interpreter alone               SURVIVES
+
+So it is Jump Behavior Overhaul on its own. It is not the missing Nemesis patch:
+Pandora ran at 19:58 with JBO included and its log lists
+"Pandora Mod 1 : Jump Behavior Overhaul", and it still crashed afterwards.
+
+The mod page claims compatibility with Better Jumping SE 18967 and says most
+behaviour mods work once patched with Nemesis. This build has Better Jumping NG,
+a different mod, alongside True Directional Movement, Behavior Data Injector and
+Precision. JBO is v1.5 from September 2022. Not worth chasing for directional
+jump when Better Jumping NG is already installed.
+
+Re-test procedure if it is ever revisited: enable it, run Pandora, then
+launch_check.ps1 with a soak. Do not trust a launch that was not soaked.
+
+## launch_check.ps1 reported three clean passes on a crashing game
+
+Status: FIXED 2026-09-08
+
+The first version watched for a game window, then killed the process and
+reported success. A crash to desktop shows a black WINDOW for several seconds
+first, so "reached game window" was true while the game was already dying. The
+crashes at 20:04:42, 20:05:47 and 20:07:27 in the Windows Application log are
+all launch_check's own runs, each reported as a pass.
+
+Two fixes, both required:
+1. -SoakSeconds, default 30. After the window appears it watches the process
+   stay alive, second by second, and reports the elapsed time if it exits.
+2. A Get-WinEvent query against the Application log for Event ID 1000 mentioning
+   SkyrimSE since launch, printing faulting module and exception code.
+
+Verified by running it against the KNOWN-BROKEN state first and confirming it
+reported CRASHED, before trusting it to report a pass. A check that has never
+been observed failing is not evidence.

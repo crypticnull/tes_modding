@@ -46,6 +46,13 @@ param(
     [ValidateSet('Continue','Exit')]
     [string] $OnPluginError = 'Continue',
 
+    # After the game window appears, keep watching this long to see whether it
+    # SURVIVES. A window is not a running game: a crash-to-desktop shows a black
+    # window for several seconds first, so closing on sight reports a pass on a
+    # game that is already dying. That false positive is why this parameter
+    # exists. See the crash-detection block at the end.
+    [int] $SoakSeconds = 30,
+
     [switch] $NoLaunch,
     [switch] $KeepGameOpen,
     [string] $Log = ''
@@ -136,6 +143,8 @@ $ours        = @('SkyrimSE', 'skse64_loader', 'ModOrganizer')
 $seen        = @{}
 $dialogs     = New-Object Collections.ArrayList
 $reachedGame = $false
+$died        = $false
+$launchStart = Get-Date
 
 Write-Host ""
 Write-Host "launch_check  policy OnPluginError=$OnPluginError  timeout ${TimeoutSeconds}s"
@@ -208,8 +217,25 @@ while ((Get-Date) -lt $deadline) {
 
     $skRunning  = [bool](Get-Process -Name 'SkyrimSE' -ErrorAction SilentlyContinue)
     $mo2Running = [bool](Get-Process -Name 'ModOrganizer' -ErrorAction SilentlyContinue)
-    if ($reachedGame -and $skRunning) { Start-Sleep -Seconds 5; break }
-    if (-not $skRunning -and -not $mo2Running -and $dialogs.Count -gt 0) { break }
+    if ($reachedGame -and $skRunning) { break }
+    if (-not $skRunning -and -not $mo2Running -and $dialogs.Count -gt 0) { $died = $true; break }
+}
+
+# ---- SOAK. A window is not a running game.
+$survived = $null
+if ($reachedGame) {
+    Write-Host ""
+    Write-Host ("  window up - soaking {0}s to see whether it survives..." -f $SoakSeconds)
+    $survived = $true
+    for ($s = 0; $s -lt $SoakSeconds; $s++) {
+        Start-Sleep -Seconds 1
+        if (-not (Get-Process -Name 'SkyrimSE' -ErrorAction SilentlyContinue)) {
+            Write-Host ("  SkyrimSE EXITED after ~{0}s - that is a crash to desktop, not a launch" -f $s) -ForegroundColor Red
+            $survived = $false
+            break
+        }
+    }
+    if ($survived) { Write-Host "  still running after the soak" -ForegroundColor Green }
 }
 
 $sk = Get-Process -Name 'SkyrimSE' -ErrorAction SilentlyContinue
@@ -248,10 +274,32 @@ foreach ($d in $dialogs) {
     if ($d.Body -match 'AddressLibrary|Identifier not found') { $addrHits += ('[dialog] ' + $d.Body) }
 }
 
+# ---- Windows records the real reason a game vanished. Crash Logger only writes
+# a dump for exceptions it hooks; a ucrtbase 0xc0000409 fastfail leaves nothing
+# but its own init log, which reads exactly like a clean run.
+$winCrash = @()
+try {
+    $winCrash = @(Get-WinEvent -FilterHashtable @{LogName='Application'; Id=1000; StartTime=$launchStart} -ErrorAction SilentlyContinue |
+                  Where-Object { $_.Message -match 'SkyrimSE' })
+} catch {}
+
 Write-Host ""
 Write-Host "SUMMARY"
 Write-Host ("  dialogs answered     " + $dialogs.Count)
 Write-Host ("  reached game window  " + $reachedGame)
+Write-Host ("  survived {0}s soak    {1}" -f $SoakSeconds, $(if ($null -eq $survived) { 'n/a' } else { $survived }))
+if ($winCrash.Count) {
+    Write-Host ""
+    Write-Host ("  *** CRASHED - {0} Windows Application Error event(s) ***" -f $winCrash.Count) -ForegroundColor Red
+    foreach ($w in $winCrash) {
+        $mod = if ($w.Message -match 'Faulting module name: ([^,]+)') { $Matches[1] } else { '?' }
+        $exc = if ($w.Message -match 'Exception code: (\S+)') { $Matches[1] } else { '?' }
+        Write-Host ("      {0:HH:mm:ss}  module {1}  exception {2}" -f $w.TimeCreated, $mod, $exc) -ForegroundColor Red
+    }
+} elseif ($survived -eq $false) {
+    Write-Host ""
+    Write-Host "  *** GAME EXITED during the soak, but Windows logged no fault ***" -ForegroundColor Red
+}
 Write-Host ("  skse64.log           " + $(if ($logHits) { $logHits[0].FullName } else { 'not written' }))
 Write-Host ""
 if ($addrHits.Count -gt 0) {

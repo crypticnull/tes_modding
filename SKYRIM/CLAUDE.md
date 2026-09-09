@@ -274,6 +274,23 @@ That is how the LOOT rule was actually proved.
 - Reading a dialog owned by another process needs `SendMessage WM_GETTEXT`.
   `GetWindowText` returns empty for a child control in another process, so
   `Get-Process | Select-Object MainWindowTitle` cannot read a dialog body.
+- **NEVER force-kill Mod Organizer either. Use `tools\mo2_close.ps1`.** MO2
+  truncates a file to zero as step ONE of rewriting it, so `Stop-Process -Force`
+  inside that window leaves an EMPTY file, not a partial one. On 09-08 that hit
+  `profiles\Default\archives.txt`: MO2 started 22:19:20, the file was emptied
+  22:19:46, and it stayed at 0 bytes.
+  **The in-game symptom was no sound at all, plus dialogue that could not
+  advance.** `archives.txt` is what tells the game which mod BSAs to load, and
+  `Skyrim - Sounds.bsa`, `Skyrim - Voices_en0.bsa` and
+  `alternate start - live another life.bsa` are all listed in it. Skyrim
+  advances dialogue only when a voice line FINISHES, so a missing voice file
+  hangs the conversation with the camera locked. Two symptoms, one truncated
+  file, and nothing in `check_masters` or `launch_check` could see it.
+  `mo2_close.ps1` asks MO2 to close, waits, escalates only if it must, then
+  verifies every profile file is non-empty. A zero-byte profile file is the
+  signature of an interrupted write. These files are all tracked, so the fix is
+  `git -C X:\MODDING checkout HEAD -- SKYRIM/SKYRIM_SE/profiles/Default/archives.txt`
+  and this is the clearest case yet for why the profile is in git at all.
 - **NEVER kill the game while it is still writing.** Community Shaders compiles
   its shader cache on the first launch after any change to the CS stack, and it
   writes `.pso` files into `overwrite\ShaderCache` for minutes. Killing it

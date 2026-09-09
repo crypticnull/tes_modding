@@ -107,11 +107,50 @@ if (Test-Path -LiteralPath $dd) {
 }
 
 Head 'the other checks'
+# These have to FAIL this script, not just print. On the first run this said
+# "PRE-CHAIN: clear" while check_masters was reporting 13 missing masters
+# underneath it, which is the section 6 lesson happening inside the tool
+# written to prevent it. Parse the counts and treat them as results.
 foreach ($s in 'check_masters.ps1','check_order.ps1','runtime_check.ps1') {
     $p = Join-Path $Root ("tools\" + $s)
     if (-not (Test-Path -LiteralPath $p)) { continue }
     Write-Host ("  -- " + $s) -ForegroundColor Yellow
-    & $p 2>&1 | Select-String 'missing master|out of order|inactive|wrong runtime|VIOLATION|none|clean|0 violations|SUMMARY' | Select-Object -First 6 | ForEach-Object { "      " + $_.Line.Trim() }
+    $out = (& $p *>&1 | Out-String)
+
+    $mm = [regex]::Match($out, 'missing master\s+(\d+)')
+    if ($mm.Success -and [int]$mm.Groups[1].Value -gt 0) {
+        # stale DynDOLOD and Occlusion are EXPECTED before the chain runs, and
+        # a deliberately disabled plugin cannot load, so neither is a failure.
+        $real = @()
+        foreach ($l in ($out -split "`n")) {
+            if ($l -notmatch '^\s+(\S+\.es[pml])\s+needs\s+(.+?)\s*$') { continue }
+            $dep = $Matches[1]
+            if ($dep -match '^(DynDOLOD|Occlusion)\.esp$') { continue }
+            if ($out -match [regex]::Escape($dep) + '\s+<- THIS PLUGIN ITSELF is off') { continue }
+            $real += $l.Trim()
+        }
+        if ($real.Count) {
+            Write-Host ("      {0} REAL missing master(s):" -f $real.Count) -ForegroundColor Red
+            $real | Select-Object -First 10 | ForEach-Object { Write-Host ("        " + $_) -ForegroundColor Red }
+            $script:fail += $real.Count
+        } else { Write-Host '      missing masters: only the stale LOD, expected' -ForegroundColor Green }
+    } else { Write-Host '      missing masters: none' -ForegroundColor Green }
+
+    $oo = [regex]::Match($out, 'loads out of order\s+(\d+)')
+    if ($oo.Success) { Write-Host ("      out of order: {0}  <- LOOT sort needed" -f $oo.Groups[1].Value) -ForegroundColor Yellow; $script:fail++ }
+
+    $v = [regex]::Match($out, 'violations\s+(\d+)')
+    if ($v.Success) {
+        $n = [int]$v.Groups[1].Value
+        Write-Host ("      order violations: {0}" -f $n) -ForegroundColor $(if ($n) { 'Red' } else { 'Green' })
+        $script:fail += $n
+    }
+    $wr = [regex]::Match($out, 'wrong runtime\s+(\d+)')
+    if ($wr.Success) {
+        $n = [int]$wr.Groups[1].Value
+        Write-Host ("      wrong runtime: {0}" -f $n) -ForegroundColor $(if ($n) { 'Red' } else { 'Green' })
+        $script:fail += $n
+    }
 }
 
 Write-Host ""

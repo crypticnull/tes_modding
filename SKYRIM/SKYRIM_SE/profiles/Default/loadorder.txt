@@ -81,9 +81,15 @@ ccafdsse001-dwesanctuary.esm
 _ResourcePack.esl
 unofficial skyrim special edition patch.esp
 unofficial skyrim creation club content patch.esl
+FarmhouseChimneys.esp
+Landscape and Water Fixes.esp
 MajesticMountains_Landscape.esm
+BSAssets.esm
+BSHeartland.esm
 Alpine Forest of Whiterun Valley.esp
 Cathedral - 3D Mountain Flowers.esp
+Natural Waterfalls.esp
+GKBWavesReborn.esp
 MajesticMountains_Moss.esp
 SmoothCam.esl
 AncientDraugr.esl
@@ -92,13 +98,21 @@ DX Witch Hunter Armor.esl
 Black Widow Outfit.esl
 Cassandra Apocrypha UNP.esl
 Cassandra Frost Witch.esl
+BS_DLC_patch.esp
+AnimatedShips.esl
+Lux Orbis - Master plugin.esm
+HammetDungeon01.esm
+NoBrokenWhiterunTower.esp
+Better Dynamic Snow SE - DisableRefs.esm
+Vigilant.esm
 Ursine Armor Pack.esl
 Celes Mercy.esl
 Celes Nightingale Armor.esl
 Celes Rogue Armor UNP.esl
 Celes Tarot Outfit Cloth UNP.esl
 Crimson Blood Armor.esl
-Lux Orbis - Master plugin.esm
+Wyrmstooth.esp
+evgSIRENROOT.esm
 Emfy Cleric Robes.esl
 Daedric Reaper Armor.esl
 Demon Armor.esl
@@ -134,17 +148,32 @@ Devious Devices - Integration.esm
 KittySpellPack02.esl
 Devious Devices - Expansion.esm
 Devious Devices - Contraptions.esm
+Environs Master Plugin.esp
+SCSI-ACTbfco-Main.esp
+Natural Waterfalls - Dawnguard.esp
+SnozzResources.esp
+Natural Waterfalls - Dragonborn.esp
 DynDOLOD.esm
 HD Lods SSE.esp
 SkyUI_SE.esp
 I4IconAddon.esp
 SMIM-SE-Merged-All.esp
 Audio Overhaul Skyrim.esp
+Better Dynamic Snow SE.esp
+Fabled Forests.esp
+Northern Roads.esp
 Nature of the Wild Lands.esp
 fallentreebridgesSSE.esp
 S3DTrees NextGenerationForests.esp
+DepthsOfSkyrim.esp
 Lux Orbis.esp
+COTN - Falkreath.esp
 Landscape Fixes For Grass Mods.esp
+COTN - Dawnstar.esp
+Resources - The Great Cities.esp
+The Great City of Winterhold v4.esp
+COTN - Morthal.esp
+Eli_Skaal Village Overhaul.esp
 Navigator-NavFixes.esp
 Lux Orbis CS.esp
 Folkvangr - Grass and Landscape Overhaul.esp
@@ -152,29 +181,66 @@ Book Covers Skyrim.esp
 AI Overhaul.esp
 Guard Dialogue Overhaul.esp
 aMidianBorn_Book of Silence.esp
+Orc Strongholds - All In One.esp
+The Great Town of Ivarstead.esp
+WindhelmSSE.esp
+The Great Town of Karthwasten.esp
+JK's Raven Rock.esp
+The Great Town of Shor's Stone.esp
+The Great Village of Kynesgrove.esp
+SurWR.esp
+The Great Village of Old Hroldan.esp
+Undeath.esp
 weapons armor clothing & clutter fixes.esp
+WhiteRiverWatch.esp
+The Great City of Solitude.esp
 SeranaDialogAddon.esp
 Summermyst - Enchantments of Skyrim.esp
+DungeonsRevisited.esp
 Odin - Skyrim Magic Overhaul.esp
+The Great Village of Mixwater Mill.esp
+Hand Placed Enemies - Light.esp
+Redoran.esp
+Ryn's Standing Stones.esp
+Brittleshin.esp
+Unmarked Locations Pack - All In One.esp
+Nordic Ruins of Skyrim.esp
+Embershard.esp
 Stormcrown.esp
 thieves guild requirements.esp
 NewArmoury.esp
+S3DRocks.esp
 MajesticMountains.esp
 SnowOverSkyrim.esp
 Turn of the Seasons.esp
 TOTS - Icy Waterways.esp
+Environs - Kolskeggr.esp
 Wintersun - Faiths of Skyrim.esp
 Lit Road Signs.esp
+Dwarfsphere.esp
+Morning Fogs SSE.esp
+JK's Riverwood.esp
+man_DaedricShrines.esp
 CollegeEntry.esp
+Riften Docks Overhaul.esp
+Ryn's Halted Stream Camp.esp
 Inigo.esp
 HLIORemi.esp
+The Great City of Dragon Bridge.esp
+WhiterunDefenses.esp
+UniqueBorderGates-All.esp
 At Your Own Pace - College of Winterhold.esp
+WiZkiD Hunter's Camp Overhaul.esp
+waterplants_lily.esp
 018Auri.esp
 Relationship Dialogue Overhaul.esp
 Immersive Weapons.esp
 TheChoiceIsYours.esp
 pantiesofskyrim.esp
 SofiaFollower.esp
+GraywinterWatch.esp
+HHoS Secluded Grotto DI.esp
+Environs - Greenwood Shack.esp
 Triumvirate - Mage Archetypes.esp
 RaceMenu.esp
 Remodeled Armor - Vanilla Replacer.esp
@@ -209,8 +275,20 @@ SunDaytimeNorth_MM_default.esp
 BetterCraftedPotions.esp
 BetterThirdPersonSelection.esp
 Blubbo_again_an_aspen_replacer_2023.esp
+ForgottenCity.esp
+Environs - Tundra Farmhouse.esp
+HHoS Sundered Mountain Peak DI.esp
+HHoS Glacial Rift DI.esp
 AI Overhaul - USSEP Patch.esp
+Missives.esp
+HHoS River Inlet DI.esp
+HHoS Deserted Outpost DI.esp
+HHoS Subterranean Hot Spring DI.esp
+HHoS Maintenance Vestibule DI.esp
+HHoS Flooded Cellar DI.esp
 The Amazing World of Bikini Armors REMASTERED.esp
+HHoS Overgrown Temple DI.esp
+HHoS Mountainside Crevice DI.esp
 BentPines.esp
 SDA CC Umbra Patch.esp
 SDA Wintersun Patch.esp
@@ -279,9 +357,19 @@ Rumble - Jumping - AOS Patch.esp
 Rumble - Swimming - AOS Patch.esp
 Rumble - Weapons - AOS Patch.esp
 TrueStormsSE_AOS.esp
+HHoS Bottomless Sinkhole DI.esp
+Lucien.esp
+HHoS Marooned Cargo Ship DI.esp
+Environs - Riften Warehouse.esp
+Environs - Hroggars House.esp
+HHoS Underground Pit DI.esp
+HHoS Windswept Alcove DI.esp
+HHoS Hollow Tree Stump DI.esp
+BeyondSkyrimMerchant.esp
+HHoS Seaside Cove DI.esp
+HHoS Abandoned Wolf Den DI.esp
 AI Overhaul - Fishing Addon.esp
 AHZmoreHUD.esp
-Lucien.esp
 UntarnishedUI_Subtitle.esp
 FNIS.esp
 EVGConditionalIdles.esp
@@ -295,6 +383,8 @@ OStim.esp
 OStimNPCs.esp
 Law and OStim.esp
 WD03OTrainers.esp
+HHoS Ransacked Catacomb DI.esp
+HHoS Collapsed Mine DI.esp
 OStimCommunityResource.esp
 OPIrresistible.esp
 OHorny.esp
@@ -312,11 +402,41 @@ DustEffectsSSE.esp
 FEC.esp
 OSurvival SA Mode NG.esp
 Devious Devices SE patch.esp
+BFCO NG.esp
+Rent a Bath - Dirt and Blood Addon.esp
+Northern Roads - PBR.esp
+Vanaheimr - Northern Roads - PBR.esp
+Northern Roads - Terrain Helper Patch.esp
+InnBath.esp
+Vanaheimr Landscapes.esp
+Vanaheimr Landscapes - SnowShader.esp
+WadeInWater.esp
+Cathedral - 3D Pine & Reach Grass.esp
+Cathedral - 3D Pine Grass.esp
+Cathedral - Rocky Shores.esp
+Cathedral - 3D FallForest Grass.esp
+Cathedral - 3D Tundra Grass.esp
+blendedshrooms.esp
+Cathedral Dynamic Snow.esp
+Simple Snow Improvements - Skyrim.esp
+Extended Encounters.esp
+Rainbows Remade.esp
+evgSIRENROOTtraversalpatch.esp
+HappyLittleTrees.esp
+StormLightning.esp
+Dynamic Things Alternative.esp
+LCO_Framework.esp
+HHoS Ancient Shrine DI.esp
+HHoS Empty Well DI.esp
+Missives - Heartland.esp
+Missives - Solstheim.esp
+Missives - Wyrmstooth.esp
 Aetherius.esp
 trade & barter.esp
 Ordinator - Perks of Skyrim.esp
 Sacrosanct - Vampires of Skyrim.esp
 Mundus.esp
+AlternatePerspective.esp
 Lux.esp
 Lux - HDR.esp
 Lux CS - Bulbs.esp
@@ -346,127 +466,161 @@ Lux - Tundra Homestead patch.esp
 Lux - Umbra CC.esp
 Lux - Wintersun patch.esp
 WACCF_BashedPatchLvlListFix.esp
+NoGrassias.esp
+A Clear Map of Skyrim.esp
 DynDOLOD.esp
 Occlusion.esp
-Northern Roads.esp
-BFCO NG.esp
-Rent a Bath - Dirt and Blood Addon.esp
-Vanaheimr - Northern Roads - PBR.esp
-Northern Roads - Terrain Helper Patch.esp
-SCSI-ACTbfco-Main.esp
-InnBath.esp
-Vanaheimr Landscapes - SnowShader.esp
-Vanaheimr Landscapes.esp
-Better Dynamic Snow SE - DisableRefs.esm
-Better Dynamic Snow SE.esp
-Northern Roads - PBR.esp
-Missives.esp
-DepthsOfSkyrim.esp
-WadeInWater.esp
-ForgottenCity.esp
-Undeath.esp
-BeyondSkyrimMerchant.esp
-Wyrmstooth.esp
-SurWR.esp
-WindhelmSSE.esp
-COTN - Dawnstar.esp
-COTN - Falkreath.esp
-WhiterunDefenses.esp
-The Great Village of Kynesgrove.esp
-The Great Village of Mixwater Mill.esp
-COTN - Morthal.esp
-The Great Village of Old Hroldan.esp
-The Great City of Solitude.esp
-The Great City of Winterhold v4.esp
-Cathedral - 3D Pine Grass.esp
-Cathedral - Rocky Shores.esp
-Cathedral - 3D FallForest Grass.esp
-Cathedral - 3D Pine & Reach Grass.esp
-Cathedral - 3D Tundra Grass.esp
-NoGrassias.esp
-man_DaedricShrines.esp
-Nordic Ruins of Skyrim.esp
-S3DRocks.esp
-UniqueBorderGates-All.esp
-NoBrokenWhiterunTower.esp
-Environs Master Plugin.esp
-DungeonsRevisited.esp
-HammetDungeon01.esm
-blendedshrooms.esp
-Cathedral Dynamic Snow.esp
-Simple Snow Improvements - Skyrim.esp
-Extended Encounters.esp
-Hand Placed Enemies - Light.esp
-Unmarked Locations Pack - All In One.esp
-Ryn's Halted Stream Camp.esp
-WiZkiD Hunter's Camp Overhaul.esp
-Embershard.esp
-Redoran.esp
-WhiteRiverWatch.esp
-Brittleshin.esp
-GraywinterWatch.esp
-JK's Riverwood.esp
-The Great Town of Karthwasten.esp
-The Great Town of Ivarstead.esp
-The Great Town of Shor's Stone.esp
-Orc Strongholds - All In One.esp
-The Great City of Dragon Bridge.esp
-Resources - The Great Cities.esp
-Eli_Skaal Village Overhaul.esp
-JK's Raven Rock.esp
-Environs - Kolskeggr.esp
-Environs - Riften Warehouse.esp
-Environs - Hroggars House.esp
-waterplants_lily.esp
-Morning Fogs SSE.esp
-Rainbows Remade.esp
-GKBWavesReborn.esp
-Ryn's Standing Stones.esp
-Dwarfsphere.esp
-A Clear Map of Skyrim.esp
-Landscape and Water Fixes.esp
-evgSIRENROOT.esm
-evgSIRENROOTtraversalpatch.esp
-Vigilant.esm
-AnimatedShips.esl
-Fabled Forests.esp
-Natural Waterfalls - Dawnguard.esp
-Natural Waterfalls - Dragonborn.esp
-Natural Waterfalls.esp
-Environs - Tundra Farmhouse.esp
-Environs - Greenwood Shack.esp
-HappyLittleTrees.esp
-StormLightning.esp
-AlternatePerspective.esp
-SnozzResources.esp
-BSAssets.esm
-BSHeartland.esm
-BS_DLC_patch.esp
-Dynamic Things Alternative.esp
-LCO_Framework.esp
-FarmhouseChimneys.esp
-Riften Docks Overhaul.esp
-HHoS Abandoned Wolf Den DI.esp
-HHoS Ancient Shrine DI.esp
-HHoS Bottomless Sinkhole DI.esp
-HHoS Collapsed Mine DI.esp
-HHoS Deserted Outpost DI.esp
-HHoS Empty Well DI.esp
-HHoS Flooded Cellar DI.esp
-HHoS Glacial Rift DI.esp
-HHoS Hollow Tree Stump DI.esp
-HHoS Maintenance Vestibule DI.esp
-HHoS Marooned Cargo Ship DI.esp
-HHoS Mountainside Crevice DI.esp
-HHoS Overgrown Temple DI.esp
-HHoS Ransacked Catacomb DI.esp
-HHoS River Inlet DI.esp
-HHoS Seaside Cove DI.esp
-HHoS Secluded Grotto DI.esp
-HHoS Subterranean Hot Spring DI.esp
-HHoS Sundered Mountain Peak DI.esp
-HHoS Underground Pit DI.esp
-HHoS Windswept Alcove DI.esp
-Missives - Heartland.esp
-Missives - Solstheim.esp
-Missives - Wyrmstooth.esp
+metaSkillMenu.esp
+Pyromancy.esp
+Cryomancy.esp
+Haemophilia.esp
+NPCs Take Cover.esp
+Penitus_Oculatus.esp
+PreludeToPurgatory.esp
+Realistic AI Detection 3 - Lite.esp
+SkyParkour.esp
+Smart_NPC_Potions.esp
+UndeathFixes.esp
+Skyrim Reputation Patch.esp
+Skyrim Reputation Improved.esp
+SkyrimReputation_SSE.esp
+Apothecary.esp
+Thaumaturgy.esp
+Caught Red Handed - Quest Expansion.esp
+College Of Winterhold - Quest Expansion.esp
+HouseOfHorrorsQuestExpansion.esp
+konahrik_accoutrements.esp
+PaarthurnaxQuestExpansion.esp
+TheOnlyCureQuestExpansion.esp
+Campfire.esm
+3DNPC.esp
+3DNPC0.esp
+3DNPC1.esp
+fixLOD.esp
+SimplyOptimizedScripts.esl
+LostGrimoire.esp
+Open World Loot.esp
+Sanguine Symphony.esp
+Take A Peek - New Stealth Mechanic.esp
+Listen.esp
+Additional Contracts For the Dark Brotherhood.esp
+Faction Ranks.esp
+CompanionsTweaks.esp
+Tools of Kagrenac.esp
+Nilheim_MiscQuestExpansion.esp
+The Heart Of Dibella - Quest Expansion.esp
+LeapsOfFaith.esp
+SaveTheIcerunner.esp
+Extended Bandit Dialogue.esp
+Vampire Lines Expansion.esp
+Dremora Lines Expansion.esp
+JK's Dragonsreach.esp
+JK's The Bannered Mare.esp
+JK's Belethor's General Goods.esp
+JK's Arcadia's Cauldron.esp
+JKs The Drunken Huntsman.esp
+JK's Warmaiden's.esp
+JK's Sleeping Giant Inn.esp
+JK's The Winking Skeever.esp
+JK's Blue Palace.esp
+JK's Palace of the Kings.esp
+JK's Radiant Raiment.esp
+JK's Angelines Aromatics.esp
+JK's Bits and Pieces.esp
+JK's Candlehearth Hall.esp
+JK's New Gnisis Cornerclub.esp
+JK's Bee and Barb.esp
+JK's Temple of Mara.esp
+JK's Mistveil Keep.esp
+JK's Sadris Used Wares.esp
+JK's White Phial.esp
+JK's Elgrims Elixirs.esp
+JK's The Ragged Flagon.esp
+JK's High Hrothgar.esp
+JK's Arnleif and Sons Trading Company.esp
+JK's Temple of Dibella.esp
+JK's Riverwood Trader.esp
+JK's Understone Keep.esp
+JK's Temple of Kynareth.esp
+JK's The Pawned Prawn.esp
+JK's The Hag's Cure.esp
+JK's Silver-Blood Inn.esp
+JK's Sky Haven Temple.esp
+JK's Haelga's Bunkhouse.esp
+JK's Temple of the Divines.esp
+JK's Jorrvaskr.esp
+JK's Temple of Talos.esp
+JK's Septimus Signus's Outpost.esp
+JK's College of Winterhold.esp
+JK's The Bards College.esp
+JK's Castle Dour.esp
+JK's Sinderion's Field Laboratory.esp
+Northern Bathhouses.esp
+Riften_Bathhouse.esp
+DA_Skyship.esm
+JKs Temple of Dibella - AI Overhaul patch.esp
+HonedMetal.esp
+SergiousTurrianus_HM.esp
+YASTM.esp
+YASTM_GuardDialogueOverhaulPatch.esp
+YASTM_InigoPatch.esp
+YASTM_LucienAnniversaryEditionPatch.esp
+YASTM_MCM.esp
+YASTM_UndeathPatch.esp
+YASTM_VigilantPatch.esp
+Pilgrim.esp
+PilgrimCyrodiilPatch.esp
+PilgrimOdinPatch.esp
+PilgrimOrdinatorPatch.esp
+BountiesRedone_MissivesExtension.esp
+BountiesRedone_Missives_Bruma.esp
+BountiesRedone_Missives_Solstheim.esp
+BountiesRedone_Missives_Wyrmstooth.esp
+Headhunter - Bounties Redone.esp
+Headhunter - Leveled Rewards.esp
+The Whispering Door - Quest Expansion.esp
+The Whispering Door QE - 3DNPC Patch.esp
+The Whispering Door QE - EVGAT Patch.esp
+The Whispering Door QE - More To Say Patch.esp
+The Whispering Door QE - USSEP Patch.esp
+Innocence Lost - Quest Expansion.esp
+Innocence Lost QE - USSEP Patch.esp
+Gourmet.esp
+GourmetTables.esp
+GourmetUSSEP.esp
+CoMAP - Jorrvaskr Marker.esp
+CoMAP - KhajiitCaravans.esp
+CoMAP - Ruin Marker Shadows.esp
+CoMAP - Shrines and Altars.esp
+CoMAP - Stendarr Marker.esp
+CompanionsProgressionRequirements.esp
+VolumeticMists.esp
+VolumeticMistsSolstheim.esp
+CYA_ChooseYourOwnArchMage.esp
+RainExtinguishesFires.esp
+CWRepairs.esp
+CWR_JKTemple_Patch.esp
+RSChildren Patch - BS Bruma.esp
+RSChildren.esp
+RSkyrimChildren.esm
+guardencounters.esp
+moretodo.esp
+moretosaycityguards.esp
+moretosayfalkreath.esp
+moretosaygeneric.esp
+moretosaykarthwasten.esp
+moretosayriften.esp
+moretosayriverwood.esp
+moretosayrorikstead.esp
+moretosayshorsstone.esp
+moretosaywhiterun.esp
+moretosaywinterhold.esp
+mtsfollowerbanter.esp
+priestsgrantblessings.esp
+secretofrorikstead.esp
+ECSS - Book Covers Skyrim Patch.esp
+ECSS - Ruin's Edge Patch.esp
+ECSS - Shadowrend Patch.esp
+ECSS - Staff of Sheogorath Patch.esp
+Skyrim Extended Cut - Saints and Seducers.esp
+Additional Dremora Faces.esp

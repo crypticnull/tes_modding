@@ -94,21 +94,21 @@ ccafdsse001-dwesanctuary.bsa
 _ResourcePack.bsa
 alternate start - live another life - textures.bsa
 alternate start - live another life.bsa
-unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim special edition patch.bsa
+unofficial skyrim special edition patch - textures.bsa
 SkyUI_SE.bsa
 Sacrosanct - Vampires of Skyrim.bsa
 Sacrosanct - Vampires of Skyrim - Textures.bsa
 Ordinator - Perks of Skyrim - Textures.bsa
 Ordinator - Perks of Skyrim.bsa
-Apocalypse - Magic of Skyrim.bsa
 Apocalypse - Magic of Skyrim - Textures.bsa
+Apocalypse - Magic of Skyrim.bsa
 Odin - Skyrim Magic Overhaul - Textures.bsa
 Odin - Skyrim Magic Overhaul.bsa
 Triumvirate - Mage Archetypes - Textures.bsa
 Triumvirate - Mage Archetypes.bsa
-Summermyst - Enchantments of Skyrim - Textures.bsa
 Summermyst - Enchantments of Skyrim.bsa
+Summermyst - Enchantments of Skyrim - Textures.bsa
 Growl - Werebeasts of Skyrim.bsa
 Wintersun - Faiths of Skyrim.bsa
 Wintersun - Faiths of Skyrim - Textures.bsa
@@ -116,19 +116,19 @@ RaceMenu.bsa
 weapons armor clothing & clutter fixes - textures.bsa
 weapons armor clothing & clutter fixes.bsa
 Common Clothes and Armors.bsa
-S3DTrees NextGenerationForests.bsa
 S3DTrees NextGenerationForests - Textures.bsa
+S3DTrees NextGenerationForests.bsa
 SeranaDialogAddon.bsa
 UIExtensions.bsa
 SFO_SkinFeatureOverlays.bsa
 CommunityOverlays1_0T30.bsa
 CommunityOverlays2_31T50.bsa
-Towels - Textures.bsa
 Towels.bsa
+Towels - Textures.bsa
 Footprints.bsa
 MCMHelper.bsa
-unofficial skyrim creation club content patch - Textures.bsa
 unofficial skyrim creation club content patch.bsa
+unofficial skyrim creation club content patch - Textures.bsa
 Guard Dialogue Overhaul.bsa
 Relationship Dialogue Overhaul.bsa
 TheChoiceIsYours.bsa
@@ -149,13 +149,17 @@ SkyHUD.bsa
 HLIORemi.bsa
 HLIORemi - Textures.bsa
 imp_helm_legend.bsa
-Book Covers Skyrim - Textures.bsa
 Book Covers Skyrim.bsa
+Book Covers Skyrim - Textures.bsa
 aMidianBorn_Book of Silence.bsa
 Stormcrown.bsa
 SeasonalWildlifeDistribution.bsa
 Aetherius.bsa
-Turn of the Seasons - Textures.bsa
 Turn of the Seasons.bsa
-Lux - Resources.bsa
+Turn of the Seasons - Textures.bsa
 Lux - Resources - Textures.bsa
+Lux - Resources.bsa
+DustEffectsSSE.bsa
+KittySpellPack02.bsa
+KittySpellPack02 - Textures.bsa
+BladeAndBlunt.bsa

@@ -48,10 +48,15 @@
 *Lux - Master plugin.esm
 *Lux - Resources.esp
 *SexLabAroused.esm
-*DynDOLOD.esm
+*SexLab.ESM
+*Devious Devices - Assets.esm
+*Devious Devices - Integration.esm
 *KittySpellPack02.esl
-*SkyUI_SE.esp
+*Devious Devices - Expansion.esm
+*Devious Devices - Contraptions.esm
+*DynDOLOD.esm
 *HD Lods SSE.esp
+*SkyUI_SE.esp
 *I4IconAddon.esp
 *SMIM-SE-Merged-All.esp
 *Audio Overhaul Skyrim.esp
@@ -105,6 +110,7 @@
 *Animated Immersive Weaps.esp
 *Unique Uniques.esp
 *evgmodularSMPhair.esp
+*BladeAndBlunt.esp
 *Apocalypse - Magic of Skyrim.esp
 *Growl - Werebeasts of Skyrim.esp
 *KSHairdosSMP.esp
@@ -222,6 +228,11 @@
 *OAroused.esp
 *OSLAroused.esp
 *SensualNeedsOstim.esp
+*DynamicBlockHit.esp
+*DustEffectsSSE.esp
+*FEC.esp
+*OSurvival SA Mode NG.esp
+*Devious Devices SE patch.esp
 *Aetherius.esp
 *trade & barter.esp
 *Ordinator - Perks of Skyrim.esp
@@ -259,14 +270,3 @@
 *WACCF_BashedPatchLvlListFix.esp
 *DynDOLOD.esp
 *Occlusion.esp
-*DynamicBlockHit.esp
-*DustEffectsSSE.esp
-*FEC.esp
-*BladeAndBlunt.esp
-*OSurvival SA Mode NG.esp
-*Devious Devices - Assets.esm
-*Devious Devices - Contraptions.esm
-*Devious Devices - Expansion.esm
-*Devious Devices - Integration.esm
-*Devious Devices SE patch.esp
-*SexLab.ESM

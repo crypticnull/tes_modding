@@ -281,7 +281,7 @@
 </style>
 <div class="wrap">
   <header class="top">
-    <div class="eyebrow">Skyrim SE 1.6.1170 &middot; X:\MODDING\SKYRIM &middot; updated 8 Sep 2026, 20:30 ET</div>
+    <div class="eyebrow">Skyrim SE 1.6.1170 &middot; X:\MODDING\SKYRIM &middot; updated 9 Sep 2026, 00:20 ET</div>
     <h1>Skyrim Running Plan</h1>
     <p class="lede">A DLSS 5 neural-rendering test bed grown into a full modlist. Everything intended, deferred, or half-finished, in one place. Items keep their id when they move between sections, so P-2 means the same thing next week. Mirrors <code>tools\PLAN.md</code>, beside <code>WORKING_CONFIG.md</code> for how the stack is configured.</p>
   </header>
@@ -292,7 +292,7 @@
     <div><b>working</b> True 4K borderless, 60 fps cap, Havok clamped</div>
     <div><b>working</b> OBody NG + CBBE 3BA, whole wardrobe morphing</div>
     <div><b>shipped 8 sep</b> Character pass &mdash; skin, eyes, brows, overlays, freckles</div>
-    <div><b>load order</b> 245 enabled mods &middot; 279 plugins, all active</div><div><b>shipped 8 sep pm</b> UI, animation, followers, wardrobe &mdash; 32 mods</div><div><b>verified</b> check_masters, check_order, runtime_check, launch_check &mdash; all clean</div>
+    <div><b>load order</b> 392 enabled mods &middot; 390 plugins &middot; 146 regular of 254, 108 spare</div><div><b>shipped 8 sep pm</b> UI, animation, followers, wardrobe &mdash; 32 mods</div><div><b>shipped 9 sep</b> PBR landscape, Northern Roads back on, BFCO, OBody presets 17 &rarr; 317</div><div><b>shipped 9 sep</b> World layer &mdash; 93 gated mods, worldspaces, cities, flora, bandit camps</div><div><b>swapped 9 sep</b> Alternate Perspective <span class="id">50307</span> replaces Alternate Start</div><div><b>verified</b> check_masters, runtime_check &mdash; clean apart from the stale DynDOLOD</div>
   </div>
 
   <div class="stagewrap">
@@ -530,10 +530,18 @@
   
 <div class="part two"><div class="pk">Part two</div><h2>The chain, and everything after it</h2><p>Nothing here is blocking. The generation sequence itself, what to verify when it finishes, and the work that is free to continue indefinitely afterwards &mdash; wardrobe, adult content, followers, housekeeping. Plus the reference material: pillars, decisions and standing rules.</p></div><h2 id="next">Next</h2>
   <div class="now">
-    <h3>Seasons is the gate now &mdash; it decides how long stage 4 takes</h3>
-    <p><b>1. Seasons patches for the flora mods.</b> Seven installed mods need one or they stay summer forever: S3DTrees, Nature of the Wild Lands, Blubbo aspens, Folkvangr, Alpine Forest, Bent Pines, and <b>Immersive Fallen Trees 8767</b>, which no earlier version of this plan listed. If most lack a patch, raise it before the chain runs &mdash; it may change whether Seasons is worth five terrain generations rather than one.</p>
-    <p><b>2. A wardrobe viewer.</b> Worth building now that aMidianBorn and Gemling Queen have changed what the armour actually looks like. A selector rather than a list of names.</p>
-    <p><b>3. The decisions still held back:</b> a combat moveset overhaul, MCO or BFCO. Alternate Perspective <span class="id">50307</span> as a swap for Alternate Start. RASS <span class="id">22780</span> against the installed CS Wetness Effects.</p>
+    <h3>The gated world layer is in. A LOOT sort is the only thing blocking.</h3>
+    <p><b>0. OPEN QUESTIONS waiting on Matt.</b> Listed here so they stop getting lost in long replies.
+      <b>(a)</b> Seasons patches for the flora mods, the item below, which may decide whether Seasons is worth five terrain generations.
+      <b>(b)</b> Happy Little Trees went in as <i>Pines only</i>, not All Trees, so Skyrim 3D Trees and Plants keeps the broadleaves and the two do not fight. Confirm or flip it.
+      <b>(c)</b> The LoversLab pass needs a signed-in session cookie exported for <code>ips_get.ps1</code>, for SexLab P+, Sexcraft and the slavery and sex-trade content. Nothing there can proceed without it.
+    </p>
+    <p><b>1. Seasons patches for the flora mods.</b> Now larger than it was, because the world pass added Fabled Forests, Happy Little Trees, Cathedral 3D Nightshade, DrJacopo's Dragons Tongue, 3D Clover, 3D Pine Grass, 3D Pine Shrubs and Mari's flora on top of the original seven. Every one stays summer forever without a patch. Seasons cannot be added after the chain.</p>
+    <p><b>2. The tier 2 batch, roughly 71 mods.</b> Free lane by section 4, but each adds a plugin and any plugin change invalidates tree LOD, so they want to land before the chain rather than force a second regeneration. Includes the quest and faction work, the repeatable Dark Brotherhood contracts, and the whole custom skill tree stack: Custom Skills Framework <span class="id">41780</span>, Custom Skills Menu <span class="id">62423</span> which is the only controller-friendly way to reach them, Pyromancy <span class="id">53312</span>, Cryomancy <span class="id">121265</span> and Haemophilia <span class="id">46632</span> for vampirism.</p>
+    <p><b>3. JK's Interiors, 24 mods, all free lane.</b> Interiors have no LOD at all, so this is the largest gap the LoreRim diff found and also the cheapest to defer. Every one sits between 16k and 24k endorsements. See <code>logs\foldin.txt</code>.</p>
+    <p><b>4. Reference lists still to mine.</b> Gate To Sovngarde and LoreRim are done. <b>Nolvus Ascension</b> is not, and has no Nexus collection, but Load Order Library hosts it as plain text at <code>loadorderlibrary.com/lists/nolvus-ascension-v5-redux</code> with an <code>/embed/modlist.txt</code> endpoint. That is folder names rather than mod ids, so it needs name matching. NYA is a player guide rather than a manifest.</p>
+    <p style="margin-top:12px"><b>Dead mod, needs replacing in R-4:</b> Immersive World Encounters <span class="id">18330</span> reports <code>status: hidden, available: false</code>. Extended Encounters <span class="id">44810</span> does the same job, is live, and is now installed.</p>
+    <p><b>Still not verified in game, and now the oldest open item:</b> the overlay work. Six packs are installed and the slot counts raised, but the co-save read on 8 September showed every overlay slot still empty, expected for a save made before the change and untested until a fresh load. RaceMenu's <b>Face Paint</b> category is where to confirm it.</p>
     <p style="margin-top:12px"><b>Still not verified in game, and now the oldest open item:</b> the overlay work. Six packs are installed and the slot counts raised, but the co-save read on 8 September showed every overlay slot still empty &mdash; expected for a save made before the change, and untested until a fresh load. RaceMenu's <b>Face Paint</b> category is where to confirm it.</p>
   </div>
 <div class="phase-h"><h2 id="b"><span class="letter">B</span>Body and wardrobe</h2><span class="sub">B &middot; the pass is done; what is left is small</span></div>

@@ -1,0 +1,104 @@
+FOLD-IN QUEUE - curated from the LoreRim diff, 2026-09-08
+Everything here is absent from build-plan.html AND not installed.
+Tier is CLAUDE.md section 4. GATED must land before the generation chain.
+
+=====================================================================
+REJECTED - collides with a pick the plan already made
+=====================================================================
+  40088  Cities of the North - Winterhold     plan has Great City Winterhold 17127
+  19709  The Great City Of Falkreath          plan has COTN Falkreath 56731
+  19491  The Great City Of Dawnstar           plan has COTN Dawnstar 28952
+  19592  The Great City Of Morthal            plan has COTN Morthal 34168
+  26270  Blended Roads Redone SE 8K           fights Northern Roads, which paints roads as texture
+
+=====================================================================
+1-GATED  world density - "pockets of content everywhere"
+=====================================================================
+  -- encounters and populated world --
+   12849  44810   Extended Encounters                 more random encounter types
+   10261  26788   Missives - Worldspace Additions     pairs with Missives 17576 already planned
+    5686  91290   Hand placed enemies - Light         populated spawns and dungeons
+    3722  113660  Unmarked Locations Pack - AIO       small hand-made places to find
+     423  169188  Unmarked Locations - Wyrmstooth     addon, only if Wyrmstooth goes in
+
+  -- bandit camps and outposts, hand-made --
+    3607  73907   Ryn's Halted Stream Camp
+    1905  113558  WiZkiD Hunter's Camp Overhaul
+     925  74824   Embershard              Ryn's dungeon-entrance series
+     909  80226   Redoran's Retreat
+     783  82794   White River Watch
+     747  83869   Brittleshin
+     677  83152   Graywinter
+
+  -- towns the plan does not cover at all --
+   20848  2013    JK's Riverwood
+   10292  33032   The Great Town of Karthwasten
+    9630  34505   The Great Town of Ivarstead
+    9629  35977   The Great Town of Shor's Stone
+    7351  150246  Orc Strongholds - All In One
+    6647  19962   The Great City of Dragon Bridge
+    6394  40021   Riften Docks Overhaul
+    5000  104373  The Great Cities - Resources        required by the Great series
+    3731  53733   Skaal Village Overhaul
+    3590  141070  JK's Raven Rock
+
+  -- Environs addons. Plan has the master plugin 91160 but none of the addons --
+    4647  72981   Environs - The Ruined Tundra Farmhouse
+    4161  78477   Environs - Kolskeggr
+    3964  73732   Environs - The Greenwood Shack
+    3963  88024   Environs - Riften Warehouse
+    3952  83457   Environs - Hroggar's House
+
+  -- flora and environment the plan missed --
+   19277  50961   Happy Little Trees        THE BASE MOD. Plan lists only add-on 56907
+   19816  29243   Storm Lightning
+   11704  6092    Waterplants
+   10624  21436   Morning Fogs
+    8973  87261   Natural Waterfalls
+    8119  81284   DrJacopo's 3D Nightshade
+    7937  85694   DrJacopo's 3D Dragons Tongue
+    7750  88161   Rainbows Remade
+    6635  71126   GKB Waves Reborn          newer than plan's GKB Waves 19077, pick one
+    8250  64969   Ryn's Standing Stones
+
+=====================================================================
+2-PLUGIN  quests and factions. Free lane by section 4, but each adds a
+plugin and any plugin change invalidates tree LOD, so batch before the chain
+=====================================================================
+  -- repeatable and radiant faction work, which is what was actually asked for --
+    1641  59659   Listen - Dark Brotherhood Radiant Quests
+     488  59211   Additional Contracts for the Dark Brotherhood
+     367  170776  Faction Ranks
+    8741  22300   Improved Companions - Questline Tweaks
+    3378  30887   Choose Your Own Arch-Mage
+     657  78308   Customizable Companions Questline Progression Requirements
+
+  -- quests the plan never listed --
+   20771  11894   VIGILANT English Translation   REQUIRED by VIGILANT 11849, plan omits it
+   11328  14168   The Tools of Kagrenac
+    8640  53792   Nilheim - Misc Quest Expansion
+    7979  94863   The Heart of Dibella - Quest Expansion
+    6253  53074   Leaps of Faith
+    6074  34681   Save the Icerunner
+
+  -- world reactivity --
+    7172  91403   World Encounter Hostility Fix
+   14906  20668   After the Civil War - Siege Damage Repairs
+
+=====================================================================
+3-FREE  safe after the chain
+=====================================================================
+   The whole JK's Interiors series, 20+ mods, 16k-24k endorsements each,
+   interior-only so no LOD at all. Dragonsreach 34000, Bannered Mare 33845,
+   Belethor's 33636, Arcadia's 33565, Drunken Huntsman 33783, Warmaiden's
+   33685, Winking Skeever 43991, Blue Palace 45324, Palace of the Kings
+   48902, Radiant Raiment 44858, Angeline's 44482, Bits and Pieces 44642,
+   Candlehearth 45617, New Gnisis 48293, Bee and Barb 49516, Temple of Mara
+   52724, Mistveil Keep 52462, Sadri's 47942, White Phial 47713, Elgrim's
+   49934, Ragged Flagon 50765, High Hrothgar 62219, Arnleif and Sons 54166,
+   Septimus Signus's Outpost 66915.
+
+    3288  113168  Extended Bandit Dialogue
+   11988  83484   Vampire Lines Expansion
+    5331  100562  Dremora Lines Expansion
+   10465  22622   More to Say

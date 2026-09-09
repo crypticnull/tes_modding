@@ -1,0 +1,750 @@
+SWEEP - LoreRim mods this plan never references, by tier then endorsements
+2026-09-08 23:38
+
+Tier is by LoreRim category mapped onto CLAUDE.md section 4.
+4-SKIP is Models and Textures, Patches, Utilities and Modders Resources -
+retextures and patches for mods we do not run. Listed last, mostly noise.
+
+======================================================================
+1-GATED   55 mod(s) at 3000+ endorsements
+======================================================================
+
+  -- Cities, Towns, Villages, and Hamlets --
+       20848  2013     JK's Riverwood
+       10292  33032    The Great Town of Karthwasten SSE
+        9804  40088    Cities of the North - Winterhold
+        9630  34505    The Great Town of Ivarstead SSE
+        9629  35977    The Great Town of Shor's Stone SSE
+        7351  150246   Orc Strongholds - All In One
+        6647  19962    The Great City of Dragon Bridge SSE Edition
+        6394  40021    Riften Docks Overhaul
+        6314  19709    The Great City Of Falkreath SSE Edition
+        5678  19491    The Great City Of Dawnstar SSE Edition
+        5445  19592    The Great City Of Morthal SSE Edition
+        5000  104373   The Great Cities- Resources
+        4161  78477    Environs - Kolskeggr
+        3731  53733    Skaal Village Overhaul
+        3590  141070   JK's Raven Rock
+
+  -- Environmental --
+       19816  29243    Storm Lightning for SSE and VR (Minty Lightning 2019)
+       19277  50961    Happy Little Trees
+       11704  6092     Waterplants
+       10624  21436    Morning Fogs SSE
+       10396  13749    Volcanic Tundra - Heat Wave Effects
+       10269  26270    Blended Roads Redone SE - 8K
+        8973  87261    Natural Waterfalls
+        8119  81284    DrJacopo's - 3D Nightshade
+        8078  93944    Skoglendi - A Grass Mod
+        7937  85694    DrJacopo's - 3D Dragons Tongue
+        7750  88161    Rainbows Remade
+        7417  67304    Complex Grass - The official Patch Compendium
+        7143  4298     Interior Floating Fog Remover
+        6635  71126    GKB Waves Reborn
+        6475  24108    ENB Particle Lights - Dwemer Lanterns
+        6281  41368    Shadows Of Sunlight - In Small Exterior World Spaces
+        5417  78809    Daedric Shrines - All in One by Xtudo - Wintersun Lakeview Teldryn Cure Wyrmstooth Antennaria Evil Aemer Thieves Helgen Death Cut Content Moon Leaf Rest Talos
+        5197  60762    Stones of Solitude - Better Blended Rock Piles
+        4476  42746    Better Windhelm Ground Meshes - With Parallax Support
+        4381  90634    Animated Ice Floes
+        4062  78703    Mists of Tamriel
+        4050  125349   Freak's Floral Fields - A  Cathedral Grass Overhaul
+        3804  71562    Complementary Grass Fixes
+        3508  73735    Statue of Sithis
+        3266  111461   TMD The Rift Leaves
+
+  -- Items and Objects - World --
+       10044  22814    Rudy HQ - More Lights for ENB SE - Deathbells and Nirnroots
+       10026  22819    Rudy HQ - More Lights for ENB SE - Torchbugs and Moths
+        8573  22703    Rudy HQ - More Lights for ENB SE - Bthardamz
+        6841  40991    Rudy HQ - More Lights for ENB SE - Glowing Mushrooms
+        4627  46612    Retexture for The Scroll SE
+        3769  22706    Rudy HQ - More Lights for ENB SE - Arrows
+
+  -- Locations -  New --
+        3722  113660   Unmarked Locations Pack - All In One
+
+  -- Locations - Vanilla --
+        6528  52239    Labyrinthian Shalidor's Maze Fixes
+        4647  72981    Environs - The Ruined Tundra Farmhouse
+        4548  76261    Environs - Whiterun Watchtower Doesn't Stay Broken
+        4300  29695    Solitude and Temple Frescoes 2019
+        3964  73732    Environs - The Greenwood Shack
+        3963  88024    Environs - Riften Warehouse
+        3952  83457    Environs - Hroggar's House
+        3614  64018    GG's Thieves Guild Headquarters
+
+======================================================================
+2-PLUGIN   194 mod(s) at 3000+ endorsements
+======================================================================
+
+  -- Alchemy --
+        5582  84909    Recipe Auto-Learn
+
+  -- Bug Fixes --
+       25871  54907    eFPS - Exterior FPS boost
+       24969  91616    SMP-NPC crash fix
+       21744  21027    Unofficial Material Fix
+       19889  32561    Fix Note Icon for SkyUI (SKSE64 plugin)
+       19755  20061    SSE CreationKit Fixes
+       14477  49616    Unofficial Skyrim Modder's Patch - USMP SE
+       14408  60363    XPMSSE - Nemesis - Papyrus Stack Fix
+       12895  77173    Barter Limit Fix
+       12749  111475   Lightened Skyrim - Base Object Swapper edition
+       11176  43936    Better Combat Escape - SSE
+       10871  110604   Sky Reflection Fix for ENB
+        8856  27298    Hearthfires Houses Building Fix
+        8468  39260    Dlizzio's Mesh Fixes
+        8270  58727    eFPS - Anniversary Edition
+        8100  53653    Fixed Mesh Lighting
+        7731  79297    Carriages and Stables Dialogue Bundle
+        7594  92948    Media Keys Fix SKSE
+        7513  94070    Brawl Lines Expansion and Fixes
+        7435  78267    Animals Swim (Sort of)
+        7294  152344   Death Idle Fix
+        7294  95489    NPC Stuck in Bleedout fix
+        7172  91403    World Encounter Hostility Fix
+        7078  85260    Native EditorID Fix
+        7078  69331    Animated Static Reload Fix - NG
+        6949  95989    Zero Bounty Hostility Fix - Now as a unnecessary SKSE plugin
+        6925  122999   Ultimate Optimized Scripts Compilation
+        6570  77834    Aurora Fix
+        6435  93271    Assorted Animation Fixes
+        6428  71371    Creation Kit Platform Extended for Skyrim
+        6247  89042    Comprehensive Attack Rate Patch - SKSE
+        6059  53817    College of Winterhold Quest Start Fixes
+        6041  90734    RemoveAllItems Freeze Fix
+        5902  71567    Sound Fix for Large Sector Drives
+        5687  53643    High Gate Ruins Puzzle Reset Fix
+        5674  29434    Butterflies Land True
+        5504  65849    King Olaf's Fire Festival Not Ending Fix
+        5328  66411    ENB Light Inventory Fix (ELIF)
+        5144  72901    Better Combat Escape - NG
+        4917  96531    Stuck on Screen Load Door Prompt Fix
+        4877  129136   LeveledList Crash Fix
+        4851  39704    Armor Mesh Fixes SE
+        4587  64016    Neloth's Experimental Subject Quest (DLC2TTR4a) Fix
+        4543  141745   Critter Master - Script Call Reduction
+        4484  64108    Myrwatch - Editable Home Cells (Cell Bug Workaround)
+        4483  148466   Alt-Tab Stuck Key Fix
+        4093  94490    Camera Persistence Fixes
+        4012  94428    Simplicity of Seeding - Better Hearthfires and Farming CC Planter Scripts
+        3916  80232    Beard Mask Fix - Beards Use Slot 44 SKSE Plugin
+        3894  172844   Lingering Subtitles Fix
+        3820  69026    Unaggressive Dragon Priests Fix
+        3803  80676    Magic Student (WIChangeLocation04) Quest Fix
+        3477  110459   Combat Music Fix NG Updated
+        3418  132110   Horse Save Load Fix
+        3201  96387    Buy and Sell Torches - Bug Fix
+        3187  58742    Stamina of Steeds
+        3175  95740    DPI Scaling Fix
+        3166  103052   DALC Fix KreatE Preset
+        3159  69323    DynDOLOD TexGen Fixes (Beyond Reach-Gray Cowl-Summerset Isle-Extended Cut-ELFX)
+        3145  74759    Universal Cured Serana Eye Fix
+        3143  100295   FYX - Nordic Doors and Traps Collisions
+        3127  140041   ENB Terrain Blending Fix
+
+  -- Collectables, Treasure Hunts, and Puzzles --
+        5967  46930    Additional Hearthfire Dolls
+
+  -- Combat --
+       76067  668      VioLens - A Killmove Mod SE
+       10845  126203   Dismembering Framework [A]
+        9397  89308    Bow Rapid Combo V3 - Archer Combat Overhaul
+        8809  86352    Hot Key Skill
+        8621  135254   Next-Gen Decapitations [A]
+        7749  86950    Combat Pathing Revolution
+        5859  126328   DF - Official Creature Asset Pack [A]
+        4755  164095   (U1PC) Unlocked 1st Person Combat
+        3744  59124    Bow Charge Plus
+        3636  66155    Stop On Slash AE - Hitstop and Screenshake
+        3255  83274    Cult of the World Eater - Dragon Priests Buff Alduin
+        3076  146965   Combat Pathing Revolution AE
+
+  -- Gameplay --
+       11942  50357    Skyrim's Got Talent - Improve As a Bard
+       11620  60878    One Click Power Attack NG
+       11271  78244    Survival Mode Improved - SKSE
+       10673  1525     Combat Evolved
+        9800  42997    Essential Favorites
+        8441  51439    C.O.I.N. - Coins of Interesting Nature
+        8433  61950    Enhanced Invisibility
+        8042  2656     Faster Mining Plus SE
+        7524  100515   No Furniture Camera
+        7165  66125    NPCs Wear Amulets of Mara PLUS
+        5801  42408    Sacrilege - Minimalistic Vampires of Skyrim
+        5603  95943    Simple Hunting Overhaul
+        5390  5990     Ask Innkeepers To Show Room SE
+        5260  106358   Precision - Enchanted Weapon Trails
+        5245  72023    Taunt Your Enemies - Taunting Matters
+        4878  140633   Legendary Enemies
+        4852  63259    Swiftly Order Squad - Follower Commands UI
+        4558  47277    Sun Affects NPC Vampires
+        4446  95269    Switch Camera During Dialogue
+        4005  89676    Remote Interactions
+        3854  97490    JaySerpa's Small Mods and Resources (Mostly for GTS)
+        3807  70644    C.O.I.N. - Merchant Exchange
+        3786  46023    Vampire Lords Can Fly (With Collision)
+        3683  71691    No Crime Teleport RE
+        3578  47225    Vampire Feeding Tweaks
+        3346  48974    Simple Outfit System
+        3180  24859    Perseids Inns and Taverns - Realistic Room Rental Enhanced
+        3151  169335   HorsePower - Modernized Horse Riding (Total Riding Overhaul)
+        3001  120460   Grab And Throw
+
+  -- Guilds/Factions --
+        8741  22300    Improved Companions - Questline Tweaks
+        4063  93592    Companions Dialogue Bundle
+        3378  30887    Choose Your Own Arch-Mage
+
+  -- Immersion --
+       16096  72115    Splashes of Storms
+       14906  20668    After the Civil War - Siege Damage Repairs
+       14376  73336    Moons and Stars - Sky Overhaul SKSE
+       12849  44810    Extended Encounters
+       12587  47710    Splashes Of Skyrim
+       11988  83484    Vampire Lines Expansion
+       11937  75481    Use Those Blankets
+       10465  22622    More to Say
+        9429  68210    Improved Alternate Conversation Camera
+        8250  64969    Ryn's Standing Stones
+        7681  71418    Wade In Water Redone
+        6766  83044    Wait Carriage in Inns - Fast Travel Improvement
+        6742  81665    CC Bittercup - Tweaks and Enhancements (BitTE)
+        6300  154085   Handcarts - Base Object Swapper
+        6134  72985    Rudy fix for Splashes of Storms and ENB
+        5608  149031   Festival Rings - Animated
+        5602  21713    Player Eyes Blink Fix
+        5515  103473   Catch of the Day - Fish Hang in Inns too - Base Object Swapper.
+        5486  98142    Diverse Archery Targets - Base Object Swapper
+        5331  100562   Dremora Lines Expansion
+        5298  89103    Rudy HQ - More dramatic Red Mountain Volcano Plume
+        5247  168432   Immersive Dialogue Expansion - Thalmor
+        4956  120995   Falmer Servant Lines Expansion
+        4752  85647    Ryn's Dragon Mounds Collection
+        4728  75237    Sharpen Other Swords II - AnimObject Swapper
+        4680  106523   Extended Guard Dialogue
+        4612  74785    Ryn's Saarthal
+        4601  74565    Locked Chests Have Keys
+        4593  58927    Simple Block Sparks- Script Free
+        4345  55051    Afterlife - Resurrected
+        4091  133266   Chatty NPCs and Followers
+        4068  76385    Ryn's Snazzy Last Vigil - An Ebony Warrior Overhaul
+        4030  78495    Rudy fix for Smoke
+        4012  62360    Immersive Equipment Displays (IED) - Mura Presets
+        3971  77059    Ryn's Karthspire
+        3948  60915    Fish Anywhere With Water
+        3899  46826    Slayable Offspring SKSE [A]
+        3852  42090    Immersive Speech Dialogues
+        3851  101823   Press E to Heal Followers
+        3826  85141    Environs - The Shrines of Talos
+        3690  72926    Ryn's Goldenglow Estate
+        3607  73907    Ryn's Halted Stream Camp
+        3465  67770    Missile's IED Preset - Immersive Equipment Displays
+        3435  52128    Weapon Animation (Dawnbreaker)
+        3398  113255   Take a Nap - Sleep on Chairs
+        3391  100617   Helmet Toggle 2
+        3345  62628    Carry Your Carcasses
+        3296  78195    Random Barrel Roll - Base Object Swapper
+        3289  64326    Ryn's Robber's Gorge
+        3288  113168   Extended Bandit Dialogue
+        3252  56196    Store Entrance Doorbells
+        3209  75056    Ryn's Anise's Cabin
+        3205  73141    Ryn's Bleakwind Basin
+        3160  72659    Ryn's Bleak Falls Tower
+        3052  72604    Ryn's Crabber's Shanty and Titanclaw Lair
+        3047  71485    Ryn's Alchemist's Shack
+        3043  69029    CC Farming - Tweaks Enhancements and Quest Expansion
+        3026  65148    IED - Weapons Repositioner
+
+  -- Magic - Gameplay --
+        4128  59350    Use Telekinesis on Traps
+
+  -- Overhauls --
+       25605  8379     Carriage and Ferry Travel Overhaul (Formerly Complete Fast Travel Overhaul)
+       10123  151590   Death Drop Overhaul
+        4888  60888    Requiem - The Roleplaying Overhaul
+        4886  116722   Lux via - Patch Hub
+        4111  70213    Markarth Outskirts
+        3860  35546    City Trees
+
+  -- Quests and Adventures --
+       20771  11894    VIGILANT - English Translation (Plus Voiced Addon)
+       11328  14168    The Tools of Kagrenac
+        8640  53792    Nilheim - Misc Quest Expansion
+        7979  94863    The Heart of Dibella - Quest Expansion
+        6718  80307    Extended Cut - Saints and Seducers 4K - Cleaned and Upscaled Textures
+        6253  53074    Leaps of Faith - A Misc Quest
+        6074  34681    Save the Icerunner - Lights Out Alternate Routes
+        5555  114054   Infiltration - Quest Expansion
+        5349  67930    Immersive Rejections
+        5115  92381    Belethor's Sister - Quest
+        5052  118229   Destroy The Dark Brotherhood - Quest Expansion
+        5000  6581     Less Tedious Thieves Guild
+        4657  110116   Face Sculptor Expanded
+        4377  19550    Finding Derkeethus
+        3846  34028    Thugs Not Assassins
+        3833  96865    Alternate Perspective - Voiced Addon
+        3700  21916    A Lovely Letter Alternate Routes
+        3686  19815    Finding Velehk Sain
+        3200  86625    Defeat the Dragon Cult
+
+  -- Skills and Leveling --
+       27021  17751    Experience
+
+  -- Stealth --
+        4087  62546    Dynamic Weather and Time Based Detection (SE and AE compatible)
+        3183  38762    Suspicious City Guards
+
+======================================================================
+3-FREE   418 mod(s) at 3000+ endorsements
+======================================================================
+
+  -- Animation --
+       81420  60033    Project New Reign - Nemesis Unlimited Behavior Engine
+       48908  15309    TK Dodge SE
+       22299  45799    Smooth Magic Casting Animation
+       20100  44252    XP32 Maximum Skeleton Special Extended - Fixed Scripts
+       18444  64420    Gesture Animation Remix (OAR)
+       16749  54351    Vanargand Animations - Sneak idle walk and run
+       16037  56956    TK Dodge RE - Script Free
+       15908  51507    Conditional Armor Type Animations
+       15670  63471    NPC Animation Remix (OAR)
+       14522  78106    Disable Turn Animation NG
+       13442  46714    Super Fast Get Up Animation
+       13099  54193    Take a Seat - New Sitting Animations for OAR or DAR
+       12684  66286    Vanargand Animations - Crossbows
+       12575  74887    Precision Creatures
+       12377  85085    Weapon Styles - Draw-Sheathe animations for IED
+       12043  55031    Vanargand Animations - Sneak Thrust Attacks
+       11526  67557    Lively Children Animations (OAR)
+       11339  71110    Goetia Animations - Enchanted Magic Staves
+       11178  73293    Dynamic Animation Casting - NG
+       11113  55420    Vanargand Animations - Sneak Strike Attacks
+       10743  32625    Stronger Swimming Animations SE
+       10660  72966    ADXP l MCO  Nordic Animation Complete Pack
+       10596  89048    Dynamic Bow Animation
+       10508  64216    Vanargand Animations - Dual Wield Sneak Strikes
+       10472  69609    Flute Animation Fix
+       10435  76388    Goetia Animations - Conditional Shouts
+       10432  62849    Arm Movement Animations (OAR)
+       10321  75482    Goetia Animations - Sneak Magic
+       10199  77025    Dynamic Random Spell Idle
+        9661  81463    Leviathan Animations II - Male Idle Walk And Run
+        9655  82603    Leviathan Animations II - Sprint
+        9531  80760    Leviathan Animations II - Female Idle Walk And Run
+        9513  69409    Goetia Animations - Sprint
+        9406  64577    Vanargand Animations - Dual Wield Sneak Thrusts
+        8995  72220    ADXP I MCO elden rim moveset collection  (SCAR)
+        8838  63029    Conditional tavern cheering (OAR)
+        8777  114753   EVG CLAMBER - Slope Animations
+        8394  100000   Vanargand Animations II - Female Idle Walk And Run
+        8379  53256    Skyrim's Paraglider
+        8372  74503    ADXP I MCO I BFCO ER Katana (SCAR)
+        8358  82737    IFrame Generator RE AE Support
+        7925  70531    Smooth Moveset - DAR
+        7871  76733    Animated Whistling
+        7224  84160    Improved Table Sit Transition Animations
+        6759  74808    ADXP I MCO I BFCO ER rapiers (SCAR)
+        6377  101688   Vanargand Animations II - Sprint
+        6267  99999    Vanargand Animations II - Male Idle Walk And Run
+        6267  82774    Optimised Scripts for XPMSSE
+        6020  42550    Flinching - Script Free Edition
+        5555  103440   Simple Fishing Overhaul - Animations and Improved Quest Dialogue
+        5305  95561    Dynamic Sprint
+        5193  112165   Elden RIM x DS3 Mashup I Dual wield katana moveset (MCO I SCAR I BFCO)
+        5188  105376   Vanargand Animations II - Unarmed Non Combat Locomotion
+        5170  34552    Feral - Claw Unarmed Attacks for Beast Races - Vampires - Werewolves
+        5112  112387   Elden RIM I Unarmed claws moveset for beast races (MCO I SCAR)
+        4930  122568   Elden Stingers I Dual Rapier Moveset Mashup (MCO I SCAR I BFCO)
+        4818  97674    Ultimate Animated Potions NG
+        4740  109684   Vanargand Animations II - Unarmed Pugilism Stance
+        4727  70595    Lively cart driver animation replacer or OAR
+        4565  151478   For Honor in Skyrim
+        4499  40484    Stances - Dynamic Animation Sets
+        4310  69736    SpellSword Moveset
+        4158  123129   First Person Interactions
+        3924  25146    Skyrim Spear Mechanic SE
+        3792  149713   Smooth Moveset - OAR
+        3757  62491    non-combat sneak idle
+        3701  15254    Faster Transform - To Werewolf and VampireLord
+        3694  147478   Draw Fix - Move Equip Animation Fix
+        3619  50694    Undeath - XPMSSE - Strange Runes - Skeleton Patch
+        3565  83317    New Creature Animation - Giant
+        3563  79958    Look Around - Searching Animations For NPCs
+        3542  114547   Dynamic Looting and Harvesting Animations
+        3470  72787    Smooth Random idle Animation
+        3442  53757    True Directional Movement - Tail Animation Fix
+        3438  120078   Left Hand Equipment Overhaul
+        3430  59737    Vanargand Animations - Mace Moveset MCO - SkySA
+        3407  68177    Unique Animations Reworked
+        3315  94715    Leviathan Animations II - Greatsword MCO Moveset
+        3310  83572    New Creature Animation - Falmer
+        3309  96970    Stand still in RaceMenu (OAR)
+        3289  71123    Skyrim's Paraglider Anniversary Edition Update
+        3282  123113   DCA - Dragon Combat Animations
+        3204  117983   Immersive Interactions - Eating ingredients and apply poison animations
+        3177  100366   Weapon switch animation Fix
+        3130  116422   Dynamic Crafting Animations
+        3092  96961    Immersive Hunting Animations
+        3024  68289    Random Prayer Animation
+        3003  84026    New Creature Animation - Troll
+
+  -- Armour --
+       11060  62752    Armors of the Velothi Pt. I
+       11018  30468    New Legion
+       10617  57539    Dark Brotherhood Armor SE
+       10140  75891    Immersive Armors Retexture and Mesh Fixes SE
+        9164  79894    Colovian Prince Set
+        8704  75349    Lunar Guard Armor
+        8547  51610    3BA Vanilla Clothes and Armor [A]
+        8521  79226    Kvetchi Mercenary Set
+        8238  98671    Vampire Armor Expansion
+        8238  99201    The Hinterland Ranger - HDT-SMP
+        7536  122550   The Southbound Scouts - HDT-SMP
+        7369  136837   Lifesworn Vestiges -- Champion of Arkay armor (optional SMP)
+        7248  129638   Savior's Hide Replacer
+        6784  120576   Rihad Swordsman Set
+        6705  109638   Elven Enforcer Armor
+        6693  105659   Illusive Infiltrator Armor
+        6655  109000   Eastern Brassplate Set
+        6645  126178   Pig Iron Set
+        6599  91506    Maormer Seascale Set
+        6405  114751   Crown Plate Set
+        6368  118327   Travelling Priest Robes - Vanilla HIMBO CBBE -
+        6281  110812   Colovian Prince Set - My patches and tweaks SE by Xtudo - Vanilla Steel Armor replacer
+        6157  106305   Fur-lined Steel Armor
+        6150  111224   Bone Cultist Armor
+        6006  83171    Kvetchi Mercenary Armour 3BA with HDT-SMP Cloth Physics
+        6002  110632   Kvetchi Mercenary Set - My patches and tweaks SE by Xtudo - Vanilla Iron Armor replacer
+        5872  115860   HDT-SMP Elmlock Armor Patch (CBBE - HIMBO)
+        5838  109635   Eastern Brassplate Set - My Patches SE by Xtudo
+        5795  81043    Dwemer Armor SE
+        5768  84230    3BA Colovian Prince
+        5767  36151    Realistic Armor
+        5748  91576    Maormer Seascale Set - My Patches SE by Xtudo
+        5650  133353   Armors of the Velothi Pt. I - 3BA and Himbo V5 Refits
+        5644  69996    Armors of the Velothi Pt. II
+        5632  116279   Gryphonknight Regalia 3BA HDT-SMP
+        5578  82495    Moon Monk's Robes
+        5361  138514   Sorcerer Outfits Bodyslide Conversions BHUNP 3BA HIMBO
+        5284  79753    Dremora Markynaz Armor SE
+        5230  142450   HDT-SMP Vanilla Armors
+        5127  154997   Lifesworn Vestiges - 3BA patch
+        5045  84280    Mythic Dawn armor SE
+        4970  66673    Forsworn Fashions- More Variety for forsworn (Armor Pack- BHUNP CBBE 3BA and HIMBO) [A]
+        4531  58661    Daedric Armor SE
+        3981  13236    SPOA Silver Knight Armor SE
+        3964  1975     Digitigrade Beast Races for Skyrim SE
+        3925  112454   Ysmir Armor SE
+        3503  60764    Masque of Clavicus Vile
+        3115  81046    Dwemer Armor SE - My patches and fixes by Xtudo - Forgotten City Dwarven Armor Ancient Metal Alternative Mail Plate Colosseum
+        3036  57553    Dark Brotherhood Armor SE - CBBE 3BA - BHUNP conversion - UNIBOOB
+        3031  34585    NordWarUA's Race Armor Expansion
+
+  -- Audio --
+      100745  523      Immersive Sounds - Compendium
+       25317  18115    Unofficial High Definition Audio Project
+       18084  36761    Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)
+       14174  47202    BA Bard Songs
+       10245  848      IHSS - Improved Horse Step Sounds
+        8633  77947    Reverb Interior Sounds Expansion (SRD - Rain Thunder Ambience - Fixes)
+        8494  14352    Thundering Shouts
+        8172  21578    Yggdrasil Music and SoundFX Overhaul SE
+        7448  37792    Chapter II - Jeremy Soule Inspired Music
+        6870  77829    Regional Sounds Expansion (SRD - Wilds Dungeons Towns Ambience Birds - Fixes)
+        5266  55221    Phoenix Compendium
+        4751  39011    Nyghtfall - Dark Fantasy Music
+        4532  115096   LORKHAN - Soundtrack Replacer
+        4367  112008   Wildwood Echoes
+        4035  44656    Thunder Sounds - WiZkiD Mix -
+        3989  111766   Murder of Songbirds
+        3750  112370   Nordic Winds
+        3210  112114   Blackreach Eerie Ambience
+        3012  127561   The Sounds of Towns and Cities
+
+  -- Body, Face, and Hair --
+      145226  6817     KS Hairdos SSE
+       59600  35785    Expressive Facegen Morphs SE
+       20572  41863    High Poly Vanilla Hair
+       18030  35339    Community Overlay 3 (51- 70) Bodypaints Warpaints and Tattoos [A]
+       17690  38480    BeastHHBB - Khajiit and Argonian content - player character and NPC replacer - Adoptable Children - Interesting npcs - Fangs
+       16026  40595    Kalilies Brows
+       12277  64497    Koralina's Eyebrows for High Poly Head
+       11563  24482    Vanilla Makeup HD - HD Racial Colors and Makeup for all Races and Genders - SE
+       11444  42635    Beards of Power
+       11307  20751    Vanilla Warpaints Absolution - HD 2K and 4K Vanilla Warpaints - Every Warpaint Adjusted For Every Race and Gender - Special Edition
+       10866  70263    The Eyes of Beauty - Ai Remastered
+       10237  13630    Kyoe's Bang'n Brows
+       10162  45147    Vanilla hair - Salt and Wind
+        9451  87305    Even More Brows - HPH - COtR
+        9089  63024    Koralina's Makeup Tweaks - 4k 2k
+        8503  18147    SUEMR SSE with Bijin AIO 2019 Support
+        8210  91811    HDT SMP fluffy beast race tail replacer [A]
+        7762  26881    Maevan2's Eye Brows SE
+        7661  49845    Lamenthia's Marks of Beauty
+        7528  105109   Obi's Tattoos 3BA UNP 4K [A]
+        6497  44975    KS Hairdos 1.7 Salt and Wind
+        6259  25753    Eyes AO Clipping Fix
+        6192  31826    Barbarian Bodypaints - Racemenu Body and Head Overlays for UUNP CBBE and Males [A]
+        6169  16097    Bijin Family Bodyslides - CBBE and UUNP SE [A]
+        5812  113414   HDT SMP Fluffy Beast Race Tail Replacer Tweaks [A]
+        5278  76567    BnP - Eye Pack
+        4934  63777    Brows by Hvergelmir for High Poly Head - COTR - UBE
+        4740  64259    Valkyr HDT-SMP Hairstyles 02
+        4381  20446    Beast Race Bodypaints SE -Khajiit and Argonian Themed Bodypaints Facepaints RaceMenu Overlays-
+        4221  26173    Cuyi's Bosmeri Antlers - SSE
+        4095  71067    CoverKhajiits - Face Textures 4K SE
+        4067  56437    RaceMenu Undress [A]
+        3938  80568    Better Argonian Horns
+        3580  57115    Kalilies Brows for High Poly Head - COTR - UBE
+        3526  35411    Lamae's Gaze - vampire eyes
+        3524  40477    ESL High Poly Pretty Face Brows Stand Alone
+        3155  70905    SG Female Eyebrows for High Poly Head
+        3124  65920    Beards by Hvergelmir for High Poly Head
+
+  -- Buildings --
+       23696  34000    JK's Dragonsreach
+       23343  33845    JK's The Bannered Mare.
+       21543  33636    JK's Belethor's General Goods.
+       21374  33565    JK's Arcadia's Cauldron
+       21196  33783    JK's The Drunken Huntsman.
+       21161  33685    JK's Warmaiden's
+       19923  43991    JK's The Winking Skeever
+       19667  45324    JK's Blue Palace
+       19207  48902    JK's Palace of the Kings
+       18988  44858    JK's Radiant Raiment
+       18821  44482    JK's Angeline's Aromatics
+       18802  44642    JK's Bits and Pieces
+       18766  45617    JK's Candlehearth Hall
+       18170  48293    JK's New Gnisis Cornerclub
+       17906  49516    JK's The Bee and Barb
+       17895  52724    JK's The Temple of Mara
+       17337  52462    JK's Mistveil Keep
+       17265  47942    JK's Sadri's Used Wares
+       17002  47713    JK's White Phial
+       16997  49934    JK's Elgrim's Elixirs
+       16903  50765    JK's The Ragged Flagon
+       16519  62219    JK's High Hrothgar
+       16508  54166    JK's Arnleif and Sons Trading Company
+       16476  56371    JK's Temple of Dibella
+       16401  55571    JK's Understone Keep
+       16324  56737    JK's Temple of Kynareth
+       16218  50135    JK's The Pawned Prawn
+       15832  54587    JK's The Hag's Cure
+       15758  53554    JK's Silver-Blood Inn
+       15616  63039    JK's Sky Haven Temple
+       15261  60085    JK's Haelga's Bunkhouse
+       15240  57304    JK's Temple of the Divines
+       15157  60738    JK's Jorrvaskr
+       15094  56971    JK's Temple of Talos
+       11907  66915    JK's Septimus Signus's Outpost
+       11654  65676    JK's College of Winterhold
+       11646  71054    JK's The Bards College
+       11234  74309    JK's Castle Dour
+       10808  68154    JK's Sinderion's Field Laboratory
+        9649  49346    Stendarr Rising - The Hall of the Vigilant Rebuild
+        6777  110645   JK's Fort Dawnguard
+        5983  116314   JK's Castle Volkihar
+        5206  121950   JK's Dark Brotherhood Sanctuaries
+        4222  128116   JK's Nightingale Hall
+
+  -- Clothing and Accessories --
+       35770  19002    Armor and Clothing Extension
+        8435  134088   Common Clothing Expansion
+        8296  97185    Vampire Clothing Expansion
+        7606  8354     Prince and The Pauper SE
+        7536  128173   Mage Clothing Expansion
+        6061  4464     Colovian Noble Clothes
+        6038  133000   Cultural Bards - A Bard Themed Clothing and Accessory Collection
+        5835  135136   Riverfolk Clothes
+        5547  137725   Sorcerer Outfits
+        5521  136348   Riverfolk Clothes Set - My patches SE by Xtudo - Derkeethus Faendal Scouts-Many-Marshes Addvar SPID Outfit
+        4963  5063     Common Clothes (by FranklinZunge for SSE)
+        3555  4466     Imperial Fine Clothes
+        3437  65964    Dynamic Lowered Hoods
+
+  -- Creatures and Mounts --
+       21247  19272    RUSTIC DAEDRA - Special Edition
+        9196  54225    Simplest Horses (and other mounts)
+        8546  82382    Flame Atronach SE
+        7601  30496    House Cats- Mihail Monsters and Animals (SE-AE version) (''pet'')
+        6584  21238    Cannibal Draugr on Solstheim (Bloodmoon Creature Restoration Project)
+        6505  31757    Wicked Werewolves
+        4996  90547    Spriggans SE
+        4765  132218   Dragons SE
+        4744  64445    Fluffworks - Auto Patches
+        4358  14328    Karstaag - The Frost King Reborn (Bloodmoon Creature Restoration Project) SE
+        3754  9311     GRAHL - The Ice Troll (Bloodmoon Creature Restoration Project) SE
+        3277  13938    The Blood Horker (Bloodmoon Creature Restoration Project) SE
+        3164  120998   Frogs- Mihail Monsters and Animals (SE-AE version)
+        3054  81558    Rabbit Replacer- Mihail Monsters and Animals (SE-AE version)
+
+  -- Followers & Companions --
+        7273  119226   Follower Dialogue Expansion - Lydia
+        7036  85298    Gore - A Companion Mod
+        6896  114801   Follower Dialogue Expansion - Aela the Huntress
+        6805  155510   Follower Dialogue Expansion - Faralda
+        6143  157012   Follower Dialogue Expansion - Eola
+        6030  101336   Song of the Green Auri Follower Inigo Banter Patch ESLified
+        6023  30665    Pandorable's Initiates [A]
+        5729  116025   Follower Dialogue Expansion - Mjoll the Lioness
+        5615  120255   Follower Dialogue Expansion - Jenassa
+        5213  113359   Follower Dialogue Expansion - Brelyna Maryon
+        4856  170684   Follower Dialogue Expansion - Saadia
+        4629  117930   Follower Dialogue Expansion - Jordis the Sword-Maiden
+        4428  25246    Bring Meeko To Lod
+        4408  122487   Follower Dialogue Expansion - Uthgerd the Unbroken
+        4196  93413    The Thalmor's Shadow - Taliesin (Custom Voiced Follower)
+        4140  172562   Follower Dialogue Expansion - Olfina Gray-Mane
+        3993  173134   HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)
+        3953  69622    Katana - Journey in the Shadows
+        3853  116719   Follower Dialogue Expansion - Erik the Slayer
+        3795  57284    Tragedian's Fabulous Followers SSE
+        3758  124787   Follower Dialogue Expansion - Ysolda
+        3750  165839   (BEST EVIL FOLLOWER) Follower Dialogue Expansion - Fura Bloodmouth
+        3705  137845   Follower Dialogue Expansion - Illia
+        3613  128144   Follower Dialogue Expansion - Camilla Valerius
+        3350  121920   Serana Dialogue Expansion
+        3140  36444    Refined Auri - Song of the Green
+
+  -- Magic - Spells & Enchantments --
+        8885  115106   Ancient Blood Magic II
+        6517  112509   Frost VFX Edit
+        6334  109414   Flame VFX Edit
+        6178  124520   Lightning VFX Edit
+        5685  118431   Dragon Breath VFX Edit
+        4989  133774   Healing VFX Edit
+        4302  108499   Dark Hierophant Magic
+        4103  135614   Summoning Portals VFX Edit
+        3896  97892    Abyssal Tides Magic
+        3648  113360   Holy Templar Magic
+        3571  92104    Constellation Magic
+        3135  103805   Obscure Magic
+
+  -- NPC --
+       34449  19012    Pandorable's NPCs
+       24126  24135    Pandorable's NPCs - Dawnguard
+       20411  30680    Pandorable's NPCs - Dragonborn
+       19795  42043    Pandorable's NPCs - males
+       14882  50617    Pandorable's NPCs - males 2
+       14051  57610    Project ja-Kha'jay- Khajiit NPC Diversity Overhaul
+        8826  98103    Children of the Hist - An Argonian NPC Overhaul
+        8680  42349    Northbourne NPCs of the Rift
+        8554  54421    Modpocalypse NPCs - Resources
+        8421  5916     TK Children SE
+        7093  25450    Male Npc Overhaul
+        6873  22789    Simple Children
+        6859  33731    Pandorable's Black-Briar Ladies - Maven Ingun
+        6827  22146    VIGILANT - NPC Overhaul
+        6539  36827    Pandorable's Lethal Ladies - Jenassa Karliah
+        6453  949      Kidmer - Adoptable Elf Children
+        6397  54422    Modpocalypse NPCs - All Vanilla NPCs
+        6322  34464    Pandorable's Warrior Women - Mjoll Uthgerd Adelaisa
+        6206  42480    Pandorable's Shield-Sisters - Aela Ria Njada
+        6137  82606    DIbella's Blessing
+        5995  97946    Additional Dremora Faces
+        5900  55877    Pandorable's Heroes of Sovngarde
+        5740  45128    Pandorable's Brelyna and Nevri
+        5686  91290    Hand placed enemies - Light (Populated spawns and dungeons)
+        5471  123245   Charming Children - Simple Kidmer Revamped
+        5385  35404    Northbourne NPCs of Whiterun Hold
+        4778  33349    Bosmer NPCs have antlers
+        4577  37528    Northbourne NPCs of Falkreath Hold
+        4573  110533   Pandorable's NPCs - males 3
+        4563  43413    Northbourne NPCs of Winterhold
+        4447  59531    Pandorable's Devoted Dames - Aranea Eola Senna
+        4438  48481    Northbourne NPCs of Haafingar
+        3178  77478    Pandorable's Wicked Witches - Illia Selveni
+
+  -- Presets - ENB and ReShade --
+       21510  27141    NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.1.1C
+       12367  35082    PI-CHO ENB (Based on Silent Horizons)
+        8956  91675    Rudy ENB for NAT 3
+        8610  62796    ENB Input Disabler
+        7205  99406    ENB Extender and Helper Skyrim
+        6001  103042   Cabbage ENB for NAT 3 Weather
+        5779  111431   Kauz ENB
+        5239  99398    Silent Horizons 2 - Universal Core
+        4220  101696   Silent Horizons 2 - Shader Core
+        3708  67886    ENB Grass Collisions
+
+  -- Shouts --
+        3693  44969    True Teacher Durnehviir
+
+  -- User Interface --
+       33090  18619    moreHUD Inventory Edition
+       22213  74484    Compass Navigation Overhaul
+       16857  81409    Constructible Object Custom Keyword System
+       14813  89241    B.O.O.B.I.E.S  (aka Immersive Icons)
+       14639  1523     Skyrim SE Skill Interface Re-Texture
+       13792  60837    Dear Diary Dark Mode - SkyUI Menus Replacer SE
+       12290  63057    Detection Meter
+       11664  49106    SkyUI - Ghost Item Bug Fix
+       10992  123521   The Dragonborn's Bestiary
+       10806  37929    The Elder Scrolls Legends - Loading Screens
+       10638  64532    Oxygen Meter 2
+       10332  77359    Scaleform Translation Plus Plus NG
+       10329  89823    Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.)
+       10109  42750    Favorite Misc Items
+       10015  120352   SKSE Menu Framework
+        9853  90526    Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.)
+        9364  97345    Wheeler - Quick Action Wheel Of Skyrim
+        9316  97221    dMenu
+        9091  114790   ImGui Icons
+        8212  120075   QuickLoot IE - A QuickLoot EE Fork
+        7957  77350    Detection Meter - AE Support
+        7711  68557    Aura's Inventory Tweaks (More SkyUI Icons Sorting Options and Columns)
+        7620  63980    Contextual Crosshair
+        7105  161500   Smart Talk (Dialogue Menu Enhancer)
+        7076  107676   Dynamic String Distributor (DSD)
+        6940  136148   STB Widgets
+        6860  100043   Dragonborn Reskin - Wheeler
+        6411  153122   Dynamic Location Pop-ups
+        6281  52743    Oblivion Interaction Icons
+        6261  77360    Whose Quest is it Anyway NG
+        6147  134739   The Dragonborn's Fishiary - Bestiary Addon
+        5973  62423    Custom Skills Menu - A Custom Skills Framework Unified Menu
+        5932  92696    Bow Rapid Combo V3 - Settings Loader
+        5856  129756   Local Map Upgrade
+        5686  76892    Yes Im Sure NG
+        5663  117661   Modern Wait Menu
+        4660  53406    TrueHUD Curated Bosses
+        4639  50202    Convenient Reading UI - SE
+        4052  80455    Casting Bar
+        4049  55503    moreHUD SE - Legacy Settings Loader
+        3842  55387    Soul Cairn Paper Map for FWMF
+        3809  56767    Simple Activate SKSE
+        3770  56069    Skyrim Character Sheet
+        3695  92602    SkyUI 3D Item Offset Fix for MCM Helper (SkyUI 5.2 - Updated - Centered Item Card - Script Fix)
+        3660  57754    Timing is Everything SE - Settings Loader
+        3518  54628    Forgotten Vale Paper Map for FWMF
+        3495  53878    Blackreach Paper Map for FWMF
+        3256  99878    Show Follower Carry Weight
+        3188  94076    Diseases - I4 icon
+        3136  27007    Gamepad Plus Plus
+        3061  166751   dMenu NG
+        3030  62705    Skyrim Paper Map by Caro Tuts for FWMF
+
+  -- Weapons --
+       28944  6994     Royal Armory - New Artifacts
+       15057  37737    Believable weapons
+       12360  13972    Artifacts - The Ice Blade of the Monarch
+       12141  5019     Weapons of the Third Era SSE
+        4345  65481    Praedy's Staves AIO - SE
+        3750  21524    Unique Bows Collection
+        3494  79097    Lunar Guard Arsenal - Battleaxe
+        3214  28006    PrivateEye's Royal Armory - Reforged
+
+  -- Weapons and Armour --
+        9999  41254    ArteFakes - Unique Artifacts Replacer
+        8998  68656    Sons of Skyrim
+        8227  16199    Artifacts - The Breton Paladin
+        8064  105930   Elmlock Armor and Blade (CBBE - HIMBO)
+        7631  30051    Unplayable Faction Armors SSE
+        7587  89496    Winged Hussar Armor and Weapons - CBBE 3BA UUNP BHUNP HIMBO Vanilla - HDT-SMP
+        6565  122125   Rihad Swordsman Set - My patches SE by Xtudo
+        6196  45735    Vigilant Armors and Weapons Retexture SE
+        5888  128731   Pig Iron Set - My patches SE by Xtudo - Borgakh Ogol SPID
+        3765  17114    VickusDickus' Khajiiti Apex Armory Reforged
+

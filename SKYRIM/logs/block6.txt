@@ -1,0 +1,237 @@
+﻿=== Blade and Blunt (34549) ===
+
+=== install mod (APPLY) ===
+
+
+=== Blade and Blunt - A Combat Overhaul  (mod 34549, skyrimspecialedition) ===
+    by SimonMagus   version 4.0.3
+
+--- Blade and Blunt - A Combat Overhaul ---
+    file id  799519   category MAIN   version 4.0.3
+    Blade and Blunt - A Combat Overhaul 34549 4.0.3 2026-09-03T03-26Z kATsMWw2g.7z   (4.9 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Blade and Blunt - A Combat Overhaul 34549 4.0.3 
+2026-09-03T03-26Z kATsMWw2g.7z
+
+
+--- Blade and Blunt - A Combat Overhaul 34549 4.0.3 2026-09-03T03-26Z kATsMWw2g.7z ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Main File  [SelectAll]
+         - Blade and Blunt - A Combat Overhaul
+      group: Module Files  [SelectAny]
+         - No Kill Moves
+      group: Stamina Changes  [SelectAny]
+         - No Power Attack Changes
+         - No Sprinting Changes
+         - No Casting Changes
+         - No Stamina Cost for Sneaking
+         - No Stamina Cost for Jumping
+         - No Stamina Cost for Swimming
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Blade and Blunt
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Stagger Effect Fix (110508) ===
+
+=== install mod (APPLY) ===
+
+
+=== Stagger Effect Fix  (mod 110508, skyrimspecialedition) ===
+    by SkyHorizon3   version 1.0.4
+
+--- Stagger Effect Fix ---
+    file id  798156   category MAIN   version 1.0.4
+    Stagger Effect Fix 110508 1.0.4 2026-08-31T14-25Z 31i7IoHNR.7z   (3.7 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Stagger Effect Fix 110508 1.0.4 
+2026-08-31T14-25Z 31i7IoHNR.7z
+
+
+--- Stagger Effect Fix 110508 1.0.4 2026-08-31T14-25Z 31i7IoHNR.7z ---
+  name      Stagger Effect Fix
+  data root <archive root>
+  2 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Stagger Effect Fix
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Dynamic Block Hit (100570) ===
+
+=== install mod (APPLY) ===
+
+
+=== Dynamic Block Hit  (mod 100570, skyrimspecialedition) ===
+    by lSmoothl   version 1.7
+
+--- Dynamic Block Hit ---
+    file id  488244   category MAIN   version 1.7
+    Dynamic Block Hit-100570-1-7-1712464631.zip   (0.9 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Dynamic Block Hit-100570-1-7-1712464631.zip
+
+
+--- Dynamic Block Hit-100570-1-7-1712464631.zip ---
+  name      Dynamic Block Hit
+  data root Dynamic Block Hit
+  277 file(s), 1 plugin(s)
+      DynamicBlockHit.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Dynamic Block Hit
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Frozen Electrocuted Combustion (3532) ===
+
+=== install mod (APPLY) ===
+
+
+=== Frozen Electrocuted Combustion  (mod 3532, skyrimspecialedition) ===
+    by powerofthree   version 6.1.2
+
+--- Frozen Electrocuted Combustion ---
+    file id  800785   category MAIN   version 6.1.3
+    Frozen Electrocuted Combustion 3532 6.1.3 2026-09-05T15-55Z hfH9s6NGz.7z   (83.1 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Frozen Electrocuted Combustion 3532 6.1.3 
+2026-09-05T15-55Z hfH9s6NGz.7z
+
+
+--- Frozen Electrocuted Combustion 3532 6.1.3 2026-09-05T15-55Z hfH9s6NGz.7z ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: DLL  [SelectExactlyOne]
+         - SSE/AE v1.7.104+ ("Anniversary/Special Edition")
+         - SSE/AE v1.6.1170 ("Anniversary/Special Edition")
+         - SSE v1.5.97 ("Special Edition")
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Frozen Electrocuted Combustion
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Dust Effects (2407) ===
+
+=== install mod (APPLY) ===
+
+
+=== Dust Effects by HHaleyy  (mod 2407, skyrimspecialedition) ===
+    by Darkjesusmn   version 1.0
+
+--- DustEffectsSSE ---
+    file id  3274   category MAIN   version 1.0
+    DustEffectsSSE-2407-1-0.rar   (1.2 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\DustEffectsSSE-2407-1-0.rar
+
+
+--- DustEffectsSSE-2407-1-0.rar ---
+  name      Dust Effects
+  data root data
+  2 file(s), 1 plugin(s)
+      DustEffectsSSE.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Dust Effects
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Core Impact Framework (146873) ===
+
+=== install mod (APPLY) ===
+
+
+=== Core Impact Framework (CIF)  (mod 146873, skyrimspecialedition) ===
+    by Seb263   version 2.0.7
+
+--- Core Impact Framework - Latest Version ---
+    file id  801478   category MAIN   version 2.0.7
+    Core Impact Framework - Latest Version 146873 2.0.7 2026-09-06T21-49Z bqv3tSRCy.zip   (0.5 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Core Impact Framework - Latest Version 146873 
+2.0.7 2026-09-06T21-49Z bqv3tSRCy.zip
+
+
+--- Core Impact Framework - Latest Version 146873 2.0.7 2026-09-06T21-49Z bqv3tSRCy.zip ---
+  name      Core Impact Framework
+  data root Data
+  7 file(s), 0 plugin(s)
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Core Impact Framework
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Elemental Mastery Magic (139953) ===
+
+=== install mod (APPLY) ===
+
+
+=== Elemental Mastery Magic  (mod 139953, skyrimspecialedition) ===
+    by Kittytail   version 1.36
+
+--- Elemental Mastery Magic ---
+    file id  668804   category MAIN   version 1.36
+    Elemental Mastery Magic-139953-1-36-1758656538.zip   (8.2 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Elemental Mastery 
+Magic-139953-1-36-1758656538.zip
+
+
+--- Elemental Mastery Magic-139953-1-36-1758656538.zip ---
+  name      Elemental Mastery Magic
+  data root <archive root>
+  4 file(s), 1 plugin(s)
+      KittySpellPack02.esl
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Elemental Mastery Magic
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== BATCH COMPLETE ===

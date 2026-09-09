@@ -49,6 +49,7 @@
 *Lux - Resources.esp
 *SexLabAroused.esm
 *DynDOLOD.esm
+*KittySpellPack02.esl
 *SkyUI_SE.esp
 *HD Lods SSE.esp
 *I4IconAddon.esp
@@ -258,3 +259,8 @@
 *WACCF_BashedPatchLvlListFix.esp
 *DynDOLOD.esp
 *Occlusion.esp
+*DynamicBlockHit.esp
+*DustEffectsSSE.esp
+*FEC.esp
+*BladeAndBlunt.esp
+*OSurvival SA Mode NG.esp

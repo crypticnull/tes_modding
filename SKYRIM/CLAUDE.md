@@ -463,6 +463,16 @@ tracked set is about 2.7 MB of text.
 
 - **Commit after anything that changes the load order, the profile, a script
   or a decision.** Routine reads do not need one.
+- **Update the running plan artifact after every batch, in the same breath as
+  the commit.** It is
+  `https://claude.ai/code/artifact/d6f2bc20-d65c-4c21-bbb9-65383f275cab`, and
+  `SKYRIM\build-plan.html` is the tracked copy that gets republished to it.
+  Read the whole file first, a publish is refused otherwise, then edit and
+  republish with that URL. **Merge, never rewrite** - it carries the decisions
+  log, and a clean rewrite has already nearly destroyed that once.
+  A stale plan is worse than no plan. On 09-08 it still said "now: pick a UI"
+  hours after the UI was installed, which is exactly the kind of thing that
+  sends the next session to redo finished work.
 - The commit message IS the changelog now that `INBOX.md` is retired. Write it
   properly, explaining why, not just what.
 - `.gitignore` excludes all bulk data. If a `git status` ever shows thousands

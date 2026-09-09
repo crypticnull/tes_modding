@@ -630,3 +630,46 @@ Lux - Live Another Life patch.esp
 *mihailhousecat.esp
 *Dragonborns Bestiary.esp
 *The Dragonborn's Fishiary.esp
+*Immersive Sounds - Compendium.esp
+*HPP - FirewoodSnow Campfire.esp
+*DeadlySpellImpacts.esp
+*Rudy Nordic Pottery SSE.esp
+*GDOS - Splendid Mechanized Dwemer Door.esp
+*Feral.esp
+*BA_BardSongs_AIO.esp
+*SunAffectsNPCVampires.esp
+*StoreDoorbells.esp
+*JS Dragon Claws AE - Konahriks Accoutrements.esp
+*JS Dragon Claws AE - Wyrmstooth.esp
+*Fluffworks - Beyond Skyrim Bruma Patch.esp
+*Fluffworks - Complete Alchemy and Cooking Overhaul Patch.esp
+*Particle Patch.esp
+*Praedys_Soulcairn.esm
+*JS Rumpled Rugs Redux SE.esp
+*Balamath - CC Patch.esp
+*Balamath.esp
+*The Restless Dead.esp
+*TRD Patch - Hand Placed Enemies - Light.esp
+*TRD Patch - USSEP.esp
+*SilusJournal.esp
+*SilusJournal_COTN.esp
+*SilusJournal_Dialogue.esp
+*SilusJournal_RynShrine.esp
+*Imperial Castles of Skyrim - Alternate Perspective patch.esp
+*Imperial Castles of Skyrim- Lux Orbis patch.esp
+*Imperial Castles of Skyrim.esp
+*MehrunesDagonShrine.esp
+*prostitutes.esp
+*RiftenBunkhouse.esp
+*Smoking Torches And Candles.esp
+*DawnguardBanner.esp
+*DawnGuardDoors.esp
+*SetHome.esp
+*SetHomeInigoBugFix.esp
+*SetHomeLucienConsistency.esp
+*DragonPriestRetextureSE_KonAcc.esp
+*UniqueDragonPriests_XB.esp
+*ApachiiHair.esm
+*Apachii_DivineEleganceStore.esm
+*Apachii_DivineEleganceStore_Patch.esp
+*ApachiiHairFemales.esm

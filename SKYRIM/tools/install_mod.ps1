@@ -317,8 +317,20 @@ function Invoke-Fomod {
                                $gname, $opt, (($plugins | ForEach-Object { $_.GetAttribute('name') }) -join ' / '))
                     }
                     if ($hit.Count -gt 1) {
-                        throw ("group '{0}': '{1}' matches {2} options - be more specific: {3}" -f `
-                               $gname, $opt, $hit.Count, (($hit | ForEach-Object { $_.GetAttribute('name') }) -join ' / '))
+                        # An EXACT match always wins over several loose ones. Dragon
+                        # Priest Retexture has two groups both called Nahkriin, one
+                        # offering "Ebony" and one offering "Nahkriin Ebony", so the
+                        # string "Ebony" is exact in one and ambiguous in the other.
+                        $exact = @($hit | Where-Object { $_.GetAttribute('name') -ieq $opt })
+                        if ($exact.Count -eq 1) { $hit = $exact }
+                        elseif ($gname -and $dupGroupNames.Contains($gname.ToLower())) {
+                            # a repeated group name: this option belongs to a
+                            # different instance, so skip rather than stop.
+                            continue
+                        } else {
+                            throw ("group '{0}': '{1}' matches {2} options - be more specific: {3}" -f `
+                                   $gname, $opt, $hit.Count, (($hit | ForEach-Object { $_.GetAttribute('name') }) -join ' / '))
+                        }
                     }
                     $chosen.Add($hit[0])
                 }

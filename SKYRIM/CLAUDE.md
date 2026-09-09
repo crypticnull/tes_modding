@@ -274,6 +274,15 @@ That is how the LOOT rule was actually proved.
 - Reading a dialog owned by another process needs `SendMessage WM_GETTEXT`.
   `GetWindowText` returns empty for a child control in another process, so
   `Get-Process | Select-Object MainWindowTitle` cannot read a dialog body.
+- **NEVER kill the game while it is still writing.** Community Shaders compiles
+  its shader cache on the first launch after any change to the CS stack, and it
+  writes `.pso` files into `overwrite\ShaderCache` for minutes. Killing it
+  partway throws that work away and it recompiles from scratch next launch.
+  Grass cache and Papyrus behave the same way. `launch_check.ps1` now watches
+  `overwrite\` and `ShaderCache` and refuses to close until they have been quiet
+  for `-QuietSeconds`, default 20, capped by `-MaxWaitSeconds`. On the run that
+  proved it, it waited 65 seconds. **This applies to anything that closes a
+  running process, not just this script** - look at what it is doing first.
 
 ### LOOT and sorting
 

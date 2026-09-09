@@ -15,8 +15,8 @@ Skyrim - Textures5.bsa
 Skyrim - Textures6.bsa
 Skyrim - Textures7.bsa
 Skyrim - Textures8.bsa
-HD Lods SSE - Textures.bsa
 HD Lods SSE.bsa
+HD Lods SSE - Textures.bsa
 ccvsvsse004-beafarmer.bsa
 ccvsvsse003-necroarts.bsa
 ccvsvsse002-pets.bsa
@@ -101,8 +101,8 @@ Sacrosanct - Vampires of Skyrim.bsa
 Sacrosanct - Vampires of Skyrim - Textures.bsa
 Ordinator - Perks of Skyrim - Textures.bsa
 Ordinator - Perks of Skyrim.bsa
-Apocalypse - Magic of Skyrim - Textures.bsa
 Apocalypse - Magic of Skyrim.bsa
+Apocalypse - Magic of Skyrim - Textures.bsa
 Odin - Skyrim Magic Overhaul - Textures.bsa
 Odin - Skyrim Magic Overhaul.bsa
 Triumvirate - Mage Archetypes - Textures.bsa
@@ -116,8 +116,8 @@ RaceMenu.bsa
 weapons armor clothing & clutter fixes - textures.bsa
 weapons armor clothing & clutter fixes.bsa
 Common Clothes and Armors.bsa
-S3DTrees NextGenerationForests - Textures.bsa
 S3DTrees NextGenerationForests.bsa
+S3DTrees NextGenerationForests - Textures.bsa
 SeranaDialogAddon.bsa
 UIExtensions.bsa
 SFO_SkinFeatureOverlays.bsa
@@ -148,3 +148,14 @@ Lucien.bsa
 SkyHUD.bsa
 HLIORemi.bsa
 HLIORemi - Textures.bsa
+imp_helm_legend.bsa
+Book Covers Skyrim - Textures.bsa
+Book Covers Skyrim.bsa
+aMidianBorn_Book of Silence.bsa
+Stormcrown.bsa
+SeasonalWildlifeDistribution.bsa
+Aetherius.bsa
+Turn of the Seasons - Textures.bsa
+Turn of the Seasons.bsa
+Lux - Resources.bsa
+Lux - Resources - Textures.bsa

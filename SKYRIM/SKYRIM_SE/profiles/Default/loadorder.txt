@@ -98,6 +98,7 @@ Celes Nightingale Armor.esl
 Celes Rogue Armor UNP.esl
 Celes Tarot Outfit Cloth UNP.esl
 Crimson Blood Armor.esl
+Lux Orbis - Master plugin.esm
 Emfy Cleric Robes.esl
 Daedric Reaper Armor.esl
 Demon Armor.esl
@@ -123,33 +124,51 @@ WildHuntress.esl
 OCF.esp
 TrueHUD.esl
 EVGAnimatedTraversal.esl
+iWant Widgets.esl
+Lux - Master plugin.esm
+Lux - Resources.esp
+SexLabAroused.esm
 DynDOLOD.esm
 SkyUI_SE.esp
 HD Lods SSE.esp
+I4IconAddon.esp
 SMIM-SE-Merged-All.esp
 Audio Overhaul Skyrim.esp
 Nature of the Wild Lands.esp
 fallentreebridgesSSE.esp
 S3DTrees NextGenerationForests.esp
+Lux Orbis.esp
 Landscape Fixes For Grass Mods.esp
-Folkvangr - Grass and Landscape Overhaul.esp
 Navigator-NavFixes.esp
+Lux Orbis CS.esp
+Folkvangr - Grass and Landscape Overhaul.esp
+Book Covers Skyrim.esp
 AI Overhaul.esp
 Guard Dialogue Overhaul.esp
+aMidianBorn_Book of Silence.esp
 weapons armor clothing & clutter fixes.esp
 SeranaDialogAddon.esp
-thieves guild requirements.esp
-MajesticMountains.esp
 Summermyst - Enchantments of Skyrim.esp
 Odin - Skyrim Magic Overhaul.esp
+Stormcrown.esp
+thieves guild requirements.esp
+NewArmoury.esp
+MajesticMountains.esp
+SnowOverSkyrim.esp
+Turn of the Seasons.esp
+TOTS - Icy Waterways.esp
 Wintersun - Faiths of Skyrim.esp
 Lit Road Signs.esp
 CollegeEntry.esp
+Inigo.esp
+HLIORemi.esp
 At Your Own Pace - College of Winterhold.esp
+018Auri.esp
 Relationship Dialogue Overhaul.esp
 Immersive Weapons.esp
 TheChoiceIsYours.esp
 pantiesofskyrim.esp
+SofiaFollower.esp
 Triumvirate - Mage Archetypes.esp
 RaceMenu.esp
 Remodeled Armor - Vanilla Replacer.esp
@@ -162,6 +181,7 @@ Bijin - UCMT.esp
 Bijin Warmaidens.esp
 SDA_SpellToggleExtendedV2.esp
 Serana.esp
+Animated Immersive Weaps.esp
 Unique Uniques.esp
 evgmodularSMPhair.esp
 Apocalypse - Magic of Skyrim.esp
@@ -254,48 +274,43 @@ Rumble - Swimming - AOS Patch.esp
 Rumble - Weapons - AOS Patch.esp
 TrueStormsSE_AOS.esp
 AI Overhaul - Fishing Addon.esp
-trade & barter.esp
-Ordinator - Perks of Skyrim.esp
-Sacrosanct - Vampires of Skyrim.esp
-Mundus.esp
-alternate start - live another life.esp
-WACCF_BashedPatchLvlListFix.esp
-DynDOLOD.esp
-Occlusion.esp
-018Auri.esp
 AHZmoreHUD.esp
 Lucien.esp
 UntarnishedUI_Subtitle.esp
 FNIS.esp
 EVGConditionalIdles.esp
-HLIORemi.esp
-I4IconAddon.esp
-Inigo.esp
-SofiaFollower.esp
 SkyHUD.esp
 imp_helm_legend.esp
-Book Covers Skyrim.esp
-aMidianBorn_Book of Silence.esp
-NewArmoury.esp
-Animated Immersive Weaps.esp
-Stormcrown.esp
 Shrubs of Snow.esp
 SeasonalWildlifeDistribution.esp
 Seasonal Alchemy.esp
+TerrainHelper.esp
+OStim.esp
+OStimNPCs.esp
+Law and OStim.esp
+WD03OTrainers.esp
+OStimCommunityResource.esp
+OPIrresistible.esp
+OHorny.esp
+OEndurance.esp
+OstimAdvancedMatchmaker.esp
+OWintersun.esp
+Blood and OStim.esp
+OStimSimpleDialog.esp
+OProstitution.esp
+OAroused.esp
+OSLAroused.esp
+SensualNeedsOstim.esp
 Aetherius.esp
-SnowOverSkyrim.esp
-TOTS - Icy Waterways.esp
-Turn of the Seasons.esp
-Lux - Master plugin.esm
+trade & barter.esp
+Ordinator - Perks of Skyrim.esp
+Sacrosanct - Vampires of Skyrim.esp
+Mundus.esp
+alternate start - live another life.esp
 Lux.esp
-Lux Orbis - Master plugin.esm
-Lux Orbis.esp
 Lux - HDR.esp
 Lux CS - Bulbs.esp
 Lux CS Templates - Default.esp
-Lux Orbis CS.esp
-Lux - Resources.esp
-TerrainHelper.esp
 Lux - Auri Song of the Green patch.esp
 Lux - Bloodchill Manor patch.esp
 Lux - CC Fish patch.esp
@@ -309,7 +324,6 @@ Lux - Hendraheim patch.esp
 Lux - Inigo.esp
 Lux - Live Another Life patch.esp
 Lux - Lucien.esp
-Lux - Myrwatch patch.esp
 Lux - Nchuanthumz Dwarven Home patch.esp
 Lux - Necrohouse patch.esp
 Lux - Pets of Skyrim CC.esp
@@ -321,23 +335,6 @@ Lux - The Cause patch.esp
 Lux - Tundra Homestead patch.esp
 Lux - Umbra CC.esp
 Lux - Wintersun patch.esp
-Lux - Wraithguard patch.esp
-OStim.esp
-OStimNPCs.esp
-OCrime.esp
-Law and OStim.esp
-OProstitution.esp
-WD03OTrainers.esp
-OPIrresistible.esp
-OHorny.esp
-OEndurance.esp
-OstimAdvancedMatchmaker.esp
-OStimSimpleDialog.esp
-OWintersun.esp
-Blood and OStim.esp
-OStimCommunityResource.esp
-iWant Widgets.esl
-OAroused.esp
-OSLAroused.esp
-SexLabAroused.esm
-SensualNeedsOstim.esp
+WACCF_BashedPatchLvlListFix.esp
+DynDOLOD.esp
+Occlusion.esp

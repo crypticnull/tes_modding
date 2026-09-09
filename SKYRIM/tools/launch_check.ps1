@@ -53,6 +53,13 @@ param(
     # exists. See the crash-detection block at the end.
     [int] $SoakSeconds = 30,
 
+    # Never kill the game while it is still writing. Community Shaders compiles
+    # its shader cache on the first launch after any CS change, and killing it
+    # partway throws the work away. Close only after this many seconds of no
+    # writes to overwrite\ and ShaderCache.
+    [int] $QuietSeconds = 20,
+    [int] $MaxWaitSeconds = 900,
+
     [switch] $NoLaunch,
     [switch] $KeepGameOpen,
     [string] $Log = ''
@@ -238,12 +245,54 @@ if ($reachedGame) {
     if ($survived) { Write-Host "  still running after the soak" -ForegroundColor Green }
 }
 
+# ---- NEVER kill the game mid-work.
+#
+# Community Shaders compiles its shader cache on the first launch after any
+# change to the CS stack, and that write goes to overwrite\ShaderCache. Killing
+# the process partway through throws the work away, so it recompiles next launch
+# and you pay the same minutes again. Grass cache and Papyrus behave the same.
+#
+# So before closing: watch the folders the game writes to, and only close once
+# they have been QUIET for -QuietSeconds. -MaxWaitSeconds caps it so a game that
+# writes continuously cannot hang this forever.
 $sk = Get-Process -Name 'SkyrimSE' -ErrorAction SilentlyContinue
 if ($sk -and -not $KeepGameOpen) {
-    Write-Host ""
-    Write-Host "  game reached its window - closing it" -ForegroundColor Cyan
-    $sk | Stop-Process -Force -ErrorAction SilentlyContinue
-    Start-Sleep -Seconds 3
+    $watch = @(
+        (Join-Path $Root 'SKYRIM_SE\overwrite'),
+        (Join-Path $Root 'STOCK GAME\Data\ShaderCache')
+    ) | Where-Object { Test-Path -LiteralPath $_ }
+
+    $waited = 0
+    $lastBusy = $null
+    while ($waited -lt $MaxWaitSeconds) {
+        $newest = $null
+        foreach ($w in $watch) {
+            $n = Get-ChildItem -Path $w -Recurse -File -ErrorAction SilentlyContinue |
+                 Sort-Object LastWriteTime -Descending | Select-Object -First 1
+            if ($n -and (-not $newest -or $n.LastWriteTime -gt $newest.LastWriteTime)) { $newest = $n }
+        }
+        if (-not $newest) { break }
+        $idle = ((Get-Date) - $newest.LastWriteTime).TotalSeconds
+        if ($idle -ge $QuietSeconds) { break }
+        if (-not $lastBusy) {
+            Write-Host ""
+            Write-Host ("  STILL WRITING - not closing. Newest: {0}" -f $newest.Name) -ForegroundColor Yellow
+            Write-Host ("  waiting for {0}s of quiet before touching the process..." -f $QuietSeconds) -ForegroundColor Yellow
+        }
+        $lastBusy = $newest.Name
+        Start-Sleep -Seconds 5
+        $waited += 5
+        if (-not (Get-Process -Name 'SkyrimSE' -ErrorAction SilentlyContinue)) { break }
+    }
+    if ($waited -gt 0) { Write-Host ("  waited {0}s for the game to go quiet" -f $waited) -ForegroundColor Cyan }
+
+    $sk = Get-Process -Name 'SkyrimSE' -ErrorAction SilentlyContinue
+    if ($sk) {
+        Write-Host ""
+        Write-Host "  game idle - closing it" -ForegroundColor Cyan
+        $sk | Stop-Process -Force -ErrorAction SilentlyContinue
+        Start-Sleep -Seconds 3
+    }
 }
 
 # ---- skse64.log only exists if we got PAST the plugin gate

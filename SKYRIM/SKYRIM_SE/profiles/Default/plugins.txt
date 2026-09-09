@@ -620,3 +620,13 @@ Lux - Live Another Life patch.esp
 *1Dwemer.esl
 *Regional Sounds Expansion.esp
 *interesting npcs ILS fix.esp
+*Fluffworks.esp
+*Bears of the North.esp
+*Falmer Servant Lines Expansion.esp
+*Animals Swim.esp
+*SimplestHorses.esp
+*mihailfrogs.esp
+*mihailringneckedpheasant.esp
+*mihailhousecat.esp
+*Dragonborns Bestiary.esp
+*The Dragonborn's Fishiary.esp

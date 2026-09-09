@@ -237,7 +237,6 @@
 *Ordinator - Perks of Skyrim.esp
 *Sacrosanct - Vampires of Skyrim.esp
 *Mundus.esp
-*alternate start - live another life.esp
 *Lux.esp
 *Lux - HDR.esp
 *Lux CS - Bulbs.esp
@@ -253,7 +252,7 @@
 *Lux - Goldbrand CC.esp
 *Lux - Hendraheim patch.esp
 *Lux - Inigo.esp
-*Lux - Live Another Life patch.esp
+Lux - Live Another Life patch.esp
 *Lux - Lucien.esp
 *Lux - Nchuanthumz Dwarven Home patch.esp
 *Lux - Necrohouse patch.esp
@@ -344,3 +343,50 @@
 *GKBWavesReborn.esp
 *Ryn's Standing Stones.esp
 *Dwarfsphere.esp
+*A Clear Map of Skyrim.esp
+*Landscape and Water Fixes.esp
+*evgSIRENROOT.esm
+*evgSIRENROOTtraversalpatch.esp
+*Vigilant.esm
+*AnimatedShips.esl
+*Fabled Forests.esp
+*Natural Waterfalls - Dawnguard.esp
+*Natural Waterfalls - Dragonborn.esp
+*Natural Waterfalls.esp
+*Environs - Tundra Farmhouse.esp
+*Environs - Greenwood Shack.esp
+*HappyLittleTrees.esp
+*StormLightning.esp
+*AlternatePerspective.esp
+*SnozzResources.esp
+*BSAssets.esm
+*BSHeartland.esm
+*BS_DLC_patch.esp
+*Dynamic Things Alternative.esp
+*LCO_Framework.esp
+*FarmhouseChimneys.esp
+*Riften Docks Overhaul.esp
+*HHoS Abandoned Wolf Den DI.esp
+*HHoS Ancient Shrine DI.esp
+*HHoS Bottomless Sinkhole DI.esp
+*HHoS Collapsed Mine DI.esp
+*HHoS Deserted Outpost DI.esp
+*HHoS Empty Well DI.esp
+*HHoS Flooded Cellar DI.esp
+*HHoS Glacial Rift DI.esp
+*HHoS Hollow Tree Stump DI.esp
+*HHoS Maintenance Vestibule DI.esp
+*HHoS Marooned Cargo Ship DI.esp
+*HHoS Mountainside Crevice DI.esp
+*HHoS Overgrown Temple DI.esp
+*HHoS Ransacked Catacomb DI.esp
+*HHoS River Inlet DI.esp
+*HHoS Seaside Cove DI.esp
+*HHoS Secluded Grotto DI.esp
+*HHoS Subterranean Hot Spring DI.esp
+*HHoS Sundered Mountain Peak DI.esp
+*HHoS Underground Pit DI.esp
+*HHoS Windswept Alcove DI.esp
+*Missives - Heartland.esp
+*Missives - Solstheim.esp
+*Missives - Wyrmstooth.esp

@@ -57,7 +57,33 @@
   WHAT IT DOES NOT DO
 
   It does not log in, and it will not try. If the cookie is stale you get told
-  so and you re-copy it. That is the whole failure mode.
+  so and you re-copy it.
+
+  CLOUDFLARE - LOVERSLAB IS BLOCKED, 2026-09-08, DO NOT RETRY
+
+  www.loverslab.com sits behind a Cloudflare MANAGED CHALLENGE. A valid session
+  cookie is not enough and never will be. Confirmed by the response itself:
+
+      Server: cloudflare
+      cf-mitigated: challenge
+      body: <title>Just a moment...</title>
+
+  Tried and did not help: the real Chrome User-Agent reconstructed from the
+  installed chrome.exe, the full client-hint set, sec-fetch-*, Accept and
+  upgrade-insecure-requests. cf_clearance is bound to the browser's whole
+  fingerprint including its TLS handshake, and .NET HttpClient does not have
+  Chrome's handshake, so Cloudflare re-challenges whatever headers are sent.
+
+  Getting past it means executing the challenge, which is bypassing a CAPTCHA,
+  which CLAUDE.md section 2 forbids. So this is CLOSED, not open.
+
+  THE WORKING ROUTE FOR LOVERSLAB: Matt downloads in his browser, where he is
+  already cleared, and drops the archive in SKYRIM_SE\downloads or _incoming.
+  Then install_downloaded.ps1, or install_mod.ps1 -Archive <path>, takes it from
+  there. Everything after the fetch - requirements, conflicts, load order,
+  verification - still works normally.
+
+  VectorPlexus is a separate matter and is MALWARE, see CLAUDE.md section 2.
 #>
 
 [CmdletBinding()]
@@ -68,6 +94,9 @@ param(
     [string]$CookieFile,
     [string]$SaveCookie,
     [switch]$CookieFromClipboard,
+    # Cloudflare binds cf_clearance to the exact UA that earned it. Get yours
+    # from the browser console: navigator.userAgent
+    [string]$UserAgent,
     [switch]$List,
     [string]$File,
     [switch]$Enumerate,
@@ -88,6 +117,7 @@ $host_ = $uri.Host
 
 $DataDir = Join-Path $Root 'data'
 if (-not $CookieFile) { $CookieFile = Join-Path $DataDir (".{0}.cookie" -f $host_) }
+$UaFile = Join-Path $DataDir (".{0}.ua" -f $host_)
 $LogDir  = Join-Path $Root 'logs'
 
 Write-Host ""
@@ -109,7 +139,28 @@ if ($CookieFromClipboard -or $SaveCookie) {
     $names = @([regex]::Matches($raw, '(?:^|;)\s*([^=;\s]+)=') | ForEach-Object { $_.Groups[1].Value })
     Write-Host ("  saved    {0}" -f $CookieFile) -ForegroundColor Green
     Write-Host ("  {0} cookie(s): {1}" -f $names.Count, (($names | Select-Object -First 12) -join ', '))
+    if ($raw -match 'cf_clearance' -and -not $UserAgent) {
+        Write-Host ""
+        Write-Host "  NOTE: this cookie carries cf_clearance, which Cloudflare binds to the EXACT" -ForegroundColor Yellow
+        Write-Host "        User-Agent that earned it. Pass -UserAgent with your browser's real UA" -ForegroundColor Yellow
+        Write-Host "        or every request will 403. Get it from the console: navigator.userAgent" -ForegroundColor Yellow
+    }
     Write-Host ""
+}
+
+# ---- the User-Agent lives beside the cookie, because cf_clearance is bound to
+# it. Storing them apart is how they drift, and a drifted pair is a 403 that
+# looks exactly like an expired session.
+if ($UserAgent) {
+    New-Item -ItemType Directory -Force -Path $DataDir | Out-Null
+    [IO.File]::WriteAllText($UaFile, $UserAgent.Trim(), (New-Object Text.UTF8Encoding $false))
+    Write-Host ("  saved    {0}" -f $UaFile) -ForegroundColor Green
+    Write-Host ("  UA       {0}" -f $UserAgent.Trim())
+    Write-Host ""
+}
+if (Test-Path -LiteralPath $UaFile) {
+    $stored = (Get-Content -LiteralPath $UaFile -Raw).Trim()
+    if ($stored) { $UA = $stored }
 }
 
 if (-not (Test-Path -LiteralPath $CookieFile)) {
@@ -117,6 +168,11 @@ if (-not (Test-Path -LiteralPath $CookieFile)) {
 }
 $cookie = (Get-Content -LiteralPath $CookieFile -Raw).Trim()
 if (-not $cookie) { throw "cookie file is empty: $CookieFile" }
+if ($cookie -match 'cf_clearance' -and -not (Test-Path -LiteralPath $UaFile)) {
+    Write-Host "  WARNING: cf_clearance present but no stored User-Agent. Expect 403." -ForegroundColor Yellow
+    Write-Host "           Re-run with -UserAgent '<navigator.userAgent from the browser>'." -ForegroundColor Yellow
+    Write-Host ""
+}
 
 # ---- http ------------------------------------------------------------------
 Add-Type -AssemblyName System.Net.Http | Out-Null
@@ -131,6 +187,23 @@ $client.Timeout = [TimeSpan]::FromMinutes(30)
 $null = $client.DefaultRequestHeaders.TryAddWithoutValidation('User-Agent', $UA)
 $null = $client.DefaultRequestHeaders.TryAddWithoutValidation('Cookie', $cookie)
 $null = $client.DefaultRequestHeaders.TryAddWithoutValidation('Accept-Language', 'en-US,en;q=0.9')
+
+# Cloudflare does not stop at the User-Agent. A cf_clearance cookie is issued to
+# a whole request shape, so a bare UA plus cookie still reads as automation.
+# These are the headers a real Chrome navigation sends, derived from the UA so
+# the client-hint version can never disagree with it.
+$chromeMajor = if ($UA -match 'Chrome/(\d+)') { $Matches[1] } else { '152' }
+$null = $client.DefaultRequestHeaders.TryAddWithoutValidation('Accept',
+    'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7')
+$null = $client.DefaultRequestHeaders.TryAddWithoutValidation('sec-ch-ua',
+    ('"Chromium";v="{0}", "Google Chrome";v="{0}", "Not?A_Brand";v="24"' -f $chromeMajor))
+$null = $client.DefaultRequestHeaders.TryAddWithoutValidation('sec-ch-ua-mobile', '?0')
+$null = $client.DefaultRequestHeaders.TryAddWithoutValidation('sec-ch-ua-platform', '"Windows"')
+$null = $client.DefaultRequestHeaders.TryAddWithoutValidation('sec-fetch-dest', 'document')
+$null = $client.DefaultRequestHeaders.TryAddWithoutValidation('sec-fetch-mode', 'navigate')
+$null = $client.DefaultRequestHeaders.TryAddWithoutValidation('sec-fetch-site', 'none')
+$null = $client.DefaultRequestHeaders.TryAddWithoutValidation('sec-fetch-user', '?1')
+$null = $client.DefaultRequestHeaders.TryAddWithoutValidation('upgrade-insecure-requests', '1')
 
 function Get-Page {
     param([string]$U)

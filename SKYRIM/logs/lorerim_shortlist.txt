@@ -1,0 +1,232 @@
+﻿LoreRim shortlist - top 15 per category, not installed here, most endorsed first
+
+############ WORLD LAYER (GATED) ############
+
+--- Cities, Towns, Villages, and Hamlets ---
+    20848  2013     JK's Riverwood
+    13072  28952    Cities of the North - Dawnstar
+    11655  34168    Cities of the North - Morthal
+    11164  56731    Cities of the North - Falkreath
+    10948  17127    The Great City Of Winterhold SSE Edition
+    10292  33032    The Great Town of Karthwasten SSE
+     9804  40088    Cities of the North - Winterhold
+     9630  34505    The Great Town of Ivarstead SSE
+     9629  35977    The Great Town of Shor's Stone SSE
+     9344  22243    The Great City of Solitude SSE
+     9162  36350    The Great Village of Mixwater Mill SSE
+     9010  33189    The Great Village of Old Hroldan SSE
+     8924  37982    Capital Whiterun Expansion
+     8186  42990    Capital Windhelm Expansion
+     7697  42639    The Great Village of Kynesgrove
+
+--- Buildings ---
+    23696  34000    JK's Dragonsreach
+    23343  33845    JK's The Bannered Mare.
+    21543  33636    JK's Belethor's General Goods.
+    21374  33565    JK's Arcadia's Cauldron
+    21196  33783    JK's The Drunken Huntsman.
+    21161  33685    JK's Warmaiden's
+    19923  43991    JK's The Winking Skeever
+    19667  45324    JK's Blue Palace
+    19207  48902    JK's Palace of the Kings
+    18988  44858    JK's Radiant Raiment
+    18821  44482    JK's Angeline's Aromatics
+    18802  44642    JK's Bits and Pieces
+    18766  45617    JK's Candlehearth Hall
+    18170  48293    JK's New Gnisis Cornerclub
+    17906  49516    JK's The Bee and Barb
+
+--- Dungeons ---
+     1076  68558    Morihaus' Refuge - Lord's Mail Reintegration
+      925  74824    Embershard
+      909  80226    Redoran's Retreat
+      783  82794    White River Watch
+      747  83869    Brittleshin
+      677  83152    Graywinter
+      341  111523   Dragon's Teeth Prison -  A Dungeon Mod
+      189  139061   Skragmjor
+      182  76186    Snowpoint Dungeon
+
+--- Environmental ---
+    19816  29243    Storm Lightning for SSE and VR (Minty Lightning 2019)
+    19277  50961    Happy Little Trees
+    12583  78772    Daedric Shrines - All in One
+    11704  6092     Waterplants
+    11083  110260   Animated Ships
+    10624  21436    Morning Fogs SSE
+    10396  13749    Volcanic Tundra - Heat Wave Effects
+    10269  26270    Blended Roads Redone SE - 8K
+     8973  87261    Natural Waterfalls
+     8119  81284    DrJacopo's - 3D Nightshade
+     8078  93944    Skoglendi - A Grass Mod
+     7937  85694    DrJacopo's - 3D Dragons Tongue
+     7750  88161    Rainbows Remade
+     7417  67304    Complex Grass - The official Patch Compendium
+     7241  80687    DrJacopo's - 3D Landscapes and Grass Library
+
+--- Locations -  New ---
+    26153  45565    Wyrmstooth
+     3722  113660   Unmarked Locations Pack - All In One
+     2771  14658    Granite Hill
+     2590  109541   Siege at Icemoth
+     2416  14450    Solstheim - Skaal Fishing Camp
+     1102  114518   Journey to Baan Malur and Morrowind
+     1020  44480    Stave Church of Skyrim
+      423  169188   Unmarked Locations Pack - Wyrmstooth Addon
+      340  159443   Unmarked Locations Pack - The Gray Cowl of Nocturnal Addon
+      246  134552   Lore Friendly Ruins - Nimalten Ruins
+      223  152707   Baan Malur - A Landscape Overhaul
+      172  133944   Ruins of Ryn's Lainalten - A Robber's Gorge Addon
+
+--- Locations - Vanilla ---
+     6528  52239    Labyrinthian Shalidor's Maze Fixes
+     4647  72981    Environs - The Ruined Tundra Farmhouse
+     4548  76261    Environs - Whiterun Watchtower Doesn't Stay Broken
+     4300  29695    Solitude and Temple Frescoes 2019
+     3964  73732    Environs - The Greenwood Shack
+     3963  88024    Environs - Riften Warehouse
+     3952  83457    Environs - Hroggar's House
+     3614  64018    GG's Thieves Guild Headquarters
+     2975  34950    Unique Border Gates Fixes (Standalone)
+     1902  132887   Better Atronach Forge Offering Box - No More Dwemer Dresser - High Polygon Summoning Circle
+     1756  84686    Windhelm Bridge Revived
+     1669  133264   Mehrunes Dagon Unique Shrine - Shrine Objects Swapped - Base Object Swapper
+     1643  131933   Dwemer Water Wheels - Markarth - Wyrmstooth - Base Object Swapper
+     1516  133489   Orc Exiles - The Cracked Tusk Keep
+     1308  130169   Orc Exiles - Bilegulch Stronghold
+
+--- Items and Objects - World ---
+    10044  22814    Rudy HQ - More Lights for ENB SE - Deathbells and Nirnroots
+    10026  22819    Rudy HQ - More Lights for ENB SE - Torchbugs and Moths
+     8573  22703    Rudy HQ - More Lights for ENB SE - Bthardamz
+     6841  40991    Rudy HQ - More Lights for ENB SE - Glowing Mushrooms
+     4627  46612    Retexture for The Scroll SE
+     3769  22706    Rudy HQ - More Lights for ENB SE - Arrows
+     2701  24689    Buyable Golden Claw
+     2316  81556    Hanging Dead Rabbits Replacer- Mihail's Shards of Immersion (SE-AE version)
+     2072  82340    Hanging Dead Chickens- Mihail's Shards of Immersion (SE-AE)
+     1607  60077    Dunmeri Furniture in Gray Quarter
+     1573  65059    MTD - More Thalmor Dossiers
+     1432  39575    Scarecrows of Skyrim
+      976  41834    3W's - More lights for ENB SE - Mania tileset
+      935  108294   Roasted Cow Replacer- Mihail's Shards of Immersion (SE-AE)
+      833  94999    Civil War Champions - Reduced Cut
+
+############ GAMEPLAY / ROLEPLAY ############
+
+--- Gameplay ---
+    12589  132292   SkyParkour v3 - Procedural Parkour and Climbing Framework (SPPF)
+    11942  50357    Skyrim's Got Talent - Improve As a Bard
+    11620  60878    One Click Power Attack NG
+    11271  78244    Survival Mode Improved - SKSE
+    10709  50307    Alternate Perspective - Alternate Start
+    10673  1525     Combat Evolved
+     9800  42997    Essential Favorites
+     8608  43500    Enhanced Reanimation
+     8441  51439    C.O.I.N. - Coins of Interesting Nature
+     8433  61950    Enhanced Invisibility
+     8042  2656     Faster Mining Plus SE
+     7524  100515   No Furniture Camera
+     7165  66125    NPCs Wear Amulets of Mara PLUS
+     5801  42408    Sacrilege - Minimalistic Vampires of Skyrim
+     5603  95943    Simple Hunting Overhaul
+
+--- Immersion ---
+    18997  62781    Security Overhaul SKSE - Regional Locks
+    16096  72115    Splashes of Storms
+    15491  24720    To Your Face SE - AE - VR
+    14906  20668    After the Civil War - Siege Damage Repairs
+    14376  73336    Moons and Stars - Sky Overhaul SKSE
+    12849  44810    Extended Encounters
+    12587  47710    Splashes Of Skyrim
+    11988  83484    Vampire Lines Expansion
+    11937  75481    Use Those Blankets
+    10726  42854    Loki's Wade In Water
+    10465  22622    More to Say
+     9429  68210    Improved Alternate Conversation Camera
+     8830  60741    Dynamic Things Alternative - Base Object Swapper
+     8250  64969    Ryn's Standing Stones
+     7681  71418    Wade In Water Redone
+
+--- Quests and Adventures ---
+    47438  1179     The Forgotten City
+    35100  11849    VIGILANT SE
+    30009  17576    Missives
+    20771  11894    VIGILANT - English Translation (Plus Voiced Addon)
+    20203  51711    Paarthurnax - Quest Expansion
+    19686  6180     Undeath Remastered
+    15515  66666    College of Winterhold - Quest Expansion
+    15105  72772    Skyrim Extended Cut - Saints and Seducers
+    12947  57285    House of Horrors - Quest Expansion
+    11328  14168    The Tools of Kagrenac
+    10666  65708    Caught Red Handed - Quest Expansion
+     9573  57683    The Only Cure - Quest Expansion
+     9232  76606    The Whispering Door - Quest Expansion
+     9200  80974    Innocence Lost - Quest Expansion
+     8640  53792    Nilheim - Misc Quest Expansion
+
+--- Overhauls ---
+    25605  8379     Carriage and Ferry Travel Overhaul (Formerly Complete Fast Travel Overhaul)
+    10123  151590   Death Drop Overhaul
+     4888  60888    Requiem - The Roleplaying Overhaul
+     4886  116722   Lux via - Patch Hub
+     4111  70213    Markarth Outskirts
+     3860  35546    City Trees
+     2780  77433    Optimised Scripts for Ordinator
+     1294  72384    Lux Via - Repaired Whiterun Bridge Add-on
+     1099  122320   Humanoid Dragon Priests
+      797  36116    Modular PatchXPress (MPxP) - Solitude Overhaul Patches
+      717  42633    Requiem - small tweaks SE
+      647  61342    Requiem - Minor Arcana
+      529  44044    Requiem - 3Tweaks (3BFTweaks)
+      487  64829    Trad - AE - CC - Collection - Requiem Patch
+      311  74010    Requiem - Improved Spell Learning
+
+--- Guilds/Factions ---
+    12841  21061    Penitus Oculatus
+     8741  22300    Improved Companions - Questline Tweaks
+     4063  93592    Companions Dialogue Bundle
+     3378  30887    Choose Your Own Arch-Mage
+     1641  59659    Listen - Dark Brotherhood Radiant Quests
+      791  178880   REBEL NORTH - Immersive Dialogue Expansion - Stormcloaks
+      733  73887    More Sensible Quartermasters
+      657  78308    Customizable Companions Questline Progression Requirements
+      488  59211    Additional Contracts for the Dark Brotherhood (ACDB)
+      367  170776   Faction Ranks
+      302  127292   Vilkas Spar Skip
+      299  113637   Tome Trials - Bardic College Book Exams
+      278  125468   Typography Training
+      212  126747   Poetic Duel
+
+--- Skills and Leveling ---
+    27021  17751    Experience
+    19138  41780    Custom Skills Framework
+     1738  7231     Perk Point Potion
+      808  126582   Little Lessons - Neglected Books Teach Small Skills
+      728  42591    Requiem - Noxcrab's Tweaks
+      521  126443   Crafting Grants XP
+      501  42588    Requiem - Special Feats
+      245  105658   Simply Smart Training
+
+--- Magic - Gameplay ---
+     6243  40802    Undeath - Classical Lichdom
+     4128  59350    Use Telekinesis on Traps
+      872  20521    Challenging Spell Learning
+      486  72661    Wielding Sun Stuff Hurts Vampires
+
+--- Magic - Spells & Enchantments ---
+     8885  115106   Ancient Blood Magic II
+     6517  112509   Frost VFX Edit
+     6334  109414   Flame VFX Edit
+     6178  124520   Lightning VFX Edit
+     5685  118431   Dragon Breath VFX Edit
+     4989  133774   Healing VFX Edit
+     4302  108499   Dark Hierophant Magic
+     4103  135614   Summoning Portals VFX Edit
+     3896  97892    Abyssal Tides Magic
+     3648  113360   Holy Templar Magic
+     3571  92104    Constellation Magic
+     3135  103805   Obscure Magic
+     2847  151787   Light Magic VFX Edit
+     2763  124125   Wizarding Traversal Magic
+     2384  77161    Optimised Scripts for Apocalypse

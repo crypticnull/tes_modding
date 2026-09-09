@@ -1,0 +1,247 @@
+TRIAGE - what is left on the plan, ordered by when it must be installed
+2026-09-08 23:34
+
+  1-GATED   world refs and static meshes. MUST be in before the chain.
+  2-PLUGIN  free lane by section 4, but adds a plugin, and adding any
+            plugin invalidates tree LOD. Do it before, or regenerate twice.
+  3-FREE    no plugin or actor/item only. Safe after the chain.
+  DECIDED   already ruled on in DECISIONS.md. Do not re-propose.
+
+==================================================================
+1-GATED   58 mod(s)
+==================================================================
+
+  [R-4]
+     60741    Dynamic Things Alternative
+     18330    Immersive World Encounters
+     17576    Missives
+
+  [U-2]
+     56367    A Clear Map of Skyrim and Other Worlds
+
+  [V-1]
+     26913    Depths of Skyrim
+     97713    FYX Water Mesh Optimization
+     42854    Loki's Wade In Water
+     26138    Skyrim Landscape and Water Fixes
+
+  [X-1]
+     10917    Beyond Skyrim - Bruma SE
+     15996    Project AHO
+     70917    Sirenroot
+     1179     The Forgotten City
+     6180     Undeath Remastered
+     11849    VIGILANT SE
+     31519    Wares of Tamriel
+     45565    Wyrmstooth
+
+  [X-2]
+     37982    Capital Whiterun Expansion
+     42990    Capital Windhelm Expansion
+     28952    Dawnstar
+     56731    Falkreath
+     40094    Fortified Whiterun
+     42639    Kynesgrove
+     36350    Mixwater Mill
+     34168    Morthal
+     33189    Old Hroldan
+     22243    Solitude
+     17127    Winterhold
+
+  [X-3]
+     68793    3D Clover
+     42032    3D Pine Grass
+     94791    3D Pine Shrubs
+     33474    Cathedral 3D Rocky Shores
+     80687    DrJacopo's 3D Landscapes and Grass Library
+     94462    Fabled Forests
+     91285    Grass Sampler Fix
+     56907    Happy Little Trees Add-On
+     45952    Mari's flora
+     60756    Mountain Flowers
+     35639    No Grassias
+
+  [X-4]
+     110260   Animated Ships
+     78772    Daedric Shrines AIO
+     46507    Dwemer Pipework Reworked
+     20382    Nordic Ruins of Skyrim
+     17732    Skyrim 3D Rocks
+     4819     Unique Border Gates
+     49305    Whiterun Watchtower Doesn't Start Broken
+
+  [X-5]
+     91160    Environs Master Plugin
+     29882    Lawbringer
+
+  [X-6]
+     51798    Dungeons - Revisited
+     12186    Hammet's Dungeon Pack
+     2625     Hidden Hideouts of Skyrim
+
+  [Y-1]
+     79473    Auto Parallax
+
+  [Z-7]
+     67725    Better Blended Mushrooms
+     79332    Better Butterflies
+     18033    Cathedral Snow
+     8766     Farmhouse Chimneys
+     19077    GKB Waves
+     78702    Simple Snow Improvements
+     112902   Skyking Signs
+
+==================================================================
+2-PLUGIN   71 mod(s)
+==================================================================
+
+  [A-0]
+     98163    OStim Standalone
+     63512    Toys and Love
+
+  [A-1]
+     45148    Conditional Expressions
+     38563    FK's Diverse Racial Skeletons
+
+  [F-1]
+     87706    Dynamic Key Action Framework
+     29932    Flat World Map Framework
+     78744    Precision Locational Damage
+
+  [F-2]
+     41780    Custom Skills Framework
+
+  [F-4]
+     34549    Blade and Blunt
+     110508   Stagger Effect Fix
+
+  [F-7]
+     26686    Aetherius
+     14910    Andromeda
+     1315     Imperious
+
+  [F-8]
+     96876    Gourmet
+     111890   NPCs Take Cover
+     21061    Penitus Oculatus
+     53143    Prelude to Purgatory
+     2345     Realistic AI Detection
+     132292   SkyParkour v3
+     40102    Smart NPC Potions
+     95196    Sorcerer
+     40802    Undeath - Classical Lichdom
+     56144    YASTM soul trap manager
+
+  [R-2]
+     42538    Fixed and Patched
+     52416    Improved
+     22374    Skyrim Reputation
+     24720    To Your Face
+
+  [R-3]
+     50307    Alternate Perspective
+
+  [V-2]
+     2393     Ethereal Clouds
+     22780    R.A.S.S.
+     80419    Rain Extinguishes Fires
+     68025    Soaking Wet
+     29273    Volumetric Mists
+
+  [V-4]
+     146873   Core Impact Framework
+     2407     Dust Effects
+     3532     Frozen Electrocuted Combustion
+
+  [Y-3]
+     52130    Apothecary
+     19608    Encounter Zones Unlocked
+     51847    Headhunter
+     61015    Honed Metal
+     57138    Thaumaturgy
+
+  [Y-5]
+     65708    Caught Red Handed
+     66666    College of Winterhold
+     57285    House of Horrors
+     80974    Innocence Lost
+     22206    Konahrik's Accoutrements
+     20514    Obscure's College of Winterhold
+     51711    Paarthurnax
+     72772    Skyrim Extended Cut - Saints and Seducers
+     57683    The Only Cure
+     76606    The Whispering Door
+
+  [Y-6]
+     56123    CoMAP marker addons
+
+  [Y-8]
+     21220    Alternate Conversation Camera
+     667      Campfire
+     29194    Interesting NPCs (3DNPC)
+     13409    Patch Compendium
+     2650     RS Children Overhaul
+
+  [Z-1]
+     61251    LOD Unloading Bug Fix
+     97155    SCROTE script optimization
+     160704   Skyrim Cell Load Freeze Fix NG
+     62413    WIDeadBodyCleanupScript Crash Fix
+
+  [Z-3]
+     99619    Artificer
+     43500    Enhanced Reanimation
+     59529    Lock Add-ons
+     4455     Lost Grimoire
+     49681    Open World Loot
+     54099    Pilgrim - A Religion Overhaul
+     62781    Regional Locks
+     148388   Sanguine Symphony
+     58224    Security Overhaul SKSE - Lock Variations
+     66908    Take a Peek
+
+==================================================================
+3-FREE   25 mod(s)
+==================================================================
+
+  [F-3]
+     54309    Auto Input Switch
+
+  [R-1]
+     62861    Seasons of Skyrim SKSE
+
+  [U-1]
+     166086   Norden UI
+     75188    Untarnished UI
+     176230   Vel'dun UI
+
+  [V-3]
+     153919   Lux CS
+
+  [Y-7]
+     34100    Armor Variants Expansion
+     1067     Beards
+     55030    HDT-SMP for Cloaks and Capes
+     3240     Left Hand Rings Modified
+     112481   Nirn Necessities SMP
+     63979    Vanilla hair remake
+
+  [Z-2]
+     91701    Photo Mode
+
+  [Z-4]
+     36063    Authentic Eyes
+     1139     Horns Are Forever
+     62508    Koralina's Freckles and Moles
+     63181    Valkyr HDT-SMP Hairstyles
+     19594    Weathered Nordic Bodypaints
+
+  [Z-5]
+     132629   Chevalier's Armor Set HDT-SMP
+     1953     Face Masks of Skyrim
+     107437   Gryphonknight Regalia SMP and PBR
+     141700   Master Thief Armor 3BA-BHUNP
+     13571    Pierced Ears
+     49030    Reforging - To the Masses
+     2385     Wizard Hats
+

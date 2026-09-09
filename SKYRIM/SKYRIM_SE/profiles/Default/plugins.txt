@@ -132,7 +132,6 @@
 *AI Overhaul - USSEP Patch.esp
 *The Amazing World of Bikini Armors REMASTERED.esp
 *BentPines.esp
-*Simplicity of Snow.esp
 *SDA CC Umbra Patch.esp
 *SDA Wintersun Patch.esp
 *noCamColl_2_SE.esp
@@ -270,3 +269,15 @@
 *WACCF_BashedPatchLvlListFix.esp
 *DynDOLOD.esp
 *Occlusion.esp
+*Northern Roads.esp
+*BFCO NG.esp
+*Rent a Bath - Dirt and Blood Addon.esp
+*Vanaheimr - Northern Roads - PBR.esp
+*Northern Roads - Terrain Helper Patch.esp
+*SCSI-ACTbfco-Main.esp
+*InnBath.esp
+*Vanaheimr Landscapes - SnowShader.esp
+*Vanaheimr Landscapes.esp
+*Better Dynamic Snow SE - DisableRefs.esm
+*Better Dynamic Snow SE.esp
+*Northern Roads - PBR.esp

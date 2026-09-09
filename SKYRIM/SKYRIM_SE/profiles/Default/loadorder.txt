@@ -322,3 +322,22 @@ Lux - Tundra Homestead patch.esp
 Lux - Umbra CC.esp
 Lux - Wintersun patch.esp
 Lux - Wraithguard patch.esp
+OStim.esp
+OStimNPCs.esp
+OCrime.esp
+Law and OStim.esp
+OProstitution.esp
+WD03OTrainers.esp
+OPIrresistible.esp
+OHorny.esp
+OEndurance.esp
+OstimAdvancedMatchmaker.esp
+OStimSimpleDialog.esp
+OWintersun.esp
+Blood and OStim.esp
+OStimCommunityResource.esp
+iWant Widgets.esl
+OAroused.esp
+OSLAroused.esp
+SexLabAroused.esm
+SensualNeedsOstim.esp

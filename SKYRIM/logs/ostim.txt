@@ -1,0 +1,527 @@
+﻿=== OSL Aroused (65454) ===
+
+=== install mod (APPLY) ===
+
+
+=== OSL Aroused - Arousal Reborn  (mod 65454, skyrimspecialedition) ===
+    by ozooma10   version 2.9.3
+
+--- OSL Aroused FOMOD 2.9.3 ---
+    file id  795501   category MAIN   version 2.9.3
+    OSL Aroused FOMOD 2.9.3 65454 2.9.3 2026-08-26T17-27Z QRde319c0.zip   (0.7 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\OSL Aroused FOMOD 2.9.3 65454 2.9.3 
+2026-08-26T17-27Z QRde319c0.zip
+
+
+--- OSL Aroused FOMOD 2.9.3 65454 2.9.3 2026-08-26T17-27Z QRde319c0.zip ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Devious Devices  [SelectAtMostOne]
+         - Devious Devices NG + DD 5.2
+         - Devious Devices Version 5.2 ONLY
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped OSL Aroused
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== OStim NPCs (82888) ===
+
+=== install mod (APPLY) ===
+
+
+=== OStim NPCs - NPC Sex Lives Improved  (mod 82888, skyrimspecialedition) ===
+    by Aietos   version 2.1.0
+
+--- OStim NPCs - NPC Sex Lives Improved ---
+    file id  766436   category MAIN   version 2.1.0
+    OStim NPCs - NPC Sex Lives Improved 82888 2.1.0 2026-06-21T18-31Z Ks18n0cfh.zip   (0.2 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\OStim NPCs - NPC Sex Lives Improved 82888 2.1.0 
+2026-06-21T18-31Z Ks18n0cfh.zip
+
+
+--- OStim NPCs - NPC Sex Lives Improved 82888 2.1.0 2026-06-21T18-31Z Ks18n0cfh.zip ---
+  name      OStim NPCs
+  data root OStim NPCs - 2.1.0
+  35 file(s), 1 plugin(s)
+      OStimNPCs.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             OStim NPCs
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== OCrime (64150) ===
+
+=== install mod (APPLY) ===
+
+
+=== OStim - OCrime  (mod 64150, skyrimspecialedition) ===
+    by ferret99gt   version 1.4
+
+--- OCrime ---
+    file id  266408   category MAIN   version 1.4
+    OCrime-64150-1-4-1645671405.zip   (0 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\OCrime-64150-1-4-1645671405.zip
+
+
+--- OCrime-64150-1-4-1645671405.zip ---
+  name      OCrime
+  data root <archive root>
+  7 file(s), 1 plugin(s)
+      OCrime.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             OCrime
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Law and OStim (154328) ===
+
+=== install mod (APPLY) ===
+
+
+=== Law and OStim - OStim Crime Integration  (mod 154328, skyrimspecialedition) ===
+    by VersuchDrei   version 1.1
+
+--- Law and OStim ---
+    file id  644811   category MAIN   version 1.1
+    Law and OStim-154328-1-1-1751833691.zip   (1.2 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Law and OStim-154328-1-1-1751833691.zip
+
+
+--- Law and OStim-154328-1-1-1751833691.zip ---
+  name      Law and OStim
+  data root <archive root>
+  144 file(s), 1 plugin(s)
+      Law and OStim.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Law and OStim
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== OProstitution NG (105467) ===
+
+=== install mod (APPLY) ===
+
+
+=== OProstitution NG for OStim Standalone  (mod 105467, skyrimspecialedition) ===
+    by nightangel6048   version 1.0
+
+--- OProstitution NG ---
+    file id  465618   category MAIN   version 1.01
+    OProstitution NG-105467-1-01-1706443436.7z   (0.2 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\OProstitution NG-105467-1-01-1706443436.7z
+
+
+--- OProstitution NG-105467-1-01-1706443436.7z ---
+  name      OProstitution NG
+  data root <archive root>
+  48 file(s), 1 plugin(s)
+      OProstitution.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             OProstitution NG
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== OTrainers (101830) ===
+
+=== install mod (APPLY) ===
+
+
+=== OTrainers - OStim Standalone  (mod 101830, skyrimspecialedition) ===
+    by WildAdmiral   version 2.1
+
+--- OTrainers - OStim Standalone ---
+    file id  431114   category MAIN   version 2.1
+    OTrainers - OStim Standalone-101830-2-1-1696428342.zip   (0.1 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\OTrainers - OStim 
+Standalone-101830-2-1-1696428342.zip
+
+
+--- OTrainers - OStim Standalone-101830-2-1-1696428342.zip ---
+  name      OTrainers
+  data root OTrainers - OStim trainers with benefits
+  82 file(s), 1 plugin(s)
+      WD03OTrainers.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             OTrainers
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Irresistible (131386) ===
+
+=== install mod (APPLY) ===
+
+
+=== Irresistible SSE  (mod 131386, skyrimspecialedition) ===
+    by OregonPete   version 1.0
+
+--- Irresistible SSE ---
+    file id  551467   category MAIN   version 1.0
+    Irresistible SSE-131386-1-0-1728755800.7z   (2 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Irresistible SSE-131386-1-0-1728755800.7z
+
+
+--- Irresistible SSE-131386-1-0-1728755800.7z ---
+  name      Irresistible
+  data root <archive root>
+  264 file(s), 1 plugin(s)
+      OPIrresistible.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Irresistible
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== OSurvival Mode SA (160883) ===
+
+=== install mod (APPLY) ===
+
+
+=== OSoundtracks Expansion Sounds - Ostim StandAlone  (mod 160883, skyrimspecialedition) ===
+    by John1995ac   version 18.0.0
+
+--- OSoundtracks SA Expansion Sounds NG ---
+    file id  746838   category MAIN   version 18.0.0
+    OSoundtracks SA Expansion Sounds NG-160883-18-0-0-1777410590.7z   (223.4 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\OSoundtracks SA Expansion Sounds 
+NG-160883-18-0-0-1777410590.7z
+
+
+--- OSoundtracks SA Expansion Sounds NG-160883-18-0-0-1777410590.7z ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: OSoundtracks Expansion Sounds SA  [SelectExactlyOne]
+         - Continued
+      group: Advanced MCM  [SelectExactlyOne]
+         - MCM
+      group: Prisma UI  [SelectExactlyOne]
+         - Prisma UI
+      group: Thanks  [SelectExactlyOne]
+         - Press and finish
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped OSurvival Mode SA
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Sensual Needs (22471) ===
+
+=== install mod (APPLY) ===
+
+
+=== Sensual Needs for Flower Girls or SexLab or Ostim  (mod 22471, skyrimspecialedition) ===
+    by Shizof   version 0.3.2
+
+--- Sensual Needs FOMOD ---
+    file id  728161   category MAIN   version 0.3.2
+    Sensual Needs FOMOD-22471-0-3-2-1772710976.rar   (0.2 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Sensual Needs FOMOD-22471-0-3-2-1772710976.rar
+
+
+--- Sensual Needs FOMOD-22471-0-3-2-1772710976.rar ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Version  [SelectExactlyOne]
+         - Flower Girls
+         - SexLab
+         - Ostim
+         - Flower Girls and SexLab
+         - Ostim and SexLab
+      group: Choose ESP  [SelectExactlyOne]
+         - ESP
+         - ESL Flagged ESP
+      group: Choose ESP  [SelectExactlyOne]
+         - ESP
+         - ESL Flagged ESP
+      group: Choose ESP  [SelectExactlyOne]
+         - ESP
+         - ESL Flagged ESP
+      group: Choose ESP  [SelectExactlyOne]
+         - ESP
+         - ESL Flagged ESP
+      group: Choose ESP  [SelectExactlyOne]
+         - ESP
+         - ESL Flagged ESP
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Sensual Needs
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== OHorny (137425) ===
+
+=== install mod (APPLY) ===
+
+
+=== OHorny - NPCs will watch you and masturbate while you are in Ostim Standalone Scene  (mod 
+137425, skyrimspecialedition) ===
+    by daubuoibuoi   version 1.1.2
+
+--- OHorny ---
+    file id  605378   category MAIN   version 1.1.2
+    OHorny-137425-1-1-2-1741928437.7z   (0 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\OHorny-137425-1-1-2-1741928437.7z
+
+
+--- OHorny-137425-1-1-2-1741928437.7z ---
+  name      OHorny
+  data root <archive root>
+  3 file(s), 1 plugin(s)
+      OHorny.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             OHorny
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== OEndurance (61403) ===
+
+=== install mod (APPLY) ===
+
+
+=== OEndurance  (mod 61403, skyrimspecialedition) ===
+    by VersuchDrei   version 2.1
+
+--- OEndurance ---
+    file id  421955   category MAIN   version 2.1
+    OEndurance-61403-2-1-1693379322.7z   (0 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\OEndurance-61403-2-1-1693379322.7z
+
+
+--- OEndurance-61403-2-1-1693379322.7z ---
+  name      OEndurance
+  data root <archive root>
+  9 file(s), 1 plugin(s)
+      OEndurance.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             OEndurance
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Advanced Matchmaker (136681) ===
+
+=== install mod (APPLY) ===
+
+
+=== Advanced Matchmaker for OStim Standalone  (mod 136681, skyrimspecialedition) ===
+    by Bellbound   version 1.0.4.2
+
+--- Advanced Matchmaker for OStim Standalone ---
+    file id  713870   category MAIN   version 1.0.4.2
+    Advanced Matchmaker for OStim Standalone-136681-1-0-4-2-1769426107.zip   (0.3 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Advanced Matchmaker for OStim 
+Standalone-136681-1-0-4-2-1769426107.zip
+
+
+--- Advanced Matchmaker for OStim Standalone-136681-1-0-4-2-1769426107.zip ---
+  name      Advanced Matchmaker
+  data root <archive root>
+  11 file(s), 1 plugin(s)
+      OstimAdvancedMatchmaker.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Advanced Matchmaker
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== OStim Simple Dialog (104194) ===
+
+=== install mod (APPLY) ===
+
+
+=== OStim Simple Dialog  (mod 104194, skyrimspecialedition) ===
+    by lilmetal   version 3.1.2
+
+--- OStim Simple Dialog ---
+    file id  788746   category MAIN   version 3.1.2
+    OStim Simple Dialog 104194 3.1.2 2026-08-12T03-45Z 4t2yDcZqL.zip   (0 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\OStim Simple Dialog 104194 3.1.2 
+2026-08-12T03-45Z 4t2yDcZqL.zip
+
+
+--- OStim Simple Dialog 104194 3.1.2 2026-08-12T03-45Z 4t2yDcZqL.zip ---
+  name      OStim Simple Dialog
+  data root <archive root>
+  19 file(s), 1 plugin(s)
+      OStimSimpleDialog.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             OStim Simple Dialog
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== OWintersun NG (97774) ===
+
+=== install mod (APPLY) ===
+
+
+=== owintersun ng  (mod 97774, skyrimspecialedition) ===
+    by 321mahra   version 1.13
+
+--- owintersun ---
+    file id  492605   category MAIN   version 1.13
+    owintersun-97774-1-13-1713546461.rar   (0 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\owintersun-97774-1-13-1713546461.rar
+
+
+--- owintersun-97774-1-13-1713546461.rar ---
+  name      OWintersun NG
+  data root OWintersun NG
+  4 file(s), 1 plugin(s)
+      OWintersun.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             OWintersun NG
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Blood and OStim (182357) ===
+
+=== install mod (APPLY) ===
+
+
+=== Blood and OStim  (mod 182357, skyrimspecialedition) ===
+    by VersuchDrei   version 1.0d
+
+--- Blood And OStim ---
+    file id  786140   category MAIN   version 1.0d
+    Blood And OStim 182357 1.0d 2026-08-06T10-14Z 8gJHT4FnF.zip   (1.5 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Blood And OStim 182357 1.0d 2026-08-06T10-14Z 
+8gJHT4FnF.zip
+
+
+--- Blood And OStim 182357 1.0d 2026-08-06T10-14Z 8gJHT4FnF.zip ---
+  name      Blood and OStim
+  data root <archive root>
+  467 file(s), 1 plugin(s)
+      Blood and OStim.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Blood and OStim
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== BATCH COMPLETE ===

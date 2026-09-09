@@ -81,6 +81,8 @@ ccafdsse001-dwesanctuary.esm
 _ResourcePack.esl
 unofficial skyrim special edition patch.esp
 unofficial skyrim creation club content patch.esl
+SimplyOptimizedScripts.esl
+RSkyrimChildren.esm
 FarmhouseChimneys.esp
 Landscape and Water Fixes.esp
 MajesticMountains_Landscape.esm
@@ -88,6 +90,8 @@ BSAssets.esm
 BSHeartland.esm
 Alpine Forest of Whiterun Valley.esp
 Cathedral - 3D Mountain Flowers.esp
+JK's College of Winterhold.esp
+3DNPC.esp
 Natural Waterfalls.esp
 GKBWavesReborn.esp
 MajesticMountains_Moss.esp
@@ -98,11 +102,17 @@ DX Witch Hunter Armor.esl
 Black Widow Outfit.esl
 Cassandra Apocrypha UNP.esl
 Cassandra Frost Witch.esl
+JK's Blue Palace.esp
+Skyrim Extended Cut - Saints and Seducers.esp
 BS_DLC_patch.esp
 AnimatedShips.esl
+DA_Skyship.esm
 Lux Orbis - Master plugin.esm
+Penitus_Oculatus.esp
 HammetDungeon01.esm
 NoBrokenWhiterunTower.esp
+OCF.esp
+Campfire.esm
 Better Dynamic Snow SE - DisableRefs.esm
 Vigilant.esm
 Ursine Armor Pack.esl
@@ -111,6 +121,7 @@ Celes Nightingale Armor.esl
 Celes Rogue Armor UNP.esl
 Celes Tarot Outfit Cloth UNP.esl
 Crimson Blood Armor.esl
+JKs The Drunken Huntsman.esp
 Wyrmstooth.esp
 evgSIRENROOT.esm
 Emfy Cleric Robes.esl
@@ -135,7 +146,6 @@ Spartan Bard Outfit.esl
 Stella Mithril Armor.esl
 Tembtra Thief Armor.esl
 WildHuntress.esl
-OCF.esp
 TrueHUD.esl
 EVGAnimatedTraversal.esl
 iWant Widgets.esl
@@ -154,8 +164,9 @@ Natural Waterfalls - Dawnguard.esp
 SnozzResources.esp
 Natural Waterfalls - Dragonborn.esp
 DynDOLOD.esm
-HD Lods SSE.esp
 SkyUI_SE.esp
+Occlusion.esp
+HD Lods SSE.esp
 I4IconAddon.esp
 SMIM-SE-Merged-All.esp
 Audio Overhaul Skyrim.esp
@@ -168,84 +179,143 @@ S3DTrees NextGenerationForests.esp
 DepthsOfSkyrim.esp
 Lux Orbis.esp
 COTN - Falkreath.esp
+COTN - Morthal.esp
 Landscape Fixes For Grass Mods.esp
+Thaumaturgy.esp
+Navigator-NavFixes.esp
+Book Covers Skyrim.esp
+moretosaycityguards.esp
 COTN - Dawnstar.esp
 Resources - The Great Cities.esp
 The Great City of Winterhold v4.esp
-COTN - Morthal.esp
 Eli_Skaal Village Overhaul.esp
-Navigator-NavFixes.esp
 Lux Orbis CS.esp
 Folkvangr - Grass and Landscape Overhaul.esp
-Book Covers Skyrim.esp
 AI Overhaul.esp
 Guard Dialogue Overhaul.esp
 aMidianBorn_Book of Silence.esp
 Orc Strongholds - All In One.esp
 The Great Town of Ivarstead.esp
+JK's Understone Keep.esp
 WindhelmSSE.esp
 The Great Town of Karthwasten.esp
 JK's Raven Rock.esp
+JK's The Bards College.esp
 The Great Town of Shor's Stone.esp
 The Great Village of Kynesgrove.esp
 SurWR.esp
 The Great Village of Old Hroldan.esp
+JK's Castle Dour.esp
 Undeath.esp
 weapons armor clothing & clutter fixes.esp
 WhiteRiverWatch.esp
 The Great City of Solitude.esp
+JK's High Hrothgar.esp
 SeranaDialogAddon.esp
 Summermyst - Enchantments of Skyrim.esp
 DungeonsRevisited.esp
+Apothecary.esp
+JK's The Winking Skeever.esp
+JK's Temple of the Divines.esp
+JK's Sky Haven Temple.esp
 Odin - Skyrim Magic Overhaul.esp
 The Great Village of Mixwater Mill.esp
 Hand Placed Enemies - Light.esp
 Redoran.esp
 Ryn's Standing Stones.esp
+JK's Arnleif and Sons Trading Company.esp
+JK's Jorrvaskr.esp
+JK's Mistveil Keep.esp
+JK's Haelga's Bunkhouse.esp
+JK's Temple of Mara.esp
+JK's Palace of the Kings.esp
+JK's Temple of Dibella.esp
 Brittleshin.esp
+JK's The Hag's Cure.esp
 Unmarked Locations Pack - All In One.esp
 Nordic Ruins of Skyrim.esp
 Embershard.esp
 Stormcrown.esp
+Open World Loot.esp
+Gourmet.esp
 thieves guild requirements.esp
+UndeathFixes.esp
+JK's Sinderion's Field Laboratory.esp
+Pilgrim.esp
 NewArmoury.esp
 S3DRocks.esp
 MajesticMountains.esp
 SnowOverSkyrim.esp
 Turn of the Seasons.esp
+JK's Dragonsreach.esp
+JK's Silver-Blood Inn.esp
+JK's Elgrims Elixirs.esp
 TOTS - Icy Waterways.esp
+JK's Bee and Barb.esp
 Environs - Kolskeggr.esp
+JK's New Gnisis Cornerclub.esp
+JK's The Pawned Prawn.esp
 Wintersun - Faiths of Skyrim.esp
 Lit Road Signs.esp
+JK's Radiant Raiment.esp
 Dwarfsphere.esp
 Morning Fogs SSE.esp
+JK's Riverwood Trader.esp
 JK's Riverwood.esp
+Northern Bathhouses.esp
 man_DaedricShrines.esp
 CollegeEntry.esp
 Riften Docks Overhaul.esp
 Ryn's Halted Stream Camp.esp
 Inigo.esp
+JK's The Bannered Mare.esp
+JK's White Phial.esp
+ECSS - Staff of Sheogorath Patch.esp
 HLIORemi.esp
 The Great City of Dragon Bridge.esp
 WhiterunDefenses.esp
 UniqueBorderGates-All.esp
 At Your Own Pace - College of Winterhold.esp
 WiZkiD Hunter's Camp Overhaul.esp
-waterplants_lily.esp
-018Auri.esp
-Relationship Dialogue Overhaul.esp
 Immersive Weapons.esp
-TheChoiceIsYours.esp
-pantiesofskyrim.esp
-SofiaFollower.esp
-GraywinterWatch.esp
-HHoS Secluded Grotto DI.esp
-Environs - Greenwood Shack.esp
-Triumvirate - Mage Archetypes.esp
-RaceMenu.esp
 Remodeled Armor - Vanilla Replacer.esp
 Remodeled Armor - WACCF.esp
 BD Armor and clothes replacer.esp
+imp_helm_legend.esp
+JK's Sleeping Giant Inn.esp
+JK's Angelines Aromatics.esp
+JK's Temple of Talos.esp
+JK's Candlehearth Hall.esp
+JK's The Ragged Flagon.esp
+konahrik_accoutrements.esp
+JK's Septimus Signus's Outpost.esp
+Innocence Lost - Quest Expansion.esp
+waterplants_lily.esp
+GourmetTables.esp
+JK's Bits and Pieces.esp
+JK's Warmaiden's.esp
+JK's Arcadia's Cauldron.esp
+018Auri.esp
+Relationship Dialogue Overhaul.esp
+TheChoiceIsYours.esp
+pantiesofskyrim.esp
+SaveTheIcerunner.esp
+SofiaFollower.esp
+moretodo.esp
+CWRepairs.esp
+The Heart Of Dibella - Quest Expansion.esp
+JK's Sadris Used Wares.esp
+JK's Temple of Kynareth.esp
+Tools of Kagrenac.esp
+TheOnlyCureQuestExpansion.esp
+GraywinterWatch.esp
+Growl - Werebeasts of Skyrim.esp
+Additional Contracts For the Dark Brotherhood.esp
+HHoS Secluded Grotto DI.esp
+moretosayfalkreath.esp
+Environs - Greenwood Shack.esp
+Triumvirate - Mage Archetypes.esp
+RaceMenu.esp
 CBBE.esp
 RaceMenuPlugin.esp
 RaceMenuMorphsCBBE.esp
@@ -257,8 +327,9 @@ Animated Immersive Weaps.esp
 Unique Uniques.esp
 evgmodularSMPhair.esp
 BladeAndBlunt.esp
+ECSS - Shadowrend Patch.esp
+PaarthurnaxQuestExpansion.esp
 Apocalypse - Magic of Skyrim.esp
-Growl - Werebeasts of Skyrim.esp
 KSHairdosSMP.esp
 KSWigsSMP.esp
 FSMPM - The FSMP MCM.esp
@@ -276,19 +347,28 @@ BetterCraftedPotions.esp
 BetterThirdPersonSelection.esp
 Blubbo_again_an_aspen_replacer_2023.esp
 ForgottenCity.esp
+College Of Winterhold - Quest Expansion.esp
 Environs - Tundra Farmhouse.esp
 HHoS Sundered Mountain Peak DI.esp
+LeapsOfFaith.esp
 HHoS Glacial Rift DI.esp
+RSChildren.esp
 AI Overhaul - USSEP Patch.esp
+SkyrimReputation_SSE.esp
 Missives.esp
 HHoS River Inlet DI.esp
 HHoS Deserted Outpost DI.esp
 HHoS Subterranean Hot Spring DI.esp
 HHoS Maintenance Vestibule DI.esp
 HHoS Flooded Cellar DI.esp
+Nilheim_MiscQuestExpansion.esp
 The Amazing World of Bikini Armors REMASTERED.esp
 HHoS Overgrown Temple DI.esp
+Caught Red Handed - Quest Expansion.esp
 HHoS Mountainside Crevice DI.esp
+LCO_Framework.esp
+Headhunter - Bounties Redone.esp
+moretosayrorikstead.esp
 BentPines.esp
 SDA CC Umbra Patch.esp
 SDA Wintersun Patch.esp
@@ -347,6 +427,14 @@ NPCsReactToFrenzy.esp
 Sleeping Expanded.esp
 TimingIsEverything.esp
 MundusUSSEP.esp
+HHoS Bottomless Sinkhole DI.esp
+Lucien.esp
+HHoS Marooned Cargo Ship DI.esp
+Environs - Riften Warehouse.esp
+Environs - Hroggars House.esp
+HHoS Underground Pit DI.esp
+HHoS Windswept Alcove DI.esp
+Riften_Bathhouse.esp
 The Book of Origins.esp
 The Book of Origins - Alternate Start.esp
 TrueStormsSE.esp
@@ -357,24 +445,22 @@ Rumble - Jumping - AOS Patch.esp
 Rumble - Swimming - AOS Patch.esp
 Rumble - Weapons - AOS Patch.esp
 TrueStormsSE_AOS.esp
-HHoS Bottomless Sinkhole DI.esp
-Lucien.esp
-HHoS Marooned Cargo Ship DI.esp
-Environs - Riften Warehouse.esp
-Environs - Hroggars House.esp
-HHoS Underground Pit DI.esp
-HHoS Windswept Alcove DI.esp
 HHoS Hollow Tree Stump DI.esp
+CoMAP - Shrines and Altars.esp
 BeyondSkyrimMerchant.esp
 HHoS Seaside Cove DI.esp
+moretosaywhiterun.esp
+moretosayriverwood.esp
+moretosayshorsstone.esp
 HHoS Abandoned Wolf Den DI.esp
+Faction Ranks.esp
+Listen.esp
 AI Overhaul - Fishing Addon.esp
 AHZmoreHUD.esp
 UntarnishedUI_Subtitle.esp
 FNIS.esp
 EVGConditionalIdles.esp
 SkyHUD.esp
-imp_helm_legend.esp
 Shrubs of Snow.esp
 SeasonalWildlifeDistribution.esp
 Seasonal Alchemy.esp
@@ -383,6 +469,7 @@ OStim.esp
 OStimNPCs.esp
 Law and OStim.esp
 WD03OTrainers.esp
+LostGrimoire.esp
 HHoS Ransacked Catacomb DI.esp
 HHoS Collapsed Mine DI.esp
 OStimCommunityResource.esp
@@ -425,19 +512,87 @@ evgSIRENROOTtraversalpatch.esp
 HappyLittleTrees.esp
 StormLightning.esp
 Dynamic Things Alternative.esp
-LCO_Framework.esp
 HHoS Ancient Shrine DI.esp
 HHoS Empty Well DI.esp
 Missives - Heartland.esp
 Missives - Solstheim.esp
 Missives - Wyrmstooth.esp
+metaSkillMenu.esp
+Pyromancy.esp
+Cryomancy.esp
+Haemophilia.esp
+NPCs Take Cover.esp
+Realistic AI Detection 3 - Lite.esp
+SkyParkour.esp
+Smart_NPC_Potions.esp
+PreludeToPurgatory.esp
+Skyrim Reputation Improved.esp
+Skyrim Reputation Patch.esp
+HouseOfHorrorsQuestExpansion.esp
+3DNPC0.esp
+3DNPC1.esp
+fixLOD.esp
+Sanguine Symphony.esp
+Take A Peek - New Stealth Mechanic.esp
+CompanionsTweaks.esp
+Extended Bandit Dialogue.esp
+Vampire Lines Expansion.esp
+JKs Temple of Dibella - AI Overhaul patch.esp
+HonedMetal.esp
+SergiousTurrianus_HM.esp
+YASTM.esp
+YASTM_MCM.esp
+YASTM_GuardDialogueOverhaulPatch.esp
+YASTM_InigoPatch.esp
+YASTM_UndeathPatch.esp
+YASTM_VigilantPatch.esp
+PilgrimCyrodiilPatch.esp
+PilgrimOdinPatch.esp
+BountiesRedone_MissivesExtension.esp
+BountiesRedone_Missives_Wyrmstooth.esp
+BountiesRedone_Missives_Bruma.esp
+BountiesRedone_Missives_Solstheim.esp
+Headhunter - Leveled Rewards.esp
+The Whispering Door - Quest Expansion.esp
+The Whispering Door QE - 3DNPC Patch.esp
+The Whispering Door QE - EVGAT Patch.esp
+The Whispering Door QE - USSEP Patch.esp
+Innocence Lost QE - USSEP Patch.esp
+GourmetUSSEP.esp
+CoMAP - Jorrvaskr Marker.esp
+CoMAP - KhajiitCaravans.esp
+CoMAP - Ruin Marker Shadows.esp
+CoMAP - Stendarr Marker.esp
+CompanionsProgressionRequirements.esp
+VolumeticMists.esp
+VolumeticMistsSolstheim.esp
+CYA_ChooseYourOwnArchMage.esp
+RainExtinguishesFires.esp
+CWR_JKTemple_Patch.esp
+RSChildren Patch - BS Bruma.esp
+guardencounters.esp
+moretosaygeneric.esp
+moretosaykarthwasten.esp
+moretosayriften.esp
+The Whispering Door QE - More To Say Patch.esp
+moretosaywinterhold.esp
+mtsfollowerbanter.esp
+priestsgrantblessings.esp
+secretofrorikstead.esp
+ECSS - Book Covers Skyrim Patch.esp
+ECSS - Ruin's Edge Patch.esp
+Additional Dremora Faces.esp
+Dremora Lines Expansion.esp
 Aetherius.esp
 trade & barter.esp
 Ordinator - Perks of Skyrim.esp
+DynDOLOD.esp
+PilgrimOrdinatorPatch.esp
 Sacrosanct - Vampires of Skyrim.esp
 Mundus.esp
 AlternatePerspective.esp
 Lux.esp
+Lux - Live Another Life patch.esp
 Lux - HDR.esp
 Lux CS - Bulbs.esp
 Lux CS Templates - Default.esp
@@ -452,7 +607,6 @@ Lux - Goblins CC.esp
 Lux - Goldbrand CC.esp
 Lux - Hendraheim patch.esp
 Lux - Inigo.esp
-Lux - Live Another Life patch.esp
 Lux - Lucien.esp
 Lux - Nchuanthumz Dwarven Home patch.esp
 Lux - Necrohouse patch.esp
@@ -468,159 +622,5 @@ Lux - Wintersun patch.esp
 WACCF_BashedPatchLvlListFix.esp
 NoGrassias.esp
 A Clear Map of Skyrim.esp
-DynDOLOD.esp
-Occlusion.esp
-metaSkillMenu.esp
-Pyromancy.esp
-Cryomancy.esp
-Haemophilia.esp
-NPCs Take Cover.esp
-Penitus_Oculatus.esp
-PreludeToPurgatory.esp
-Realistic AI Detection 3 - Lite.esp
-SkyParkour.esp
-Smart_NPC_Potions.esp
-UndeathFixes.esp
-Skyrim Reputation Patch.esp
-Skyrim Reputation Improved.esp
-SkyrimReputation_SSE.esp
-Apothecary.esp
-Thaumaturgy.esp
-Caught Red Handed - Quest Expansion.esp
-College Of Winterhold - Quest Expansion.esp
-HouseOfHorrorsQuestExpansion.esp
-konahrik_accoutrements.esp
-PaarthurnaxQuestExpansion.esp
-TheOnlyCureQuestExpansion.esp
-Campfire.esm
-3DNPC.esp
-3DNPC0.esp
-3DNPC1.esp
-fixLOD.esp
-SimplyOptimizedScripts.esl
-LostGrimoire.esp
-Open World Loot.esp
-Sanguine Symphony.esp
-Take A Peek - New Stealth Mechanic.esp
-Listen.esp
-Additional Contracts For the Dark Brotherhood.esp
-Faction Ranks.esp
-CompanionsTweaks.esp
-Tools of Kagrenac.esp
-Nilheim_MiscQuestExpansion.esp
-The Heart Of Dibella - Quest Expansion.esp
-LeapsOfFaith.esp
-SaveTheIcerunner.esp
-Extended Bandit Dialogue.esp
-Vampire Lines Expansion.esp
-Dremora Lines Expansion.esp
-JK's Dragonsreach.esp
-JK's The Bannered Mare.esp
-JK's Belethor's General Goods.esp
-JK's Arcadia's Cauldron.esp
-JKs The Drunken Huntsman.esp
-JK's Warmaiden's.esp
-JK's Sleeping Giant Inn.esp
-JK's The Winking Skeever.esp
-JK's Blue Palace.esp
-JK's Palace of the Kings.esp
-JK's Radiant Raiment.esp
-JK's Angelines Aromatics.esp
-JK's Bits and Pieces.esp
-JK's Candlehearth Hall.esp
-JK's New Gnisis Cornerclub.esp
-JK's Bee and Barb.esp
-JK's Temple of Mara.esp
-JK's Mistveil Keep.esp
-JK's Sadris Used Wares.esp
-JK's White Phial.esp
-JK's Elgrims Elixirs.esp
-JK's The Ragged Flagon.esp
-JK's High Hrothgar.esp
-JK's Arnleif and Sons Trading Company.esp
-JK's Temple of Dibella.esp
-JK's Riverwood Trader.esp
-JK's Understone Keep.esp
-JK's Temple of Kynareth.esp
-JK's The Pawned Prawn.esp
-JK's The Hag's Cure.esp
-JK's Silver-Blood Inn.esp
-JK's Sky Haven Temple.esp
-JK's Haelga's Bunkhouse.esp
-JK's Temple of the Divines.esp
-JK's Jorrvaskr.esp
-JK's Temple of Talos.esp
-JK's Septimus Signus's Outpost.esp
-JK's College of Winterhold.esp
-JK's The Bards College.esp
-JK's Castle Dour.esp
-JK's Sinderion's Field Laboratory.esp
-Northern Bathhouses.esp
-Riften_Bathhouse.esp
-DA_Skyship.esm
-JKs Temple of Dibella - AI Overhaul patch.esp
-HonedMetal.esp
-SergiousTurrianus_HM.esp
-YASTM.esp
-YASTM_GuardDialogueOverhaulPatch.esp
-YASTM_InigoPatch.esp
-YASTM_LucienAnniversaryEditionPatch.esp
-YASTM_MCM.esp
-YASTM_UndeathPatch.esp
-YASTM_VigilantPatch.esp
-Pilgrim.esp
-PilgrimCyrodiilPatch.esp
-PilgrimOdinPatch.esp
-PilgrimOrdinatorPatch.esp
-BountiesRedone_MissivesExtension.esp
-BountiesRedone_Missives_Bruma.esp
-BountiesRedone_Missives_Solstheim.esp
-BountiesRedone_Missives_Wyrmstooth.esp
-Headhunter - Bounties Redone.esp
-Headhunter - Leveled Rewards.esp
-The Whispering Door - Quest Expansion.esp
-The Whispering Door QE - 3DNPC Patch.esp
-The Whispering Door QE - EVGAT Patch.esp
-The Whispering Door QE - More To Say Patch.esp
-The Whispering Door QE - USSEP Patch.esp
-Innocence Lost - Quest Expansion.esp
-Innocence Lost QE - USSEP Patch.esp
-Gourmet.esp
-GourmetTables.esp
-GourmetUSSEP.esp
-CoMAP - Jorrvaskr Marker.esp
-CoMAP - KhajiitCaravans.esp
-CoMAP - Ruin Marker Shadows.esp
-CoMAP - Shrines and Altars.esp
-CoMAP - Stendarr Marker.esp
-CompanionsProgressionRequirements.esp
-VolumeticMists.esp
-VolumeticMistsSolstheim.esp
-CYA_ChooseYourOwnArchMage.esp
-RainExtinguishesFires.esp
-CWRepairs.esp
-CWR_JKTemple_Patch.esp
-RSChildren Patch - BS Bruma.esp
-RSChildren.esp
-RSkyrimChildren.esm
-guardencounters.esp
-moretodo.esp
-moretosaycityguards.esp
-moretosayfalkreath.esp
-moretosaygeneric.esp
-moretosaykarthwasten.esp
-moretosayriften.esp
-moretosayriverwood.esp
-moretosayrorikstead.esp
-moretosayshorsstone.esp
-moretosaywhiterun.esp
-moretosaywinterhold.esp
-mtsfollowerbanter.esp
-priestsgrantblessings.esp
-secretofrorikstead.esp
-ECSS - Book Covers Skyrim Patch.esp
-ECSS - Ruin's Edge Patch.esp
-ECSS - Shadowrend Patch.esp
-ECSS - Staff of Sheogorath Patch.esp
-Skyrim Extended Cut - Saints and Seducers.esp
-Additional Dremora Faces.esp
+SkyrimsGotTalent-Bards.esp
+PerkEntryPointExtender.esl

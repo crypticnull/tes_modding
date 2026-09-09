@@ -622,9 +622,16 @@ old queue.
 
 ### D. Verification tasks carried over
 
-- **Overlays are not confirmed working in game.** `racemenu_overlays.ps1`
-  raised the slot counts and verified by read-back, but the SKSE co-save showed
-  every `OVST` slot empty. Check RaceMenu, then Face Paint, in game.
+- ~~**Overlays are not confirmed working in game.**~~ **CLOSED 2026-09-09.**
+  Matt confirmed them working in play, and said they look good. This was the
+  oldest open verification item in the project.
+  The empty `OVST` slots in the co-save read were a false alarm, and the reason
+  is worth keeping. That save predated `racemenu_overlays.ps1` raising the slot
+  counts, so the co-save genuinely had nothing in those slots, and reading it
+  could only ever have shown empty. The read was correct and the conclusion
+  drawn from it was not, because a co-save records what a character HAS, not
+  what the game can DO. Only a fresh character could answer the question, which
+  is why it stayed open across several sessions of otherwise good evidence.
 - **Toys and Love 63512 against OStim Standalone 98163**, coexistence is
   UNVERIFIED. OStim is the decided spine, Toys and Love was only ever
   interesting for its bondage half. Verify before installing either together.

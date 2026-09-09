@@ -544,3 +544,32 @@ Lux - Live Another Life patch.esp
 *A Clear Map of Skyrim.esp
 *SkyrimsGotTalent-Bards.esp
 *PerkEntryPointExtender.esl
+*AVExpansion.esp
+*Cloaks&Capes SMP.esp
+*HornsAreForever.esp
+*koralinas_freckles_moles.esp
+*_Fuse00HairPack01.esp
+*WNB_WeatheredNordicBodypaints.esp
+*FaceMasksOfSkyrim.esp
+*GVLT_Gryphonknight.esp
+*[FB] Master Thief Armor.esp
+*NosPiercedEarsAll.esp
+*RFM.esm
+*sirwho_Wizard_Hats-Full.esp
+*Faultier's PBR Clutter.esp
+*Faultier's PBR DLC01 architecture.esp
+*Faultier's PBR DLC02 architecture.esp
+*Faultier's PBR Nordic Ruins.esp
+*Faultier's PBR Shacks, Stockades, Mines.esp
+*Faultier's PBR Soul Cairn.esp
+*Faultier's PBR Windhelm.esp
+*ORomance.esp
+*ORomancePlus.esp
+*PhotoMode.esp
+*Beards.esp
+*LeftHandRings-1stPersonView.esp
+*LeftHandRings.esp
+*evgnnsmpaccessories.esp
+*Chevalier's Armor Set.esp
+*Babette has Fangs.esp
+*RSChildren + AI Overhaul Patch.esp

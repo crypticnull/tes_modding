@@ -122,9 +122,11 @@ Tembtra Thief Armor.esl
 WildHuntress.esl
 OCF.esp
 TrueHUD.esl
+EVGAnimatedTraversal.esl
 DynDOLOD.esm
 SkyUI_SE.esp
 HD Lods SSE.esp
+I4IconAddon.esp
 SMIM-SE-Merged-All.esp
 Audio Overhaul Skyrim.esp
 Nature of the Wild Lands.esp
@@ -133,23 +135,27 @@ S3DTrees NextGenerationForests.esp
 Landscape Fixes For Grass Mods.esp
 Folkvangr - Grass and Landscape Overhaul.esp
 Navigator-NavFixes.esp
-Relationship Dialogue Overhaul.esp
 AI Overhaul.esp
 Guard Dialogue Overhaul.esp
 weapons armor clothing & clutter fixes.esp
 SeranaDialogAddon.esp
 thieves guild requirements.esp
 MajesticMountains.esp
-Wintersun - Faiths of Skyrim.esp
-Immersive Weapons.esp
-TheChoiceIsYours.esp
-Lit Road Signs.esp
-pantiesofskyrim.esp
-CollegeEntry.esp
-At Your Own Pace - College of Winterhold.esp
-Triumvirate - Mage Archetypes.esp
 Summermyst - Enchantments of Skyrim.esp
 Odin - Skyrim Magic Overhaul.esp
+Wintersun - Faiths of Skyrim.esp
+Lit Road Signs.esp
+CollegeEntry.esp
+Inigo.esp
+HLIORemi.esp
+At Your Own Pace - College of Winterhold.esp
+018Auri.esp
+Relationship Dialogue Overhaul.esp
+Immersive Weapons.esp
+TheChoiceIsYours.esp
+pantiesofskyrim.esp
+SofiaFollower.esp
+Triumvirate - Mage Archetypes.esp
 RaceMenu.esp
 Remodeled Armor - Vanilla Replacer.esp
 Remodeled Armor - WACCF.esp
@@ -253,6 +259,12 @@ Rumble - Swimming - AOS Patch.esp
 Rumble - Weapons - AOS Patch.esp
 TrueStormsSE_AOS.esp
 AI Overhaul - Fishing Addon.esp
+FNIS.esp
+AHZmoreHUD.esp
+Lucien.esp
+EVGConditionalIdles.esp
+SkyHUD.esp
+UntarnishedUI_Subtitle.esp
 trade & barter.esp
 Ordinator - Perks of Skyrim.esp
 Sacrosanct - Vampires of Skyrim.esp
@@ -261,15 +273,3 @@ alternate start - live another life.esp
 WACCF_BashedPatchLvlListFix.esp
 DynDOLOD.esp
 Occlusion.esp
-FNIS.esp
-AHZmoreHUD.esp
-I4IconAddon.esp
-Inigo.esp
-Lucien.esp
-018Auri.esp
-EVGConditionalIdles.esp
-EVGAnimatedTraversal.esl
-SkyHUD.esp
-UntarnishedUI_Subtitle.esp
-HLIORemi.esp
-SofiaFollower.esp

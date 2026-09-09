@@ -15,8 +15,8 @@ Skyrim - Textures5.bsa
 Skyrim - Textures6.bsa
 Skyrim - Textures7.bsa
 Skyrim - Textures8.bsa
-HD Lods SSE.bsa
 HD Lods SSE - Textures.bsa
+HD Lods SSE.bsa
 ccvsvsse004-beafarmer.bsa
 ccvsvsse003-necroarts.bsa
 ccvsvsse002-pets.bsa
@@ -92,32 +92,32 @@ ccbgssse001-fish.bsa
 ccasvsse001-almsivi.bsa
 ccafdsse001-dwesanctuary.bsa
 _ResourcePack.bsa
-alternate start - live another life.bsa
 alternate start - live another life - textures.bsa
-unofficial skyrim special edition patch.bsa
+alternate start - live another life.bsa
 unofficial skyrim special edition patch - textures.bsa
+unofficial skyrim special edition patch.bsa
 SkyUI_SE.bsa
 Sacrosanct - Vampires of Skyrim.bsa
 Sacrosanct - Vampires of Skyrim - Textures.bsa
-Ordinator - Perks of Skyrim.bsa
 Ordinator - Perks of Skyrim - Textures.bsa
+Ordinator - Perks of Skyrim.bsa
 Apocalypse - Magic of Skyrim - Textures.bsa
 Apocalypse - Magic of Skyrim.bsa
 Odin - Skyrim Magic Overhaul - Textures.bsa
 Odin - Skyrim Magic Overhaul.bsa
-Triumvirate - Mage Archetypes.bsa
 Triumvirate - Mage Archetypes - Textures.bsa
-Summermyst - Enchantments of Skyrim.bsa
+Triumvirate - Mage Archetypes.bsa
 Summermyst - Enchantments of Skyrim - Textures.bsa
+Summermyst - Enchantments of Skyrim.bsa
 Growl - Werebeasts of Skyrim.bsa
 Wintersun - Faiths of Skyrim.bsa
 Wintersun - Faiths of Skyrim - Textures.bsa
 RaceMenu.bsa
-weapons armor clothing & clutter fixes.bsa
 weapons armor clothing & clutter fixes - textures.bsa
+weapons armor clothing & clutter fixes.bsa
 Common Clothes and Armors.bsa
-S3DTrees NextGenerationForests.bsa
 S3DTrees NextGenerationForests - Textures.bsa
+S3DTrees NextGenerationForests.bsa
 SeranaDialogAddon.bsa
 UIExtensions.bsa
 SFO_SkinFeatureOverlays.bsa
@@ -142,3 +142,9 @@ TrueStormsSE - Textures.bsa
 TrueStormsSE.bsa
 dD - Enhanced Blood Main.bsa
 Audio Overhaul Skyrim.bsa
+AHZmoreHUD.bsa
+Inigo.bsa
+Lucien.bsa
+SkyHUD.bsa
+HLIORemi.bsa
+HLIORemi - Textures.bsa

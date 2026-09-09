@@ -221,8 +221,22 @@ if ($sk -and -not $KeepGameOpen) {
 }
 
 # ---- skse64.log only exists if we got PAST the plugin gate
-$logHits = @(Get-ChildItem -Path "$env:USERPROFILE\Documents\My Games" -Recurse -Filter 'skse64.log' -ErrorAction SilentlyContinue) +
-           @(Get-ChildItem -Path (Join-Path $Root 'SKYRIM_SE\overwrite') -Recurse -Filter 'skse64.log' -ErrorAction SilentlyContinue)
+#
+# TRAP: SKSE writes under the SHELL "Documents" folder, which on this machine is
+# OneDrive-redirected to C:\Users\mr\OneDrive\Documents. $env:USERPROFILE\Documents
+# is a DIFFERENT folder that ALSO exists here and stays empty, so searching only
+# that reports "not written" on every single run, including successful ones. That
+# false negative cost most of an evening on 09-08 and it came from NEXT.md's own
+# prescribed command. Always resolve the shell folder, and keep the raw path as a
+# fallback for machines without redirection.
+$docRoots = @([Environment]::GetFolderPath('MyDocuments'), (Join-Path $env:USERPROFILE 'Documents')) |
+            Where-Object { $_ } | Select-Object -Unique
+$logHits = @()
+foreach ($dr in $docRoots) {
+    $logHits += @(Get-ChildItem -Path (Join-Path $dr 'My Games') -Recurse -Filter 'skse64.log' -ErrorAction SilentlyContinue)
+}
+$logHits += @(Get-ChildItem -Path (Join-Path $Root 'SKYRIM_SE\overwrite') -Recurse -Filter 'skse64.log' -ErrorAction SilentlyContinue)
+$logHits = @($logHits | Sort-Object LastWriteTime -Descending)
 
 $addrHits = @()
 $loadFail = @()

@@ -295,3 +295,30 @@ Lux CS - Bulbs.esp
 Lux CS Templates - Default.esp
 Lux Orbis CS.esp
 Lux - Resources.esp
+TerrainHelper.esp
+Lux - Auri Song of the Green patch.esp
+Lux - Bloodchill Manor patch.esp
+Lux - CC Fish patch.esp
+Lux - Dawnfang CC.esp
+Lux - Elite Crossbows.esp
+Lux - Farmer patch.esp
+Lux - Forgotten Seasons.esp
+Lux - Goblins CC.esp
+Lux - Goldbrand CC.esp
+Lux - Hendraheim patch.esp
+Lux - Inigo.esp
+Lux - Live Another Life patch.esp
+Lux - Lucien.esp
+Lux - Myrwatch patch.esp
+Lux - Nchuanthumz Dwarven Home patch.esp
+Lux - Necrohouse patch.esp
+Lux - Pets of Skyrim CC.esp
+Lux - Remiel patch.esp
+Lux - Saints and Seducers patch.esp
+Lux - Shadowfoot Sanctum patch.esp
+Lux - Staff of Hasedoki CC.esp
+Lux - The Cause patch.esp
+Lux - Tundra Homestead patch.esp
+Lux - Umbra CC.esp
+Lux - Wintersun patch.esp
+Lux - Wraithguard patch.esp

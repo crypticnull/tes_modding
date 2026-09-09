@@ -286,6 +286,26 @@
     <p class="lede">A DLSS 5 neural-rendering test bed grown into a full modlist. Everything intended, deferred, or half-finished, in one place. Items keep their id when they move between sections, so P-2 means the same thing next week. Mirrors <code>tools\PLAN.md</code>, beside <code>WORKING_CONFIG.md</code> for how the stack is configured.</p>
   </header>
 
+  <style>
+    .bignum{display:grid;gap:1px;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));background:var(--rule);
+            border:1px solid var(--rule);margin-top:22px}
+    .bignum div{background:var(--panel);padding:14px 16px}
+    .bignum .k{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3)}
+    .bignum .v{font-family:var(--display);font-weight:900;font-size:clamp(30px,5vw,44px);line-height:1;margin-top:5px;
+               color:var(--accent);font-variant-numeric:tabular-nums}
+    .bignum .n{font-size:12px;color:var(--ink-2);margin-top:4px}
+    .bignum .warn .v{color:var(--warn)}
+  </style>
+  <div class="bignum">
+    <div><div class="k">Mods enabled</div><div class="v">651</div><div class="n">folders in the load order</div></div>
+    <div><div class="k">Plugins active</div><div class="v">628</div><div class="n">esp, esm and esl</div></div>
+    <div class="warn"><div class="k">Regular plugins</div><div class="v">192</div><div class="n">of 254, the hard engine ceiling. 62 spare</div></div>
+    <div><div class="k">ESL-flagged</div><div class="v">436</div><div class="n">indexed separately, outside the ceiling</div></div>
+  </div>
+  <p style="margin:12px 0 0;font-size:13.5px;color:var(--ink-2)">Full visual catalogue with a preview for every mod:
+    <a href="https://claude.ai/code/artifact/d9086b1c-1215-4a93-98a3-329198abce5b" target="_blank" rel="noopener"><b>The Grim North Build</b></a>
+    &mdash; systems, then all 599 mods by category.</p>
+
   <div class="state">
     <div><b>working</b> DLSS 5 neural rendering &mdash; distance shimmer gone with <code>skip_game=0</code></div>
     <div><b>working</b> Community Shaders 1.8.4 &mdash; Skylighting, SSGI, terrain, wetness, SSS, hair</div>
@@ -302,8 +322,8 @@
       <div class="stg done"><div class="k">done</div><div class="n">UI &mdash; Oathvein</div><div class="w">U-1 &middot; 8 Sep</div></div>
       <div class="stg done"><div class="k">done</div><div class="n">Framework</div><div class="w">F &middot; 8 Sep</div></div>
       <div class="stg done"><div class="k">done</div><div class="n">Gameplay + animation</div><div class="w">R Y-2 Y-4 &middot; 8 Sep</div></div>
-      <div class="stg now"><div class="k">now</div><div class="n">Seasons research</div><div class="w">gates stage 4</div></div>
-      <div class="stg"><div class="k">stage 3</div><div class="n">World &amp; visual</div><div class="w">P C V W U-2 X &middot; ~16 GB</div></div>
+      <div class="stg done"><div class="k">done</div><div class="n">World &amp; visual</div><div class="w">P C V W U-2 X &middot; 9 Sep</div></div><div class="stg now"><div class="k">now</div><div class="n">FOMOD backlog + seasons patches</div><div class="w">last gate before stage 4</div></div>
+      
       <div class="stg gate"><div class="k">stage 4</div><div class="n">Generation chain</div><div class="w">HOURS &mdash; seasons confirmed</div></div>
       <div class="stg"><div class="k">stage 5</div><div class="n">Verify &amp; play</div><div class="w">scripts + in game</div></div>
     </div>
@@ -530,21 +550,17 @@
   
 <div class="part two"><div class="pk">Part two</div><h2>The chain, and everything after it</h2><p>Nothing here is blocking. The generation sequence itself, what to verify when it finishes, and the work that is free to continue indefinitely afterwards &mdash; wardrobe, adult content, followers, housekeeping. Plus the reference material: pillars, decisions and standing rules.</p></div><h2 id="next">Next</h2>
   <div class="now">
-    <h3>The gated world layer is in. A LOOT sort is the only thing blocking.</h3>
-    <p><b>0. OPEN QUESTIONS waiting on Matt.</b> Listed here so they stop getting lost in long replies.
-      <b>(a)</b> Seasons patches for the flora mods, the item below, which may decide whether Seasons is worth five terrain generations.
-      <b>(b)</b> Happy Little Trees went in as <i>Pines only</i>, not All Trees, so Skyrim 3D Trees and Plants keeps the broadleaves and the two do not fight. Confirm or flip it.
-      <b>(c)</b> The LoversLab pass needs a signed-in session cookie exported for <code>ips_get.ps1</code>, for SexLab P+, Sexcraft and the slavery and sex-trade content. Nothing there can proceed without it.
+    <h3>Everything before the chain is installed. Two gates left.</h3>
+    <p><b>1. The FOMOD backlog.</b> Forty five mods are downloaded and staged but not installed, because their installers ask questions and nothing here guesses at an installer. Their option trees are exported to <code>data\fomods.json</code>. This is mechanical work, not a decision.</p>
+    <p><b>2. Seasons patches for the flora mods.</b> Still the real gate, and now larger than it was. The world pass added Fabled Forests, Happy Little Trees, Cathedral 3D Nightshade, DrJacopo's Dragons Tongue, 3D Clover, 3D Pine Grass, 3D Pine Shrubs and Mari's flora on top of the original seven. Every one without a seasons patch stays summer forever, and Seasons cannot be added after the chain runs.</p>
+    <p><b>Open questions waiting on Matt</b>, listed here so they stop getting lost in long replies.
+      <b>(a)</b> The LoversLab pass needs a signed-in session cookie exported for <code>ips_get.ps1</code>. NYA named the specific content for the first time: SexLab P+, Sexcraft, TDF Enhanced Prostitution, Acheron, Yamete Kudasai, SexLab Confabulation, SexLab Approach. Nothing in that phase can move without it.
+      <b>(b)</b> Happy Little Trees went in as <i>Pines only</i>, so Skyrim 3D Trees keeps the broadleaves and the two do not fight. Confirm or flip it.
+      <b>(c)</b> Nolvus is the one reference list still unmined. Its guide pages return 403 to anything that is not a browser and its list page carries no Nexus links, so it needs a different route.
     </p>
-    <p><b>1. Seasons patches for the flora mods.</b> Now larger than it was, because the world pass added Fabled Forests, Happy Little Trees, Cathedral 3D Nightshade, DrJacopo's Dragons Tongue, 3D Clover, 3D Pine Grass, 3D Pine Shrubs and Mari's flora on top of the original seven. Every one stays summer forever without a patch. Seasons cannot be added after the chain.</p>
-    <p><b>2. The tier 2 batch, roughly 71 mods.</b> Free lane by section 4, but each adds a plugin and any plugin change invalidates tree LOD, so they want to land before the chain rather than force a second regeneration. Includes the quest and faction work, the repeatable Dark Brotherhood contracts, and the whole custom skill tree stack: Custom Skills Framework <span class="id">41780</span>, Custom Skills Menu <span class="id">62423</span> which is the only controller-friendly way to reach them, Pyromancy <span class="id">53312</span>, Cryomancy <span class="id">121265</span> and Haemophilia <span class="id">46632</span> for vampirism.</p>
-    <p><b>3. JK's Interiors, 24 mods, all free lane.</b> Interiors have no LOD at all, so this is the largest gap the LoreRim diff found and also the cheapest to defer. Every one sits between 16k and 24k endorsements. See <code>logs\foldin.txt</code>.</p>
-    <p><b>4. Reference lists still to mine.</b> Gate To Sovngarde and LoreRim are done. <b>Nolvus Ascension</b> is not, and has no Nexus collection, but Load Order Library hosts it as plain text at <code>loadorderlibrary.com/lists/nolvus-ascension-v5-redux</code> with an <code>/embed/modlist.txt</code> endpoint. That is folder names rather than mod ids, so it needs name matching. NYA is a player guide rather than a manifest.</p>
-    <p style="margin-top:12px"><b>Dead mod, needs replacing in R-4:</b> Immersive World Encounters <span class="id">18330</span> reports <code>status: hidden, available: false</code>. Extended Encounters <span class="id">44810</span> does the same job, is live, and is now installed.</p>
-    <p><b>Overlays: CLOSED 9 September.</b> Confirmed working in play and looking good. This was the oldest open verification item in the project. The empty overlay slots in the co-save read were a false alarm, because that save predated the slot counts being raised, so it could only ever have read empty. A co-save records what a character has, not what the game can do, and only a fresh character could settle it.</p>
-    <p style="margin-top:12px"><b>Still not verified in game, and now the oldest open item:</b> the overlay work. Six packs are installed and the slot counts raised, but the co-save read on 8 September showed every overlay slot still empty &mdash; expected for a save made before the change, and untested until a fresh load. RaceMenu's <b>Face Paint</b> category is where to confirm it.</p>
-  </div>
-<div class="phase-h"><h2 id="b"><span class="letter">B</span>Body and wardrobe</h2><span class="sub">B &middot; the pass is done; what is left is small</span></div>
+    <p style="margin-top:12px"><b>Four dead mods found tonight, and one had a live successor.</b> Immersive World Encounters <span class="id">18330</span> is genuinely gone with no reupload, and Extended Encounters <span class="id">44810</span> is in as its replacement. Precision Locational Damage <span class="id">78744</span> was hidden as obsolete. Bonemold Armors <span class="id">94859</span> and Falmer Armors <span class="id">90711</span> are both superseded by <b>Chitin Armors and Weapons Retexture</b> <span class="id">94529</span>, which is live and now installed, and which covers both. Checking the names rather than trusting the ids was Matt's call and it recovered two of four.</p>
+    <p><b>Closed since the last update:</b> overlays confirmed working in play, which was the oldest open item in the project. The test launch reached the game window, survived a sixty second soak and found exactly one bad DLL across 542 plugins, now replaced. <code>prechain_check.ps1</code> exists and reports clear.</p>
+  </div><div class="phase-h"><h2 id="b"><span class="letter">B</span>Body and wardrobe</h2><span class="sub">B &middot; the pass is done; what is left is small</span></div>
   <div class="items2">
     <div class="it done"><div class="id">B-1</div><div>
       <div class="ti">Panties of Skyrim black face <span class="chip c-done">fixed 8 Sept</span></div>

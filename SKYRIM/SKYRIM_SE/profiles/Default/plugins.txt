@@ -573,3 +573,50 @@ Lux - Live Another Life patch.esp
 *Chevalier's Armor Set.esp
 *Babette has Fangs.esp
 *RSChildren + AI Overhaul Patch.esp
+*SOTGenesisMod.esp
+*Genesis Surface Spawns.esp
+*notice board.esp
+*The Notice Board SE MCM.esp
+*CFTO.esp
+*Stress and Fear.esp
+*StressAndFearUI.esp
+*Simple Hunting Overhaul.esp
+*Expressive Facegen Morphs.esl
+*HorseFix.esp
+*WeldingMans Enchanting Tables - BOS.esp
+*Diverse Candles.esp
+*JS Unique Utopia SE - Daggers - Johnskyrim.esp
+*Use Those Blankets.esp
+*Spell Sword.esp
+*Bone Cultist Armor.esp
+*VampireFeedingTweaks.esp
+*VampireLordsCanFly.esp
+*Vampire Clothing Expansion.esp
+*Vampire Armor Expansion.esp
+*JK's Dark Brotherhood Sanctuary.esp
+*Destroy the Dark Brotherhood - Quest Expansion.esp
+*NightmarePlane.esp
+*HeartOfTheReach.esp
+*man_JyggalagShrine.esp
+*man_DaedricShrines_Wintersun_Patch.esp
+*Dovah's Diverse Dark Elf Lanterns - BOS - Nocturnal Moths.esp
+*Chapter II - Soundtrack mod by Dreyma Music.esp
+*Varonyl.esp
+*GPRuins.esp
+*HammetDungeon03.esm
+*Ascend - Hidden Peaks of Skyrim.esp
+*Ryn's Mehrunes Dagon Shrine.esp
+*Environs - Shrines of Talos.esp
+*JK's Fort Dawnguard.esp
+*Utenlands Nordic Tents - Campsite Addon.esp
+*BardExcavation.esp
+*QuickLootIE.esp
+*Locked Chests Have Keys.esp
+*HuntersLoot.esp
+*LootingAnimations.esp
+*HFs_Chests_remodel.esp
+*AtronachForgeImproved.esp
+*Deep Slumber - A Dwemer Bed Replacer.esp
+*1Dwemer.esl
+*Regional Sounds Expansion.esp
+*interesting npcs ILS fix.esp

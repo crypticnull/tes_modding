@@ -1468,6 +1468,34 @@ served a ClickFix fake-CAPTCHA malware page.
   modlist.txt returns only a9b49a0, the first commit, so it was already off
   before the repo existed.
 
+  CORRECTION, same evening, an hour later. That paragraph is wrong and it is
+  wrong in the way section 7 keeps warning about, a negative result from one
+  search treated as absence. The reason WAS recorded, just not in the file I
+  searched. DECISIONS.md has had an entry since the day it happened:
+
+    Northern Roads (Nexus 77530) - disabled 2026-09-06. Not broken. Disabled
+    because of a terrain seam at Whiterun's front gate, the dirt sat below the
+    gate floor, producing a stone ledge you had to jump.
+
+  It also says This one may come back, that several PBR landscape packs pair
+  with Northern Roads or Blended Roads, that Vanaheimr includes Blended Roads
+  so it does not need Northern Roads back, and that the trigger to revisit is
+  the landscape choice changing. It is still in mods\ deliberately, because it
+  is not dead. So this is the revisit condition, not a new idea.
+
+  Matt also remembered Northern Roads as the mod that forced a bisect. It was
+  not. The bisect was Jump Behavior Overhaul 36889, dropped 2026-09-08 after
+  crashing every launch with a ucrtbase 0xc0000409 fastfail, and issues.md
+  carries the five launch search. Two different mods, and Northern Roads never
+  crashed anything.
+
+  What is genuinely new since 09-06 is that ZERO of its patches were ever
+  installed, and the Whiterun gate seam is exactly the class of defect its
+  Patches Compendium exists to fix. Northern Roads - Fixes and Optimization is
+  in there, so is a Landscape and Water Fixes patch and a Ryn's Whiterun City
+  Limits patch. The 09-06 call was made against unpatched Northern Roads, which
+  is not the same mod.
+
   Same root cause as the floating trees and the LOD tree standing in the
   Riverwood to Whiterun road. DynDOLOD Output is dated 2026-09-06 20:02 and
   five world mods landed after it, Alpine Forest of Whiterun Valley and

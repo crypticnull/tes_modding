@@ -344,3 +344,9 @@ DustEffectsSSE.esp
 FEC.esp
 BladeAndBlunt.esp
 OSurvival SA Mode NG.esp
+Devious Devices - Assets.esm
+Devious Devices - Contraptions.esm
+Devious Devices - Expansion.esm
+Devious Devices - Integration.esm
+Devious Devices SE patch.esp
+SexLab.ESM

@@ -278,3 +278,20 @@ Book Covers Skyrim.esp
 aMidianBorn_Book of Silence.esp
 NewArmoury.esp
 Animated Immersive Weaps.esp
+Stormcrown.esp
+Shrubs of Snow.esp
+SeasonalWildlifeDistribution.esp
+Seasonal Alchemy.esp
+Aetherius.esp
+SnowOverSkyrim.esp
+TOTS - Icy Waterways.esp
+Turn of the Seasons.esp
+Lux - Master plugin.esm
+Lux.esp
+Lux Orbis - Master plugin.esm
+Lux Orbis.esp
+Lux - HDR.esp
+Lux CS - Bulbs.esp
+Lux CS Templates - Default.esp
+Lux Orbis CS.esp
+Lux - Resources.esp

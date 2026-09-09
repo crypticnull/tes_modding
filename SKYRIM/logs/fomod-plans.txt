@@ -1,0 +1,7 @@
+﻿################ Aetherius ################
+################ Seasons of Skyrim SKSE ################
+         - SSE/AE v1.7.99+ ("Anniversary/Special Edition")
+         - SSE/AE v1.6.1170 ("Anniversary/Special Edition")
+         - SSE v1.5.97 ("Special Edition")
+################ Turn of the Seasons ################
+         - I understand

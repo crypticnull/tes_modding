@@ -1,0 +1,487 @@
+﻿=== Aetherius - A Race Overhaul (26686) ===
+
+=== install mod (APPLY) ===
+
+
+=== Aetherius - A Race Overhaul  (mod 26686, skyrimspecialedition) ===
+    by SimonMagus   version 2.15.1
+
+--- Aetherius   A Race Overhaul ---
+    file id  772611   category MAIN   version 2.15.1
+    Aetherius A Race Overhaul 26686 2.15.1 2026-07-07T02-24Z kATsMWuSQ.7z   (1.7 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Aetherius A Race Overhaul 26686 2.15.1 
+2026-07-07T02-24Z kATsMWuSQ.7z
+
+
+--- Aetherius A Race Overhaul 26686 2.15.1 2026-07-07T02-24Z kATsMWuSQ.7z ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Main File  [SelectAll]
+         - Aetherius - A Race Overhaul 
+      group: Module Files  [SelectAny]
+         - Aetherius - NPC Spell Absorption 
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Aetherius - A Race Overhaul
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Stormcrown - A Shout Overhaul (90659) ===
+
+=== install mod (APPLY) ===
+
+
+=== Stormcrown - A Shout Overhaul  (mod 90659, skyrimspecialedition) ===
+    by SimonMagus   version 1.1.17
+
+--- Stormcrown - A Shout Overhaul ---
+    file id  493442   category MAIN   version 1.1.17
+    Stormcrown - A Shout Overhaul-90659-1-1-17-1713735622.7z   (2.5 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Stormcrown - A Shout 
+Overhaul-90659-1-1-17-1713735622.7z
+
+
+--- Stormcrown - A Shout Overhaul-90659-1-1-17-1713735622.7z ---
+  name      Stormcrown - A Shout Overhaul
+  data root <archive root>
+  3 file(s), 1 plugin(s)
+      Stormcrown.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Stormcrown - A Shout Overhaul
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Seasons of Skyrim SKSE (62861) ===
+
+=== install mod (APPLY) ===
+
+
+=== Seasons of Skyrim SKSE  (mod 62861, skyrimspecialedition) ===
+    by powerofthree   version 1.9.1
+
+--- Seasons of Skyrim ---
+    file id  796104   category MAIN   version 1.9.1
+    Seasons of Skyrim 62861 1.9.1 2026-08-27T20-44Z PuQ2UKSSw.7z   (7.8 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Seasons of Skyrim 62861 1.9.1 2026-08-27T20-44Z 
+PuQ2UKSSw.7z
+
+
+--- Seasons of Skyrim 62861 1.9.1 2026-08-27T20-44Z PuQ2UKSSw.7z ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: DLL  [SelectExactlyOne]
+         - SSE/AE v1.7.99+ ("Anniversary/Special Edition")
+         - SSE/AE v1.6.1170 ("Anniversary/Special Edition")
+         - SSE v1.5.97 ("Special Edition")
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Seasons of Skyrim SKSE
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Turn of the Seasons (63623) ===
+
+=== install mod (APPLY) ===
+
+
+=== Turn of the Seasons  (mod 63623, skyrimspecialedition) ===
+    by TateTaylorOH   version 1.0.8
+
+--- Turn of the Seasons ---
+    file id  533362   category MAIN   version 1.0.8
+    Turn of the Seasons-63623-1-0-8-1724115506.zip   (79.6 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Turn of the Seasons-63623-1-0-8-1724115506.zip
+
+
+--- Turn of the Seasons-63623-1-0-8-1724115506.zip ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Requirements  [SelectExactlyOne]
+         - I understand
+      group: Optionals  [SelectAny]
+         - Icy Waterways
+         - Invisible Mountain Slope Fix
+      group: Tree Patches  [SelectAny]
+         - Aspen Realism
+         - Happy Little Trees
+      group: Other Patches  [SelectAny]
+         - Fixed Mesh Lighting
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Turn of the Seasons
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Shrubs of Snow (63463) ===
+
+=== install mod (APPLY) ===
+
+
+=== Shrubs of Snow - Seasons of Skyrim SKSE  (mod 63463, skyrimspecialedition) ===
+    by wSkeever   version 0.1
+
+--- Shrubs of Snow ---
+    file id  263612   category MAIN   version 0.1
+    Shrubs of Snow-63463-0-1-1644683574.7z   (36.6 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Shrubs of Snow-63463-0-1-1644683574.7z
+
+
+--- Shrubs of Snow-63463-0-1-1644683574.7z ---
+  name      Shrubs of Snow
+  data root <archive root>
+  111 file(s), 1 plugin(s)
+      Shrubs of Snow.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Shrubs of Snow
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Seasonal Wildlife Distribution (63700) ===
+
+=== install mod (APPLY) ===
+
+
+=== Seasonal Wildlife Distribution  (mod 63700, skyrimspecialedition) ===
+    by DrMonops   version 1.5.1
+
+--- Seasonal Wildlife Distribution ---
+    file id  610280   category MAIN   version 1.5.1
+    Seasonal Wildlife Distribution-63700-1-5-1743048988.7z   (0 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Seasonal Wildlife 
+Distribution-63700-1-5-1743048988.7z
+
+
+--- Seasonal Wildlife Distribution-63700-1-5-1743048988.7z ---
+  name      Seasonal Wildlife Distribution
+  data root <archive root>
+  2 file(s), 1 plugin(s)
+      SeasonalWildlifeDistribution.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Seasonal Wildlife Distribution
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Seasonal Alchemy (63969) ===
+
+=== install mod (APPLY) ===
+
+
+=== Seasonal Alchemy  (mod 63969, skyrimspecialedition) ===
+    by AdmiralAlbia   version 1.0.0
+
+--- Seasonal Alchemy ---
+    file id  265631   category MAIN   version 1.0.0
+    Seasonal Alchemy-63969-1-0-0-1645363536.zip   (12.1 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Seasonal Alchemy-63969-1-0-0-1645363536.zip
+
+
+--- Seasonal Alchemy-63969-1-0-0-1645363536.zip ---
+  name      Seasonal Alchemy
+  data root <archive root>
+  51 file(s), 1 plugin(s)
+      Seasonal Alchemy.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Seasonal Alchemy
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Lux (43158) ===
+
+=== install mod (APPLY) ===
+
+
+=== Lux  (mod 43158, skyrimspecialedition) ===
+    by GGUNIT   version 7.1
+
+--- Lux (main) ---
+    file id  649989   category MAIN   version 7.0
+    Lux (main)-43158-7-0-1753427726.rar   (286.9 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Lux (main)-43158-7-0-1753427726.rar
+
+
+--- Lux (main)-43158-7-0-1753427726.rar ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Lux optional effects  [SelectAny]
+         - Beams - PARTICLE without effect lighting
+         - Beams - Effect lighting without PARTICLE
+         - Mists and fogs - PARTICLE without effect lighting
+         - Mists and fogs - Effect lighting without PARTICLE
+         - Webs
+      group: Lux fixed Ice Cave meshes  [SelectAtMostOne]
+         - Fixed Vanilla meshes
+         - Fixed Multilayer Parallax meshes
+      group: Lux optimized rugs  [SelectAtMostOne]
+         - Vanilla rugs
+         - RUGNAROK rugs
+         - Detailed rugs
+      group: Lux optimized Pelts  [SelectAtMostOne]
+         - Vanilla pelts
+         - Vanilla pelts (parallax)
+         - PELTAPALOOZA Pelts
+         - PELTAPALOOZA Pelts (parallax)
+      group: Lux optimized tables  [SelectAtMostOne]
+         - Vanilla
+         - SD's Table replacer
+      group: Lux optimized chandeliers  [SelectAny]
+         - Vanilla chandeliers
+         - SMIM chandeliers
+         - RCI chandeliers
+         - SD's chandeliers
+      group: Lux Embers XD compatibility  [SelectAny]
+         - BYOH fireplace
+         - EmbersXD new fire effect asset
+      group: Lux optional Giant Campfires  [SelectAtMostOne]
+         - Giant Campfires
+      group: Lux optimized meshes  [SelectExactlyOne]
+         - Vanilla
+         - Parallax
+         - None
+      group: Architecture Farmhouse  [SelectAtMostOne]
+         - Architecture Farmhouse
+         - Architecture Farmhouse (parallax)
+      group: Architecture High Hrothgar  [SelectAtMostOne]
+         - Architecture High Hrothgar
+         - Architecture High Hrothgar (parallax)
+      group: Architecture Riften  [SelectAtMostOne]
+         - Architecture Riften
+         - Architecture Riften (parallax)
+      group: Architecture Sky Haven  [SelectAtMostOne]
+         - Architecture Sky Haven
+         - Architecture Sky Haven (parallax)
+      group: Architecture Solitude  [SelectAtMostOne]
+         - Architecture Solitude
+         - Architecture Solitude (parallax)
+      group: Architecture Sovengarde  [SelectAtMostOne]
+         - Architecture Sovengarde
+         - Architecture Sovengarde (parallax)
+      group: Architecture Whiterun  [SelectAtMostOne]
+         - Architecture Whiterun
+         - Architecture Whiterun (parallax)
+      group: Architecture Windhelm  [SelectAtMostOne]
+         - Architecture Windhelm
+         - Architecture Windhelm (parallax)
+      group: Architecture Winterhold  [SelectAtMostOne]
+         - Architecture Winterhold
+         - Architecture Winterhold (parallax)
+      group: BYOH  [SelectAtMostOne]
+         - BYOH
+         - BYOH (parallax)
+      group: Clutter  [SelectAtMostOne]
+         - Clutter
+         - Clutter (parallax)
+      group: DLCs  [SelectAtMostOne]
+         - DLCs
+         - DLCs (parallax)
+      group: Dungeons Caves  [SelectAtMostOne]
+         - Dungeons Caves
+         - Dungeons Caves (parallax)
+      group: Dungeons Dwemer Ruins  [SelectAtMostOne]
+         - Dungeons Dwemer Ruins
+         - Dungeons Dwemer Ruins (parallax)
+      group: Dungeons Imperial Forts  [SelectAtMostOne]
+         - Dungeons Imperial Forts
+         - Dungeons Imperial Forts (parallax)
+      group: Dungeons Mines  [SelectAtMostOne]
+         - Dungeons Mines
+         - Dungeons Mines (parallax)
+      group: Dungeons Nordic Ruins  [SelectAtMostOne]
+         - Dungeons Nordic Ruins
+         - Dungeons Nordic Ruins (parallax)
+      group: Dungeons Riften Sewers  [SelectAtMostOne]
+         - Dungeons Riften Sewers
+         - Dungeons Riften Sewers (parallax)
+      group: Dungeons Ship  [SelectAtMostOne]
+         - Dungeons Ship
+         - Dungeons Ship (parallax)
+      group: Shacks  [SelectAtMostOne]
+         - Shacks
+         - Shacks (parallax)
+      group: Improved Dwemer Glass optional meshes  [SelectAny]
+         - Improved Dwemer Glass optional meshes
+      group: SMIM Architecture Whiterun  [SelectAtMostOne]
+         - Architecture Whiterun
+         - Architecture Whiterun (parallax)
+      group: SMIM Architecture Windhelm  [SelectAtMostOne]
+         - Architecture Windhelm
+         - Architecture Windhelm (parallax)
+      group: SMIM Dungeons Caves  [SelectAtMostOne]
+         - Dungeons Caves
+         - Dungeons Caves (parallax)
+      group: SMIM Dungeons Mines  [SelectAtMostOne]
+         - Dungeons Mines
+         - Dungeons Mines (parallax)
+      group: SMIM Dungeons Nordic Ruins  [SelectAtMostOne]
+         - Dungeons Nordic Ruins
+         - Dungeons Nordic Ruins (parallax)
+      group: CC Content meshes  [SelectAtMostOne]
+         - CC Content meshes
+         - CC Content meshes (parallax)
+      group: Main window assets  [SelectAll]
+         - Default vanilla models
+      group: Modded windows assets  [SelectAny]
+         - Mrf Solitude window models
+         - Tomato Whiterun window models
+      group: Landscape fixes  [SelectAny]
+         - No Grass In Caves
+         - Skyrim Landscape and Water fixes
+      group: Others fixes  [SelectAny]
+         - Missing Encounter Zones Fixed
+      group: Unofficial Skyrim Special Edition Patch  [SelectAtMostOne]
+         - USSEP pre update version
+         - USSEP latest version
+      group: Brighter Interior Nights  [SelectAny]
+         - Brighter Interior Cells Nights
+      group: Bright lighting templates  [SelectAtMostOne]
+         - Lighting templates global replacer
+         - Houses lighting templates replacer only
+         - Dungeons lighting templates replacer only
+      group: Even Brighter lighting templates  [SelectAtMostOne]
+         - Lighting templates global replacer
+         - Houses lighting templates replacer only
+         - Dungeons lighting templates replacer only
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Lux
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Lux Orbis (56095) ===
+
+=== install mod (APPLY) ===
+
+
+=== Lux Orbis  (mod 56095, skyrimspecialedition) ===
+    by GGUNIT   version 4.5
+
+--- Lux Orbis (main) ---
+    file id  567228   category MAIN   version 4.5
+    Lux Orbis (main)-56095-4-5-1732873513.rar   (47.7 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Lux Orbis (main)-56095-4-5-1732873513.rar
+
+
+--- Lux Orbis (main)-56095-4-5-1732873513.rar ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Lux Orbis optimized meshes for lighting  [SelectExactlyOne]
+         - Optimized meshes
+         - Optimized meshes (parallax)
+      group: Lux Orbis Solitude meshes  [SelectExactlyOne]
+         - Solitude vanilla meshes
+         - Solitude SMIM meshes
+      group: Lux Orbis Whiterun well mesh  [SelectExactlyOne]
+         - Vanilla well mesh
+         - Water in Wells compatibility mesh
+         - FYX Smooth Wells compatibility mesh
+         - FYX Smooth Wells + Water in Wells compatibility mesh
+      group: Lux Orbis + Riften Temple of Mara  [SelectAny]
+         - Lux Orbis + Riften Temple of Mara, fixed mesh
+      group: Lux Orbis Iconic Skyforge  [SelectAny]
+         - Iconic Skyforge Statue
+      group: Lux Orbis - Giant Campfires  [SelectAtLeastOne]
+         - Vanilla Giant Campfires
+         - EmbersXD Giant Campfires
+      group: Embers XD compatibility patch  [SelectAny]
+         - Embers XD patch
+      group: Unofficial Fixes  [SelectAny]
+         - USSEP
+         - USMP
+      group: Darker Windows  [SelectAny]
+         - Darker windows
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Lux Orbis
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Lux CS (153919) ===
+
+=== install mod (APPLY) ===
+
+
+=== Lux CS  (mod 153919, skyrimspecialedition) ===
+    by Bottle   version 2.6.0
+
+--- Lux CS ---
+    file id  785223   category MAIN   version 2.6.0
+    Lux CS 153919 2.6.0 2026-08-04T03-41Z hfH9s6ocx.zip   (27.3 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Lux CS 153919 2.6.0 2026-08-04T03-41Z 
+hfH9s6ocx.zip
+
+
+--- Lux CS 153919 2.6.0 2026-08-04T03-41Z hfH9s6ocx.zip ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Main  [SelectExactlyOne]
+         - No Effect 11
+         - Effect 11
+      group: Options  [SelectAny]
+         - Lux Orbis Tweaks
+      group: Templates  [SelectExactlyOne]
+         - Default
+         - Bright
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Lux CS
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== BATCH COMPLETE ===

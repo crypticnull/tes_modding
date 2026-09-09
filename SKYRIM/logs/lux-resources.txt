@@ -1,0 +1,68 @@
+﻿=== Lux - Resource Pack (No ENB light) ===
+
+=== install mod (APPLY) ===
+
+
+=== Lux Via  (mod 63588, skyrimspecialedition) ===
+    by GGUNIT   version 2.2
+
+--- Optional Lux Resource pack (No ENB light) ---
+    file id  490668   category MAIN   version 2.2
+    Optional Lux Resource pack (No ENB light)-63588-2-2-1713094515.rar   (597.7 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Optional Lux Resource pack (No ENB 
+light)-63588-2-2-1713094515.rar
+
+
+--- Optional Lux Resource pack (No ENB light)-63588-2-2-1713094515.rar ---
+  name      Lux - Resource Pack (No ENB light)
+  data root <archive root>
+  3 file(s), 1 plugin(s)
+      Lux - Resources.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Lux - Resource Pack (No ENB light)
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Lux - Resources plugin update ===
+
+=== install mod (APPLY) ===
+
+
+=== Lux Via  (mod 63588, skyrimspecialedition) ===
+    by GGUNIT   version 2.2
+
+--- Updated Lux - Resources plugin ---
+    file id  584835   category UPDATE   version 2.2
+    Updated Lux - Resources plugin-63588-2-2-1737226039.rar   (0 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Updated Lux - Resources 
+plugin-63588-2-2-1737226039.rar
+
+
+--- Updated Lux - Resources plugin-63588-2-2-1737226039.rar ---
+  name      Lux - Resources plugin update
+  data root <archive root>
+  1 file(s), 1 plugin(s)
+      Lux - Resources.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+
+--- result ---
+  ok             Lux - Resources plugin update
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+

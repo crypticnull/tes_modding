@@ -198,3 +198,20 @@ Two fixes, both required:
 Verified by running it against the KNOWN-BROKEN state first and confirming it
 reported CRASHED, before trusting it to report a pass. A check that has never
 been observed failing is not evidence.
+## Cosplay Pack ships two invalid DAR condition folders
+
+Status: open, cosmetic, low priority
+Found: 2026-09-08 from OpenAnimationReplacer.log
+
+    invalid directory name at data\meshes\actors\Character\animations\
+    DynamicAnimationReplacer\_CustomConditions\female, skipping
+
+DAR requires every folder under `_CustomConditions` to be numeric, since the
+number is the priority. `Cosplay Pack - hdt SMP (CBBE 3BA)` ships `female` and
+`male` alongside one correctly numbered folder, so OAR skips two files. Nothing
+else is affected and no other mod does this: Animated Armoury has 14 numbered
+folders, Immersive Interactions 7, Sleeping Expanded 5, all valid.
+
+Fix if it ever matters: rename the two folders to unused numbers. Not done
+because the two skipped files have not been identified as doing anything, and
+renaming inside a mod folder is the kind of change that gets lost on reinstall.

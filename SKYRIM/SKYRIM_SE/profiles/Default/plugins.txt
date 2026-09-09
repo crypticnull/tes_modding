@@ -193,3 +193,8 @@
 *Inigo.esp
 *SofiaFollower.esp
 *SkyHUD.esp
+*imp_helm_legend.esp
+*Book Covers Skyrim.esp
+*aMidianBorn_Book of Silence.esp
+*NewArmoury.esp
+*Animated Immersive Weaps.esp

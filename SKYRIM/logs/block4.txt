@@ -1,0 +1,228 @@
+﻿=== Improved Closefaced Helmets ===
+
+=== install mod (APPLY) ===
+
+
+=== Improved closefaced helmets  (mod 824, skyrimspecialedition) ===
+    by navida1   version 1.58
+
+--- Improved Closefaced Helmets (SSE) ---
+    file id  19438   category MAIN   version 1.58
+    Improved Closefaced Helmets (Legendary Edition)-824-1-58.zip   (10.8 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Improved Closefaced Helmets (Legendary 
+Edition)-824-1-58.zip
+
+
+--- Improved Closefaced Helmets (Legendary Edition)-824-1-58.zip ---
+  name      Improved Closefaced Helmets
+  data root imp_helm_legend\Data
+  2 file(s), 1 plugin(s)
+      imp_helm_legend.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Improved Closefaced Helmets
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Gemling Queen Jewelry ===
+
+=== install mod (APPLY) ===
+
+
+=== Gemling Queen Jewelry SE  (mod 4294, skyrimspecialedition) ===
+    by lordjoseph7   version 4.1SE
+
+--- Gemling Queen Jewelry SE ---
+    file id  9441   category MAIN   version 4.1SE
+    Gemling Queen Jewelry SE-4294-4-1SE.7z   (18.1 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Gemling Queen Jewelry SE-4294-4-1SE.7z
+
+
+--- Gemling Queen Jewelry SE-4294-4-1SE.7z ---
+  FOMOD installer - this one wants choices, so it is not being guessed at.
+      group: Main Modules  [SelectAtLeastOne]
+         - Amulets
+         - Circlets
+         - Rings
+      group: DLC Addons  [SelectAny]
+         - Dawnguard Addon
+         - Dawnguard Addon - Unobtainable Items
+      group: Amulet Texture Options  [SelectExactlyOne]
+         - Vanilla / Other Texture Replacer
+         - Gamwich Amulet Textures - 512
+         - Gamwich Amulet Textures - 1024
+      group: Ring Texture Options  [SelectExactlyOne]
+         - SMIM Textures
+         - Gamwich Ring Textures - Opt 1 - 1k
+         - Gamwich Ring Textures - Opt 1 - 2k
+         - Gamwich Ring Textures - Opt 2 - 1k
+         - Gamwich Ring Textures - Opt 2 - 2k
+         - Gamwich Ring Textures - Combined - 1k
+         - Gamwich Ring Textures - Combined - 2k
+      group: Optional Mesh Packs  [SelectAtMostOne]
+         - Left Hand Rings
+         - Left Hand Rings - combined textures
+         - Left Hand Rings Modified
+         - Left Hand Rings Modified - combined textures
+      group: Optional Mesh Packs Dawnguard  [SelectAtMostOne]
+         - Vampire Beast Blood Ring Left Hand
+      Pass -Fomod "Group=Option; ..." or -FomodDefaults to install it.
+
+--- result ---
+  FOMOD - skipped Gemling Queen Jewelry
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Book Covers Skyrim ===
+
+=== install mod (APPLY) ===
+
+
+=== Book Covers Skyrim  (mod 901, skyrimspecialedition) ===
+    by DanielCoffey   version 4.2
+
+--- Book Covers Skyrim SE - Desaturated ---
+    file id  40355   category MAIN   version 4.2
+    Book Covers Skyrim SE - Desaturated.7z-901-4-2.7z   (456.7 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Book Covers Skyrim SE - Desaturated.7z-901-4-2.7z
+
+
+--- Book Covers Skyrim SE - Desaturated.7z-901-4-2.7z ---
+  name      Book Covers Skyrim
+  data root <archive root>
+  3 file(s), 1 plugin(s)
+      Book Covers Skyrim.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Book Covers Skyrim
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== aMidianBorn Book of Silence ===
+
+=== install mod (APPLY) ===
+
+
+=== aMidianBorn Book of Silence SE  (mod 35382, skyrimspecialedition) ===
+    by kryptopyr   version 1.9.1
+
+--- 1) aMidianBorn Book of Silence SE -- COMPLETE ---
+    file id  148088   category MAIN   version 1.9.1
+    aMidianBorn Book of Silence SE -- COMPLETE-35382-1-9-1-1593501570.zip   (946.6 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\aMidianBorn Book of Silence SE -- 
+COMPLETE-35382-1-9-1-1593501570.zip
+
+
+--- aMidianBorn Book of Silence SE -- COMPLETE-35382-1-9-1-1593501570.zip ---
+  name      aMidianBorn Book of Silence
+  data root <archive root>
+  7 file(s), 1 plugin(s)
+      aMidianBorn_Book of Silence.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             aMidianBorn Book of Silence
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Animated Armoury ===
+
+=== install mod (APPLY) ===
+
+
+=== Animated Armoury - DAR Version - New Weapons with animations  (mod 35978, 
+skyrimspecialedition) ===
+    by NickaNak   version 2.3
+
+--- Animated Armoury ---
+    file id  236456   category MAIN   version 2.3
+    Animated Armoury-35978-2-3-1634920456.7z   (33.5 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Animated Armoury-35978-2-3-1634920456.7z
+
+
+--- Animated Armoury-35978-2-3-1634920456.7z ---
+  name      Animated Armoury
+  data root AnimatedArmouryDAR SSE\Data
+  1192 file(s), 1 plugin(s)
+      NewArmoury.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Animated Armoury
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== Animated Armoury - Immersive Weapons Patch ===
+
+=== install mod (APPLY) ===
+
+
+=== Animated Armoury - DAR Version - New Weapons with animations  (mod 35978, 
+skyrimspecialedition) ===
+    by NickaNak   version 2.3
+
+--- Animated Armoury - Immersive Weapons Patch ---
+    file id  237319   category OPTIONAL   version 2.3
+    Animated Armoury - Immersive Weapons Patch-35978-2-3-1635332577.7z   (0.2 MB)
+
+    downloading...
+    saved   X:\MODDING\SKYRIM\SKYRIM_SE\downloads\Animated Armoury - Immersive Weapons 
+Patch-35978-2-3-1635332577.7z
+
+
+--- Animated Armoury - Immersive Weapons Patch-35978-2-3-1635332577.7z ---
+  name      Animated Armoury - Immersive Weapons Patch
+  data root Animated Immersive WeapSSEesl\Data
+  3 file(s), 1 plugin(s)
+      Animated Immersive Weaps.esp
+
+--- profile ---
+  modlist.txt  'BodySlide Output' kept at highest priority
+  modlist.txt  +1 mod(s), highest priority
+  plugins.txt    +1 plugin(s)
+  loadorder.txt  +1 plugin(s)
+
+--- result ---
+  ok             Animated Armoury - Immersive Weapons Patch
+
+Open MO2, hit Sort (LOOT), then launch SKSE.
+The mods are already ticked and their plugins already active.
+
+=== BATCH COMPLETE ===
